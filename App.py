@@ -1,7 +1,13 @@
+import hashlib
+import json
+
 import streamlit as st
 
 from src.load_data import load_all_data
-from src.validator import validate_plan, recommend_courses
+from src.validator import (
+    validate_plan, recommend_courses, count_credits,
+    SEMESTER_CREDIT_MIN, SEMESTER_CREDIT_MAX
+)
 
 TECH_REQUIREMENTS = {
     "thermo": {
@@ -125,6 +131,78 @@ show_sequence_graph = st.sidebar.checkbox(
     value=False
 )
 
+if "plan" not in st.session_state:
+    st.session_state.plan = template["semesters"].copy()
+
+if "saved_credit_overrides" not in st.session_state:
+    st.session_state.saved_credit_overrides = {}
+
+
+# -----------------------------
+# Save / load plan
+# -----------------------------
+st.sidebar.subheader("Save / Load Plan")
+
+export_payload = {
+    "plan": st.session_state.plan,
+    "credit_overrides": st.session_state.saved_credit_overrides,
+    "prerequisite_overrides": st.session_state.get("prerequisite_overrides", [])
+}
+
+st.sidebar.download_button(
+    "Download plan as JSON",
+    data=json.dumps(export_payload, indent=2),
+    file_name="cheme_course_plan.json",
+    mime="application/json"
+)
+
+uploaded_plan = st.sidebar.file_uploader(
+    "Upload a saved plan (JSON)",
+    type="json"
+)
+
+if uploaded_plan is not None:
+    file_bytes = uploaded_plan.getvalue()
+    file_hash = hashlib.sha256(file_bytes).hexdigest()
+
+    if st.session_state.get("_last_imported_plan_hash") != file_hash:
+        try:
+            imported = json.loads(file_bytes)
+        except json.JSONDecodeError:
+            imported = None
+            st.sidebar.error("That file isn't valid JSON.")
+
+        if imported is not None:
+            imported_plan = imported.get("plan", {})
+            dropped_courses = []
+
+            for semester in st.session_state.plan.keys():
+                raw_courses = imported_plan.get(semester, [])
+                valid_courses = [c for c in raw_courses if c in course_options]
+                dropped_courses.extend(
+                    c for c in raw_courses if c not in course_options
+                )
+
+                st.session_state.plan[semester] = valid_courses
+                st.session_state[semester] = valid_courses
+
+            st.session_state.saved_credit_overrides = imported.get("credit_overrides", {})
+            st.session_state["prerequisite_overrides"] = [
+                c for c in imported.get("prerequisite_overrides", [])
+                if c in course_options
+            ]
+            st.session_state["_last_imported_plan_hash"] = file_hash
+
+            if dropped_courses:
+                st.sidebar.warning(
+                    "Ignored unrecognized course id(s) in upload: "
+                    f"{', '.join(sorted(set(dropped_courses)))}"
+                )
+
+            st.sidebar.success("Plan imported.")
+            st.rerun()
+
+
 st.sidebar.subheader("Recommendation Preferences")
 
 interest_text = st.sidebar.text_input(
@@ -136,9 +214,6 @@ interests = [
     for item in interest_text.split(",")
     if item.strip()
 ]
-
-if "plan" not in st.session_state:
-    st.session_state.plan = template["semesters"].copy()
 
 
 # -----------------------------
@@ -157,6 +232,20 @@ if not show_sequence_graph:
             )
 
             st.session_state.plan[semester] = selected
+
+            if selected:
+                semester_credits, _ = count_credits(
+                    selected, courses,
+                    st.session_state.get("saved_credit_overrides", {})
+                )
+                if semester_credits < SEMESTER_CREDIT_MIN:
+                    st.caption(f"{semester_credits:g} credits (below the "
+                               f"{SEMESTER_CREDIT_MIN}-credit full-time minimum)")
+                elif semester_credits > SEMESTER_CREDIT_MAX:
+                    st.caption(f"{semester_credits:g} credits (exceeds the "
+                               f"{SEMESTER_CREDIT_MAX}-credit maximum without approval)")
+                else:
+                    st.caption(f"{semester_credits:g} credits")
 
             if selected:
                 show_details = st.checkbox(
@@ -198,9 +287,6 @@ else:
 # -----------------------------
 # Missing credit overrides
 # -----------------------------
-if "saved_credit_overrides" not in st.session_state:
-    st.session_state.saved_credit_overrides = {}
-
 selected_courses_flat = [
     course
     for semester_courses in st.session_state.plan.values()
@@ -258,6 +344,7 @@ override_courses = st.sidebar.multiselect(
     "Courses already satisfied by AP, placement, transfer credit, or waiver",
     options=course_options,
     default=[],
+    key="prerequisite_overrides",
     help="These courses will be treated as completed before semester 1."
 )
 

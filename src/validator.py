@@ -25,6 +25,13 @@ TECH_REQUIREMENTS = {
     "advanced_stem": {"tag": "advanced_stem_tech_elective", "required": 2}
 }
 
+# Per SEAS bulletin "Academic Procedures and Standards": full-time
+# undergraduate registration is at least 12 credits/term, and students may
+# not register above 21 credits/term without Committee on Academic
+# Standing approval.
+SEMESTER_CREDIT_MIN = 12
+SEMESTER_CREDIT_MAX = 21
+
 
 def is_placeholder(course_id):
     return course_id in PLACEHOLDERS
@@ -68,6 +75,32 @@ def count_credits(course_ids, catalog, credit_overrides=None):
         total += credits
 
     return total, warnings
+
+
+def check_semester_credit_loads(
+    plan, catalog, credit_overrides=None,
+    min_credits=SEMESTER_CREDIT_MIN, max_credits=SEMESTER_CREDIT_MAX
+):
+    """Per-semester credit totals against the SEAS full-time minimum and
+    the no-approval-needed maximum. A semester with no real courses yet
+    (still empty or all placeholders) isn't flagged -- there's nothing to
+    judge yet."""
+    loads = {}
+
+    for semester, course_ids in plan.items():
+        real_courses = [c for c in course_ids if not is_placeholder(c)]
+        total, _ = count_credits(real_courses, catalog, credit_overrides)
+
+        loads[semester] = {
+            "credits": total,
+            "has_courses": len(real_courses) > 0,
+            "under_min": len(real_courses) > 0 and total < min_credits,
+            "over_max": total > max_credits,
+            "min_credits": min_credits,
+            "max_credits": max_credits
+        }
+
+    return loads
 
 
 def is_repeatable(course):
@@ -460,6 +493,23 @@ def validate_plan(
     )
     results["warnings"].extend(credit_warnings)
     results["progress"]["total_credits"] = total_credits
+
+    semester_loads = check_semester_credit_loads(plan, catalog, credit_overrides)
+    results["progress"]["semester_credit_loads"] = semester_loads
+
+    for semester, load in semester_loads.items():
+        label = semester.replace("_", " ").title()
+        if load["under_min"]:
+            results["warnings"].append(
+                f"{label}: {load['credits']:g} credits is below the "
+                f"{load['min_credits']}-credit full-time minimum."
+            )
+        elif load["over_max"]:
+            results["warnings"].append(
+                f"{label}: {load['credits']:g} credits exceeds the "
+                f"{load['max_credits']}-credit maximum allowed without "
+                "Committee on Academic Standing approval."
+            )
 
     major_req = requirements["requirements"]["major_required_courses"]["courses"]
     missing_major = check_all_of(selected_courses, major_req)
