@@ -1,3 +1,5 @@
+import re
+
 PLACEHOLDERS = {
     "PHYSICS_SEQUENCE_COURSE_1",
     "PHYSICS_SEQUENCE_COURSE_2",
@@ -35,6 +37,40 @@ SEMESTER_CREDIT_MAX = 21
 
 def is_placeholder(course_id):
     return course_id in PLACEHOLDERS
+
+
+def build_alias_index(catalog):
+    """Maps an alias course id (legacy numbering, alternate spreadsheet
+    formatting, etc. -- see each course's `aliases` field) to its
+    canonical catalog course id."""
+    index = {}
+    for course_id, course in catalog.items():
+        for alias in course.get("aliases", []):
+            index[alias] = course_id
+    return index
+
+
+def resolve_course_id(course_id, catalog, alias_index):
+    """Returns the canonical catalog id for a possibly-aliased id, or the
+    id unchanged if it's already canonical or unrecognized."""
+    if course_id in catalog:
+        return course_id
+    return alias_index.get(course_id, course_id)
+
+
+def normalize_plan_aliases(plan, catalog):
+    """Rewrites every course id in the plan to its canonical catalog id,
+    per `validation_rules.use_aliases_when_matching_courses` in
+    requirements.json, so a course entered under an alternate/legacy id
+    still satisfies the requirement it canonically counts toward."""
+    alias_index = build_alias_index(catalog)
+    if not alias_index:
+        return plan
+
+    return {
+        semester: [resolve_course_id(c, catalog, alias_index) for c in course_ids]
+        for semester, course_ids in plan.items()
+    }
 
 
 def flatten_plan(plan, include_placeholders=False):
@@ -101,6 +137,62 @@ def check_semester_credit_loads(
         }
 
     return loads
+
+
+def infer_semester_term(semester_key):
+    """"semester_1" -> "Fall", "semester_2" -> "Spring", etc. Assumes a
+    standard full-time plan starting in the fall (odd semesters = Fall,
+    even = Spring) -- not accurate for spring admits or transfers."""
+    match = re.search(r"(\d+)$", semester_key)
+    if not match:
+        return None
+    return "Fall" if int(match.group(1)) % 2 == 1 else "Spring"
+
+
+def check_offering_terms(plan, catalog):
+    """Soft check: flag a course scheduled in a semester whose inferred
+    Fall/Spring label wasn't among the terms it was actually found
+    scheduled in this academic year, per `terms_offered` (see
+    scripts/fetch_offering_terms.py).
+
+    Only fires when the expected season is also in `terms_checked` for
+    that course's subject -- i.e. we actually fetched that term's page and
+    it didn't turn up. Many subjects (most of SEAS, including ChemE's own
+    courses) only have a Fall2026 page published as of this scrape --
+    Spring 2027 registration isn't live yet for them -- so a course
+    missing from `terms_offered` alone would produce false "not offered"
+    warnings; `terms_checked` is what prevents that."""
+    mismatches = []
+
+    for semester, course_ids in plan.items():
+        expected_term = infer_semester_term(semester)
+        if expected_term is None:
+            continue
+
+        for course_id in course_ids:
+            if is_placeholder(course_id):
+                continue
+
+            course = catalog.get(course_id)
+            if not course:
+                continue
+
+            terms_checked = course.get("terms_checked") or []
+            checked_seasons = {t.rstrip("0123456789") for t in terms_checked}
+            if expected_term not in checked_seasons:
+                continue
+
+            terms_offered = course.get("terms_offered") or []
+            offered_seasons = {t.rstrip("0123456789") for t in terms_offered}
+            if expected_term not in offered_seasons:
+                mismatches.append({
+                    "course_id": course_id,
+                    "semester": semester,
+                    "expected_term": expected_term,
+                    "terms_offered": terms_offered
+                })
+
+    return mismatches
 
 
 def is_repeatable(course):
@@ -451,6 +543,14 @@ def validate_plan(
     credit_overrides=None
 ):
     credit_overrides = credit_overrides or {}
+    plan = normalize_plan_aliases(plan, catalog)
+
+    alias_index = build_alias_index(catalog)
+    prerequisite_overrides = {
+        resolve_course_id(c, catalog, alias_index)
+        for c in (prerequisite_overrides or [])
+    }
+
     selected_courses = dedupe_preserve_order(flatten_plan(plan), catalog)
 
     results = {
@@ -496,6 +596,19 @@ def validate_plan(
 
     semester_loads = check_semester_credit_loads(plan, catalog, credit_overrides)
     results["progress"]["semester_credit_loads"] = semester_loads
+
+    term_mismatches = check_offering_terms(plan, catalog)
+    results["progress"]["term_mismatches"] = term_mismatches
+    for mismatch in term_mismatches:
+        label = mismatch["semester"].replace("_", " ").title()
+        if mismatch["terms_offered"]:
+            schedule_note = f"it's only scheduled in {', '.join(mismatch['terms_offered'])}"
+        else:
+            schedule_note = "it isn't scheduled this academic year"
+        results["warnings"].append(
+            f"{mismatch['course_id']} is planned for {label} (assumed "
+            f"{mismatch['expected_term']}), but this year {schedule_note}."
+        )
 
     for semester, load in semester_loads.items():
         label = semester.replace("_", " ").title()

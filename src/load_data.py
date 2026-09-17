@@ -7,21 +7,58 @@ def load_json(filename):
     with open(DATA_DIR / filename, "r", encoding="utf-8") as f:
         return json.load(f)
 
+def build_alias_index(courses):
+    index = {}
+    for course_id, course in courses.items():
+        for alias in course.get("aliases", []):
+            index[alias] = course_id
+    return index
+
 def merge_courses(base, new):
+    # An incoming id may itself be a known alias of an already-loaded
+    # course (e.g. the electives spreadsheet parses a legacy code like
+    # "CHEM 3085" into its own "CHEM_3085" entry, when it's really the
+    # same course as the canonical "CHEM_UN3085" already loaded from
+    # courses_core.json, which records "CHEM_3085" as an alias). Without
+    # this, the two land as separate catalog entries for the same real
+    # course -- one with real credits/prereqs, one without -- and a
+    # student could select both and silently double-count it.
+    alias_index = build_alias_index(base)
+
     for course_id, course in new.items():
-        if course_id not in base:
-            base[course_id] = course
-        else:
-            # Keep existing core course, but merge aliases/notes if useful
-            existing = base[course_id]
+        canonical_id = course_id
+        if course_id not in base and course_id in alias_index:
+            canonical_id = alias_index[course_id]
 
-            existing["aliases"] = list(set(
-                existing.get("aliases", []) + course.get("aliases", [])
-            ))
+        if canonical_id not in base:
+            base[canonical_id] = course
+            continue
 
-            existing["notes"] = list(set(
-                existing.get("notes", []) + course.get("notes", [])
-            ))
+        # Keep existing course's own fields, but merge in anything useful
+        # from the incoming duplicate/alias entry
+        existing = base[canonical_id]
+
+        incoming_aliases = course.get("aliases", [])
+        if course_id != canonical_id:
+            incoming_aliases = incoming_aliases + [course_id]
+
+        existing["aliases"] = sorted(set(
+            existing.get("aliases", []) + incoming_aliases
+        ))
+
+        existing["notes"] = sorted(set(
+            existing.get("notes", []) + course.get("notes", [])
+        ))
+
+        existing["category_tags"] = sorted(set(
+            existing.get("category_tags", []) + course.get("category_tags", [])
+        ))
+
+        if existing.get("credits") is None and course.get("credits") is not None:
+            existing["credits"] = course["credits"]
+
+        if not existing.get("prerequisites") and course.get("prerequisites"):
+            existing["prerequisites"] = course["prerequisites"]
 
     return base
 

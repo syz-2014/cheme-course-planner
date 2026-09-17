@@ -1,0 +1,6403 @@
+{
+  "AFAS_GR5001": [
+    "Fall2026"
+  ],
+  "AFAS_GR6100": [
+    "Fall2026"
+  ],
+  "AFAS_GR6200": [
+    "Fall2026"
+  ],
+  "AFAS_GR6999": [
+    "Fall2026"
+  ],
+  "AFAS_GU4003": [
+    "Fall2026"
+  ],
+  "AFAS_GU4010": [
+    "Fall2026"
+  ],
+  "AFAS_GU4015": [
+    "Fall2026"
+  ],
+  "AFAS_GU4016": [
+    "Fall2026"
+  ],
+  "AFAS_GU4017": [
+    "Fall2026"
+  ],
+  "AFAS_GU4990": [
+    "Fall2026"
+  ],
+  "AFAS_GU4998": [
+    "Fall2026"
+  ],
+  "AFAS_UN1001": [
+    "Fall2026"
+  ],
+  "AFAS_UN1010": [
+    "Fall2026"
+  ],
+  "AFAS_UN3011": [
+    "Fall2026"
+  ],
+  "AFAS_UN3901": [
+    "Fall2026"
+  ],
+  "AFAS_UN3943": [
+    "Fall2026"
+  ],
+  "AFCV_UN1020": [
+    "Fall2026"
+  ],
+  "AFRS_BC2004": [
+    "Fall2026"
+  ],
+  "AFRS_BC2005": [
+    "Spring2027"
+  ],
+  "AFRS_BC2006": [
+    "Spring2027"
+  ],
+  "AFRS_BC3010": [
+    "Fall2026"
+  ],
+  "AFRS_BC3110": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "AFRS_BC3145": [
+    "Fall2026"
+  ],
+  "AFRS_BC3532": [
+    "Spring2027"
+  ],
+  "AFRS_BC3550": [
+    "Fall2026"
+  ],
+  "AFRS_BC3552": [
+    "Spring2027"
+  ],
+  "AFRS_BC3565": [
+    "Spring2027"
+  ],
+  "AFRS_BC3950": [
+    "Fall2026"
+  ],
+  "AFRS_BC3998": [
+    "Fall2026"
+  ],
+  "AFRS_GU4001": [
+    "Spring2027"
+  ],
+  "AHIS_BC1001": [
+    "Fall2026"
+  ],
+  "AHIS_BC2001": [
+    "Fall2026"
+  ],
+  "AHIS_BC2005": [
+    "Fall2026"
+  ],
+  "AHIS_BC2007": [
+    "Fall2026"
+  ],
+  "AHIS_BC2015": [
+    "Fall2026"
+  ],
+  "AHIS_BC2017": [
+    "Fall2026"
+  ],
+  "AHIS_BC2525": [
+    "Fall2026"
+  ],
+  "AHIS_BC2526": [
+    "Spring2027"
+  ],
+  "AHIS_BC3002": [
+    "Fall2026"
+  ],
+  "AHIS_BC3530": [
+    "Fall2026"
+  ],
+  "AHIS_BC3582": [
+    "Fall2026"
+  ],
+  "AHIS_BC3667": [
+    "Fall2026"
+  ],
+  "AHIS_BC3682": [
+    "Fall2026"
+  ],
+  "AHIS_BC3782": [
+    "Fall2026"
+  ],
+  "AHIS_BC3959": [
+    "Fall2026"
+  ],
+  "AHIS_BC3968": [
+    "Fall2026"
+  ],
+  "AHIS_BC3970": [
+    "Fall2026"
+  ],
+  "AHIS_BC3984": [
+    "Fall2026"
+  ],
+  "AHIS_GR5000": [
+    "Fall2026"
+  ],
+  "AHIS_GR5002": [
+    "Fall2026"
+  ],
+  "AHIS_GR6608": [
+    "Fall2026"
+  ],
+  "AHIS_GR8000": [
+    "Fall2026"
+  ],
+  "AHIS_GR8048": [
+    "Fall2026"
+  ],
+  "AHIS_GR8139": [
+    "Fall2026"
+  ],
+  "AHIS_GR8413": [
+    "Fall2026"
+  ],
+  "AHIS_GR8460": [
+    "Fall2026"
+  ],
+  "AHIS_GR8661": [
+    "Fall2026"
+  ],
+  "AHIS_GR8867": [
+    "Fall2026"
+  ],
+  "AHIS_GR9000": [
+    "Fall2026"
+  ],
+  "AHIS_GR9001": [
+    "Fall2026"
+  ],
+  "AHIS_GU4017": [
+    "Fall2026"
+  ],
+  "AHIS_GU4062": [
+    "Fall2026"
+  ],
+  "AHIS_GU4074": [
+    "Fall2026"
+  ],
+  "AHIS_GU4505": [
+    "Fall2026"
+  ],
+  "AHIS_GU4514": [
+    "Fall2026"
+  ],
+  "AHIS_GU4535": [
+    "Fall2026"
+  ],
+  "AHIS_GU4559": [
+    "Fall2026"
+  ],
+  "AHIS_GU4586": [
+    "Fall2026"
+  ],
+  "AHIS_GU4646": [
+    "Fall2026"
+  ],
+  "AHIS_GU4722": [
+    "Fall2026"
+  ],
+  "AHIS_GU4841": [
+    "Fall2026"
+  ],
+  "AHIS_OC3682": [
+    "Fall2026"
+  ],
+  "AHIS_UN2321": [
+    "Fall2026"
+  ],
+  "AHIS_UN2400": [
+    "Fall2026"
+  ],
+  "AHIS_UN2415": [
+    "Fall2026"
+  ],
+  "AHIS_UN3000": [
+    "Fall2026"
+  ],
+  "AHIS_UN3002": [
+    "Fall2026"
+  ],
+  "AHIS_UN3326": [
+    "Fall2026"
+  ],
+  "AHIS_UN3410": [
+    "Fall2026"
+  ],
+  "AHIS_UN3413": [
+    "Fall2026"
+  ],
+  "AHIS_UN3482": [
+    "Fall2026"
+  ],
+  "AHIS_UN3708": [
+    "Fall2026"
+  ],
+  "AHMM_UN3320": [
+    "Fall2026"
+  ],
+  "AHMM_UN3321": [
+    "Fall2026"
+  ],
+  "AHUM_UN1399": [
+    "Fall2026"
+  ],
+  "AHUM_UN1400": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "AHUM_UN2604": [
+    "Fall2026"
+  ],
+  "AHUM_UN2800": [
+    "Fall2026"
+  ],
+  "AHUM_UN2801": [
+    "Fall2026"
+  ],
+  "AHUM_UN3830": [
+    "Fall2026"
+  ],
+  "ANTH_BC2012": [
+    "Spring2027"
+  ],
+  "ANTH_BC2500": [
+    "Fall2026"
+  ],
+  "ANTH_BC2501": [
+    "Fall2026"
+  ],
+  "ANTH_BC3234": [
+    "Spring2027"
+  ],
+  "ANTH_BC3243": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ANTH_BC3326": [
+    "Fall2026"
+  ],
+  "ANTH_BC3808": [
+    "Fall2026"
+  ],
+  "ANTH_BC3868": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ANTH_BC3871": [
+    "Fall2026"
+  ],
+  "ANTH_BC3872": [
+    "Spring2027"
+  ],
+  "ANTH_BC3911": [
+    "Fall2026"
+  ],
+  "ANTH_BC3932": [
+    "Fall2026"
+  ],
+  "ANTH_BC3999": [
+    "Fall2026"
+  ],
+  "ANTH_GR5116": [
+    "Fall2026"
+  ],
+  "ANTH_GR5201": [
+    "Fall2026"
+  ],
+  "ANTH_GR5361": [
+    "Fall2026"
+  ],
+  "ANTH_GR5555": [
+    "Spring2027"
+  ],
+  "ANTH_GR5556": [
+    "Spring2027"
+  ],
+  "ANTH_GR6031": [
+    "Fall2026"
+  ],
+  "ANTH_GR6070": [
+    "Fall2026"
+  ],
+  "ANTH_GR6079": [
+    "Fall2026"
+  ],
+  "ANTH_GR6085": [
+    "Fall2026"
+  ],
+  "ANTH_GR6089": [
+    "Fall2026"
+  ],
+  "ANTH_GR6135": [
+    "Fall2026"
+  ],
+  "ANTH_GR6157": [
+    "Fall2026"
+  ],
+  "ANTH_GR6162": [
+    "Spring2027"
+  ],
+  "ANTH_GR6168": [
+    "Fall2026"
+  ],
+  "ANTH_GR6171": [
+    "Fall2026"
+  ],
+  "ANTH_GR6293": [
+    "Spring2027"
+  ],
+  "ANTH_GR6352": [
+    "Fall2026"
+  ],
+  "ANTH_GR8500": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ANTH_GR9101": [
+    "Fall2026"
+  ],
+  "ANTH_GR9102": [
+    "Fall2026"
+  ],
+  "ANTH_GR9105": [
+    "Fall2026"
+  ],
+  "ANTH_GR9999": [
+    "Fall2026"
+  ],
+  "ANTH_GU4535": [
+    "Fall2026"
+  ],
+  "ANTH_UN1002": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ANTH_UN1007": [
+    "Fall2026"
+  ],
+  "ANTH_UN1009": [
+    "Fall2026"
+  ],
+  "ANTH_UN1012": [
+    "Fall2026"
+  ],
+  "ANTH_UN1017": [
+    "Fall2026"
+  ],
+  "ANTH_UN2004": [
+    "Fall2026"
+  ],
+  "ANTH_UN2017": [
+    "Fall2026"
+  ],
+  "ANTH_UN2028": [
+    "Spring2027"
+  ],
+  "ANTH_UN2031": [
+    "Fall2026"
+  ],
+  "ANTH_UN2033": [
+    "Fall2026"
+  ],
+  "ANTH_UN2111": [
+    "Fall2026"
+  ],
+  "ANTH_UN3007": [
+    "Fall2026"
+  ],
+  "ANTH_UN3040": [
+    "Fall2026"
+  ],
+  "ANTH_UN3052": [
+    "Spring2027"
+  ],
+  "ANTH_UN3091": [
+    "Spring2027"
+  ],
+  "ANTH_UN3151": [
+    "Fall2026"
+  ],
+  "ANTH_UN3160": [
+    "Spring2027"
+  ],
+  "ANTH_UN3321": [
+    "Fall2026"
+  ],
+  "ANTH_UN3603": [
+    "Fall2026"
+  ],
+  "ANTH_UN3663": [
+    "Fall2026"
+  ],
+  "ANTH_UN3665": [
+    "Fall2026"
+  ],
+  "ANTH_UN3702": [
+    "Fall2026"
+  ],
+  "ANTH_UN3710": [
+    "Spring2027"
+  ],
+  "ANTH_UN3777": [
+    "Fall2026"
+  ],
+  "ANTH_UN3821": [
+    "Fall2026"
+  ],
+  "ANTH_UN3823": [
+    "Fall2026"
+  ],
+  "ANTH_UN3829": [
+    "Fall2026"
+  ],
+  "ANTH_UN3861": [
+    "Fall2026"
+  ],
+  "ANTH_UN3877": [
+    "Fall2026"
+  ],
+  "ANTH_UN3880": [
+    "Spring2027"
+  ],
+  "ANTH_UN3888": [
+    "Fall2026"
+  ],
+  "ANTH_UN3921": [
+    "Fall2026"
+  ],
+  "ANTH_UN3939": [
+    "Fall2026"
+  ],
+  "ANTH_UN3947": [
+    "Spring2027"
+  ],
+  "ANTH_UN3975": [
+    "Spring2027"
+  ],
+  "ANTH_UN3976": [
+    "Spring2027"
+  ],
+  "ANTH_UN3997": [
+    "Fall2026"
+  ],
+  "ANTH_UN3998": [
+    "Spring2027"
+  ],
+  "ANTH_UN3999": [
+    "Fall2026"
+  ],
+  "APAM_E4999": [
+    "Fall2026"
+  ],
+  "APAM_E6650": [
+    "Fall2026"
+  ],
+  "APAM_E9301": [
+    "Fall2026"
+  ],
+  "APBM_E4650": [
+    "Fall2026"
+  ],
+  "APMA_E2000": [
+    "Fall2026"
+  ],
+  "APMA_E2001": [
+    "Fall2026"
+  ],
+  "APMA_E2101": [
+    "Fall2026"
+  ],
+  "APMA_E3101": [
+    "Fall2026"
+  ],
+  "APMA_E3900": [
+    "Fall2026"
+  ],
+  "APMA_E4007": [
+    "Fall2026"
+  ],
+  "APMA_E4100": [
+    "Fall2026"
+  ],
+  "APMA_E4200": [
+    "Fall2026"
+  ],
+  "APMA_E4300": [
+    "Fall2026"
+  ],
+  "APMA_E4901": [
+    "Fall2026"
+  ],
+  "APMA_E4903": [
+    "Fall2026"
+  ],
+  "APMA_E4990": [
+    "Fall2026"
+  ],
+  "APMA_E6100": [
+    "Fall2026"
+  ],
+  "APMA_E6301": [
+    "Fall2026"
+  ],
+  "APPH_E3100": [
+    "Fall2026"
+  ],
+  "APPH_E3200": [
+    "Fall2026"
+  ],
+  "APPH_E3900": [
+    "Fall2026"
+  ],
+  "APPH_E4010": [
+    "Fall2026"
+  ],
+  "APPH_E4100": [
+    "Fall2026"
+  ],
+  "APPH_E4130": [
+    "Fall2026"
+  ],
+  "APPH_E4200": [
+    "Fall2026"
+  ],
+  "APPH_E4301": [
+    "Fall2026"
+  ],
+  "APPH_E4330": [
+    "Fall2026"
+  ],
+  "APPH_E4600": [
+    "Fall2026"
+  ],
+  "APPH_E4710": [
+    "Fall2026"
+  ],
+  "APPH_E4901": [
+    "Fall2026"
+  ],
+  "APPH_E4903": [
+    "Fall2026"
+  ],
+  "APPH_E6101": [
+    "Fall2026"
+  ],
+  "APPH_E6333": [
+    "Fall2026"
+  ],
+  "APPH_E6336": [
+    "Fall2026"
+  ],
+  "APPH_E6340": [
+    "Fall2026"
+  ],
+  "APPH_E6365": [
+    "Fall2026"
+  ],
+  "APPH_E6380": [
+    "Fall2026"
+  ],
+  "APPH_E9500": [
+    "Fall2026"
+  ],
+  "ASCE_UN1002": [
+    "Fall2026"
+  ],
+  "ASCE_UN1359": [
+    "Fall2026"
+  ],
+  "ASCE_UN1360": [
+    "Fall2026"
+  ],
+  "ASCE_UN1361": [
+    "Fall2026"
+  ],
+  "ASCE_UN1365": [
+    "Fall2026"
+  ],
+  "ASCE_UN1367": [
+    "Fall2026"
+  ],
+  "ASCE_UN1371": [
+    "Fall2026"
+  ],
+  "ASCE_UN1375": [
+    "Fall2026"
+  ],
+  "ASCE_UN1377": [
+    "Fall2026"
+  ],
+  "ASCM_BC3000": [
+    "Spring2027"
+  ],
+  "ASCM_UN2357": [
+    "Fall2026"
+  ],
+  "ASCM_UN2358": [
+    "Fall2026"
+  ],
+  "ASTR_BC1753": [
+    "Fall2026"
+  ],
+  "ASTR_BC1754": [
+    "Spring2027"
+  ],
+  "ASTR_GR6014": [
+    "Fall2026"
+  ],
+  "ASTR_GR8003": [
+    "Fall2026"
+  ],
+  "ASTR_GR9003": [
+    "Fall2026"
+  ],
+  "ASTR_UN1403": [
+    "Fall2026"
+  ],
+  "ASTR_UN1836": [
+    "Fall2026"
+  ],
+  "ASTR_UN1903": [
+    "Fall2026"
+  ],
+  "ASTR_UN1904": [
+    "Spring2027"
+  ],
+  "ASTR_UN2001": [
+    "Fall2026"
+  ],
+  "ASTR_UN2900": [
+    "Fall2026"
+  ],
+  "ASTR_UN3102": [
+    "Fall2026"
+  ],
+  "ASTR_UN3986": [
+    "Fall2026"
+  ],
+  "ASTR_UN3996": [
+    "Fall2026"
+  ],
+  "ASTR_UN3997": [
+    "Fall2026"
+  ],
+  "BIOL_BC1001": [
+    "Spring2027"
+  ],
+  "BIOL_BC1009": [
+    "Fall2026"
+  ],
+  "BIOL_BC1500": [
+    "Fall2026"
+  ],
+  "BIOL_BC1501": [
+    "Fall2026"
+  ],
+  "BIOL_BC1502": [
+    "Spring2027"
+  ],
+  "BIOL_BC1503": [
+    "Spring2027"
+  ],
+  "BIOL_BC1511": [
+    "Fall2026"
+  ],
+  "BIOL_BC1513": [
+    "Spring2027"
+  ],
+  "BIOL_BC1599": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC2100": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC2240": [
+    "Spring2027"
+  ],
+  "BIOL_BC2272": [
+    "Fall2026"
+  ],
+  "BIOL_BC2278": [
+    "Fall2026"
+  ],
+  "BIOL_BC2280": [
+    "Spring2027"
+  ],
+  "BIOL_BC2281": [
+    "Fall2026"
+  ],
+  "BIOL_BC2342": [
+    "Spring2027"
+  ],
+  "BIOL_BC2490": [
+    "Spring2027"
+  ],
+  "BIOL_BC2500": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC2841": [
+    "Fall2026"
+  ],
+  "BIOL_BC3000": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC3141": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC3210": [
+    "Fall2026"
+  ],
+  "BIOL_BC3272": [
+    "Spring2027"
+  ],
+  "BIOL_BC3303": [
+    "Fall2026"
+  ],
+  "BIOL_BC3304": [
+    "Fall2026"
+  ],
+  "BIOL_BC3310": [
+    "Fall2026"
+  ],
+  "BIOL_BC3320": [
+    "Spring2027"
+  ],
+  "BIOL_BC3321": [
+    "Fall2026"
+  ],
+  "BIOL_BC3322": [
+    "Spring2027"
+  ],
+  "BIOL_BC3333": [
+    "Spring2027"
+  ],
+  "BIOL_BC3352": [
+    "Fall2026"
+  ],
+  "BIOL_BC3354": [
+    "Spring2027"
+  ],
+  "BIOL_BC3356": [
+    "Fall2026"
+  ],
+  "BIOL_BC3360": [
+    "Spring2027"
+  ],
+  "BIOL_BC3361": [
+    "Spring2027"
+  ],
+  "BIOL_BC3377": [
+    "Fall2026"
+  ],
+  "BIOL_BC3590": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_BC3591": [
+    "Fall2026"
+  ],
+  "BIOL_BC3592": [
+    "Spring2027"
+  ],
+  "BIOL_BC3593": [
+    "Fall2026"
+  ],
+  "BIOL_BC3594": [
+    "Spring2027"
+  ],
+  "BIOL_BC3597": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BIOL_GR5004": [
+    "Fall2026"
+  ],
+  "BIOL_GR5022": [
+    "Fall2026"
+  ],
+  "BIOL_GR5041": [
+    "Fall2026"
+  ],
+  "BIOL_GR9301": [
+    "Fall2026"
+  ],
+  "BIOL_GR9500": [
+    "Fall2026"
+  ],
+  "BIOL_GU4034": [
+    "Fall2026"
+  ],
+  "BIOL_GU4036": [
+    "Fall2026"
+  ],
+  "BIOL_GU4073": [
+    "Fall2026"
+  ],
+  "BIOL_GU4260": [
+    "Fall2026"
+  ],
+  "BIOL_GU4290": [
+    "Fall2026"
+  ],
+  "BIOL_GU4300": [
+    "Fall2026"
+  ],
+  "BIOL_GU4323": [
+    "Fall2026"
+  ],
+  "BIOL_GU4501": [
+    "Fall2026"
+  ],
+  "BIOL_UN2005": [
+    "Fall2026"
+  ],
+  "BIOL_UN2015": [
+    "Fall2026"
+  ],
+  "BIOL_UN2300": [
+    "Fall2026"
+  ],
+  "BIOL_UN2401": [
+    "Fall2026"
+  ],
+  "BIOL_UN2501": [
+    "Fall2026"
+  ],
+  "BIOL_UN2600": [
+    "Fall2026"
+  ],
+  "BIOL_UN2908": [
+    "Fall2026"
+  ],
+  "BIOL_UN3004": [
+    "Fall2026"
+  ],
+  "BIOL_UN3022": [
+    "Fall2026"
+  ],
+  "BIOL_UN3040": [
+    "Fall2026"
+  ],
+  "BIOL_UN3041": [
+    "Fall2026"
+  ],
+  "BIOL_UN3300": [
+    "Fall2026"
+  ],
+  "BIOL_UN3320": [
+    "Fall2026"
+  ],
+  "BIOL_UN3404": [
+    "Fall2026"
+  ],
+  "BIOL_UN3500": [
+    "Fall2026"
+  ],
+  "BIOL_UN3510": [
+    "Fall2026"
+  ],
+  "BMEN_E3010": [
+    "Fall2026"
+  ],
+  "BMEN_E3810": [
+    "Fall2026"
+  ],
+  "BMEN_E3899": [
+    "Fall2026"
+  ],
+  "BMEN_E3910": [
+    "Fall2026"
+  ],
+  "BMEN_E3998": [
+    "Fall2026"
+  ],
+  "BMEN_E3999": [
+    "Fall2026"
+  ],
+  "BMEN_E4000": [
+    "Fall2026"
+  ],
+  "BMEN_E4001": [
+    "Fall2026"
+  ],
+  "BMEN_E4110": [
+    "Fall2026"
+  ],
+  "BMEN_E4310": [
+    "Fall2026"
+  ],
+  "BMEN_E4330": [
+    "Fall2026"
+  ],
+  "BMEN_E4470": [
+    "Fall2026"
+  ],
+  "BMEN_E4490": [
+    "Fall2026"
+  ],
+  "BMEN_E4500": [
+    "Fall2026"
+  ],
+  "BMEN_E4510": [
+    "Fall2026"
+  ],
+  "BMEN_E4530": [
+    "Fall2026"
+  ],
+  "BMEN_E4583": [
+    "Fall2026"
+  ],
+  "BMEN_E4592": [
+    "Fall2026"
+  ],
+  "BMEN_E4750": [
+    "Fall2026"
+  ],
+  "BMEN_E4894": [
+    "Fall2026"
+  ],
+  "BMEN_E4899": [
+    "Fall2026"
+  ],
+  "BMEN_E4999": [
+    "Fall2026"
+  ],
+  "BMEN_E6000": [
+    "Fall2026"
+  ],
+  "BMEN_E6006": [
+    "Fall2026"
+  ],
+  "BMEN_E6520": [
+    "Fall2026"
+  ],
+  "BMEN_E9100": [
+    "Fall2026"
+  ],
+  "BMEN_E9500": [
+    "Fall2026"
+  ],
+  "BMEN_E9700": [
+    "Fall2026"
+  ],
+  "BMEN_E9800": [
+    "Fall2026"
+  ],
+  "CEOR_E4011": [
+    "Fall2026"
+  ],
+  "CGTH_GR6100": [
+    "Fall2026"
+  ],
+  "CGTH_GR6312": [
+    "Fall2026"
+  ],
+  "CGTH_GU4400": [
+    "Fall2026"
+  ],
+  "CGTH_GU4725": [
+    "Fall2026"
+  ],
+  "CGTH_UN3401": [
+    "Fall2026"
+  ],
+  "CHEE_E3010": [
+    "Fall2026"
+  ],
+  "CHEE_E4252": [
+    "Fall2026"
+  ],
+  "CHEM_BC2001": [
+    "Fall2026"
+  ],
+  "CHEM_BC2012": [
+    "Fall2026"
+  ],
+  "CHEM_BC3230": [
+    "Spring2027"
+  ],
+  "CHEM_BC3231": [
+    "Fall2026"
+  ],
+  "CHEM_BC3232": [
+    "Spring2027"
+  ],
+  "CHEM_BC3242": [
+    "Spring2027"
+  ],
+  "CHEM_BC3252": [
+    "Spring2027"
+  ],
+  "CHEM_BC3253": [
+    "Fall2026"
+  ],
+  "CHEM_BC3271": [
+    "Spring2027"
+  ],
+  "CHEM_BC3280": [
+    "Spring2027"
+  ],
+  "CHEM_BC3282": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CHEM_BC3283": [
+    "Spring2027"
+  ],
+  "CHEM_BC3284": [
+    "Fall2026"
+  ],
+  "CHEM_BC3328": [
+    "Spring2027"
+  ],
+  "CHEM_BC3333": [
+    "Fall2026"
+  ],
+  "CHEM_BC3338": [
+    "Spring2027"
+  ],
+  "CHEM_BC3346": [
+    "Spring2027"
+  ],
+  "CHEM_BC3348": [
+    "Spring2027"
+  ],
+  "CHEM_BC3355": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CHEM_BC3358": [
+    "Fall2026"
+  ],
+  "CHEM_BC3597": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CHEM_BC3599": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CHEM_BC3701": [
+    "Spring2027"
+  ],
+  "CHEM_BC3901": [
+    "Fall2026"
+  ],
+  "CHEM_BC3902": [
+    "Spring2027"
+  ],
+  "CHEM_BC3903": [
+    "Fall2026"
+  ],
+  "CHEM_BC3904": [
+    "Spring2027"
+  ],
+  "CHEM_GR6155": [
+    "Fall2026"
+  ],
+  "CHEM_GR8108": [
+    "Fall2026"
+  ],
+  "CHEM_GR9201": [
+    "Fall2026"
+  ],
+  "CHEM_GR9307": [
+    "Fall2026"
+  ],
+  "CHEM_GU4071": [
+    "Fall2026"
+  ],
+  "CHEM_GU4147": [
+    "Fall2026"
+  ],
+  "CHEM_GU4148": [
+    "Fall2026"
+  ],
+  "CHEM_GU4149": [
+    "Fall2026"
+  ],
+  "CHEM_GU4221": [
+    "Fall2026"
+  ],
+  "CHEM_GU4230": [
+    "Fall2026"
+  ],
+  "CHEM_GU4312": [
+    "Fall2026"
+  ],
+  "CHEM_UN0001": [
+    "Fall2026"
+  ],
+  "CHEM_UN1403": [
+    "Fall2026"
+  ],
+  "CHEM_UN1404": [
+    "Fall2026"
+  ],
+  "CHEM_UN1405": [
+    "Fall2026"
+  ],
+  "CHEM_UN1406": [
+    "Fall2026"
+  ],
+  "CHEM_UN1407": [
+    "Fall2026"
+  ],
+  "CHEM_UN1409": [
+    "Fall2026"
+  ],
+  "CHEM_UN1411": [
+    "Fall2026"
+  ],
+  "CHEM_UN1500": [
+    "Fall2026"
+  ],
+  "CHEM_UN1501": [
+    "Fall2026"
+  ],
+  "CHEM_UN1507": [
+    "Fall2026"
+  ],
+  "CHEM_UN1604": [
+    "Fall2026"
+  ],
+  "CHEM_UN1606": [
+    "Fall2026"
+  ],
+  "CHEM_UN2046": [
+    "Fall2026"
+  ],
+  "CHEM_UN2048": [
+    "Fall2026"
+  ],
+  "CHEM_UN2443": [
+    "Fall2026"
+  ],
+  "CHEM_UN2445": [
+    "Fall2026"
+  ],
+  "CHEM_UN2447": [
+    "Fall2026"
+  ],
+  "CHEM_UN2449": [
+    "Fall2026"
+  ],
+  "CHEM_UN2493": [
+    "Fall2026"
+  ],
+  "CHEM_UN2495": [
+    "Fall2026"
+  ],
+  "CHEM_UN2545": [
+    "Fall2026"
+  ],
+  "CHEM_UN3079": [
+    "Fall2026"
+  ],
+  "CHEM_UN3085": [
+    "Fall2026"
+  ],
+  "CHEM_UN3098": [
+    "Fall2026"
+  ],
+  "CHEM_UN3920": [
+    "Fall2026"
+  ],
+  "CHEN_E1000": [
+    "Fall2026"
+  ],
+  "CHEN_E2100": [
+    "Fall2026"
+  ],
+  "CHEN_E3110": [
+    "Fall2026"
+  ],
+  "CHEN_E3900": [
+    "Fall2026"
+  ],
+  "CHEN_E4001": [
+    "Fall2026"
+  ],
+  "CHEN_E4002": [
+    "Fall2026"
+  ],
+  "CHEN_E4010": [
+    "Fall2026"
+  ],
+  "CHEN_E4020": [
+    "Fall2026"
+  ],
+  "CHEN_E4110": [
+    "Fall2026"
+  ],
+  "CHEN_E4130": [
+    "Fall2026"
+  ],
+  "CHEN_E4180": [
+    "Fall2026"
+  ],
+  "CHEN_E4235": [
+    "Fall2026"
+  ],
+  "CHEN_E4300": [
+    "Fall2026"
+  ],
+  "CHEN_E4320": [
+    "Fall2026"
+  ],
+  "CHEN_E4330": [
+    "Fall2026"
+  ],
+  "CHEN_E4331": [
+    "Fall2026"
+  ],
+  "CHEN_E4400": [
+    "Fall2026"
+  ],
+  "CHEN_E4500": [
+    "Fall2026"
+  ],
+  "CHEN_E4501": [
+    "Fall2026"
+  ],
+  "CHEN_E4620": [
+    "Fall2026"
+  ],
+  "CHEN_E4655": [
+    "Fall2026"
+  ],
+  "CHEN_E4665": [
+    "Fall2026"
+  ],
+  "CHEN_E4700": [
+    "Fall2026"
+  ],
+  "CHEN_E4725": [
+    "Fall2026"
+  ],
+  "CHEN_E4899": [
+    "Fall2026"
+  ],
+  "CHEN_E4960": [
+    "Fall2026"
+  ],
+  "CHEN_E4999": [
+    "Fall2026"
+  ],
+  "CHEN_E6543": [
+    "Fall2026"
+  ],
+  "CHEN_E9000": [
+    "Fall2026"
+  ],
+  "CHEN_E9001": [
+    "Fall2026"
+  ],
+  "CHEN_E9400": [
+    "Fall2026"
+  ],
+  "CHEN_E9500": [
+    "Fall2026"
+  ],
+  "CHEN_E9800": [
+    "Fall2026"
+  ],
+  "CIEE_E3111": [
+    "Fall2026"
+  ],
+  "CIEE_E4111": [
+    "Fall2026"
+  ],
+  "CIEN_E3127": [
+    "Fall2026"
+  ],
+  "CIEN_E3129": [
+    "Fall2026"
+  ],
+  "CIEN_E3141": [
+    "Fall2026"
+  ],
+  "CIEN_E3303": [
+    "Fall2026"
+  ],
+  "CIEN_E3304": [
+    "Fall2026"
+  ],
+  "CIEN_E3999": [
+    "Fall2026"
+  ],
+  "CIEN_E4012": [
+    "Fall2026"
+  ],
+  "CIEN_E4121": [
+    "Fall2026"
+  ],
+  "CIEN_E4129": [
+    "Fall2026"
+  ],
+  "CIEN_E4130": [
+    "Fall2026"
+  ],
+  "CIEN_E4131": [
+    "Fall2026"
+  ],
+  "CIEN_E4133": [
+    "Fall2026"
+  ],
+  "CIEN_E4134": [
+    "Fall2026"
+  ],
+  "CIEN_E4139": [
+    "Fall2026"
+  ],
+  "CIEN_E4140": [
+    "Fall2026"
+  ],
+  "CIEN_E4142": [
+    "Fall2026"
+  ],
+  "CIEN_E4145": [
+    "Fall2026"
+  ],
+  "CIEN_E4148": [
+    "Fall2026"
+  ],
+  "CIEN_E4232": [
+    "Fall2026"
+  ],
+  "CIEN_E4235": [
+    "Fall2026"
+  ],
+  "CIEN_E4241": [
+    "Fall2026"
+  ],
+  "CIEN_E4256": [
+    "Fall2026"
+  ],
+  "CIEN_E4999": [
+    "Fall2026"
+  ],
+  "CIEN_E9101": [
+    "Fall2026"
+  ],
+  "CIEN_E9500": [
+    "Fall2026"
+  ],
+  "CIEN_E9900": [
+    "Fall2026"
+  ],
+  "CLCV_BC3027": [
+    "Fall2026"
+  ],
+  "CLCV_BC3212": [
+    "Fall2026"
+  ],
+  "CLCV_GR5011": [
+    "Fall2026"
+  ],
+  "CLCV_UN1001": [
+    "Fall2026"
+  ],
+  "CLCV_UN1110": [
+    "Fall2026"
+  ],
+  "CLCV_UN1111": [
+    "Fall2026"
+  ],
+  "CLCV_UN3244": [
+    "Fall2026"
+  ],
+  "CLCV_UN3996": [
+    "Fall2026"
+  ],
+  "CLEN_GR6998": [
+    "Fall2026"
+  ],
+  "CLEN_GU4122": [
+    "Fall2026"
+  ],
+  "CLEN_GU4550": [
+    "Fall2026"
+  ],
+  "CLEN_UN2122": [
+    "Fall2026"
+  ],
+  "CLEN_UN3720": [
+    "Fall2026"
+  ],
+  "CLEN_UN3974": [
+    "Fall2026"
+  ],
+  "CLFR_GU4000": [
+    "Fall2026"
+  ],
+  "CLFR_OC3821": [
+    "Fall2026"
+  ],
+  "CLFR_UN3587": [
+    "Fall2026"
+  ],
+  "CLFR_UN3588": [
+    "Fall2026"
+  ],
+  "CLGM_GU4300": [
+    "Fall2026"
+  ],
+  "CLIA_GR6050": [
+    "Fall2026"
+  ],
+  "CLIA_GR6999": [
+    "Fall2026"
+  ],
+  "CLIA_UN3024": [
+    "Fall2026"
+  ],
+  "CLIA_UN3660": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CLME_GU4231": [
+    "Fall2026"
+  ],
+  "CLME_UN3928": [
+    "Fall2026"
+  ],
+  "CLRS_GR6111": [
+    "Fall2026"
+  ],
+  "CLRS_GU4011": [
+    "Fall2026"
+  ],
+  "CLRS_GU4037": [
+    "Fall2026"
+  ],
+  "CLRS_GU4114": [
+    "Fall2026"
+  ],
+  "CLRS_GU4213": [
+    "Fall2026"
+  ],
+  "CLSL_GU4000": [
+    "Fall2026"
+  ],
+  "CLSL_GU4011": [
+    "Fall2026"
+  ],
+  "COCI_CC1101": [
+    "Fall2026"
+  ],
+  "COCI_GS1101": [
+    "Fall2026"
+  ],
+  "COMS_BC1014": [
+    "Fall2026"
+  ],
+  "COMS_BC1016": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "COMS_BC1017": [
+    "Fall2026"
+  ],
+  "COMS_BC3122": [
+    "Fall2026"
+  ],
+  "COMS_BC3160": [
+    "Spring2027"
+  ],
+  "COMS_BC3262": [
+    "Spring2027"
+  ],
+  "COMS_BC3411": [
+    "Spring2027"
+  ],
+  "COMS_BC3420": [
+    "Fall2026"
+  ],
+  "COMS_BC3423": [
+    "Fall2026"
+  ],
+  "COMS_BC3430": [
+    "Spring2027"
+  ],
+  "COMS_BC3705": [
+    "Fall2026"
+  ],
+  "COMS_BC3707": [
+    "Spring2027"
+  ],
+  "COMS_BC3891": [
+    "Fall2026"
+  ],
+  "COMS_BC3892": [
+    "Spring2027"
+  ],
+  "COMS_BC3895": [
+    "Fall2026"
+  ],
+  "COMS_BC3930": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "COMS_BC3997": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "COMS_E4762": [
+    "Fall2026"
+  ],
+  "COMS_E4773": [
+    "Fall2026"
+  ],
+  "COMS_E6113": [
+    "Fall2026"
+  ],
+  "COMS_E6173": [
+    "Fall2026"
+  ],
+  "COMS_E6298": [
+    "Fall2026"
+  ],
+  "COMS_E6706": [
+    "Fall2026"
+  ],
+  "COMS_E6975": [
+    "Fall2026"
+  ],
+  "COMS_E6998": [
+    "Fall2026"
+  ],
+  "COMS_E9902": [
+    "Fall2026"
+  ],
+  "COMS_W1002": [
+    "Fall2026"
+  ],
+  "COMS_W1004": [
+    "Fall2026"
+  ],
+  "COMS_W1012": [
+    "Fall2026"
+  ],
+  "COMS_W1404": [
+    "Fall2026"
+  ],
+  "COMS_W2702": [
+    "Fall2026"
+  ],
+  "COMS_W3107": [
+    "Fall2026"
+  ],
+  "COMS_W3134": [
+    "Fall2026"
+  ],
+  "COMS_W3157": [
+    "Fall2026"
+  ],
+  "COMS_W3203": [
+    "Fall2026"
+  ],
+  "COMS_W3261": [
+    "Fall2026"
+  ],
+  "COMS_W3410": [
+    "Fall2026"
+  ],
+  "COMS_W4111": [
+    "Fall2026"
+  ],
+  "COMS_W4113": [
+    "Fall2026"
+  ],
+  "COMS_W4115": [
+    "Fall2026"
+  ],
+  "COMS_W4118": [
+    "Fall2026"
+  ],
+  "COMS_W4152": [
+    "Fall2026"
+  ],
+  "COMS_W4156": [
+    "Fall2026"
+  ],
+  "COMS_W4160": [
+    "Fall2026"
+  ],
+  "COMS_W4170": [
+    "Fall2026"
+  ],
+  "COMS_W4181": [
+    "Fall2026"
+  ],
+  "COMS_W4186": [
+    "Fall2026"
+  ],
+  "COMS_W4236": [
+    "Fall2026"
+  ],
+  "COMS_W4281": [
+    "Fall2026"
+  ],
+  "COMS_W4444": [
+    "Fall2026"
+  ],
+  "COMS_W4460": [
+    "Fall2026"
+  ],
+  "COMS_W4701": [
+    "Fall2026"
+  ],
+  "COMS_W4705": [
+    "Fall2026"
+  ],
+  "COMS_W4726": [
+    "Fall2026"
+  ],
+  "COMS_W4731": [
+    "Fall2026"
+  ],
+  "COMS_W4733": [
+    "Fall2026"
+  ],
+  "COMS_W4771": [
+    "Fall2026"
+  ],
+  "COMS_W4776": [
+    "Fall2026"
+  ],
+  "COMS_W4995": [
+    "Fall2026"
+  ],
+  "CPLS_BC3899": [
+    "Fall2026"
+  ],
+  "CPLS_GR6998": [
+    "Fall2026"
+  ],
+  "CPLS_GR8866": [
+    "Fall2026"
+  ],
+  "CPLS_GU4227": [
+    "Fall2026"
+  ],
+  "CPLS_GU4325": [
+    "Fall2026"
+  ],
+  "CPLS_GU4685": [
+    "Fall2026"
+  ],
+  "CPLS_GU4876": [
+    "Fall2026"
+  ],
+  "CPLS_UN3931": [
+    "Fall2026"
+  ],
+  "CPLS_UN3991": [
+    "Fall2026"
+  ],
+  "CPLS_UN3994": [
+    "Fall2026"
+  ],
+  "CPLS_UN3995": [
+    "Fall2026"
+  ],
+  "CSEE_E6863": [
+    "Fall2026"
+  ],
+  "CSEE_E6915": [
+    "Fall2026"
+  ],
+  "CSEE_W3827": [
+    "Fall2026"
+  ],
+  "CSEE_W4119": [
+    "Fall2026"
+  ],
+  "CSEE_W4823": [
+    "Fall2026"
+  ],
+  "CSEE_W4824": [
+    "Fall2026"
+  ],
+  "CSEE_W4868": [
+    "Fall2026"
+  ],
+  "CSEE_W6180": [
+    "Fall2026"
+  ],
+  "CSER_GR5000": [
+    "Fall2026"
+  ],
+  "CSER_UN1010": [
+    "Fall2026"
+  ],
+  "CSER_UN1014": [
+    "Fall2026"
+  ],
+  "CSER_UN3303": [
+    "Fall2026"
+  ],
+  "CSER_UN3490": [
+    "Fall2026"
+  ],
+  "CSER_UN3702": [
+    "Fall2026"
+  ],
+  "CSER_UN3919": [
+    "Fall2026"
+  ],
+  "CSER_UN3922": [
+    "Fall2026"
+  ],
+  "CSER_UN3926": [
+    "Fall2026"
+  ],
+  "CSER_UN3928": [
+    "Fall2026"
+  ],
+  "CSER_UN3949": [
+    "Fall2026"
+  ],
+  "DNCE_BC1135": [
+    "Fall2026"
+  ],
+  "DNCE_BC1136": [
+    "Spring2027"
+  ],
+  "DNCE_BC1137": [
+    "Fall2026"
+  ],
+  "DNCE_BC1138": [
+    "Spring2027"
+  ],
+  "DNCE_BC1250": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC1330": [
+    "Fall2026"
+  ],
+  "DNCE_BC1331": [
+    "Spring2027"
+  ],
+  "DNCE_BC1332": [
+    "Fall2026"
+  ],
+  "DNCE_BC1333": [
+    "Spring2027"
+  ],
+  "DNCE_BC1445": [
+    "Fall2026"
+  ],
+  "DNCE_BC1820": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2137": [
+    "Fall2026"
+  ],
+  "DNCE_BC2138": [
+    "Spring2027"
+  ],
+  "DNCE_BC2139": [
+    "Fall2026"
+  ],
+  "DNCE_BC2140": [
+    "Spring2027"
+  ],
+  "DNCE_BC2248": [
+    "Fall2026"
+  ],
+  "DNCE_BC2249": [
+    "Spring2027"
+  ],
+  "DNCE_BC2250": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2252": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2253": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2254": [
+    "Fall2026"
+  ],
+  "DNCE_BC2255": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2256": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2260": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2332": [
+    "Fall2026"
+  ],
+  "DNCE_BC2333": [
+    "Spring2027"
+  ],
+  "DNCE_BC2334": [
+    "Fall2026"
+  ],
+  "DNCE_BC2335": [
+    "Spring2027"
+  ],
+  "DNCE_BC2340": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2447": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2452": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2455": [
+    "Spring2027"
+  ],
+  "DNCE_BC2456": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC2501": [
+    "Spring2027"
+  ],
+  "DNCE_BC2562": [
+    "Fall2026"
+  ],
+  "DNCE_BC2563": [
+    "Spring2027"
+  ],
+  "DNCE_BC2564": [
+    "Fall2026"
+  ],
+  "DNCE_BC2565": [
+    "Spring2027"
+  ],
+  "DNCE_BC2567": [
+    "Fall2026"
+  ],
+  "DNCE_BC2570": [
+    "Spring2027"
+  ],
+  "DNCE_BC3000": [
+    "Spring2027"
+  ],
+  "DNCE_BC3001": [
+    "Fall2026"
+  ],
+  "DNCE_BC3138": [
+    "Fall2026"
+  ],
+  "DNCE_BC3139": [
+    "Spring2027"
+  ],
+  "DNCE_BC3140": [
+    "Fall2026"
+  ],
+  "DNCE_BC3141": [
+    "Spring2027"
+  ],
+  "DNCE_BC3142": [
+    "Fall2026"
+  ],
+  "DNCE_BC3143": [
+    "Spring2027"
+  ],
+  "DNCE_BC3240": [
+    "Fall2026"
+  ],
+  "DNCE_BC3248": [
+    "Fall2026"
+  ],
+  "DNCE_BC3249": [
+    "Spring2027"
+  ],
+  "DNCE_BC3250": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC3331": [
+    "Fall2026"
+  ],
+  "DNCE_BC3332": [
+    "Fall2026"
+  ],
+  "DNCE_BC3333": [
+    "Spring2027"
+  ],
+  "DNCE_BC3334": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "DNCE_BC3335": [
+    "Fall2026"
+  ],
+  "DNCE_BC3336": [
+    "Spring2027"
+  ],
+  "DNCE_BC3338": [
+    "Fall2026"
+  ],
+  "DNCE_BC3447": [
+    "Spring2027"
+  ],
+  "DNCE_BC3560": [
+    "Fall2026"
+  ],
+  "DNCE_BC3566": [
+    "Spring2027"
+  ],
+  "DNCE_BC3567": [
+    "Fall2026"
+  ],
+  "DNCE_BC3576": [
+    "Fall2026"
+  ],
+  "DNCE_BC3580": [
+    "Fall2026"
+  ],
+  "DNCE_BC3585": [
+    "Spring2027"
+  ],
+  "DNCE_BC3591": [
+    "Fall2026"
+  ],
+  "DNCE_BC3593": [
+    "Spring2027"
+  ],
+  "DNCE_BC3601": [
+    "Spring2027"
+  ],
+  "DNCE_BC3607": [
+    "Fall2026"
+  ],
+  "EAAS_BC2345": [
+    "Spring2027"
+  ],
+  "EAAS_BC3840": [
+    "Spring2027"
+  ],
+  "EAAS_GR6990": [
+    "Fall2026"
+  ],
+  "EAAS_GR6991": [
+    "Fall2026"
+  ],
+  "EAAS_GR8001": [
+    "Fall2026"
+  ],
+  "EAAS_GR8030": [
+    "Fall2026"
+  ],
+  "EAAS_GR8992": [
+    "Fall2026"
+  ],
+  "EAAS_GU4022": [
+    "Fall2026"
+  ],
+  "EAAS_GU4123": [
+    "Fall2026"
+  ],
+  "EAAS_GU4231": [
+    "Spring2027"
+  ],
+  "EAAS_GU4310": [
+    "Fall2026"
+  ],
+  "EAAS_GU4370": [
+    "Spring2027"
+  ],
+  "EAAS_GU4625": [
+    "Fall2026"
+  ],
+  "EAAS_GU4840": [
+    "Fall2026"
+  ],
+  "EAAS_OC3993": [
+    "Fall2026"
+  ],
+  "EAAS_UN2367": [
+    "Fall2026"
+  ],
+  "EAAS_UN2844": [
+    "Spring2027"
+  ],
+  "EAAS_UN3217": [
+    "Fall2026"
+  ],
+  "EAAS_UN3263": [
+    "Fall2026"
+  ],
+  "EAAS_UN3310": [
+    "Fall2026"
+  ],
+  "EAAS_UN3462": [
+    "Fall2026"
+  ],
+  "EAAS_UN3913": [
+    "Fall2026"
+  ],
+  "EAAS_UN3990": [
+    "Fall2026"
+  ],
+  "EAAS_UN3999": [
+    "Fall2026"
+  ],
+  "EAEE_E2100": [
+    "Fall2026"
+  ],
+  "EAEE_E3103": [
+    "Fall2026"
+  ],
+  "EAEE_E3200": [
+    "Fall2026"
+  ],
+  "EAEE_E3900": [
+    "Fall2026"
+  ],
+  "EAEE_E3901": [
+    "Fall2026"
+  ],
+  "EAEE_E3998": [
+    "Fall2026"
+  ],
+  "EAEE_E4000": [
+    "Fall2026"
+  ],
+  "EAEE_E4100": [
+    "Fall2026"
+  ],
+  "EAEE_E4160": [
+    "Fall2026"
+  ],
+  "EAEE_E4200": [
+    "Fall2026"
+  ],
+  "EAEE_E4300": [
+    "Fall2026"
+  ],
+  "EAEE_E4301": [
+    "Fall2026"
+  ],
+  "EAEE_E4350": [
+    "Fall2026"
+  ],
+  "EAEE_E4550": [
+    "Fall2026"
+  ],
+  "EAEE_E4901": [
+    "Fall2026"
+  ],
+  "EAEE_E4990": [
+    "Fall2026"
+  ],
+  "EAEE_E6212": [
+    "Fall2026"
+  ],
+  "EAEE_E9280": [
+    "Fall2026"
+  ],
+  "EAEE_E9305": [
+    "Fall2026"
+  ],
+  "EAEE_E9800": [
+    "Fall2026"
+  ],
+  "EARL_GU4011": [
+    "Fall2026"
+  ],
+  "EARL_GU4312": [
+    "Fall2026"
+  ],
+  "EARL_GU4322": [
+    "Fall2026"
+  ],
+  "ECON_BC1003": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC1007": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC1013": [
+    "Fall2026"
+  ],
+  "ECON_BC1017": [
+    "Fall2026"
+  ],
+  "ECON_BC2010": [
+    "Spring2027"
+  ],
+  "ECON_BC2020": [
+    "Fall2026"
+  ],
+  "ECON_BC2411": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3011": [
+    "Fall2026"
+  ],
+  "ECON_BC3012": [
+    "Fall2026"
+  ],
+  "ECON_BC3013": [
+    "Spring2027"
+  ],
+  "ECON_BC3018": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3019": [
+    "Spring2027"
+  ],
+  "ECON_BC3024": [
+    "Spring2027"
+  ],
+  "ECON_BC3026": [
+    "Fall2026"
+  ],
+  "ECON_BC3028": [
+    "Fall2026"
+  ],
+  "ECON_BC3033": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3035": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3038": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3041": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3048": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3050": [
+    "Spring2027"
+  ],
+  "ECON_BC3061": [
+    "Fall2026"
+  ],
+  "ECON_BC3062": [
+    "Spring2027"
+  ],
+  "ECON_BC3063": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_BC3068": [
+    "Spring2027"
+  ],
+  "ECON_BC3098": [
+    "Fall2026"
+  ],
+  "ECON_BC3135": [
+    "Fall2026"
+  ],
+  "ECON_BC3341": [
+    "Fall2026"
+  ],
+  "ECON_GR5001": [
+    "Fall2026"
+  ],
+  "ECON_GR5002": [
+    "Fall2026"
+  ],
+  "ECON_GR5003": [
+    "Fall2026"
+  ],
+  "ECON_GR5004": [
+    "Fall2026"
+  ],
+  "ECON_GR5110": [
+    "Fall2026"
+  ],
+  "ECON_GR5120": [
+    "Fall2026"
+  ],
+  "ECON_GR5211": [
+    "Fall2026"
+  ],
+  "ECON_GR5215": [
+    "Fall2026"
+  ],
+  "ECON_GR5218": [
+    "Fall2026"
+  ],
+  "ECON_GR5220": [
+    "Fall2026"
+  ],
+  "ECON_GR5311": [
+    "Fall2026"
+  ],
+  "ECON_GR5410": [
+    "Fall2026"
+  ],
+  "ECON_GR5411": [
+    "Fall2026"
+  ],
+  "ECON_GR5415": [
+    "Fall2026"
+  ],
+  "ECON_GR5721": [
+    "Fall2026"
+  ],
+  "ECON_GR6209": [
+    "Fall2026"
+  ],
+  "ECON_GR6211": [
+    "Fall2026"
+  ],
+  "ECON_GR6213": [
+    "Fall2026"
+  ],
+  "ECON_GR6214": [
+    "Fall2026"
+  ],
+  "ECON_GR6215": [
+    "Fall2026"
+  ],
+  "ECON_GR6220": [
+    "Fall2026"
+  ],
+  "ECON_GR6232": [
+    "Fall2026"
+  ],
+  "ECON_GR6251": [
+    "Fall2026"
+  ],
+  "ECON_GR6253": [
+    "Fall2026"
+  ],
+  "ECON_GR6290": [
+    "Fall2026"
+  ],
+  "ECON_GR6308": [
+    "Fall2026"
+  ],
+  "ECON_GR6408": [
+    "Fall2026"
+  ],
+  "ECON_GR6410": [
+    "Fall2026"
+  ],
+  "ECON_GR6411": [
+    "Fall2026"
+  ],
+  "ECON_GR6413": [
+    "Fall2026"
+  ],
+  "ECON_GR6466": [
+    "Fall2026"
+  ],
+  "ECON_GR6493": [
+    "Fall2026"
+  ],
+  "ECON_GR6600": [
+    "Fall2026"
+  ],
+  "ECON_GR6805": [
+    "Fall2026"
+  ],
+  "ECON_GR6903": [
+    "Fall2026"
+  ],
+  "ECON_GR8310": [
+    "Fall2026"
+  ],
+  "ECON_GR8315": [
+    "Fall2026"
+  ],
+  "ECON_GR8420": [
+    "Fall2026"
+  ],
+  "ECON_GR8440": [
+    "Fall2026"
+  ],
+  "ECON_GR8708": [
+    "Fall2026"
+  ],
+  "ECON_GR8713": [
+    "Fall2026"
+  ],
+  "ECON_GR8714": [
+    "Fall2026"
+  ],
+  "ECON_GR8730": [
+    "Fall2026"
+  ],
+  "ECON_GR9001": [
+    "Fall2026"
+  ],
+  "ECON_GR9002": [
+    "Fall2026"
+  ],
+  "ECON_GR9007": [
+    "Fall2026"
+  ],
+  "ECON_GR9008": [
+    "Fall2026"
+  ],
+  "ECON_GR9009": [
+    "Fall2026"
+  ],
+  "ECON_GR9012": [
+    "Fall2026"
+  ],
+  "ECON_GR9016": [
+    "Fall2026"
+  ],
+  "ECON_GU4020": [
+    "Fall2026"
+  ],
+  "ECON_GU4228": [
+    "Fall2026"
+  ],
+  "ECON_GU4251": [
+    "Fall2026"
+  ],
+  "ECON_GU4280": [
+    "Fall2026"
+  ],
+  "ECON_GU4301": [
+    "Fall2026"
+  ],
+  "ECON_GU4321": [
+    "Fall2026"
+  ],
+  "ECON_GU4370": [
+    "Fall2026"
+  ],
+  "ECON_GU4415": [
+    "Fall2026"
+  ],
+  "ECON_GU4438": [
+    "Fall2026"
+  ],
+  "ECON_GU4465": [
+    "Fall2026"
+  ],
+  "ECON_GU4500": [
+    "Fall2026"
+  ],
+  "ECON_GU4840": [
+    "Fall2026"
+  ],
+  "ECON_GU4850": [
+    "Fall2026"
+  ],
+  "ECON_GU4911": [
+    "Fall2026"
+  ],
+  "ECON_GU4913": [
+    "Fall2026"
+  ],
+  "ECON_GU4995": [
+    "Fall2026"
+  ],
+  "ECON_GU4996": [
+    "Fall2026"
+  ],
+  "ECON_GU4998": [
+    "Fall2026"
+  ],
+  "ECON_GU4999": [
+    "Fall2026"
+  ],
+  "ECON_UN1105": [
+    "Fall2026"
+  ],
+  "ECON_UN1155": [
+    "Fall2026"
+  ],
+  "ECON_UN2105": [
+    "Fall2026"
+  ],
+  "ECON_UN2261": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_UN3025": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ECON_UN3211": [
+    "Fall2026"
+  ],
+  "ECON_UN3212": [
+    "Fall2026"
+  ],
+  "ECON_UN3213": [
+    "Fall2026"
+  ],
+  "ECON_UN3214": [
+    "Fall2026"
+  ],
+  "ECON_UN3265": [
+    "Fall2026"
+  ],
+  "ECON_UN3412": [
+    "Fall2026"
+  ],
+  "ECON_UN3413": [
+    "Fall2026"
+  ],
+  "EECS_E4321": [
+    "Fall2026"
+  ],
+  "EECS_E4750": [
+    "Fall2026"
+  ],
+  "EECS_E4764": [
+    "Fall2026"
+  ],
+  "EECS_E6690": [
+    "Fall2026"
+  ],
+  "EECS_E6693": [
+    "Fall2026"
+  ],
+  "EECS_E6694": [
+    "Fall2026"
+  ],
+  "EECS_E6893": [
+    "Fall2026"
+  ],
+  "EECS_E6894": [
+    "Fall2026"
+  ],
+  "EECS_E6896": [
+    "Fall2026"
+  ],
+  "EEEB_GR5005": [
+    "Fall2026"
+  ],
+  "EEEB_GR5015": [
+    "Fall2026"
+  ],
+  "EEEB_GR5850": [
+    "Fall2026"
+  ],
+  "EEEB_GR6110": [
+    "Fall2026"
+  ],
+  "EEEB_GR6300": [
+    "Fall2026"
+  ],
+  "EEEB_GR6445": [
+    "Fall2026"
+  ],
+  "EEEB_GR6850": [
+    "Fall2026"
+  ],
+  "EEEB_GR9501": [
+    "Fall2026"
+  ],
+  "EEEB_GR9503": [
+    "Fall2026"
+  ],
+  "EEEB_GR9509": [
+    "Fall2026"
+  ],
+  "EEEB_GU4005": [
+    "Fall2026"
+  ],
+  "EEEB_GU4065": [
+    "Fall2026"
+  ],
+  "EEEB_GU4100": [
+    "Fall2026"
+  ],
+  "EEEB_GU4140": [
+    "Fall2026"
+  ],
+  "EEEB_GU4350": [
+    "Fall2026"
+  ],
+  "EEEB_GU4605": [
+    "Fall2026"
+  ],
+  "EEEB_GU4670": [
+    "Fall2026"
+  ],
+  "EEEB_UN1010": [
+    "Fall2026"
+  ],
+  "EEEB_UN1110": [
+    "Fall2026"
+  ],
+  "EEEB_UN2001": [
+    "Fall2026"
+  ],
+  "EEEB_UN3005": [
+    "Fall2026"
+  ],
+  "EEEB_UN3015": [
+    "Fall2026"
+  ],
+  "EEEB_UN3991": [
+    "Fall2026"
+  ],
+  "EEEB_UN3993": [
+    "Fall2026"
+  ],
+  "EEEB_UN3997": [
+    "Fall2026"
+  ],
+  "EESC_BC1001": [
+    "Fall2026"
+  ],
+  "EESC_BC1002": [
+    "Spring2027"
+  ],
+  "EESC_BC1011": [
+    "Fall2026"
+  ],
+  "EESC_BC1012": [
+    "Spring2027"
+  ],
+  "EESC_BC3016": [
+    "Fall2026"
+  ],
+  "EESC_BC3017": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EESC_BC3026": [
+    "Spring2027"
+  ],
+  "EESC_BC3028": [
+    "Fall2026"
+  ],
+  "EESC_BC3029": [
+    "Spring2027"
+  ],
+  "EESC_BC3040": [
+    "Spring2027"
+  ],
+  "EESC_BC3050": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EESC_BC3300": [
+    "Fall2026"
+  ],
+  "EESC_BC3800": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EESC_GR6001": [
+    "Fall2026"
+  ],
+  "EESC_GR6003": [
+    "Fall2026"
+  ],
+  "EESC_GR6901": [
+    "Fall2026"
+  ],
+  "EESC_GR6908": [
+    "Fall2026"
+  ],
+  "EESC_GR9001": [
+    "Fall2026"
+  ],
+  "EESC_GR9526": [
+    "Fall2026"
+  ],
+  "EESC_GR9902": [
+    "Fall2026"
+  ],
+  "EESC_GR9998": [
+    "Fall2026"
+  ],
+  "EESC_GU4008": [
+    "Fall2026"
+  ],
+  "EESC_GU4020": [
+    "Fall2026"
+  ],
+  "EESC_GU4050": [
+    "Fall2026"
+  ],
+  "EESC_GU4230": [
+    "Fall2026"
+  ],
+  "EESC_GU4524": [
+    "Fall2026"
+  ],
+  "EESC_GU4600": [
+    "Fall2026"
+  ],
+  "EESC_GU4888": [
+    "Fall2026"
+  ],
+  "EESC_GU4923": [
+    "Fall2026"
+  ],
+  "EESC_GU4925": [
+    "Fall2026"
+  ],
+  "EESC_GU4949": [
+    "Fall2026"
+  ],
+  "EESC_UN1001": [
+    "Fall2026"
+  ],
+  "EESC_UN1030": [
+    "Fall2026"
+  ],
+  "EESC_UN1201": [
+    "Fall2026"
+  ],
+  "EESC_UN1401": [
+    "Fall2026"
+  ],
+  "EESC_UN1411": [
+    "Fall2026"
+  ],
+  "EESC_UN1600": [
+    "Fall2026"
+  ],
+  "EESC_UN2100": [
+    "Fall2026"
+  ],
+  "EESC_UN2200": [
+    "Fall2026"
+  ],
+  "EESC_UN2330": [
+    "Fall2026"
+  ],
+  "EESC_UN3000": [
+    "Fall2026"
+  ],
+  "EESC_UN3101": [
+    "Fall2026"
+  ],
+  "EESC_UN3225": [
+    "Fall2026"
+  ],
+  "EESC_UN3328": [
+    "Fall2026"
+  ],
+  "EESC_UN3901": [
+    "Fall2026"
+  ],
+  "ELEN_E1101": [
+    "Fall2026"
+  ],
+  "ELEN_E1201": [
+    "Fall2026"
+  ],
+  "ELEN_E3043": [
+    "Fall2026"
+  ],
+  "ELEN_E3081": [
+    "Fall2026"
+  ],
+  "ELEN_E3084": [
+    "Fall2026"
+  ],
+  "ELEN_E3106": [
+    "Fall2026"
+  ],
+  "ELEN_E3201": [
+    "Fall2026"
+  ],
+  "ELEN_E3399": [
+    "Fall2026"
+  ],
+  "ELEN_E3801": [
+    "Fall2026"
+  ],
+  "ELEN_E3990": [
+    "Fall2026"
+  ],
+  "ELEN_E3998": [
+    "Fall2026"
+  ],
+  "ELEN_E4106": [
+    "Fall2026"
+  ],
+  "ELEN_E4312": [
+    "Fall2026"
+  ],
+  "ELEN_E4361": [
+    "Fall2026"
+  ],
+  "ELEN_E4411": [
+    "Fall2026"
+  ],
+  "ELEN_E4488": [
+    "Fall2026"
+  ],
+  "ELEN_E4511": [
+    "Fall2026"
+  ],
+  "ELEN_E4620": [
+    "Fall2026"
+  ],
+  "ELEN_E4720": [
+    "Fall2026"
+  ],
+  "ELEN_E4810": [
+    "Fall2026"
+  ],
+  "ELEN_E4903": [
+    "Fall2026"
+  ],
+  "ELEN_E4944": [
+    "Fall2026"
+  ],
+  "ELEN_E4998": [
+    "Fall2026"
+  ],
+  "ELEN_E6001": [
+    "Fall2026"
+  ],
+  "ELEN_E6003": [
+    "Fall2026"
+  ],
+  "ELEN_E6320": [
+    "Fall2026"
+  ],
+  "ELEN_E6340": [
+    "Fall2026"
+  ],
+  "ELEN_E6412": [
+    "Fall2026"
+  ],
+  "ELEN_E6430": [
+    "Fall2026"
+  ],
+  "ELEN_E6488": [
+    "Fall2026"
+  ],
+  "ELEN_E6550": [
+    "Fall2026"
+  ],
+  "ELEN_E6590": [
+    "Fall2026"
+  ],
+  "ELEN_E6594": [
+    "Fall2026"
+  ],
+  "ELEN_E6761": [
+    "Fall2026"
+  ],
+  "ELEN_E6767": [
+    "Fall2026"
+  ],
+  "ELEN_E6770": [
+    "Fall2026"
+  ],
+  "ELEN_E6885": [
+    "Fall2026"
+  ],
+  "ELEN_E6887": [
+    "Fall2026"
+  ],
+  "ELEN_E6903": [
+    "Fall2026"
+  ],
+  "ELEN_E6999": [
+    "Fall2026"
+  ],
+  "ELEN_E9001": [
+    "Fall2026"
+  ],
+  "ELEN_E9303": [
+    "Fall2026"
+  ],
+  "ELEN_E9800": [
+    "Fall2026"
+  ],
+  "ENGI_E0014": [
+    "Fall2026"
+  ],
+  "ENGI_E1002": [
+    "Fall2026"
+  ],
+  "ENGI_E1006": [
+    "Fall2026"
+  ],
+  "ENGI_E1102": [
+    "Fall2026"
+  ],
+  "ENGI_E4000": [
+    "Fall2026"
+  ],
+  "ENGI_E4502": [
+    "Fall2026"
+  ],
+  "ENGI_E4503": [
+    "Fall2026"
+  ],
+  "ENGI_E4800": [
+    "Fall2026"
+  ],
+  "ENGI_E5000": [
+    "Fall2026"
+  ],
+  "ENGI_E5001": [
+    "Fall2026"
+  ],
+  "ENGI_E5002": [
+    "Fall2026"
+  ],
+  "ENGI_E5003": [
+    "Fall2026"
+  ],
+  "ENGI_E5009": [
+    "Fall2026"
+  ],
+  "ENGI_E6001": [
+    "Fall2026"
+  ],
+  "ENGI_E6002": [
+    "Fall2026"
+  ],
+  "ENGI_E6003": [
+    "Fall2026"
+  ],
+  "ENGI_E6004": [
+    "Fall2026"
+  ],
+  "ENGI_E7000": [
+    "Fall2026"
+  ],
+  "ENGI_E7001": [
+    "Fall2026"
+  ],
+  "ENGI_E7009": [
+    "Fall2026"
+  ],
+  "ENGL_BC1045": [
+    "Spring2027"
+  ],
+  "ENGL_BC1068": [
+    "Fall2026"
+  ],
+  "ENGL_BC1246": [
+    "Spring2027"
+  ],
+  "ENGL_BC1349": [
+    "Fall2026"
+  ],
+  "ENGL_BC1808": [
+    "Fall2026"
+  ],
+  "ENGL_BC3098": [
+    "Fall2026"
+  ],
+  "ENGL_BC3101": [
+    "Fall2026"
+  ],
+  "ENGL_BC3102": [
+    "Fall2026"
+  ],
+  "ENGL_BC3103": [
+    "Fall2026"
+  ],
+  "ENGL_BC3104": [
+    "Spring2027"
+  ],
+  "ENGL_BC3105": [
+    "Fall2026"
+  ],
+  "ENGL_BC3106": [
+    "Spring2027"
+  ],
+  "ENGL_BC3107": [
+    "Fall2026"
+  ],
+  "ENGL_BC3108": [
+    "Spring2027"
+  ],
+  "ENGL_BC3110": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3113": [
+    "Fall2026"
+  ],
+  "ENGL_BC3114": [
+    "Spring2027"
+  ],
+  "ENGL_BC3115": [
+    "Fall2026"
+  ],
+  "ENGL_BC3116": [
+    "Spring2027"
+  ],
+  "ENGL_BC3117": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3118": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3121": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3123": [
+    "Fall2026"
+  ],
+  "ENGL_BC3130": [
+    "Fall2026"
+  ],
+  "ENGL_BC3134": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3147": [
+    "Fall2026"
+  ],
+  "ENGL_BC3153": [
+    "Fall2026"
+  ],
+  "ENGL_BC3155": [
+    "Spring2027"
+  ],
+  "ENGL_BC3159": [
+    "Fall2026"
+  ],
+  "ENGL_BC3160": [
+    "Spring2027"
+  ],
+  "ENGL_BC3163": [
+    "Fall2026"
+  ],
+  "ENGL_BC3164": [
+    "Spring2027"
+  ],
+  "ENGL_BC3167": [
+    "Spring2027"
+  ],
+  "ENGL_BC3169": [
+    "Spring2027"
+  ],
+  "ENGL_BC3177": [
+    "Spring2027"
+  ],
+  "ENGL_BC3179": [
+    "Fall2026"
+  ],
+  "ENGL_BC3180": [
+    "Spring2027"
+  ],
+  "ENGL_BC3181": [
+    "Fall2026"
+  ],
+  "ENGL_BC3183": [
+    "Fall2026"
+  ],
+  "ENGL_BC3185": [
+    "Fall2026"
+  ],
+  "ENGL_BC3193": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3194": [
+    "Fall2026"
+  ],
+  "ENGL_BC3195": [
+    "Spring2027"
+  ],
+  "ENGL_BC3207": [
+    "Spring2027"
+  ],
+  "ENGL_BC3208": [
+    "Fall2026"
+  ],
+  "ENGL_BC3214": [
+    "Fall2026"
+  ],
+  "ENGL_BC3229": [
+    "Spring2027"
+  ],
+  "ENGL_BC3243": [
+    "Spring2027"
+  ],
+  "ENGL_BC3252": [
+    "Fall2026"
+  ],
+  "ENGL_BC3299": [
+    "Spring2027"
+  ],
+  "ENGL_BC3321": [
+    "Spring2027"
+  ],
+  "ENGL_BC3322": [
+    "Fall2026"
+  ],
+  "ENGL_BC3413": [
+    "Spring2027"
+  ],
+  "ENGL_BC3469": [
+    "Spring2027"
+  ],
+  "ENGL_BC3521": [
+    "Fall2026"
+  ],
+  "ENGL_BC3536": [
+    "Fall2026"
+  ],
+  "ENGL_BC3599": [
+    "Fall2026"
+  ],
+  "ENGL_BC3609": [
+    "Spring2027"
+  ],
+  "ENGL_BC3645": [
+    "Spring2027"
+  ],
+  "ENGL_BC3768": [
+    "Spring2027"
+  ],
+  "ENGL_BC3865": [
+    "Spring2027"
+  ],
+  "ENGL_BC3899": [
+    "Fall2026"
+  ],
+  "ENGL_BC3992": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENGL_BC3997": [
+    "Fall2026"
+  ],
+  "ENGL_BC3998": [
+    "Spring2027"
+  ],
+  "ENGL_BC3999": [
+    "Fall2026"
+  ],
+  "ENGL_CC1010": [
+    "Fall2026"
+  ],
+  "ENGL_GR5001": [
+    "Fall2026"
+  ],
+  "ENGL_GR6102": [
+    "Fall2026"
+  ],
+  "ENGL_GR6150": [
+    "Fall2026"
+  ],
+  "ENGL_GR6233": [
+    "Fall2026"
+  ],
+  "ENGL_GR6240": [
+    "Fall2026"
+  ],
+  "ENGL_GR6300": [
+    "Fall2026"
+  ],
+  "ENGL_GR6303": [
+    "Fall2026"
+  ],
+  "ENGL_GR6909": [
+    "Fall2026"
+  ],
+  "ENGL_GR6998": [
+    "Fall2026"
+  ],
+  "ENGL_GS1010": [
+    "Fall2026"
+  ],
+  "ENGL_GU4131": [
+    "Fall2026"
+  ],
+  "ENGL_GU4132": [
+    "Fall2026"
+  ],
+  "ENGL_GU4426": [
+    "Fall2026"
+  ],
+  "ENGL_GU4559": [
+    "Fall2026"
+  ],
+  "ENGL_GU4619": [
+    "Fall2026"
+  ],
+  "ENGL_GU4728": [
+    "Fall2026"
+  ],
+  "ENGL_PS0005": [
+    "Fall2026"
+  ],
+  "ENGL_PS0006": [
+    "Fall2026"
+  ],
+  "ENGL_PS0012": [
+    "Fall2026"
+  ],
+  "ENGL_PS0719": [
+    "Fall2026"
+  ],
+  "ENGL_PS0850": [
+    "Fall2026"
+  ],
+  "ENGL_UN1000": [
+    "Fall2026"
+  ],
+  "ENGL_UN1335": [
+    "Fall2026"
+  ],
+  "ENGL_UN1520": [
+    "Fall2026"
+  ],
+  "ENGL_UN2000": [
+    "Fall2026"
+  ],
+  "ENGL_UN2001": [
+    "Fall2026"
+  ],
+  "ENGL_UN2100": [
+    "Fall2026"
+  ],
+  "ENGL_UN2200": [
+    "Fall2026"
+  ],
+  "ENGL_UN2225": [
+    "Fall2026"
+  ],
+  "ENGL_UN3027": [
+    "Fall2026"
+  ],
+  "ENGL_UN3055": [
+    "Fall2026"
+  ],
+  "ENGL_UN3327": [
+    "Fall2026"
+  ],
+  "ENGL_UN3329": [
+    "Fall2026"
+  ],
+  "ENGL_UN3351": [
+    "Fall2026"
+  ],
+  "ENGL_UN3795": [
+    "Fall2026"
+  ],
+  "ENGL_UN3805": [
+    "Fall2026"
+  ],
+  "ENGL_UN3871": [
+    "Fall2026"
+  ],
+  "ENGL_UN3873": [
+    "Fall2026"
+  ],
+  "ENGL_UN3891": [
+    "Fall2026"
+  ],
+  "ENGL_UN3920": [
+    "Fall2026"
+  ],
+  "ENME_E3105": [
+    "Fall2026"
+  ],
+  "ENME_E3113": [
+    "Fall2026"
+  ],
+  "ENME_E3161": [
+    "Fall2026"
+  ],
+  "ENME_E3332": [
+    "Fall2026"
+  ],
+  "ENME_E4115": [
+    "Fall2026"
+  ],
+  "ENME_E4117": [
+    "Fall2026"
+  ],
+  "ENME_E4214": [
+    "Fall2026"
+  ],
+  "ENME_E4215": [
+    "Fall2026"
+  ],
+  "ENME_E4332": [
+    "Fall2026"
+  ],
+  "ENME_E6215": [
+    "Fall2026"
+  ],
+  "ENME_E8310": [
+    "Fall2026"
+  ],
+  "ENTA_UN3701": [
+    "Fall2026"
+  ],
+  "FILM_AF5031": [
+    "Fall2026"
+  ],
+  "FILM_AF5040": [
+    "Fall2026"
+  ],
+  "FILM_AF5100": [
+    "Fall2026"
+  ],
+  "FILM_AF5110": [
+    "Fall2026"
+  ],
+  "FILM_AF5200": [
+    "Fall2026"
+  ],
+  "FILM_AF5201": [
+    "Fall2026"
+  ],
+  "FILM_AF5210": [
+    "Fall2026"
+  ],
+  "FILM_AF5230": [
+    "Fall2026"
+  ],
+  "FILM_AF5250": [
+    "Fall2026"
+  ],
+  "FILM_AF5305": [
+    "Fall2026"
+  ],
+  "FILM_AF5400": [
+    "Fall2026"
+  ],
+  "FILM_AF5420": [
+    "Fall2026"
+  ],
+  "FILM_AF5430": [
+    "Fall2026"
+  ],
+  "FILM_AF6055": [
+    "Fall2026"
+  ],
+  "FILM_AF6110": [
+    "Fall2026"
+  ],
+  "FILM_AF6210": [
+    "Fall2026"
+  ],
+  "FILM_AF6240": [
+    "Fall2026"
+  ],
+  "FILM_AF6300": [
+    "Fall2026"
+  ],
+  "FILM_AF6310": [
+    "Fall2026"
+  ],
+  "FILM_AF6330": [
+    "Fall2026"
+  ],
+  "FILM_AF6335": [
+    "Fall2026"
+  ],
+  "FILM_AF6340": [
+    "Fall2026"
+  ],
+  "FILM_AF6810": [
+    "Fall2026"
+  ],
+  "FILM_AF8110": [
+    "Fall2026"
+  ],
+  "FILM_AF8305": [
+    "Fall2026"
+  ],
+  "FILM_AF8315": [
+    "Fall2026"
+  ],
+  "FILM_AF8320": [
+    "Fall2026"
+  ],
+  "FILM_AF8420": [
+    "Fall2026"
+  ],
+  "FILM_AF8800": [
+    "Fall2026"
+  ],
+  "FILM_AF8900": [
+    "Fall2026"
+  ],
+  "FILM_AF9100": [
+    "Fall2026"
+  ],
+  "FILM_AF9110": [
+    "Fall2026"
+  ],
+  "FILM_AF9120": [
+    "Fall2026"
+  ],
+  "FILM_AF9150": [
+    "Fall2026"
+  ],
+  "FILM_AF9210": [
+    "Fall2026"
+  ],
+  "FILM_AF9300": [
+    "Fall2026"
+  ],
+  "FILM_AF9360": [
+    "Fall2026"
+  ],
+  "FILM_AF9700": [
+    "Fall2026"
+  ],
+  "FILM_AF9800": [
+    "Fall2026"
+  ],
+  "FILM_AR9000": [
+    "Fall2026"
+  ],
+  "FILM_AR9001": [
+    "Fall2026"
+  ],
+  "FILM_BC3090": [
+    "Spring2027"
+  ],
+  "FILM_BC3091": [
+    "Spring2027"
+  ],
+  "FILM_BC3119": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FILM_BC3200": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FILM_BC3201": [
+    "Fall2026"
+  ],
+  "FILM_BC3245": [
+    "Fall2026"
+  ],
+  "FILM_BC3250": [
+    "Fall2026"
+  ],
+  "FILM_BC3260": [
+    "Spring2027"
+  ],
+  "FILM_BC3278": [
+    "Fall2026"
+  ],
+  "FILM_BC3279": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FILM_BC3331": [
+    "Spring2027"
+  ],
+  "FILM_BC3702": [
+    "Spring2027"
+  ],
+  "FILM_BC3901": [
+    "Spring2027"
+  ],
+  "FILM_GR5015": [
+    "Fall2026"
+  ],
+  "FILM_GR5020": [
+    "Fall2026"
+  ],
+  "FILM_GR5700": [
+    "Fall2026"
+  ],
+  "FILM_GR6905": [
+    "Fall2026"
+  ],
+  "FILM_GR6915": [
+    "Fall2026"
+  ],
+  "FILM_GR6995": [
+    "Fall2026"
+  ],
+  "FILM_GU4000": [
+    "Fall2026"
+  ],
+  "FILM_GU4001": [
+    "Fall2026"
+  ],
+  "FILM_GU4045": [
+    "Fall2026"
+  ],
+  "FILM_GU4300": [
+    "Fall2026"
+  ],
+  "FILM_GU4301": [
+    "Fall2026"
+  ],
+  "FILM_GU4355": [
+    "Fall2026"
+  ],
+  "FILM_GU4940": [
+    "Fall2026"
+  ],
+  "FILM_GU4951": [
+    "Fall2026"
+  ],
+  "FILM_GU4954": [
+    "Fall2026"
+  ],
+  "FILM_UN1000": [
+    "Fall2026"
+  ],
+  "FILM_UN1001": [
+    "Fall2026"
+  ],
+  "FILM_UN2020": [
+    "Fall2026"
+  ],
+  "FILM_UN2021": [
+    "Fall2026"
+  ],
+  "FILM_UN2030": [
+    "Fall2026"
+  ],
+  "FILM_UN2031": [
+    "Fall2026"
+  ],
+  "FILM_UN2130": [
+    "Fall2026"
+  ],
+  "FILM_UN2131": [
+    "Fall2026"
+  ],
+  "FILM_UN2230": [
+    "Fall2026"
+  ],
+  "FILM_UN2231": [
+    "Fall2026"
+  ],
+  "FILM_UN2410": [
+    "Fall2026"
+  ],
+  "FILM_UN2420": [
+    "Fall2026"
+  ],
+  "FILM_UN2510": [
+    "Fall2026"
+  ],
+  "FILM_UN3800": [
+    "Fall2026"
+  ],
+  "FILM_UN3900": [
+    "Fall2026"
+  ],
+  "FILM_UN3915": [
+    "Fall2026"
+  ],
+  "FILM_UN3920": [
+    "Fall2026"
+  ],
+  "FREN_BC1001": [
+    "Fall2026"
+  ],
+  "FREN_BC1002": [
+    "Spring2027"
+  ],
+  "FREN_BC1102": [
+    "Fall2026"
+  ],
+  "FREN_BC1203": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN_BC1204": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN_BC2456": [
+    "Fall2026"
+  ],
+  "FREN_BC2457": [
+    "Fall2026"
+  ],
+  "FREN_BC3006": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN_BC3014": [
+    "Fall2026"
+  ],
+  "FREN_BC3016": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN_BC3021": [
+    "Fall2026"
+  ],
+  "FREN_BC3022": [
+    "Spring2027"
+  ],
+  "FREN_BC3036": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN_BC3037": [
+    "Spring2027"
+  ],
+  "FREN_BC3065": [
+    "Spring2027"
+  ],
+  "FREN_BC3072": [
+    "Spring2027"
+  ],
+  "FREN_BC3091": [
+    "Spring2027"
+  ],
+  "FREN_BC3101": [
+    "Fall2026"
+  ],
+  "FREN_BC3104": [
+    "Fall2026"
+  ],
+  "FREN_BC3106": [
+    "Spring2027"
+  ],
+  "FREN_BC3111": [
+    "Fall2026"
+  ],
+  "FREN_GR6020": [
+    "Fall2026"
+  ],
+  "FREN_GR8092": [
+    "Fall2026"
+  ],
+  "FREN_GR9701": [
+    "Fall2026"
+  ],
+  "FREN_GU4082": [
+    "Fall2026"
+  ],
+  "FREN_GU4269": [
+    "Fall2026"
+  ],
+  "FREN_GU4426": [
+    "Fall2026"
+  ],
+  "FREN_OC1000": [
+    "Fall2026"
+  ],
+  "FREN_OC3431": [
+    "Fall2026"
+  ],
+  "FREN_OC3432": [
+    "Fall2026"
+  ],
+  "FREN_OC3447": [
+    "Fall2026"
+  ],
+  "FREN_OC3448": [
+    "Fall2026"
+  ],
+  "FREN_OC3719": [
+    "Fall2026"
+  ],
+  "FREN_OC3724": [
+    "Fall2026"
+  ],
+  "FREN_OC3997": [
+    "Fall2026"
+  ],
+  "FREN_UN1101": [
+    "Fall2026"
+  ],
+  "FREN_UN1102": [
+    "Fall2026"
+  ],
+  "FREN_UN2101": [
+    "Fall2026"
+  ],
+  "FREN_UN2102": [
+    "Fall2026"
+  ],
+  "FREN_UN2106": [
+    "Fall2026"
+  ],
+  "FREN_UN2122": [
+    "Fall2026"
+  ],
+  "FREN_UN3131": [
+    "Fall2026"
+  ],
+  "FREN_UN3249": [
+    "Fall2026"
+  ],
+  "FREN_UN3405": [
+    "Fall2026"
+  ],
+  "FREN_UN3409": [
+    "Fall2026"
+  ],
+  "FREN_UN3410": [
+    "Fall2026"
+  ],
+  "FREN_UN3414": [
+    "Fall2026"
+  ],
+  "FREN_UN3725": [
+    "Fall2026"
+  ],
+  "FREN_UN3996": [
+    "Fall2026"
+  ],
+  "GEND_G9321": [
+    "Fall2026"
+  ],
+  "GEND_GR9355": [
+    "Fall2026"
+  ],
+  "GEND_GU4050": [
+    "Fall2026"
+  ],
+  "GERM_BC2210": [
+    "Fall2026"
+  ],
+  "GERM_BC2212": [
+    "Fall2026"
+  ],
+  "GERM_BC3061": [
+    "Spring2027"
+  ],
+  "GERM_BC3105": [
+    "Spring2027"
+  ],
+  "GERM_GU4000": [
+    "Fall2026"
+  ],
+  "GERM_GU4170": [
+    "Fall2026"
+  ],
+  "GERM_GU4350": [
+    "Fall2026"
+  ],
+  "GERM_UN1101": [
+    "Fall2026"
+  ],
+  "GERM_UN1102": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "GERM_UN2101": [
+    "Fall2026"
+  ],
+  "GERM_UN2102": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "GERM_UN2520": [
+    "Fall2026"
+  ],
+  "GERM_UN3001": [
+    "Fall2026"
+  ],
+  "GERM_UN3002": [
+    "Spring2027"
+  ],
+  "GERM_UN3333": [
+    "Fall2026"
+  ],
+  "GERM_UN3991": [
+    "Fall2026"
+  ],
+  "GRKM_GU4460": [
+    "Fall2026"
+  ],
+  "GRKM_UN1101": [
+    "Fall2026"
+  ],
+  "GRKM_UN2101": [
+    "Fall2026"
+  ],
+  "GRKM_UN3003": [
+    "Fall2026"
+  ],
+  "GRKM_UN3935": [
+    "Fall2026"
+  ],
+  "GRKM_UN3997": [
+    "Fall2026"
+  ],
+  "GRKM_UN3998": [
+    "Fall2026"
+  ],
+  "HIST_BC1062": [
+    "Fall2026"
+  ],
+  "HIST_BC1162": [
+    "Fall2026"
+  ],
+  "HIST_BC1302": [
+    "Spring2027"
+  ],
+  "HIST_BC1402": [
+    "Fall2026"
+  ],
+  "HIST_BC1412": [
+    "Fall2026"
+  ],
+  "HIST_BC1760": [
+    "Spring2027"
+  ],
+  "HIST_BC2101": [
+    "Spring2027"
+  ],
+  "HIST_BC2199": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "HIST_BC2321": [
+    "Fall2026"
+  ],
+  "HIST_BC2375": [
+    "Spring2027"
+  ],
+  "HIST_BC2385": [
+    "Fall2026"
+  ],
+  "HIST_BC2401": [
+    "Fall2026"
+  ],
+  "HIST_BC2413": [
+    "Fall2026"
+  ],
+  "HIST_BC2477": [
+    "Spring2027"
+  ],
+  "HIST_BC2482": [
+    "Spring2027"
+  ],
+  "HIST_BC2567": [
+    "Fall2026"
+  ],
+  "HIST_BC2664": [
+    "Spring2027"
+  ],
+  "HIST_BC2920": [
+    "Spring2027"
+  ],
+  "HIST_BC3079": [
+    "Spring2027"
+  ],
+  "HIST_BC3098": [
+    "Fall2026"
+  ],
+  "HIST_BC3193": [
+    "Fall2026"
+  ],
+  "HIST_BC3391": [
+    "Fall2026"
+  ],
+  "HIST_BC3392": [
+    "Spring2027"
+  ],
+  "HIST_BC3557": [
+    "Fall2026"
+  ],
+  "HIST_BC3589": [
+    "Fall2026"
+  ],
+  "HIST_BC3999": [
+    "Spring2027"
+  ],
+  "HIST_GR5000": [
+    "Fall2026"
+  ],
+  "HIST_GR5993": [
+    "Fall2026"
+  ],
+  "HIST_GR6998": [
+    "Fall2026"
+  ],
+  "HIST_GR6999": [
+    "Fall2026"
+  ],
+  "HIST_GR8176": [
+    "Fall2026"
+  ],
+  "HIST_GR8237": [
+    "Fall2026"
+  ],
+  "HIST_GR8263": [
+    "Fall2026"
+  ],
+  "HIST_GR8401": [
+    "Fall2026"
+  ],
+  "HIST_GR8495": [
+    "Fall2026"
+  ],
+  "HIST_GR8664": [
+    "Fall2026"
+  ],
+  "HIST_GR8757": [
+    "Fall2026"
+  ],
+  "HIST_GR8834": [
+    "Fall2026"
+  ],
+  "HIST_GR8910": [
+    "Fall2026"
+  ],
+  "HIST_GR8930": [
+    "Fall2026"
+  ],
+  "HIST_GR8991": [
+    "Fall2026"
+  ],
+  "HIST_GR9000": [
+    "Fall2026"
+  ],
+  "HIST_GR9999": [
+    "Fall2026"
+  ],
+  "HIST_GU4218": [
+    "Fall2026"
+  ],
+  "HIST_GU4281": [
+    "Fall2026"
+  ],
+  "HIST_GU4291": [
+    "Fall2026"
+  ],
+  "HIST_GU4389": [
+    "Fall2026"
+  ],
+  "HIST_GU4435": [
+    "Fall2026"
+  ],
+  "HIST_GU4526": [
+    "Fall2026"
+  ],
+  "HIST_GU4527": [
+    "Fall2026"
+  ],
+  "HIST_GU4632": [
+    "Fall2026"
+  ],
+  "HIST_GU4660": [
+    "Fall2026"
+  ],
+  "HIST_GU4713": [
+    "Fall2026"
+  ],
+  "HIST_UN1010": [
+    "Fall2026"
+  ],
+  "HIST_UN1011": [
+    "Fall2026"
+  ],
+  "HIST_UN1786": [
+    "Fall2026"
+  ],
+  "HIST_UN1787": [
+    "Fall2026"
+  ],
+  "HIST_UN2072": [
+    "Fall2026"
+  ],
+  "HIST_UN2073": [
+    "Fall2026"
+  ],
+  "HIST_UN2213": [
+    "Fall2026"
+  ],
+  "HIST_UN2214": [
+    "Fall2026"
+  ],
+  "HIST_UN2218": [
+    "Fall2026"
+  ],
+  "HIST_UN2219": [
+    "Fall2026"
+  ],
+  "HIST_UN2310": [
+    "Fall2026"
+  ],
+  "HIST_UN2311": [
+    "Fall2026"
+  ],
+  "HIST_UN2344": [
+    "Fall2026"
+  ],
+  "HIST_UN2345": [
+    "Fall2026"
+  ],
+  "HIST_UN2347": [
+    "Fall2026"
+  ],
+  "HIST_UN2348": [
+    "Fall2026"
+  ],
+  "HIST_UN2353": [
+    "Fall2026"
+  ],
+  "HIST_UN2354": [
+    "Fall2026"
+  ],
+  "HIST_UN2510": [
+    "Fall2026"
+  ],
+  "HIST_UN2511": [
+    "Fall2026"
+  ],
+  "HIST_UN2523": [
+    "Fall2026"
+  ],
+  "HIST_UN2524": [
+    "Fall2026"
+  ],
+  "HIST_UN2533": [
+    "Fall2026"
+  ],
+  "HIST_UN2534": [
+    "Fall2026"
+  ],
+  "HIST_UN2535": [
+    "Fall2026"
+  ],
+  "HIST_UN2536": [
+    "Fall2026"
+  ],
+  "HIST_UN2571": [
+    "Fall2026"
+  ],
+  "HIST_UN2572": [
+    "Fall2026"
+  ],
+  "HIST_UN2660": [
+    "Fall2026"
+  ],
+  "HIST_UN2666": [
+    "Fall2026"
+  ],
+  "HIST_UN2701": [
+    "Fall2026"
+  ],
+  "HIST_UN2702": [
+    "Fall2026"
+  ],
+  "HIST_UN2772": [
+    "Fall2026"
+  ],
+  "HIST_UN2773": [
+    "Fall2026"
+  ],
+  "HIST_UN2851": [
+    "Fall2026"
+  ],
+  "HIST_UN2852": [
+    "Fall2026"
+  ],
+  "HIST_UN2953": [
+    "Fall2026"
+  ],
+  "HIST_UN2954": [
+    "Fall2026"
+  ],
+  "HIST_UN3023": [
+    "Fall2026"
+  ],
+  "HIST_UN3277": [
+    "Fall2026"
+  ],
+  "HIST_UN3394": [
+    "Fall2026"
+  ],
+  "HIST_UN3418": [
+    "Fall2026"
+  ],
+  "HIST_UN3518": [
+    "Fall2026"
+  ],
+  "HIST_UN3561": [
+    "Fall2026"
+  ],
+  "HIST_UN3645": [
+    "Fall2026"
+  ],
+  "HIST_UN3709": [
+    "Fall2026"
+  ],
+  "HIST_UN3712": [
+    "Fall2026"
+  ],
+  "HIST_UN3836": [
+    "Fall2026"
+  ],
+  "HIST_UN3838": [
+    "Fall2026"
+  ],
+  "HIST_UN3928": [
+    "Fall2026"
+  ],
+  "HSEA_GR6300": [
+    "Fall2026"
+  ],
+  "HSEA_GR8883": [
+    "Fall2026"
+  ],
+  "HSEA_GR8884": [
+    "Fall2026"
+  ],
+  "HSEA_GR9871": [
+    "Fall2026"
+  ],
+  "HSEA_GU4027": [
+    "Fall2026"
+  ],
+  "HSEA_GU4222": [
+    "Fall2026"
+  ],
+  "HSEA_GU4847": [
+    "Fall2026"
+  ],
+  "HSEA_GU4880": [
+    "Fall2026"
+  ],
+  "HSME_UN2810": [
+    "Fall2026"
+  ],
+  "HSME_UN2812": [
+    "Fall2026"
+  ],
+  "HSME_UN2915": [
+    "Fall2026"
+  ],
+  "HSWM_UN2761": [
+    "Fall2026"
+  ],
+  "HSWM_UN2762": [
+    "Fall2026"
+  ],
+  "HUMA_BC1111": [
+    "Fall2026"
+  ],
+  "HUMA_CC1001": [
+    "Fall2026"
+  ],
+  "HUMA_GR6913": [
+    "Fall2026"
+  ],
+  "HUMA_GS1001": [
+    "Fall2026"
+  ],
+  "HUMA_UN1121": [
+    "Fall2026"
+  ],
+  "HUMA_UN1123": [
+    "Fall2026"
+  ],
+  "HUMA_UN2000": [
+    "Fall2026"
+  ],
+  "HUMA_UN3000": [
+    "Fall2026"
+  ],
+  "IEOR_E1000": [
+    "Fall2026"
+  ],
+  "IEOR_E2261": [
+    "Fall2026"
+  ],
+  "IEOR_E3106": [
+    "Fall2026"
+  ],
+  "IEOR_E3608": [
+    "Fall2026"
+  ],
+  "IEOR_E3658": [
+    "Fall2026"
+  ],
+  "IEOR_E3900": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "IEOR_E3999": [
+    "Fall2026"
+  ],
+  "IEOR_E4003": [
+    "Fall2026"
+  ],
+  "IEOR_E4004": [
+    "Fall2026"
+  ],
+  "IEOR_E4007": [
+    "Fall2026"
+  ],
+  "IEOR_E4010": [
+    "Fall2026"
+  ],
+  "IEOR_E4011": [
+    "Fall2026"
+  ],
+  "IEOR_E4100": [
+    "Fall2026"
+  ],
+  "IEOR_E4101": [
+    "Fall2026"
+  ],
+  "IEOR_E4106": [
+    "Fall2026"
+  ],
+  "IEOR_E4108": [
+    "Fall2026"
+  ],
+  "IEOR_E4111": [
+    "Fall2026"
+  ],
+  "IEOR_E4150": [
+    "Fall2026"
+  ],
+  "IEOR_E4199": [
+    "Fall2026"
+  ],
+  "IEOR_E4207": [
+    "Fall2026"
+  ],
+  "IEOR_E4212": [
+    "Fall2026"
+  ],
+  "IEOR_E4307": [
+    "Fall2026"
+  ],
+  "IEOR_E4399": [
+    "Fall2026"
+  ],
+  "IEOR_E4402": [
+    "Fall2026"
+  ],
+  "IEOR_E4404": [
+    "Fall2026"
+  ],
+  "IEOR_E4407": [
+    "Fall2026"
+  ],
+  "IEOR_E4500": [
+    "Fall2026"
+  ],
+  "IEOR_E4502": [
+    "Fall2026"
+  ],
+  "IEOR_E4506": [
+    "Fall2026"
+  ],
+  "IEOR_E4507": [
+    "Fall2026"
+  ],
+  "IEOR_E4511": [
+    "Fall2026"
+  ],
+  "IEOR_E4523": [
+    "Fall2026"
+  ],
+  "IEOR_E4525": [
+    "Fall2026"
+  ],
+  "IEOR_E4526": [
+    "Fall2026"
+  ],
+  "IEOR_E4532": [
+    "Fall2026"
+  ],
+  "IEOR_E4533": [
+    "Fall2026"
+  ],
+  "IEOR_E4534": [
+    "Fall2026"
+  ],
+  "IEOR_E4540": [
+    "Fall2026"
+  ],
+  "IEOR_E4564": [
+    "Fall2026"
+  ],
+  "IEOR_E4570": [
+    "Fall2026"
+  ],
+  "IEOR_E4571": [
+    "Fall2026"
+  ],
+  "IEOR_E4572": [
+    "Fall2026"
+  ],
+  "IEOR_E4573": [
+    "Fall2026"
+  ],
+  "IEOR_E4576": [
+    "Fall2026"
+  ],
+  "IEOR_E4577": [
+    "Fall2026"
+  ],
+  "IEOR_E4598": [
+    "Fall2026"
+  ],
+  "IEOR_E4599": [
+    "Fall2026"
+  ],
+  "IEOR_E4602": [
+    "Fall2026"
+  ],
+  "IEOR_E4620": [
+    "Fall2026"
+  ],
+  "IEOR_E4650": [
+    "Fall2026"
+  ],
+  "IEOR_E4700": [
+    "Fall2026"
+  ],
+  "IEOR_E4701": [
+    "Fall2026"
+  ],
+  "IEOR_E4706": [
+    "Fall2026"
+  ],
+  "IEOR_E4711": [
+    "Fall2026"
+  ],
+  "IEOR_E4723": [
+    "Fall2026"
+  ],
+  "IEOR_E4728": [
+    "Fall2026"
+  ],
+  "IEOR_E4734": [
+    "Fall2026"
+  ],
+  "IEOR_E4735": [
+    "Fall2026"
+  ],
+  "IEOR_E4741": [
+    "Fall2026"
+  ],
+  "IEOR_E4742": [
+    "Fall2026"
+  ],
+  "IEOR_E4745": [
+    "Fall2026"
+  ],
+  "IEOR_E4798": [
+    "Fall2026"
+  ],
+  "IEOR_E4799": [
+    "Fall2026"
+  ],
+  "IEOR_E4900": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "IEOR_E4999": [
+    "Fall2026"
+  ],
+  "IEOR_E6613": [
+    "Fall2026"
+  ],
+  "IEOR_E6617": [
+    "Fall2026"
+  ],
+  "IEOR_E6711": [
+    "Fall2026"
+  ],
+  "IEOR_E8100": [
+    "Fall2026"
+  ],
+  "IEOR_E9101": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ITAL_BC1001": [
+    "Fall2026"
+  ],
+  "ITAL_BC1002": [
+    "Spring2027"
+  ],
+  "ITAL_BC2001": [
+    "Fall2026"
+  ],
+  "ITAL_BC3898": [
+    "Fall2026"
+  ],
+  "ITAL_GR6077": [
+    "Fall2026"
+  ],
+  "ITAL_GR9101": [
+    "Fall2026"
+  ],
+  "ITAL_GR9103": [
+    "Fall2026"
+  ],
+  "ITAL_GU4019": [
+    "Fall2026"
+  ],
+  "ITAL_GU4064": [
+    "Fall2026"
+  ],
+  "ITAL_GU4079": [
+    "Fall2026"
+  ],
+  "ITAL_GU4100": [
+    "Fall2026"
+  ],
+  "ITAL_GU4503": [
+    "Spring2027"
+  ],
+  "ITAL_GU4520": [
+    "Fall2026"
+  ],
+  "ITAL_UN1101": [
+    "Fall2026"
+  ],
+  "ITAL_UN1102": [
+    "Fall2026"
+  ],
+  "ITAL_UN1121": [
+    "Fall2026"
+  ],
+  "ITAL_UN2101": [
+    "Fall2026"
+  ],
+  "ITAL_UN2102": [
+    "Fall2026"
+  ],
+  "ITAL_UN2121": [
+    "Fall2026"
+  ],
+  "ITAL_UN3333": [
+    "Fall2026"
+  ],
+  "ITAL_UN3335": [
+    "Fall2026"
+  ],
+  "ITAL_UN3342": [
+    "Fall2026"
+  ],
+  "ITAL_UN3993": [
+    "Fall2026"
+  ],
+  "JWST_GU4145": [
+    "Fall2026"
+  ],
+  "JWST_GU4160": [
+    "Fall2026"
+  ],
+  "JWST_GU4600": [
+    "Fall2026"
+  ],
+  "JWST_GU4602": [
+    "Fall2026"
+  ],
+  "JWST_GU4990": [
+    "Fall2026"
+  ],
+  "JWST_GU4999": [
+    "Fall2026"
+  ],
+  "LACV_UN1020": [
+    "Fall2026"
+  ],
+  "LCRS_GR6400": [
+    "Fall2026"
+  ],
+  "LCRS_GR7000": [
+    "Fall2026"
+  ],
+  "LING_GU4120": [
+    "Fall2026"
+  ],
+  "LING_GU4376": [
+    "Fall2026"
+  ],
+  "LING_UN3101": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "LING_UN3103": [
+    "Fall2026"
+  ],
+  "LING_UN3993": [
+    "Fall2026"
+  ],
+  "MATH_BC2001": [
+    "Spring2027"
+  ],
+  "MATH_GR5010": [
+    "Fall2026"
+  ],
+  "MATH_GR5030": [
+    "Fall2026"
+  ],
+  "MATH_GR5050": [
+    "Fall2026"
+  ],
+  "MATH_GR5220": [
+    "Fall2026"
+  ],
+  "MATH_GR5280": [
+    "Fall2026"
+  ],
+  "MATH_GR5300": [
+    "Fall2026"
+  ],
+  "MATH_GR5400": [
+    "Fall2026"
+  ],
+  "MATH_GR5420": [
+    "Fall2026"
+  ],
+  "MATH_GR5431": [
+    "Fall2026"
+  ],
+  "MATH_GR5490": [
+    "Fall2026"
+  ],
+  "MATH_GR5510": [
+    "Fall2026"
+  ],
+  "MATH_GR5520": [
+    "Fall2026"
+  ],
+  "MATH_GR5521": [
+    "Fall2026"
+  ],
+  "MATH_GR5900": [
+    "Fall2026"
+  ],
+  "MATH_GR6000": [
+    "Spring2027"
+  ],
+  "MATH_GR6151": [
+    "Fall2026"
+  ],
+  "MATH_GR6152": [
+    "Spring2027"
+  ],
+  "MATH_GR6153": [
+    "Spring2027"
+  ],
+  "MATH_GR6175": [
+    "Fall2026"
+  ],
+  "MATH_GR6176": [
+    "Spring2027"
+  ],
+  "MATH_GR6261": [
+    "Fall2026"
+  ],
+  "MATH_GR6262": [
+    "Spring2027"
+  ],
+  "MATH_GR6263": [
+    "Spring2027"
+  ],
+  "MATH_GR6307": [
+    "Fall2026"
+  ],
+  "MATH_GR6308": [
+    "Spring2027"
+  ],
+  "MATH_GR6343": [
+    "Fall2026"
+  ],
+  "MATH_GR6344": [
+    "Spring2027"
+  ],
+  "MATH_GR6402": [
+    "Fall2026"
+  ],
+  "MATH_GR6403": [
+    "Spring2027"
+  ],
+  "MATH_GR6657": [
+    "Spring2027"
+  ],
+  "MATH_GR8674": [
+    "Fall2026"
+  ],
+  "MATH_GU4007": [
+    "Spring2027"
+  ],
+  "MATH_GU4032": [
+    "Fall2026"
+  ],
+  "MATH_GU4041": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_GU4042": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_GU4043": [
+    "Spring2027"
+  ],
+  "MATH_GU4044": [
+    "Fall2026"
+  ],
+  "MATH_GU4045": [
+    "Spring2027"
+  ],
+  "MATH_GU4051": [
+    "Fall2026"
+  ],
+  "MATH_GU4052": [
+    "Spring2027"
+  ],
+  "MATH_GU4053": [
+    "Spring2027"
+  ],
+  "MATH_GU4061": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_GU4062": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_GU4065": [
+    "Fall2026"
+  ],
+  "MATH_GU4081": [
+    "Spring2027"
+  ],
+  "MATH_GU4155": [
+    "Spring2027"
+  ],
+  "MATH_GU4156": [
+    "Fall2026"
+  ],
+  "MATH_GU4200": [
+    "Spring2027"
+  ],
+  "MATH_GU4941": [
+    "Fall2026"
+  ],
+  "MATH_GU4961": [
+    "Fall2026"
+  ],
+  "MATH_UN1003": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1101": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1102": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1201": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1202": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1205": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1207": [
+    "Fall2026"
+  ],
+  "MATH_UN1208": [
+    "Spring2027"
+  ],
+  "MATH_UN1215": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN1217": [
+    "Fall2026"
+  ],
+  "MATH_UN1218": [
+    "Spring2027"
+  ],
+  "MATH_UN2000": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN2005": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN2010": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN2015": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN2030": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN2500": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH_UN3007": [
+    "Spring2027"
+  ],
+  "MATH_UN3020": [
+    "Spring2027"
+  ],
+  "MATH_UN3025": [
+    "Fall2026"
+  ],
+  "MATH_UN3028": [
+    "Spring2027"
+  ],
+  "MATH_UN3050": [
+    "Spring2027"
+  ],
+  "MATH_UN3386": [
+    "Fall2026"
+  ],
+  "MATH_UN3901": [
+    "Fall2026"
+  ],
+  "MATH_UN3902": [
+    "Spring2027"
+  ],
+  "MATH_UN3951": [
+    "Fall2026"
+  ],
+  "MATH_UN3952": [
+    "Spring2027"
+  ],
+  "MATH_UN3994": [
+    "Fall2026"
+  ],
+  "MATH_UN3995": [
+    "Spring2027"
+  ],
+  "MATH_UN3997": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MDES_GR5000": [
+    "Fall2026"
+  ],
+  "MDES_GR6008": [
+    "Fall2026"
+  ],
+  "MDES_GR6410": [
+    "Fall2026"
+  ],
+  "MDES_GR6610": [
+    "Fall2026"
+  ],
+  "MDES_GR8008": [
+    "Fall2026"
+  ],
+  "MDES_GR8101": [
+    "Fall2026"
+  ],
+  "MDES_GU4122": [
+    "Fall2026"
+  ],
+  "MDES_GU4210": [
+    "Fall2026"
+  ],
+  "MDES_GU4212": [
+    "Fall2026"
+  ],
+  "MDES_GU4218": [
+    "Fall2026"
+  ],
+  "MDES_GU4221": [
+    "Fall2026"
+  ],
+  "MDES_GU4310": [
+    "Fall2026"
+  ],
+  "MDES_GU4502": [
+    "Fall2026"
+  ],
+  "MDES_GU4510": [
+    "Fall2026"
+  ],
+  "MDES_GU4601": [
+    "Fall2026"
+  ],
+  "MDES_GU4624": [
+    "Fall2026"
+  ],
+  "MDES_GU4640": [
+    "Fall2026"
+  ],
+  "MDES_GU4710": [
+    "Fall2026"
+  ],
+  "MDES_GU4810": [
+    "Fall2026"
+  ],
+  "MDES_GU4910": [
+    "Fall2026"
+  ],
+  "MDES_GU4926": [
+    "Fall2026"
+  ],
+  "MDES_GU4953": [
+    "Fall2026"
+  ],
+  "MDES_UN1003": [
+    "Fall2026"
+  ],
+  "MDES_UN1004": [
+    "Fall2026"
+  ],
+  "MDES_UN1030": [
+    "Fall2026"
+  ],
+  "MDES_UN1031": [
+    "Fall2026"
+  ],
+  "MDES_UN1101": [
+    "Fall2026"
+  ],
+  "MDES_UN1210": [
+    "Fall2026"
+  ],
+  "MDES_UN1211": [
+    "Fall2026"
+  ],
+  "MDES_UN1301": [
+    "Fall2026"
+  ],
+  "MDES_UN1309": [
+    "Fall2026"
+  ],
+  "MDES_UN1401": [
+    "Fall2026"
+  ],
+  "MDES_UN1501": [
+    "Fall2026"
+  ],
+  "MDES_UN1601": [
+    "Fall2026"
+  ],
+  "MDES_UN1608": [
+    "Fall2026"
+  ],
+  "MDES_UN1614": [
+    "Fall2026"
+  ],
+  "MDES_UN1701": [
+    "Fall2026"
+  ],
+  "MDES_UN1901": [
+    "Fall2026"
+  ],
+  "MDES_UN2042": [
+    "Fall2026"
+  ],
+  "MDES_UN2201": [
+    "Fall2026"
+  ],
+  "MDES_UN2202": [
+    "Fall2026"
+  ],
+  "MDES_UN2208": [
+    "Fall2026"
+  ],
+  "MDES_UN2401": [
+    "Fall2026"
+  ],
+  "MDES_UN2501": [
+    "Fall2026"
+  ],
+  "MDES_UN2516": [
+    "Fall2026"
+  ],
+  "MDES_UN2517": [
+    "Fall2026"
+  ],
+  "MDES_UN2601": [
+    "Fall2026"
+  ],
+  "MDES_UN2701": [
+    "Fall2026"
+  ],
+  "MDES_UN2901": [
+    "Fall2026"
+  ],
+  "MDES_UN3335": [
+    "Fall2026"
+  ],
+  "MDES_UN3960": [
+    "Fall2026"
+  ],
+  "MECE_E1008": [
+    "Fall2026"
+  ],
+  "MECE_E3018": [
+    "Fall2026"
+  ],
+  "MECE_E3100": [
+    "Fall2026"
+  ],
+  "MECE_E3301": [
+    "Fall2026"
+  ],
+  "MECE_E3408": [
+    "Fall2026"
+  ],
+  "MECE_E3409": [
+    "Fall2026"
+  ],
+  "MECE_E3414": [
+    "Fall2026"
+  ],
+  "MECE_E3420": [
+    "Fall2026"
+  ],
+  "MECE_E3899": [
+    "Fall2026"
+  ],
+  "MECE_E3900": [
+    "Fall2026"
+  ],
+  "MECE_E3998": [
+    "Fall2026"
+  ],
+  "MECE_E3999": [
+    "Fall2026"
+  ],
+  "MECE_E4058": [
+    "Fall2026"
+  ],
+  "MECE_E4211": [
+    "Fall2026"
+  ],
+  "MECE_E4212": [
+    "Fall2026"
+  ],
+  "MECE_E4213": [
+    "Fall2026"
+  ],
+  "MECE_E4350": [
+    "Fall2026"
+  ],
+  "MECE_E4461": [
+    "Fall2026"
+  ],
+  "MECE_E4507": [
+    "Fall2026"
+  ],
+  "MECE_E4520": [
+    "Fall2026"
+  ],
+  "MECE_E4602": [
+    "Fall2026"
+  ],
+  "MECE_E4610": [
+    "Fall2026"
+  ],
+  "MECE_E4611": [
+    "Fall2026"
+  ],
+  "MECE_E4899": [
+    "Fall2026"
+  ],
+  "MECE_E4990": [
+    "Fall2026"
+  ],
+  "MECE_E4998": [
+    "Fall2026"
+  ],
+  "MECE_E4999": [
+    "Fall2026"
+  ],
+  "MECE_E6100": [
+    "Fall2026"
+  ],
+  "MECE_E6106": [
+    "Fall2026"
+  ],
+  "MECE_E6422": [
+    "Fall2026"
+  ],
+  "MECE_E6432": [
+    "Fall2026"
+  ],
+  "MECE_E9000": [
+    "Fall2026"
+  ],
+  "MECE_E9500": [
+    "Fall2026"
+  ],
+  "MECE_E9800": [
+    "Fall2026"
+  ],
+  "MICR_G6055": [
+    "Fall2026"
+  ],
+  "MICR_G9301": [
+    "Fall2026"
+  ],
+  "MICR_G9501": [
+    "Fall2026"
+  ],
+  "MSAE_E3010": [
+    "Fall2026"
+  ],
+  "MSAE_E3012": [
+    "Fall2026"
+  ],
+  "MSAE_E3100": [
+    "Fall2026"
+  ],
+  "MSAE_E3111": [
+    "Fall2026"
+  ],
+  "MSAE_E3156": [
+    "Fall2026"
+  ],
+  "MSAE_E3900": [
+    "Fall2026"
+  ],
+  "MSAE_E4100": [
+    "Fall2026"
+  ],
+  "MSAE_E4200": [
+    "Fall2026"
+  ],
+  "MSAE_E4215": [
+    "Fall2026"
+  ],
+  "MSAE_E4250": [
+    "Fall2026"
+  ],
+  "MSAE_E4260": [
+    "Fall2026"
+  ],
+  "MSAE_E4301": [
+    "Fall2026"
+  ],
+  "MSAE_E6273": [
+    "Fall2026"
+  ],
+  "MSAE_E9301": [
+    "Fall2026"
+  ],
+  "MUSI_BC1001": [
+    "Fall2026"
+  ],
+  "MUSI_BC1002": [
+    "Spring2027"
+  ],
+  "MUSI_BC1501": [
+    "Fall2026"
+  ],
+  "MUSI_BC1502": [
+    "Spring2027"
+  ],
+  "MUSI_BC2075": [
+    "Spring2027"
+  ],
+  "MUSI_BC3139": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MUSI_BC3140": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MUSI_BC3145": [
+    "Spring2027"
+  ],
+  "MUSI_BC3199": [
+    "Spring2027"
+  ],
+  "MUSI_BC3990": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MUSI_BC3991": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MUSI_BC3992": [
+    "Fall2026"
+  ],
+  "MUSI_BC3999": [
+    "Fall2026"
+  ],
+  "MUSI_GR6333": [
+    "Fall2026"
+  ],
+  "MUSI_GR6370": [
+    "Fall2026"
+  ],
+  "MUSI_GR6411": [
+    "Fall2026"
+  ],
+  "MUSI_GR6610": [
+    "Fall2026"
+  ],
+  "MUSI_GR8097": [
+    "Fall2026"
+  ],
+  "MUSI_GR8105": [
+    "Fall2026"
+  ],
+  "MUSI_GR8231": [
+    "Fall2026"
+  ],
+  "MUSI_GR8240": [
+    "Fall2026"
+  ],
+  "MUSI_GR8412": [
+    "Fall2026"
+  ],
+  "MUSI_GR8500": [
+    "Fall2026"
+  ],
+  "MUSI_GR9403": [
+    "Fall2026"
+  ],
+  "MUSI_GU4208": [
+    "Fall2026"
+  ],
+  "MUSI_GU4308": [
+    "Fall2026"
+  ],
+  "MUSI_GU4438": [
+    "Fall2026"
+  ],
+  "MUSI_GU4630": [
+    "Fall2026"
+  ],
+  "MUSI_GU4998": [
+    "Fall2026"
+  ],
+  "MUSI_UN1002": [
+    "Fall2026"
+  ],
+  "MUSI_UN1350": [
+    "Fall2026"
+  ],
+  "MUSI_UN1593": [
+    "Fall2026"
+  ],
+  "MUSI_UN1594": [
+    "Spring2027"
+  ],
+  "MUSI_UN1595": [
+    "Fall2026"
+  ],
+  "MUSI_UN1596": [
+    "Spring2027"
+  ],
+  "MUSI_UN2030": [
+    "Fall2026"
+  ],
+  "MUSI_UN2205": [
+    "Fall2026"
+  ],
+  "MUSI_UN2230": [
+    "Fall2026"
+  ],
+  "MUSI_UN2318": [
+    "Fall2026"
+  ],
+  "MUSI_UN2319": [
+    "Fall2026"
+  ],
+  "MUSI_UN2351": [
+    "Fall2026"
+  ],
+  "MUSI_UN2352": [
+    "Fall2026"
+  ],
+  "MUSI_UN2353": [
+    "Fall2026"
+  ],
+  "MUSI_UN3011": [
+    "Fall2026"
+  ],
+  "MUSI_UN3128": [
+    "Fall2026"
+  ],
+  "MUSI_UN3239": [
+    "Fall2026"
+  ],
+  "MUSI_UN3321": [
+    "Fall2026"
+  ],
+  "MUSI_UN3400": [
+    "Fall2026"
+  ],
+  "MUSI_UN3995": [
+    "Fall2026"
+  ],
+  "MUSI_UN3998": [
+    "Fall2026"
+  ],
+  "PHED_BC1004": [
+    "Fall2026"
+  ],
+  "PHED_UN1001": [
+    "Fall2026"
+  ],
+  "PHED_UN1003": [
+    "Fall2026"
+  ],
+  "PHED_UN1005": [
+    "Fall2026"
+  ],
+  "PHED_UN3998": [
+    "Fall2026"
+  ],
+  "PHIL_BC4050": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHIL_BC4051": [
+    "Fall2026"
+  ],
+  "PHIL_BC4052": [
+    "Spring2027"
+  ],
+  "PHIL_GR5415": [
+    "Fall2026"
+  ],
+  "PHIL_GR6050": [
+    "Fall2026"
+  ],
+  "PHIL_GR6101": [
+    "Fall2026"
+  ],
+  "PHIL_GR6552": [
+    "Fall2026"
+  ],
+  "PHIL_GR6553": [
+    "Fall2026"
+  ],
+  "PHIL_GR6554": [
+    "Fall2026"
+  ],
+  "PHIL_GR9001": [
+    "Fall2026"
+  ],
+  "PHIL_GR9003": [
+    "Fall2026"
+  ],
+  "PHIL_GR9265": [
+    "Fall2026"
+  ],
+  "PHIL_GR9750": [
+    "Fall2026"
+  ],
+  "PHIL_GR9985": [
+    "Fall2026"
+  ],
+  "PHIL_GU4137": [
+    "Fall2026"
+  ],
+  "PHIL_GU4561": [
+    "Fall2026"
+  ],
+  "PHIL_GU4570": [
+    "Fall2026"
+  ],
+  "PHIL_GU4675": [
+    "Fall2026"
+  ],
+  "PHIL_GU4717": [
+    "Fall2026"
+  ],
+  "PHIL_UN1001": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHIL_UN1101": [
+    "Fall2026"
+  ],
+  "PHIL_UN1401": [
+    "Spring2027"
+  ],
+  "PHIL_UN2101": [
+    "Fall2026"
+  ],
+  "PHIL_UN2110": [
+    "Fall2026"
+  ],
+  "PHIL_UN2111": [
+    "Fall2026"
+  ],
+  "PHIL_UN2201": [
+    "Spring2027"
+  ],
+  "PHIL_UN2211": [
+    "Spring2027"
+  ],
+  "PHIL_UN2655": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHIL_UN2685": [
+    "Fall2026"
+  ],
+  "PHIL_UN3351": [
+    "Spring2027"
+  ],
+  "PHIL_UN3411": [
+    "Fall2026"
+  ],
+  "PHIL_UN3413": [
+    "Fall2026"
+  ],
+  "PHIL_UN3551": [
+    "Fall2026"
+  ],
+  "PHIL_UN3601": [
+    "Fall2026"
+  ],
+  "PHIL_UN3611": [
+    "Fall2026"
+  ],
+  "PHIL_UN3655": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHIL_UN3701": [
+    "Fall2026"
+  ],
+  "PHIL_UN3711": [
+    "Fall2026"
+  ],
+  "PHIL_UN3751": [
+    "Fall2026"
+  ],
+  "PHIL_UN3912": [
+    "Fall2026"
+  ],
+  "PHIL_UN3997": [
+    "Fall2026"
+  ],
+  "PHIL_UN3998": [
+    "Fall2026"
+  ],
+  "PHYS_BC1881": [
+    "Fall2026"
+  ],
+  "PHYS_BC1882": [
+    "Spring2027"
+  ],
+  "PHYS_BC2001": [
+    "Fall2026"
+  ],
+  "PHYS_BC2002": [
+    "Spring2027"
+  ],
+  "PHYS_BC2009": [
+    "Fall2026"
+  ],
+  "PHYS_BC2010": [
+    "Fall2026"
+  ],
+  "PHYS_BC2019": [
+    "Spring2027"
+  ],
+  "PHYS_BC2020": [
+    "Spring2027"
+  ],
+  "PHYS_BC3001": [
+    "Fall2026"
+  ],
+  "PHYS_BC3006": [
+    "Spring2027"
+  ],
+  "PHYS_BC3086": [
+    "Spring2027"
+  ],
+  "PHYS_BC3088": [
+    "Fall2026"
+  ],
+  "PHYS_BC3900": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHYS_GR5021": [
+    "Fall2026"
+  ],
+  "PHYS_GR5081": [
+    "Fall2026"
+  ],
+  "PHYS_GR5900": [
+    "Fall2026"
+  ],
+  "PHYS_GR6011": [
+    "Fall2026"
+  ],
+  "PHYS_GR6036": [
+    "Fall2026"
+  ],
+  "PHYS_GR6037": [
+    "Fall2026"
+  ],
+  "PHYS_GR6041": [
+    "Fall2026"
+  ],
+  "PHYS_GR6050": [
+    "Fall2026"
+  ],
+  "PHYS_GR6060": [
+    "Fall2026"
+  ],
+  "PHYS_GR6092": [
+    "Fall2026"
+  ],
+  "PHYS_GR8048": [
+    "Fall2026"
+  ],
+  "PHYS_GR8049": [
+    "Fall2026"
+  ],
+  "PHYS_GR8080": [
+    "Fall2026"
+  ],
+  "PHYS_GR8083": [
+    "Fall2026"
+  ],
+  "PHYS_GU4019": [
+    "Fall2026"
+  ],
+  "PHYS_GU4021": [
+    "Fall2026"
+  ],
+  "PHYS_GU4023": [
+    "Fall2026"
+  ],
+  "PHYS_GU4024": [
+    "Fall2026"
+  ],
+  "PHYS_UN1201": [
+    "Fall2026"
+  ],
+  "PHYS_UN1203": [
+    "Fall2026"
+  ],
+  "PHYS_UN1291": [
+    "Fall2026"
+  ],
+  "PHYS_UN1401": [
+    "Fall2026"
+  ],
+  "PHYS_UN1403": [
+    "Fall2026"
+  ],
+  "PHYS_UN1404": [
+    "Fall2026"
+  ],
+  "PHYS_UN1494": [
+    "Fall2026"
+  ],
+  "PHYS_UN1601": [
+    "Fall2026"
+  ],
+  "PHYS_UN1603": [
+    "Fall2026"
+  ],
+  "PHYS_UN2601": [
+    "Fall2026"
+  ],
+  "PHYS_UN2603": [
+    "Fall2026"
+  ],
+  "PHYS_UN2801": [
+    "Fall2026"
+  ],
+  "PHYS_UN3007": [
+    "Fall2026"
+  ],
+  "PHYS_UN3072": [
+    "Fall2026"
+  ],
+  "PHYS_UN3081": [
+    "Fall2026"
+  ],
+  "PHYS_UN3083": [
+    "Fall2026"
+  ],
+  "PHYS_UN3500": [
+    "Fall2026"
+  ],
+  "PHYS_UN3900": [
+    "Fall2026"
+  ],
+  "PORT_UN1101": [
+    "Fall2026"
+  ],
+  "PORT_UN1102": [
+    "Fall2026"
+  ],
+  "PORT_UN1320": [
+    "Fall2026"
+  ],
+  "PORT_UN2101": [
+    "Fall2026"
+  ],
+  "PORT_UN2102": [
+    "Fall2026"
+  ],
+  "PORT_UN2120": [
+    "Fall2026"
+  ],
+  "PORT_UN3300": [
+    "Fall2026"
+  ],
+  "PORT_UN3490": [
+    "Fall2026"
+  ],
+  "RELI_BC2780": [
+    "Spring2027"
+  ],
+  "RELI_BC3096": [
+    "Fall2026"
+  ],
+  "RELI_BC3213": [
+    "Fall2026"
+  ],
+  "RELI_BC3216": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "RELI_BC3219": [
+    "Spring2027"
+  ],
+  "RELI_BC3996": [
+    "Spring2027"
+  ],
+  "RELI_BC3997": [
+    "Fall2026"
+  ],
+  "RELI_BC3998": [
+    "Spring2027"
+  ],
+  "RELI_GR6051": [
+    "Fall2026"
+  ],
+  "RELI_GR6101": [
+    "Fall2026"
+  ],
+  "RELI_GR6112": [
+    "Fall2026"
+  ],
+  "RELI_GR6617": [
+    "Spring2027"
+  ],
+  "RELI_GR9901": [
+    "Fall2026"
+  ],
+  "RELI_GU4002": [
+    "Spring2027"
+  ],
+  "RELI_GU4105": [
+    "Fall2026"
+  ],
+  "RELI_GU4207": [
+    "Spring2027"
+  ],
+  "RELI_GU4322": [
+    "Fall2026"
+  ],
+  "RELI_GU4340": [
+    "Fall2026"
+  ],
+  "RELI_GU4376": [
+    "Fall2026"
+  ],
+  "RELI_GU4616": [
+    "Fall2026"
+  ],
+  "RELI_GU4619": [
+    "Fall2026"
+  ],
+  "RELI_GU4621": [
+    "Fall2026"
+  ],
+  "RELI_GU4807": [
+    "Spring2027"
+  ],
+  "RELI_GU4990": [
+    "Fall2026"
+  ],
+  "RELI_GU4998": [
+    "Fall2026"
+  ],
+  "RELI_GU4999": [
+    "Fall2026"
+  ],
+  "RELI_UN1120": [
+    "Fall2026"
+  ],
+  "RELI_UN1610": [
+    "Spring2027"
+  ],
+  "RELI_UN2301": [
+    "Fall2026"
+  ],
+  "RELI_UN2305": [
+    "Fall2026"
+  ],
+  "RELI_UN2309": [
+    "Spring2027"
+  ],
+  "RELI_UN2312": [
+    "Fall2026"
+  ],
+  "RELI_UN2313": [
+    "Fall2026"
+  ],
+  "RELI_UN2405": [
+    "Fall2026"
+  ],
+  "RELI_UN2406": [
+    "Fall2026"
+  ],
+  "RELI_UN2779": [
+    "Spring2027"
+  ],
+  "RELI_UN3023": [
+    "Fall2026"
+  ],
+  "RELI_UN3027": [
+    "Fall2026"
+  ],
+  "RELI_UN3120": [
+    "Fall2026"
+  ],
+  "RELI_UN3199": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "RELI_UN3202": [
+    "Fall2026"
+  ],
+  "RELI_UN3203": [
+    "Spring2027"
+  ],
+  "RELI_UN3301": [
+    "Spring2027"
+  ],
+  "RELI_UN3314": [
+    "Spring2027"
+  ],
+  "RELI_UN3323": [
+    "Spring2027"
+  ],
+  "RELI_UN3771": [
+    "Spring2027"
+  ],
+  "RUSS_GR6014": [
+    "Fall2026"
+  ],
+  "RUSS_GR8038": [
+    "Fall2026"
+  ],
+  "RUSS_GR8040": [
+    "Fall2026"
+  ],
+  "RUSS_GR8044": [
+    "Fall2026"
+  ],
+  "RUSS_GU4127": [
+    "Fall2026"
+  ],
+  "RUSS_GU4342": [
+    "Fall2026"
+  ],
+  "RUSS_UN1101": [
+    "Fall2026"
+  ],
+  "RUSS_UN2101": [
+    "Fall2026"
+  ],
+  "RUSS_UN3101": [
+    "Fall2026"
+  ],
+  "RUSS_UN3220": [
+    "Fall2026"
+  ],
+  "RUSS_UN3430": [
+    "Fall2026"
+  ],
+  "SCNC_CC1000": [
+    "Fall2026"
+  ],
+  "SCNC_CC1100": [
+    "Fall2026"
+  ],
+  "SCNC_UN1500": [
+    "Fall2026"
+  ],
+  "SLCL_UN3001": [
+    "Fall2026"
+  ],
+  "SOCI_BC3087": [
+    "Fall2026"
+  ],
+  "SOCI_BC3088": [
+    "Spring2027"
+  ],
+  "SOCI_BC3202": [
+    "Spring2027"
+  ],
+  "SOCI_BC3219": [
+    "Fall2026"
+  ],
+  "SOCI_BC3248": [
+    "Fall2026"
+  ],
+  "SOCI_BC3267": [
+    "Spring2027"
+  ],
+  "SOCI_BC3907": [
+    "Fall2026"
+  ],
+  "SOCI_BC3916": [
+    "Spring2027"
+  ],
+  "SOCI_BC3920": [
+    "Fall2026"
+  ],
+  "SOCI_BC3927": [
+    "Spring2027"
+  ],
+  "SOCI_BC3930": [
+    "Spring2027"
+  ],
+  "SOCI_BC3933": [
+    "Fall2026"
+  ],
+  "SOCI_BC3934": [
+    "Spring2027"
+  ],
+  "SOCI_BC3939": [
+    "Spring2027"
+  ],
+  "SOCI_BC3943": [
+    "Spring2027"
+  ],
+  "SOCI_BC3946": [
+    "Spring2027"
+  ],
+  "SOCI_BC3948": [
+    "Spring2027"
+  ],
+  "SOCI_BC3956": [
+    "Fall2026"
+  ],
+  "SOCI_BC3959": [
+    "Fall2026"
+  ],
+  "SOCI_GR5051": [
+    "Fall2026"
+  ],
+  "SOCI_GR5062": [
+    "Fall2026"
+  ],
+  "SOCI_GR5064": [
+    "Fall2026"
+  ],
+  "SOCI_GR5066": [
+    "Fall2026"
+  ],
+  "SOCI_GR6000": [
+    "Fall2026"
+  ],
+  "SOCI_GR6002": [
+    "Fall2026"
+  ],
+  "SOCI_GR6049": [
+    "Fall2026"
+  ],
+  "SOCI_GR6051": [
+    "Fall2026"
+  ],
+  "SOCI_GR6097": [
+    "Fall2026"
+  ],
+  "SOCI_GR6103": [
+    "Fall2026"
+  ],
+  "SOCI_GR6161": [
+    "Fall2026"
+  ],
+  "SOCI_GR6224": [
+    "Fall2026"
+  ],
+  "SOCI_GR8201": [
+    "Fall2026"
+  ],
+  "SOCI_GR9040": [
+    "Fall2026"
+  ],
+  "SOCI_GU4043": [
+    "Fall2026"
+  ],
+  "SOCI_GU4984": [
+    "Fall2026"
+  ],
+  "SOCI_UN1000": [
+    "Fall2026"
+  ],
+  "SOCI_UN1100": [
+    "Fall2026"
+  ],
+  "SOCI_UN1203": [
+    "Fall2026"
+  ],
+  "SOCI_UN2208": [
+    "Fall2026"
+  ],
+  "SOCI_UN2234": [
+    "Fall2026"
+  ],
+  "SOCI_UN3000": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SOCI_UN3001": [
+    "Fall2026"
+  ],
+  "SOCI_UN3010": [
+    "Fall2026"
+  ],
+  "SOCI_UN3011": [
+    "Fall2026"
+  ],
+  "SOCI_UN3203": [
+    "Fall2026"
+  ],
+  "SOCI_UN3207": [
+    "Spring2027"
+  ],
+  "SOCI_UN3217": [
+    "Fall2026"
+  ],
+  "SOCI_UN3235": [
+    "Fall2026"
+  ],
+  "SOCI_UN3241": [
+    "Spring2027"
+  ],
+  "SOCI_UN3246": [
+    "Fall2026"
+  ],
+  "SOCI_UN3285": [
+    "Fall2026"
+  ],
+  "SOCI_UN3302": [
+    "Fall2026"
+  ],
+  "SOCI_UN3644": [
+    "Fall2026"
+  ],
+  "SOCI_UN3675": [
+    "Fall2026"
+  ],
+  "SOCI_UN3676": [
+    "Fall2026"
+  ],
+  "SOCI_UN3901": [
+    "Fall2026"
+  ],
+  "SOCI_UN3914": [
+    "Fall2026"
+  ],
+  "SOCI_UN3921": [
+    "Fall2026"
+  ],
+  "SOCI_UN3943": [
+    "Fall2026"
+  ],
+  "SOCI_UN3949": [
+    "Fall2026"
+  ],
+  "SOCI_UN3967": [
+    "Fall2026"
+  ],
+  "SOCI_UN3983": [
+    "Fall2026"
+  ],
+  "SOCI_UN3986": [
+    "Fall2026"
+  ],
+  "SOCI_UN3988": [
+    "Fall2026"
+  ],
+  "SOCI_UN3998": [
+    "Fall2026"
+  ],
+  "SOCI_UN3999": [
+    "Spring2027"
+  ],
+  "SPAN_BC3382": [
+    "Spring2027"
+  ],
+  "SPAN_BC3435": [
+    "Fall2026"
+  ],
+  "SPAN_BC3456": [
+    "Spring2027"
+  ],
+  "SPAN_BC3572": [
+    "Fall2026"
+  ],
+  "SPAN_BC3693": [
+    "Spring2027"
+  ],
+  "SPAN_BC3990": [
+    "Fall2026"
+  ],
+  "SPAN_GR6016": [
+    "Fall2026"
+  ],
+  "SPAN_GR6025": [
+    "Fall2026"
+  ],
+  "SPAN_GR6509": [
+    "Fall2026"
+  ],
+  "SPAN_GR9811": [
+    "Fall2026"
+  ],
+  "SPAN_GU4010": [
+    "Fall2026"
+  ],
+  "SPAN_UN1101": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN1102": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN1108": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN1113": [
+    "Fall2026"
+  ],
+  "SPAN_UN2101": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN2102": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN2103": [
+    "Fall2026"
+  ],
+  "SPAN_UN2108": [
+    "Fall2026"
+  ],
+  "SPAN_UN2120": [
+    "Fall2026"
+  ],
+  "SPAN_UN3300": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN3349": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN3350": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN_UN3533": [
+    "Fall2026"
+  ],
+  "SPAN_UN3556": [
+    "Fall2026"
+  ],
+  "SPAN_UN3899": [
+    "Fall2026"
+  ],
+  "SPAN_UN3901": [
+    "Fall2026"
+  ],
+  "STAT_GR5005": [
+    "Fall2026"
+  ],
+  "STAT_GR5006": [
+    "Fall2026"
+  ],
+  "STAT_GR5203": [
+    "Fall2026"
+  ],
+  "STAT_GR5204": [
+    "Fall2026"
+  ],
+  "STAT_GR5205": [
+    "Fall2026"
+  ],
+  "STAT_GR5206": [
+    "Fall2026"
+  ],
+  "STAT_GR5221": [
+    "Fall2026"
+  ],
+  "STAT_GR5235": [
+    "Fall2026"
+  ],
+  "STAT_GR5242": [
+    "Fall2026"
+  ],
+  "STAT_GR5244": [
+    "Fall2026"
+  ],
+  "STAT_GR5261": [
+    "Fall2026"
+  ],
+  "STAT_GR5263": [
+    "Fall2026"
+  ],
+  "STAT_GR5264": [
+    "Fall2026"
+  ],
+  "STAT_GR5265": [
+    "Fall2026"
+  ],
+  "STAT_GR5291": [
+    "Fall2026"
+  ],
+  "STAT_GR5293": [
+    "Fall2026"
+  ],
+  "STAT_GR5294": [
+    "Fall2026"
+  ],
+  "STAT_GR5391": [
+    "Fall2026"
+  ],
+  "STAT_GR5398": [
+    "Fall2026"
+  ],
+  "STAT_GR5399": [
+    "Fall2026"
+  ],
+  "STAT_GR5503": [
+    "Fall2026"
+  ],
+  "STAT_GR5504": [
+    "Fall2026"
+  ],
+  "STAT_GR5505": [
+    "Fall2026"
+  ],
+  "STAT_GR5700": [
+    "Fall2026"
+  ],
+  "STAT_GR5701": [
+    "Fall2026"
+  ],
+  "STAT_GR5702": [
+    "Fall2026"
+  ],
+  "STAT_GR5703": [
+    "Fall2026"
+  ],
+  "STAT_GR5999": [
+    "Fall2026"
+  ],
+  "STAT_GR6101": [
+    "Fall2026"
+  ],
+  "STAT_GR6103": [
+    "Fall2026"
+  ],
+  "STAT_GR6105": [
+    "Fall2026"
+  ],
+  "STAT_GR6201": [
+    "Fall2026"
+  ],
+  "STAT_GR6203": [
+    "Fall2026"
+  ],
+  "STAT_GR6301": [
+    "Fall2026"
+  ],
+  "STAT_GR8001": [
+    "Fall2026"
+  ],
+  "STAT_GR8201": [
+    "Fall2026"
+  ],
+  "STAT_GR9201": [
+    "Fall2026"
+  ],
+  "STAT_GR9301": [
+    "Fall2026"
+  ],
+  "STAT_GR9302": [
+    "Fall2026"
+  ],
+  "STAT_GR9303": [
+    "Fall2026"
+  ],
+  "STAT_GU4001": [
+    "Fall2026"
+  ],
+  "STAT_GU4003": [
+    "Fall2026"
+  ],
+  "STAT_GU4004": [
+    "Fall2026"
+  ],
+  "STAT_GU4005": [
+    "Fall2026"
+  ],
+  "STAT_GU4006": [
+    "Fall2026"
+  ],
+  "STAT_GU4203": [
+    "Fall2026"
+  ],
+  "STAT_GU4204": [
+    "Fall2026"
+  ],
+  "STAT_GU4205": [
+    "Fall2026"
+  ],
+  "STAT_GU4206": [
+    "Fall2026"
+  ],
+  "STAT_GU4207": [
+    "Fall2026"
+  ],
+  "STAT_GU4221": [
+    "Fall2026"
+  ],
+  "STAT_GU4235": [
+    "Fall2026"
+  ],
+  "STAT_GU4241": [
+    "Fall2026"
+  ],
+  "STAT_GU4242": [
+    "Fall2026"
+  ],
+  "STAT_GU4243": [
+    "Fall2026"
+  ],
+  "STAT_GU4244": [
+    "Fall2026"
+  ],
+  "STAT_GU4261": [
+    "Fall2026"
+  ],
+  "STAT_GU4263": [
+    "Fall2026"
+  ],
+  "STAT_GU4264": [
+    "Fall2026"
+  ],
+  "STAT_GU4265": [
+    "Fall2026"
+  ],
+  "STAT_GU4291": [
+    "Fall2026"
+  ],
+  "STAT_GU4293": [
+    "Fall2026"
+  ],
+  "STAT_UN1001": [
+    "Fall2026"
+  ],
+  "STAT_UN1002": [
+    "Fall2026"
+  ],
+  "STAT_UN1009": [
+    "Fall2026"
+  ],
+  "STAT_UN1101": [
+    "Fall2026"
+  ],
+  "STAT_UN1102": [
+    "Fall2026"
+  ],
+  "STAT_UN1201": [
+    "Fall2026"
+  ],
+  "STAT_UN1202": [
+    "Fall2026"
+  ],
+  "STAT_UN2002": [
+    "Fall2026"
+  ],
+  "STAT_UN2102": [
+    "Fall2026"
+  ],
+  "STAT_UN2103": [
+    "Fall2026"
+  ],
+  "STAT_UN2104": [
+    "Fall2026"
+  ],
+  "STAT_UN3008": [
+    "Fall2026"
+  ],
+  "STAT_UN3106": [
+    "Fall2026"
+  ],
+  "STAT_UN3107": [
+    "Fall2026"
+  ],
+  "STAT_UN3108": [
+    "Fall2026"
+  ],
+  "THTR_UN2022": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN2023": [
+    "Fall2026"
+  ],
+  "THTR_UN2024": [
+    "Spring2027"
+  ],
+  "THTR_UN2025": [
+    "Spring2027"
+  ],
+  "THTR_UN2026": [
+    "Spring2027"
+  ],
+  "THTR_UN2201": [
+    "Spring2027"
+  ],
+  "THTR_UN2422": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN2423": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN2424": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN2425": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN2426": [
+    "Spring2027"
+  ],
+  "THTR_UN2427": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN3004": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN3005": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN3127": [
+    "Spring2027"
+  ],
+  "THTR_UN3140": [
+    "Fall2026"
+  ],
+  "THTR_UN3147": [
+    "Fall2026"
+  ],
+  "THTR_UN3150": [
+    "Fall2026"
+  ],
+  "THTR_UN3151": [
+    "Spring2027"
+  ],
+  "THTR_UN3154": [
+    "Fall2026"
+  ],
+  "THTR_UN3155": [
+    "Spring2027"
+  ],
+  "THTR_UN3156": [
+    "Fall2026"
+  ],
+  "THTR_UN3157": [
+    "Spring2027"
+  ],
+  "THTR_UN3158": [
+    "Spring2027"
+  ],
+  "THTR_UN3165": [
+    "Spring2027"
+  ],
+  "THTR_UN3200": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN3201": [
+    "Spring2027"
+  ],
+  "THTR_UN3202": [
+    "Fall2026"
+  ],
+  "THTR_UN3203": [
+    "Fall2026"
+  ],
+  "THTR_UN3210": [
+    "Fall2026"
+  ],
+  "THTR_UN3300": [
+    "Fall2026"
+  ],
+  "THTR_UN3301": [
+    "Spring2027"
+  ],
+  "THTR_UN3401": [
+    "Fall2026"
+  ],
+  "THTR_UN3402": [
+    "Spring2027"
+  ],
+  "THTR_UN3403": [
+    "Spring2027"
+  ],
+  "THTR_UN3404": [
+    "Fall2026"
+  ],
+  "THTR_UN3413": [
+    "Fall2026"
+  ],
+  "THTR_UN3997": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "THTR_UN3998": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS_GU4000": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS_UN1515": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS_UN2100": [
+    "Spring2027"
+  ],
+  "URBS_UN2101": [
+    "Spring2027"
+  ],
+  "URBS_UN2200": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS_UN2520": [
+    "Spring2027"
+  ],
+  "URBS_UN3252": [
+    "Spring2027"
+  ],
+  "URBS_UN3308": [
+    "Fall2026"
+  ],
+  "URBS_UN3310": [
+    "Fall2026"
+  ],
+  "URBS_UN3315": [
+    "Spring2027"
+  ],
+  "URBS_UN3351": [
+    "Spring2027"
+  ],
+  "URBS_UN3352": [
+    "Spring2027"
+  ],
+  "URBS_UN3420": [
+    "Spring2027"
+  ],
+  "URBS_UN3450": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS_UN3451": [
+    "Spring2027"
+  ],
+  "URBS_UN3545": [
+    "Fall2026"
+  ],
+  "URBS_UN3546": [
+    "Spring2027"
+  ],
+  "URBS_UN3600": [
+    "Fall2026"
+  ],
+  "URBS_UN3992": [
+    "Fall2026"
+  ],
+  "URBS_UN3993": [
+    "Spring2027"
+  ]
+}

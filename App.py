@@ -6,7 +6,8 @@ import streamlit as st
 from src.load_data import load_all_data
 from src.validator import (
     validate_plan, recommend_courses, count_credits,
-    SEMESTER_CREDIT_MIN, SEMESTER_CREDIT_MAX
+    SEMESTER_CREDIT_MIN, SEMESTER_CREDIT_MAX,
+    build_alias_index, resolve_course_id
 )
 
 TECH_REQUIREMENTS = {
@@ -175,12 +176,16 @@ if uploaded_plan is not None:
         if imported is not None:
             imported_plan = imported.get("plan", {})
             dropped_courses = []
+            alias_index = build_alias_index(courses)
 
             for semester in st.session_state.plan.keys():
                 raw_courses = imported_plan.get(semester, [])
-                valid_courses = [c for c in raw_courses if c in course_options]
+                resolved_courses = [
+                    resolve_course_id(c, courses, alias_index) for c in raw_courses
+                ]
+                valid_courses = [c for c in resolved_courses if c in course_options]
                 dropped_courses.extend(
-                    c for c in raw_courses if c not in course_options
+                    c for c in resolved_courses if c not in course_options
                 )
 
                 st.session_state.plan[semester] = valid_courses

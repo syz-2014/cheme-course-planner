@@ -13,7 +13,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E3013": {
     "id": "APAM_E3013",
@@ -29,7 +32,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E3100": {
     "id": "APAM_E3100",
@@ -45,7 +51,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E3157": {
     "id": "APAM_E3157",
@@ -61,7 +70,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E3300": {
     "id": "APAM_E3300",
@@ -77,7 +89,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E4018": {
     "id": "APAM_E4018",
@@ -93,7 +108,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E4090": {
     "id": "APAM_E4090",
@@ -109,7 +127,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E4110": {
     "id": "APAM_E4110",
@@ -125,7 +146,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E4114": {
     "id": "APAM_E4114",
@@ -141,7 +165,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APAM_E4330": {
     "id": "APAM_E4330",
@@ -157,7 +184,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APBM_4650": {
     "id": "APBM_4650",
@@ -173,7 +203,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APCH_E4080": {
     "id": "APCH_E4080",
@@ -207,7 +240,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4010": {
     "id": "APPH_4010",
@@ -223,7 +259,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4100": {
     "id": "APPH_4100",
@@ -239,7 +278,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4112": {
     "id": "APPH_4112",
@@ -255,7 +297,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4300": {
     "id": "APPH_4300",
@@ -271,7 +316,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4500": {
     "id": "APPH_4500",
@@ -287,7 +335,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4600": {
     "id": "APPH_4600",
@@ -303,7 +354,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APPH_4710": {
     "id": "APPH_4710",
@@ -319,7 +373,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ASTR_3102": {
     "id": "ASTR_3102",
@@ -334,7 +391,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3103": {
     "id": "ASTR_3103",
@@ -349,7 +410,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3105": {
     "id": "ASTR_3105",
@@ -364,7 +429,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3106": {
     "id": "ASTR_3106",
@@ -379,7 +448,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3601": {
     "id": "ASTR_3601",
@@ -394,7 +467,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3602": {
     "id": "ASTR_3602",
@@ -409,7 +486,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ASTR_3646": {
     "id": "ASTR_3646",
@@ -424,7 +505,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BCHM_GU4250": {
     "id": "BCHM_GU4250",
@@ -439,7 +524,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BIOC_UN3300": {
     "id": "BIOC_UN3300",
@@ -469,7 +557,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_2402": {
     "id": "BIOL_2402",
@@ -484,7 +576,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_2502": {
     "id": "BIOL_2502",
@@ -501,6 +597,10 @@
     "aliases": [],
     "notes": [
       "This course has no lab content and was created when in person lab was not possible during COVID-19 restrictions. If offered again it will only be counted if the student's time at CU has been impacted by COVID restrictions and another lab class was not possible."
+    ],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
     ]
   },
   "BIOL_3300": {
@@ -516,7 +616,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_3998": {
     "id": "BIOL_3998",
@@ -531,7 +635,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_4310": {
     "id": "BIOL_4310",
@@ -548,6 +656,10 @@
     "aliases": [],
     "notes": [
       "Approved by UG committee; make sure you have taken pre-reqs for his course."
+    ],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
     ]
   },
   "BIOL_C2005": {
@@ -563,7 +675,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_C2006": {
     "id": "BIOL_C2006",
@@ -578,7 +694,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_W2501": {
     "id": "BIOL_W2501",
@@ -594,7 +714,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "BIOL_W3500": {
     "id": "BIOL_W3500",
@@ -611,6 +735,10 @@
     "aliases": [],
     "notes": [
       "^This can count as an Adv. Science, but we require students submit a 1-2 page summary of their research experience to their academic advisor at the end of the semester to have some sort of record of what research was done outside of the department"
+    ],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
     ]
   },
   "BMEN_E3010": {
@@ -628,7 +756,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E3020": {
     "id": "BMEN_E3020",
@@ -645,7 +779,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E3810": {
     "id": "BMEN_E3810",
@@ -662,7 +799,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E3820": {
     "id": "BMEN_E3820",
@@ -679,7 +822,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E3910": {
     "id": "BMEN_E3910",
@@ -696,7 +842,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E3920": {
     "id": "BMEN_E3920",
@@ -713,7 +865,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4001": {
     "id": "BMEN_E4001",
@@ -730,7 +885,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4002": {
     "id": "BMEN_E4002",
@@ -747,7 +908,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4030": {
     "id": "BMEN_E4030",
@@ -763,7 +927,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4050": {
     "id": "BMEN_E4050",
@@ -780,7 +947,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4110": {
     "id": "BMEN_E4110",
@@ -797,7 +967,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4150": {
     "id": "BMEN_E4150",
@@ -813,7 +989,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4210": {
     "id": "BMEN_E4210",
@@ -830,7 +1009,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4310": {
     "id": "BMEN_E4310",
@@ -847,7 +1029,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4320": {
     "id": "BMEN_E4320",
@@ -863,7 +1051,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4350": {
     "id": "BMEN_E4350",
@@ -880,7 +1071,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4410": {
     "id": "BMEN_E4410",
@@ -897,7 +1091,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4430": {
     "id": "BMEN_E4430",
@@ -914,7 +1111,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4440": {
     "id": "BMEN_E4440",
@@ -930,7 +1130,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4460": {
     "id": "BMEN_E4460",
@@ -947,7 +1150,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4470": {
     "id": "BMEN_E4470",
@@ -964,7 +1170,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4490": {
     "id": "BMEN_E4490",
@@ -981,7 +1193,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4510": {
     "id": "BMEN_E4510",
@@ -998,7 +1216,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4520": {
     "id": "BMEN_E4520",
@@ -1015,7 +1239,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4530": {
     "id": "BMEN_E4530",
@@ -1032,7 +1259,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4535": {
     "id": "BMEN_E4535",
@@ -1051,7 +1284,10 @@
     "notes": [
       "DVE approved"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4550": {
     "id": "BMEN_E4550",
@@ -1068,7 +1304,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4580": {
     "id": "BMEN_E4580",
@@ -1085,7 +1324,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4590": {
     "id": "BMEN_E4590",
@@ -1102,7 +1344,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4740": {
     "id": "BMEN_E4740",
@@ -1118,7 +1363,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4840": {
     "id": "BMEN_E4840",
@@ -1134,7 +1382,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4894": {
     "id": "BMEN_E4894",
@@ -1151,7 +1402,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BMEN_E4898": {
     "id": "BMEN_E4898",
@@ -1167,7 +1424,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CBMF_4761": {
     "id": "CBMF_4761",
@@ -1201,7 +1461,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHAP_E4120": {
     "id": "CHAP_E4120",
@@ -1237,7 +1500,13 @@
     "notes": [
       "approved in July 2024"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_3080": {
     "id": "CHEM_3080",
@@ -1252,7 +1521,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_3085": {
     "id": "CHEM_3085",
@@ -1268,7 +1541,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_4071": {
     "id": "CHEM_4071",
@@ -1283,7 +1560,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEN_E3900": {
     "id": "CHEN_E3900",
@@ -1307,7 +1588,13 @@
       "max_instances_toward_technical_elective": 2,
       "thesis_required_above_instances": 1,
       "note": "May be taken for more than one semester of research. Each semester is a separate enrollment and can optionally count toward the technical elective requirement, but only the first 2 semesters count toward that requirement. Enrolling for more than 1 semester (i.e. more than ~3 points of research) requires an undergraduate thesis."
-    }
+    },
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4080": {
     "id": "CHEN_E4080",
@@ -1323,7 +1610,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4110": {
     "id": "CHEN_E4110",
@@ -1343,7 +1633,13 @@
     "notes": [
       "Graduate core class"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4112": {
     "id": "CHEN_E4112",
@@ -1361,7 +1657,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4120": {
     "id": "CHEN_E4120",
@@ -1379,6 +1678,9 @@
     "aliases": [],
     "notes": [
       "Graduate core class"
+    ],
+    "terms_checked": [
+      "Fall2026"
     ]
   },
   "CHEN_E4130": {
@@ -1400,7 +1702,13 @@
       "(graduate thermo class)",
       "Graduate core class"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4150": {
     "id": "CHEN_E4150",
@@ -1417,7 +1725,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4180": {
     "id": "CHEN_E4180",
@@ -1434,7 +1745,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4201": {
     "id": "CHEN_E4201",
@@ -1453,7 +1770,10 @@
     "notes": [
       "(not being offered during 2026-2027 school during"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4231": {
     "id": "CHEN_E4231",
@@ -1470,7 +1790,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4235": {
     "id": "CHEN_E4235",
@@ -1489,7 +1812,13 @@
     "notes": [
       "Graduate core class"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4320": {
     "id": "CHEN_E4320",
@@ -1507,7 +1836,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4325": {
     "id": "CHEN_E4325",
@@ -1526,7 +1861,10 @@
     "notes": [
       "Not currently offered."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4330": {
     "id": "CHEN_E4330",
@@ -1545,7 +1883,13 @@
     "notes": [
       "Graduate core class"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4331": {
     "id": "CHEN_E4331",
@@ -1562,7 +1906,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4380": {
     "id": "CHEN_E4380",
@@ -1579,7 +1929,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4400": {
     "id": "CHEN_E4400",
@@ -1597,7 +1950,13 @@
     "notes": [
       "Used to be named Chemical process development"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4500": {
     "id": "CHEN_E4500",
@@ -1613,7 +1972,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4501": {
     "id": "CHEN_E4501",
@@ -1629,7 +1994,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4580": {
     "id": "CHEN_E4580",
@@ -1645,7 +2016,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4600": {
     "id": "CHEN_E4600",
@@ -1663,7 +2037,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4620": {
     "id": "CHEN_E4620",
@@ -1681,7 +2058,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4630": {
     "id": "CHEN_E4630",
@@ -1699,7 +2082,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4650": {
     "id": "CHEN_E4650",
@@ -1718,7 +2104,10 @@
     "notes": [
       "Not currently offered."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4660": {
     "id": "CHEN_E4660",
@@ -1735,7 +2124,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4665": {
     "id": "CHEN_E4665",
@@ -1752,7 +2144,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4670": {
     "id": "CHEN_E4670",
@@ -1768,7 +2166,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4700": {
     "id": "CHEN_E4700",
@@ -1785,7 +2186,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4725": {
     "id": "CHEN_E4725",
@@ -1802,7 +2209,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4800": {
     "id": "CHEN_E4800",
@@ -1819,7 +2232,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4850": {
     "id": "CHEN_E4850",
@@ -1834,7 +2250,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4860": {
     "id": "CHEN_E4860",
@@ -1851,7 +2270,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4870": {
     "id": "CHEN_E4870",
@@ -1868,7 +2290,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4880": {
     "id": "CHEN_E4880",
@@ -1886,7 +2311,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4890": {
     "id": "CHEN_E4890",
@@ -1902,7 +2330,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4910": {
     "id": "CHEN_E4910",
@@ -1919,7 +2350,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4920": {
     "id": "CHEN_E4920",
@@ -1935,7 +2369,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E8100": {
     "id": "CHEN_E8100",
@@ -1952,7 +2389,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHE_M2444": {
     "id": "CHE_M2444",
@@ -1983,7 +2423,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEE_3255": {
     "id": "CIEE_3255",
@@ -1999,7 +2442,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEE_4116": {
     "id": "CIEE_4116",
@@ -2015,7 +2461,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEE_4163": {
     "id": "CIEE_4163",
@@ -2031,7 +2480,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEE_4252": {
     "id": "CIEE_4252",
@@ -2047,7 +2499,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3000": {
     "id": "CIEN_E3000",
@@ -2064,7 +2519,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3106": {
     "id": "CIEN_E3106",
@@ -2080,7 +2538,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3111": {
     "id": "CIEN_E3111",
@@ -2096,7 +2557,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3121": {
     "id": "CIEN_E3121",
@@ -2113,7 +2577,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3126": {
     "id": "CIEN_E3126",
@@ -2130,7 +2597,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3141": {
     "id": "CIEN_E3141",
@@ -2147,7 +2617,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CIEN_E3260": {
     "id": "CIEN_E3260",
@@ -2163,7 +2639,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E4011": {
     "id": "CIEN_E4011",
@@ -2180,7 +2659,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CIEN_E4100": {
     "id": "CIEN_E4100",
@@ -2197,7 +2679,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "COMS_3102": {
     "id": "COMS_3102",
@@ -2213,7 +2698,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_3134": {
     "id": "COMS_3134",
@@ -2229,7 +2718,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_3136": {
     "id": "COMS_3136",
@@ -2245,7 +2738,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_3137": {
     "id": "COMS_3137",
@@ -2261,7 +2758,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_3261": {
     "id": "COMS_3261",
@@ -2277,7 +2778,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_3827": {
     "id": "COMS_3827",
@@ -2293,7 +2798,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4111": {
     "id": "COMS_4111",
@@ -2309,7 +2818,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4113": {
     "id": "COMS_4113",
@@ -2325,7 +2838,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4118": {
     "id": "COMS_4118",
@@ -2341,7 +2858,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4119": {
     "id": "COMS_4119",
@@ -2357,7 +2878,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4140": {
     "id": "COMS_4140",
@@ -2373,7 +2898,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4156": {
     "id": "COMS_4156",
@@ -2389,7 +2918,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4160": {
     "id": "COMS_4160",
@@ -2405,7 +2938,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4167": {
     "id": "COMS_4167",
@@ -2421,7 +2958,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4170": {
     "id": "COMS_4170",
@@ -2437,7 +2978,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4172": {
     "id": "COMS_4172",
@@ -2453,7 +2998,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4181": {
     "id": "COMS_4181",
@@ -2469,7 +3018,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4182": {
     "id": "COMS_4182",
@@ -2485,7 +3038,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4186": {
     "id": "COMS_4186",
@@ -2501,7 +3058,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4236": {
     "id": "COMS_4236",
@@ -2517,7 +3078,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4252": {
     "id": "COMS_4252",
@@ -2533,7 +3098,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4261": {
     "id": "COMS_4261",
@@ -2549,7 +3118,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4701": {
     "id": "COMS_4701",
@@ -2565,7 +3138,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4705": {
     "id": "COMS_4705",
@@ -2581,7 +3158,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4721": {
     "id": "COMS_4721",
@@ -2597,7 +3178,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4731": {
     "id": "COMS_4731",
@@ -2613,7 +3198,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4732": {
     "id": "COMS_4732",
@@ -2629,7 +3218,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4733": {
     "id": "COMS_4733",
@@ -2645,7 +3238,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4761": {
     "id": "COMS_4761",
@@ -2661,7 +3258,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4762": {
     "id": "COMS_4762",
@@ -2677,7 +3278,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4771": {
     "id": "COMS_4771",
@@ -2693,7 +3298,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4775": {
     "id": "COMS_4775",
@@ -2709,7 +3318,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4840": {
     "id": "COMS_4840",
@@ -2725,7 +3338,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4842_4824": {
     "id": "COMS_4842_4824",
@@ -2741,7 +3358,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "COMS_4868": {
     "id": "COMS_4868",
@@ -2757,7 +3378,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CSEE_4823": {
     "id": "CSEE_4823",
@@ -2773,7 +3398,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CSEE_4824": {
     "id": "CSEE_4824",
@@ -2789,7 +3417,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EACEE_4163": {
     "id": "EACEE_4163",
@@ -2822,7 +3453,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E3800": {
     "id": "EAEE_E3800",
@@ -2839,7 +3476,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E3900": {
     "id": "EAEE_E3900",
@@ -2859,7 +3499,13 @@
       "see advisor",
       "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E3901_4901": {
     "id": "EAEE_E3901_4901",
@@ -2875,7 +3521,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4000": {
     "id": "EAEE_E4000",
@@ -2892,7 +3541,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4002": {
     "id": "EAEE_E4002",
@@ -2909,7 +3564,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4003": {
     "id": "EAEE_E4003",
@@ -2926,7 +3584,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4006": {
     "id": "EAEE_E4006",
@@ -2943,7 +3604,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4009": {
     "id": "EAEE_E4009",
@@ -2960,7 +3624,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4011": {
     "id": "EAEE_E4011",
@@ -2977,7 +3644,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4100": {
     "id": "EAEE_E4100",
@@ -2994,7 +3664,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4150": {
     "id": "EAEE_E4150",
@@ -3013,7 +3689,10 @@
     "notes": [
       "Does not count as an advanced science tech elective."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4160": {
     "id": "EAEE_E4160",
@@ -3030,7 +3709,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4180": {
     "id": "EAEE_E4180",
@@ -3047,7 +3732,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4190": {
     "id": "EAEE_E4190",
@@ -3064,7 +3752,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4200": {
     "id": "EAEE_E4200",
@@ -3081,7 +3772,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_directory_of_classes_2026_2027"
+    "credits_source": "columbia_directory_of_classes_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4210": {
     "id": "EAEE_E4210",
@@ -3098,7 +3795,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4220": {
     "id": "EAEE_E4220",
@@ -3115,7 +3815,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4222": {
     "id": "EAEE_E4222",
@@ -3132,7 +3835,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4228": {
     "id": "EAEE_E4228",
@@ -3148,7 +3854,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4250": {
     "id": "EAEE_E4250",
@@ -3164,7 +3873,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4257": {
     "id": "EAEE_E4257",
@@ -3181,7 +3893,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4300": {
     "id": "EAEE_E4300",
@@ -3198,7 +3913,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4302": {
     "id": "EAEE_E4302",
@@ -3215,7 +3936,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4304": {
     "id": "EAEE_E4304",
@@ -3232,7 +3956,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4305": {
     "id": "EAEE_E4305",
@@ -3249,7 +3976,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4350": {
     "id": "EAEE_E4350",
@@ -3266,7 +3996,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4550": {
     "id": "EAEE_E4550",
@@ -3283,7 +4019,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4901": {
     "id": "EAEE_E4901",
@@ -3300,7 +4042,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EAEE_E4950": {
     "id": "EAEE_E4950",
@@ -3317,7 +4065,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E6132": {
     "id": "EAEE_E6132",
@@ -3334,7 +4085,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E6140": {
     "id": "EAEE_E6140",
@@ -3351,7 +4105,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EAEE_E6150": {
     "id": "EAEE_E6150",
@@ -3368,7 +4125,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ECIA_4100": {
     "id": "ECIA_4100",
@@ -3403,7 +4163,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EECS_E4750": {
     "id": "EECS_E4750",
@@ -3420,7 +4186,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EECS_E4764": {
     "id": "EECS_E4764",
@@ -3437,7 +4209,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EEEB_3005": {
     "id": "EEEB_3005",
@@ -3452,7 +4230,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_3005_3015": {
     "id": "EEEB_3005_3015",
@@ -3468,7 +4249,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_3011": {
     "id": "EEEB_3011",
@@ -3483,7 +4267,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_3087": {
     "id": "EEEB_3087",
@@ -3498,7 +4285,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_3208": {
     "id": "EEEB_3208",
@@ -3513,7 +4303,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_3220": {
     "id": "EEEB_3220",
@@ -3528,7 +4321,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_4055": {
     "id": "EEEB_4055",
@@ -3543,7 +4339,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_4126": {
     "id": "EEEB_4126",
@@ -3560,6 +4359,9 @@
     "aliases": [],
     "notes": [
       "info not readily available"
+    ],
+    "terms_checked": [
+      "Fall2026"
     ]
   },
   "EEEB_4127": {
@@ -3575,7 +4377,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_4150": {
     "id": "EEEB_4150",
@@ -3590,7 +4395,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_4192": {
     "id": "EEEB_4192",
@@ -3605,7 +4413,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EEEB_4195": {
     "id": "EEEB_4195",
@@ -3620,7 +4431,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "EESC_2100": {
     "id": "EESC_2100",
@@ -3635,7 +4449,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_3027": {
     "id": "EESC_3027",
@@ -3650,7 +4468,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_3101": {
     "id": "EESC_3101",
@@ -3665,7 +4487,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_3201": {
     "id": "EESC_3201",
@@ -3680,7 +4506,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_3400": {
     "id": "EESC_3400",
@@ -3695,7 +4525,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_3928": {
     "id": "EESC_3928",
@@ -3710,7 +4544,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4008": {
     "id": "EESC_4008",
@@ -3725,7 +4563,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4020": {
     "id": "EESC_4020",
@@ -3740,7 +4582,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4050": {
     "id": "EESC_4050",
@@ -3755,7 +4601,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4090": {
     "id": "EESC_4090",
@@ -3770,7 +4620,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4113": {
     "id": "EESC_4113",
@@ -3785,7 +4639,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4210": {
     "id": "EESC_4210",
@@ -3800,7 +4658,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4220": {
     "id": "EESC_4220",
@@ -3815,7 +4677,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4235": {
     "id": "EESC_4235",
@@ -3830,7 +4696,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4330": {
     "id": "EESC_4330",
@@ -3845,7 +4715,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4550": {
     "id": "EESC_4550",
@@ -3860,7 +4734,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4630": {
     "id": "EESC_4630",
@@ -3875,7 +4753,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4835": {
     "id": "EESC_4835",
@@ -3890,7 +4772,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4888": {
     "id": "EESC_4888",
@@ -3905,7 +4791,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4923": {
     "id": "EESC_4923",
@@ -3920,7 +4810,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4924": {
     "id": "EESC_4924",
@@ -3935,7 +4829,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4925": {
     "id": "EESC_4925",
@@ -3950,7 +4848,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4926": {
     "id": "EESC_4926",
@@ -3965,7 +4867,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4930": {
     "id": "EESC_4930",
@@ -3980,7 +4886,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4937": {
     "id": "EESC_4937",
@@ -3995,7 +4905,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4947": {
     "id": "EESC_4947",
@@ -4010,7 +4924,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "EESC_4949": {
     "id": "EESC_4949",
@@ -4025,7 +4943,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "ELEN_E3043": {
     "id": "ELEN_E3043",
@@ -4042,7 +4964,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3082": {
     "id": "ELEN_E3082",
@@ -4058,7 +4986,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3083": {
     "id": "ELEN_E3083",
@@ -4074,7 +5005,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3106": {
     "id": "ELEN_E3106",
@@ -4091,7 +5025,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3201": {
     "id": "ELEN_E3201",
@@ -4108,7 +5048,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3331": {
     "id": "ELEN_E3331",
@@ -4125,7 +5071,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3401": {
     "id": "ELEN_E3401",
@@ -4142,7 +5091,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3701": {
     "id": "ELEN_E3701",
@@ -4159,7 +5111,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3801": {
     "id": "ELEN_E3801",
@@ -4176,7 +5131,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E3998": {
     "id": "ELEN_E3998",
@@ -4196,7 +5157,13 @@
       "see advisor",
       "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4119": {
     "id": "ELEN_E4119",
@@ -4212,7 +5179,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4140": {
     "id": "ELEN_E4140",
@@ -4228,7 +5198,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4193": {
     "id": "ELEN_E4193",
@@ -4245,7 +5218,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4215": {
     "id": "ELEN_E4215",
@@ -4262,7 +5238,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4312": {
     "id": "ELEN_E4312",
@@ -4279,7 +5258,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4314": {
     "id": "ELEN_E4314",
@@ -4296,7 +5281,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4361": {
     "id": "ELEN_E4361",
@@ -4313,7 +5301,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4411": {
     "id": "ELEN_E4411",
@@ -4330,7 +5324,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4488": {
     "id": "ELEN_E4488",
@@ -4347,7 +5347,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4511": {
     "id": "ELEN_E4511",
@@ -4364,7 +5370,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4650": {
     "id": "ELEN_E4650",
@@ -4381,7 +5393,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4702": {
     "id": "ELEN_E4702",
@@ -4398,7 +5413,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4810": {
     "id": "ELEN_E4810",
@@ -4415,7 +5433,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4815": {
     "id": "ELEN_E4815",
@@ -4432,7 +5456,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4830": {
     "id": "ELEN_E4830",
@@ -4449,7 +5476,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ELEN_E4944": {
     "id": "ELEN_E4944",
@@ -4466,7 +5496,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ENME_3105": {
     "id": "ENME_3105",
@@ -4482,7 +5518,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ENME_3113": {
     "id": "ENME_3113",
@@ -4498,7 +5537,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ENME_3114": {
     "id": "ENME_3114",
@@ -4514,7 +5556,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ENME_3332": {
     "id": "ENME_3332",
@@ -4530,7 +5575,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ENME_4214": {
     "id": "ENME_4214",
@@ -4546,7 +5594,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "ENME_4363": {
     "id": "ENME_4363",
@@ -4562,7 +5613,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "GEND_4027": {
     "id": "GEND_4027",
@@ -4577,7 +5631,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "GEND_6211": {
     "id": "GEND_6211",
@@ -4592,7 +5649,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "GRAP_4005": {
     "id": "GRAP_4005",
@@ -4625,7 +5685,14 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "IEOR_E3402": {
     "id": "IEOR_E3402",
@@ -4642,7 +5709,11 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "IEOR_E3404": {
     "id": "IEOR_E3404",
@@ -4659,7 +5730,11 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "IEOR_E3608": {
     "id": "IEOR_E3608",
@@ -4676,7 +5751,14 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MEBM_4439": {
     "id": "MEBM_4439",
@@ -4709,7 +5791,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E3408": {
     "id": "MECE_E3408",
@@ -4726,7 +5814,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E3409": {
     "id": "MECE_E3409",
@@ -4743,7 +5837,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E3430": {
     "id": "MECE_E3430",
@@ -4760,7 +5860,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E3450": {
     "id": "MECE_E3450",
@@ -4777,7 +5880,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E3610": {
     "id": "MECE_E3610",
@@ -4794,7 +5900,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E3998": {
     "id": "MECE_E3998",
@@ -4814,7 +5923,13 @@
       "see advisor",
       "Variable credit course (1.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4058": {
     "id": "MECE_E4058",
@@ -4831,7 +5946,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4211": {
     "id": "MECE_E4211",
@@ -4848,7 +5969,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4212": {
     "id": "MECE_E4212",
@@ -4865,7 +5992,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4213": {
     "id": "MECE_E4213",
@@ -4882,7 +6015,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4214": {
     "id": "MECE_E4214",
@@ -4899,7 +6038,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4305": {
     "id": "MECE_E4305",
@@ -4916,7 +6058,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4306": {
     "id": "MECE_E4306",
@@ -4933,7 +6078,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4312": {
     "id": "MECE_E4312",
@@ -4952,7 +6100,10 @@
     "notes": [
       "approved by UG committee"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4313": {
     "id": "MECE_E4313",
@@ -4968,7 +6119,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4330": {
     "id": "MECE_E4330",
@@ -4985,7 +6139,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4430": {
     "id": "MECE_E4430",
@@ -5002,7 +6159,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4520": {
     "id": "MECE_E4520",
@@ -5019,7 +6179,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4602": {
     "id": "MECE_E4602",
@@ -5036,7 +6202,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4604": {
     "id": "MECE_E4604",
@@ -5053,7 +6225,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4606": {
     "id": "MECE_E4606",
@@ -5070,7 +6245,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4609": {
     "id": "MECE_E4609",
@@ -5087,7 +6265,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECE_E4610": {
     "id": "MECE_E4610",
@@ -5104,7 +6285,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4611": {
     "id": "MECE_E4611",
@@ -5121,7 +6308,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MECE_E4612": {
     "id": "MECE_E4612",
@@ -5138,7 +6331,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MECH_4320": {
     "id": "MECH_4320",
@@ -5185,7 +6381,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E3010": {
     "id": "MSAE_E3010",
@@ -5202,7 +6401,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E3011": {
     "id": "MSAE_E3011",
@@ -5218,7 +6423,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E3012": {
     "id": "MSAE_E3012",
@@ -5238,7 +6446,13 @@
     "notes": [
       "DE- approved"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E3013": {
     "id": "MSAE_E3013",
@@ -5255,7 +6469,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E3900": {
     "id": "MSAE_E3900",
@@ -5275,7 +6492,13 @@
       "see advisor",
       "Variable credit course (0.00-4.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4090": {
     "id": "MSAE_E4090",
@@ -5292,7 +6515,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4100": {
     "id": "MSAE_E4100",
@@ -5309,7 +6535,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4102": {
     "id": "MSAE_E4102",
@@ -5326,7 +6558,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4105": {
     "id": "MSAE_E4105",
@@ -5343,7 +6578,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4200": {
     "id": "MSAE_E4200",
@@ -5360,7 +6598,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4201": {
     "id": "MSAE_E4201",
@@ -5377,7 +6621,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4202": {
     "id": "MSAE_E4202",
@@ -5394,7 +6641,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4203": {
     "id": "MSAE_E4203",
@@ -5411,7 +6661,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4206": {
     "id": "MSAE_E4206",
@@ -5428,7 +6681,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4215": {
     "id": "MSAE_E4215",
@@ -5445,7 +6701,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4250": {
     "id": "MSAE_E4250",
@@ -5462,7 +6724,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4260": {
     "id": "MSAE_E4260",
@@ -5479,7 +6747,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E4301": {
     "id": "MSAE_E4301",
@@ -5496,7 +6770,13 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MSAE_E6085": {
     "id": "MSAE_E6085",
@@ -5513,7 +6793,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "MSAE_E6251": {
     "id": "MSAE_E6251",
@@ -5530,7 +6813,10 @@
     "corequisites": [],
     "aliases": [],
     "notes": [],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "PHYS_C1403": {
     "id": "PHYS_C1403",
@@ -5545,7 +6831,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "PHYS_C2601": {
     "id": "PHYS_C2601",
@@ -5560,6 +6850,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   }
 }

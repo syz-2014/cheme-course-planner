@@ -1,0 +1,288 @@
+{
+  "AFAS": [
+    "Fall2026"
+  ],
+  "AFCV": [
+    "Fall2026"
+  ],
+  "AFRS": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "AHIS": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "AHMM": [
+    "Fall2026"
+  ],
+  "AHUM": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ANTH": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "APAM": [
+    "Fall2026"
+  ],
+  "APBM": [
+    "Fall2026"
+  ],
+  "APMA": [
+    "Fall2026"
+  ],
+  "APPH": [
+    "Fall2026"
+  ],
+  "ASCE": [
+    "Fall2026"
+  ],
+  "ASCM": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ASTR": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BCHM": [
+    "Fall2026"
+  ],
+  "BIOL": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "BMEN": [
+    "Fall2026"
+  ],
+  "CEOR": [
+    "Fall2026"
+  ],
+  "CGTH": [
+    "Fall2026"
+  ],
+  "CHEE": [
+    "Fall2026"
+  ],
+  "CHEM": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CHEN": [
+    "Fall2026"
+  ],
+  "CIEE": [
+    "Fall2026"
+  ],
+  "CIEN": [
+    "Fall2026"
+  ],
+  "CLCV": [
+    "Fall2026"
+  ],
+  "CLEN": [
+    "Fall2026"
+  ],
+  "CLFR": [
+    "Fall2026"
+  ],
+  "CLGM": [
+    "Fall2026"
+  ],
+  "CLIA": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CLME": [
+    "Fall2026"
+  ],
+  "CLRS": [
+    "Fall2026"
+  ],
+  "CLSL": [
+    "Fall2026"
+  ],
+  "COCI": [
+    "Fall2026"
+  ],
+  "COMS": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "CPLS": [
+    "Fall2026"
+  ],
+  "CSEE": [
+    "Fall2026"
+  ],
+  "CSER": [
+    "Fall2026"
+  ],
+  "DNCE": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EAAS": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EAEE": [
+    "Fall2026"
+  ],
+  "EARL": [
+    "Fall2026"
+  ],
+  "ECON": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "EECS": [
+    "Fall2026"
+  ],
+  "EEEB": [
+    "Fall2026"
+  ],
+  "EESC": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ELEN": [
+    "Fall2026"
+  ],
+  "ENGI": [
+    "Fall2026"
+  ],
+  "ENGL": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ENME": [
+    "Fall2026"
+  ],
+  "ENTA": [
+    "Fall2026"
+  ],
+  "FILM": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "FREN": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "GEND": [
+    "Fall2026"
+  ],
+  "GERM": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "GRKM": [
+    "Fall2026"
+  ],
+  "HIST": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "HSEA": [
+    "Fall2026"
+  ],
+  "HSME": [
+    "Fall2026"
+  ],
+  "HSWM": [
+    "Fall2026"
+  ],
+  "HUMA": [
+    "Fall2026"
+  ],
+  "IEOR": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "ITAL": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "JWST": [
+    "Fall2026"
+  ],
+  "LACV": [
+    "Fall2026"
+  ],
+  "LCRS": [
+    "Fall2026"
+  ],
+  "LING": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MATH": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "MDES": [
+    "Fall2026"
+  ],
+  "MECE": [
+    "Fall2026"
+  ],
+  "MICR": [
+    "Fall2026"
+  ],
+  "MSAE": [
+    "Fall2026"
+  ],
+  "MUSI": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHED": [
+    "Fall2026"
+  ],
+  "PHIL": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PHYS": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "PORT": [
+    "Fall2026"
+  ],
+  "RELI": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "RUSS": [
+    "Fall2026"
+  ],
+  "SCNC": [
+    "Fall2026"
+  ],
+  "SLCL": [
+    "Fall2026"
+  ],
+  "SOCI": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "SPAN": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "STAT": [
+    "Fall2026"
+  ],
+  "THTR": [
+    "Fall2026",
+    "Spring2027"
+  ],
+  "URBS": [
+    "Fall2026",
+    "Spring2027"
+  ]
+}

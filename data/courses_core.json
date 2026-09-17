@@ -11,7 +11,15 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "MATH_UN1102": {
     "id": "MATH_UN1102",
@@ -27,7 +35,15 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "APMA_E2000": {
     "id": "APMA_E2000",
@@ -45,7 +61,13 @@
       "APMA_E2001"
     ],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "APMA_E2001": {
     "id": "APMA_E2001",
@@ -61,7 +83,13 @@
       "APMA_E2000"
     ],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MATH_UN2030": {
     "id": "MATH_UN2030",
@@ -77,7 +105,15 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "APMA_E2101": {
     "id": "APMA_E2101",
@@ -93,7 +129,13 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "APMA_E3101": {
     "id": "APMA_E3101",
@@ -107,7 +149,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "MATH_UN2010": {
     "id": "MATH_UN2010",
@@ -121,7 +169,15 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "APMA_E3102": {
     "id": "APMA_E3102",
@@ -135,7 +191,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APMA_E4150": {
     "id": "APMA_E4150",
@@ -149,7 +208,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "APMA_E4300": {
     "id": "APMA_E4300",
@@ -163,7 +225,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "STAT_GU4001": {
     "id": "STAT_GU4001",
@@ -177,7 +245,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHYS_UN1401": {
     "id": "PHYS_UN1401",
@@ -191,7 +265,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHYS_UN1402": {
     "id": "PHYS_UN1402",
@@ -207,7 +288,11 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "PHYS_UN1494": {
     "id": "PHYS_UN1494",
@@ -221,7 +306,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHYS_UN1601": {
     "id": "PHYS_UN1601",
@@ -235,7 +327,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHYS_UN1602": {
     "id": "PHYS_UN1602",
@@ -251,7 +350,11 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "PHYS_UN2801": {
     "id": "PHYS_UN2801",
@@ -265,7 +368,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHYS_UN2802": {
     "id": "PHYS_UN2802",
@@ -281,7 +391,11 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "PHYS_UN3081": {
     "id": "PHYS_UN3081",
@@ -295,7 +409,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN1403": {
     "id": "CHEM_UN1403",
@@ -309,7 +430,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN1500": {
     "id": "CHEM_UN1500",
@@ -325,7 +453,14 @@
       "CHEM_UN1403"
     ],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN1404": {
     "id": "CHEM_UN1404",
@@ -341,7 +476,14 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN1507": {
     "id": "CHEM_UN1507",
@@ -355,7 +497,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN1604": {
     "id": "CHEM_UN1604",
@@ -369,7 +518,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN2045": {
     "id": "CHEM_UN2045",
@@ -383,7 +539,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_UN2046": {
     "id": "CHEM_UN2046",
@@ -399,7 +559,14 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN2443": {
     "id": "CHEM_UN2443",
@@ -413,7 +580,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E1000": {
     "id": "CHEN_E1000",
@@ -428,7 +602,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E2100": {
     "id": "CHEN_E2100",
@@ -443,7 +623,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E3020": {
     "id": "CHEN_E3020",
@@ -460,7 +646,10 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E3110": {
     "id": "CHEN_E3110",
@@ -475,7 +664,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEE_E3010": {
     "id": "CHEE_E3010",
@@ -490,7 +685,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E3230": {
     "id": "CHEN_E3230",
@@ -505,7 +706,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4140": {
     "id": "CHEN_E4140",
@@ -520,7 +724,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4300": {
     "id": "CHEN_E4300",
@@ -535,7 +742,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEN_E3810": {
     "id": "CHEN_E3810",
@@ -550,7 +763,10 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "CHEN_E4500": {
     "id": "CHEN_E4500",
@@ -565,7 +781,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ENGI_E1006": {
     "id": "ENGI_E1006",
@@ -580,7 +802,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ENGI_E1102": {
     "id": "ENGI_E1102",
@@ -595,7 +823,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ENGL_CC1010": {
     "id": "ENGL_CC1010",
@@ -609,7 +843,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ECON_UN1105": {
     "id": "ECON_UN1105",
@@ -625,7 +866,14 @@
       "ECON_UN1155"
     ],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ECON_UN1155": {
     "id": "ECON_UN1155",
@@ -641,7 +889,14 @@
       "ECON_UN1105"
     ],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "HUMA_CC1001": {
     "id": "HUMA_CC1001",
@@ -656,7 +911,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "HUMA_CC1002": {
     "id": "HUMA_CC1002",
@@ -673,7 +934,10 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "COCI_CC1101": {
     "id": "COCI_CC1101",
@@ -688,7 +952,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "COCI_CC1102": {
     "id": "COCI_CC1102",
@@ -705,7 +975,10 @@
     ],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   },
   "HUMA_UN1121": {
     "id": "HUMA_UN1121",
@@ -719,7 +992,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "HUMA_UN1123": {
     "id": "HUMA_UN1123",
@@ -733,7 +1012,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "ASCM_UN2002": {
     "id": "ASCM_UN2002",
@@ -748,7 +1033,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_UN2493": {
     "id": "CHEM_UN2493",
@@ -762,7 +1051,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN2496": {
     "id": "CHEM_UN2496",
@@ -776,7 +1072,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_UN2543": {
     "id": "CHEM_UN2543",
@@ -790,7 +1090,11 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ]
   },
   "CHEM_UN2545": {
     "id": "CHEM_UN2545",
@@ -804,7 +1108,14 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "CHEM_UN3085": {
     "id": "CHEM_UN3085",
@@ -820,7 +1131,14 @@
     "aliases": [
       "CHEM_3085"
     ],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "BIOL_UN2501": {
     "id": "BIOL_UN2501",
@@ -836,7 +1154,14 @@
     "aliases": [
       "BIOL_W2501"
     ],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026",
+      "Spring2027"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "EEEB_UN3015": {
     "id": "EEEB_UN3015",
@@ -852,7 +1177,13 @@
     "aliases": [
       "EEEB_UN3005_3015"
     ],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHED_UN1001": {
     "id": "PHED_UN1001",
@@ -866,7 +1197,13 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ],
+    "terms_offered": [
+      "Fall2026"
+    ]
   },
   "PHED_UN1002": {
     "id": "PHED_UN1002",
@@ -880,6 +1217,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [],
+    "terms_checked": [
+      "Fall2026"
+    ]
   }
 }
