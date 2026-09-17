@@ -1,0 +1,5565 @@
+{
+  "APAM_E3011": {
+    "id": "APAM_E3011",
+    "subject": "APAM",
+    "number": "E3011",
+    "title": "INTRO TO MATERIALS SCIENCE II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E3013": {
+    "id": "APAM_E3013",
+    "subject": "APAM",
+    "number": "E3013",
+    "title": "LABORATORY IN MATERIALS SCI II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E3100": {
+    "id": "APAM_E3100",
+    "subject": "APAM",
+    "number": "E3100",
+    "title": "INTRO TO QUANTUM MECHANICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E3157": {
+    "id": "APAM_E3157",
+    "subject": "APAM",
+    "number": "E3157",
+    "title": "DESIGN PROJECT",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E3300": {
+    "id": "APAM_E3300",
+    "subject": "APAM",
+    "number": "E3300",
+    "title": "APPLIED ELECTROMAGNETISM",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E4018": {
+    "id": "APAM_E4018",
+    "subject": "APAM",
+    "number": "E4018",
+    "title": "APPLIED PHYSICS LABORATORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E4090": {
+    "id": "APAM_E4090",
+    "subject": "APAM",
+    "number": "E4090",
+    "title": "NANOTECHNOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E4110": {
+    "id": "APAM_E4110",
+    "subject": "APAM",
+    "number": "E4110",
+    "title": "MODERN OPTICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E4114": {
+    "id": "APAM_E4114",
+    "subject": "APAM",
+    "number": "E4114",
+    "title": "Quantum and Nonlinear Photonics",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APAM_E4330": {
+    "id": "APAM_E4330",
+    "subject": "APAM",
+    "number": "E4330",
+    "title": "RADIOBIOLOGY FOR MED PHYS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APBM_4650": {
+    "id": "APBM_4650",
+    "subject": "APBM",
+    "number": "4650",
+    "title": "ANATOMY FOR PHYSICISTS &",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APCH_E4080": {
+    "id": "APCH_E4080",
+    "subject": "APCH",
+    "number": "E4080",
+    "title": "Soft Condensed Matter",
+    "credits": 3.0,
+    "category_tags": [
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Not currently offered"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "APPH_3200": {
+    "id": "APPH_3200",
+    "subject": "APPH",
+    "number": "3200",
+    "title": "MECHANICS:FUND & APPLICAT",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4010": {
+    "id": "APPH_4010",
+    "subject": "APPH",
+    "number": "4010",
+    "title": "INTRODUCTN TO NUCLEAR SCIENCE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4100": {
+    "id": "APPH_4100",
+    "subject": "APPH",
+    "number": "4100",
+    "title": "QUANTUM PHYSICS OF MATTER",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4112": {
+    "id": "APPH_4112",
+    "subject": "APPH",
+    "number": "4112",
+    "title": "LASER PHYSICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4300": {
+    "id": "APPH_4300",
+    "subject": "APPH",
+    "number": "4300",
+    "title": "APPLIED ELECTRODYNAMICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4500": {
+    "id": "APPH_4500",
+    "subject": "APPH",
+    "number": "4500",
+    "title": "HEALTH PHYSICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4600": {
+    "id": "APPH_4600",
+    "subject": "APPH",
+    "number": "4600",
+    "title": "FUNDAMENTALS OF DOSIMETRY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APPH_4710": {
+    "id": "APPH_4710",
+    "subject": "APPH",
+    "number": "4710",
+    "title": "RAD INSTRUMENT/MEASUREMEN",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3102": {
+    "id": "ASTR_3102",
+    "subject": "ASTR",
+    "number": "3102",
+    "title": "PLANETARY DYNAMICS & PHYSICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3103": {
+    "id": "ASTR_3103",
+    "subject": "ASTR",
+    "number": "3103",
+    "title": "GALAXIES",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3105": {
+    "id": "ASTR_3105",
+    "subject": "ASTR",
+    "number": "3105",
+    "title": "EXTRASOLAR PLANETS & ASTROBIOL",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3106": {
+    "id": "ASTR_3106",
+    "subject": "ASTR",
+    "number": "3106",
+    "title": "THE SCIENCE OF SPACE EXPLORATION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3601": {
+    "id": "ASTR_3601",
+    "subject": "ASTR",
+    "number": "3601",
+    "title": "RELATVITY,BLACK HOLES,COSMOLGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3602": {
+    "id": "ASTR_3602",
+    "subject": "ASTR",
+    "number": "3602",
+    "title": "PHYSICAL COSMOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASTR_3646": {
+    "id": "ASTR_3646",
+    "subject": "ASTR",
+    "number": "3646",
+    "title": "OBSERVATIONAL ASTRONOMY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BCHM_GU4250": {
+    "id": "BCHM_GU4250",
+    "subject": "BCHM",
+    "number": "GU4250",
+    "title": "MOLECULAR BIOPHYSICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOC_UN3300": {
+    "id": "BIOC_UN3300",
+    "subject": "BIOC",
+    "number": "UN3300",
+    "title": "BIOCHEMISTRY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_2016": {
+    "id": "BIOL_2016",
+    "subject": "BIOL",
+    "number": "2016",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_2402": {
+    "id": "BIOL_2402",
+    "subject": "BIOL",
+    "number": "2402",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_2502": {
+    "id": "BIOL_2502",
+    "subject": "BIOL",
+    "number": "2502",
+    "title": "Foundations of Lab Bio",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "This course has no lab content and was created when in person lab was not possible during COVID-19 restrictions. If offered again it will only be counted if the student's time at CU has been impacted by COVID restrictions and another lab class was not possible."
+    ]
+  },
+  "BIOL_3300": {
+    "id": "BIOL_3300",
+    "subject": "BIOL",
+    "number": "3300",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_3998": {
+    "id": "BIOL_3998",
+    "subject": "BIOL",
+    "number": "3998",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_4310": {
+    "id": "BIOL_4310",
+    "subject": "BIOL",
+    "number": "4310",
+    "title": "Virology",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Approved by UG committee; make sure you have taken pre-reqs for his course."
+    ]
+  },
+  "BIOL_C2005": {
+    "id": "BIOL_C2005",
+    "subject": "BIOL",
+    "number": "C2005",
+    "title": "INTRO BIO I: BIOCHEM,GEN,MOLEC",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_C2006": {
+    "id": "BIOL_C2006",
+    "subject": "BIOL",
+    "number": "C2006",
+    "title": "(Bio 2) Introduction to Molecular and Cellular Biology",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_W2501": {
+    "id": "BIOL_W2501",
+    "subject": "BIOL",
+    "number": "W2501",
+    "title": "Contemporary Biology Lab",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "natural_science_lab_option",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BIOL_W3500": {
+    "id": "BIOL_W3500",
+    "subject": "BIOL",
+    "number": "W3500",
+    "title": "Independent Biology Research",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "^This can count as an Adv. Science, but we require students submit a 1-2 page summary of their research experience to their academic advisor at the end of the semester to have some sort of record of what research was done outside of the department"
+    ]
+  },
+  "BMEN_E3010": {
+    "id": "BMEN_E3010",
+    "subject": "BMEN",
+    "number": "E3010",
+    "title": "BIOMEDICAL ENGINEERING I",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E3020": {
+    "id": "BMEN_E3020",
+    "subject": "BMEN",
+    "number": "E3020",
+    "title": "BIOMEDICAL ENGINEERING II",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E3810": {
+    "id": "BMEN_E3810",
+    "subject": "BMEN",
+    "number": "E3810",
+    "title": "BIOMEDICAL ENGINEERING LAB I",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E3820": {
+    "id": "BMEN_E3820",
+    "subject": "BMEN",
+    "number": "E3820",
+    "title": "BIOMEDICAL ENGINEERING LAB II",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E3910": {
+    "id": "BMEN_E3910",
+    "subject": "BMEN",
+    "number": "E3910",
+    "title": "BIOMEDICAL ENGINEERING DESIGN",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E3920": {
+    "id": "BMEN_E3920",
+    "subject": "BMEN",
+    "number": "E3920",
+    "title": "BIOMEDICAL ENGIN DESIGN II",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4001": {
+    "id": "BMEN_E4001",
+    "subject": "BMEN",
+    "number": "E4001",
+    "title": "QUANTITATIVE PHYSIOLOGY I",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4002": {
+    "id": "BMEN_E4002",
+    "subject": "BMEN",
+    "number": "E4002",
+    "title": "QUANT PHYSIOLOGY II:ORGAN SYST",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4030": {
+    "id": "BMEN_E4030",
+    "subject": "BMEN",
+    "number": "E4030",
+    "title": "NEURAL CONTROL ENGINEERING",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4050": {
+    "id": "BMEN_E4050",
+    "subject": "BMEN",
+    "number": "E4050",
+    "title": "ELECTROPHYS OF HUM MEMORY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4110": {
+    "id": "BMEN_E4110",
+    "subject": "BMEN",
+    "number": "E4110",
+    "title": "BIOSTATISTICS FOR ENGINEERS",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4150": {
+    "id": "BMEN_E4150",
+    "subject": "BMEN",
+    "number": "E4150",
+    "title": "THE CELL AS A MACHINE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4210": {
+    "id": "BMEN_E4210",
+    "subject": "BMEN",
+    "number": "E4210",
+    "title": "DRIVING FORCES OF BIOLOGICAL SYSTEMS",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4310": {
+    "id": "BMEN_E4310",
+    "subject": "BMEN",
+    "number": "E4310",
+    "title": "SOLID BIOMECHANICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4320": {
+    "id": "BMEN_E4320",
+    "subject": "BMEN",
+    "number": "E4320",
+    "title": "FLUID BIOMECHANICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4350": {
+    "id": "BMEN_E4350",
+    "subject": "BMEN",
+    "number": "E4350",
+    "title": "Biomechanics of Developmental Biology",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4410": {
+    "id": "BMEN_E4410",
+    "subject": "BMEN",
+    "number": "E4410",
+    "title": "ULTRASOUND IN DIAGNOSTC IMAGNG",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4430": {
+    "id": "BMEN_E4430",
+    "subject": "BMEN",
+    "number": "E4430",
+    "title": "PRIN OF MAG RESONANCE IMAGING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4440": {
+    "id": "BMEN_E4440",
+    "subject": "BMEN",
+    "number": "E4440",
+    "title": "PHYSIOLOGICAL CONTROL SYSTEM",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4460": {
+    "id": "BMEN_E4460",
+    "subject": "BMEN",
+    "number": "E4460",
+    "title": "Deep Learning in Biomedical Imaging",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4470": {
+    "id": "BMEN_E4470",
+    "subject": "BMEN",
+    "number": "E4470",
+    "title": "Deep Learning for Biomedical Signal Proc",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4490": {
+    "id": "BMEN_E4490",
+    "subject": "BMEN",
+    "number": "E4490",
+    "title": "Magnetic Resonance Spectroscopy: A Windo",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "BMEN_E4510": {
+    "id": "BMEN_E4510",
+    "subject": "BMEN",
+    "number": "E4510",
+    "title": "TISSUE ENGINEERING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4520": {
+    "id": "BMEN_E4520",
+    "subject": "BMEN",
+    "number": "E4520",
+    "title": "SYNTHETIC BIOLOGY:PRIN GENETIC CIRCUITS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4530": {
+    "id": "BMEN_E4530",
+    "subject": "BMEN",
+    "number": "E4530",
+    "title": "DRUG AND GENE DELIVERY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4535": {
+    "id": "BMEN_E4535",
+    "subject": "BMEN",
+    "number": "E4535",
+    "title": "Immunoengineering with Biomaterials and Nanotechnology",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "DVE approved"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4550": {
+    "id": "BMEN_E4550",
+    "subject": "BMEN",
+    "number": "E4550",
+    "title": "MICRO/NANO STRUCT CELL ENG",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4580": {
+    "id": "BMEN_E4580",
+    "subject": "BMEN",
+    "number": "E4580",
+    "title": "FOUND OF NANOBIOSCI/NANOBIOTECH",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4590": {
+    "id": "BMEN_E4590",
+    "subject": "BMEN",
+    "number": "E4590",
+    "title": "BIOMEMS:CELL/MOLECULAR APPLIC",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "BMEN_E4740": {
+    "id": "BMEN_E4740",
+    "subject": "BMEN",
+    "number": "E4740",
+    "title": "BIOINSTRUMENTATION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4840": {
+    "id": "BMEN_E4840",
+    "subject": "BMEN",
+    "number": "E4840",
+    "title": "FUNCTIONAL IMAGING BRAIN",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "BMEN_E4894": {
+    "id": "BMEN_E4894",
+    "subject": "BMEN",
+    "number": "E4894",
+    "title": "BIOMEDICAL IMAGING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "BMEN_E4898": {
+    "id": "BMEN_E4898",
+    "subject": "BMEN",
+    "number": "E4898",
+    "title": "BIOPHOTONICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CBMF_4761": {
+    "id": "CBMF_4761",
+    "subject": "CBMF",
+    "number": "4761",
+    "title": "Computational Genomics",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "CBMF: Computer Science/Biomedical/Med Info"
+    ]
+  },
+  "CEOR_4011": {
+    "id": "CEOR_4011",
+    "subject": "CEOR",
+    "number": "4011",
+    "title": "INFRASTRUCTURE SYSTEMS OP",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHAP_E4120": {
+    "id": "CHAP_E4120",
+    "subject": "CHAP",
+    "number": "E4120",
+    "title": "Statistical Mechanics",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEE_E4252": {
+    "id": "CHEE_E4252",
+    "subject": "CHEE",
+    "number": "E4252",
+    "title": "Intro-Surface and Colloid Sci",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "approved in July 2024"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEM_3080": {
+    "id": "CHEM_3080",
+    "subject": "CHEM",
+    "number": "3080",
+    "title": "Physical Chemistry II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_3085": {
+    "id": "CHEM_3085",
+    "subject": "CHEM",
+    "number": "3085",
+    "title": "Physical-Analytical Laboratory",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "natural_science_lab_option",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_4071": {
+    "id": "CHEM_4071",
+    "subject": "CHEM",
+    "number": "4071",
+    "title": "Inorganic Chemistry",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E3900": {
+    "id": "CHEN_E3900",
+    "subject": "CHEN",
+    "number": "E3900",
+    "title": "UNDERGRADUATE RESEARCH PROJECT",
+    "credits": 0.0,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Can only count for 2 electives, maximum; if more than one semester is counted, you must write a thesis",
+      "Variable credit course (0.00-6.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "repeat_rules": {
+      "repeatable": true,
+      "max_instances_toward_technical_elective": 2,
+      "thesis_required_above_instances": 1,
+      "note": "May be taken for more than one semester of research. Each semester is a separate enrollment and can optionally count toward the technical elective requirement, but only the first 2 semesters count toward that requirement. Enrolling for more than 1 semester (i.e. more than ~3 points of research) requires an undergraduate thesis."
+    }
+  },
+  "CHEN_E4080": {
+    "id": "CHEN_E4080",
+    "subject": "CHEN",
+    "number": "E4080",
+    "title": "SOFT CONDENSED MATTER",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E4110": {
+    "id": "CHEN_E4110",
+    "subject": "CHEN",
+    "number": "E4110",
+    "title": "Mechanisms of transport phenomena in fluids",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Graduate core class"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4112": {
+    "id": "CHEN_E4112",
+    "subject": "CHEN",
+    "number": "E4112",
+    "title": "Transport in Fluid Mixtures",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4120": {
+    "id": "CHEN_E4120",
+    "subject": "CHEN",
+    "number": "E4120",
+    "title": "STATISTICAL MECHANICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Graduate core class"
+    ]
+  },
+  "CHEN_E4130": {
+    "id": "CHEN_E4130",
+    "subject": "CHEN",
+    "number": "E4130",
+    "title": "Advanced Chemical Engineering Thermodynamics",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "(graduate thermo class)",
+      "Graduate core class"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4150": {
+    "id": "CHEN_E4150",
+    "subject": "CHEN",
+    "number": "E4150",
+    "title": "Computational Fluid Dynamics",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4180": {
+    "id": "CHEN_E4180",
+    "subject": "CHEN",
+    "number": "E4180",
+    "title": "Machine Learning for Biomolecular and Ce",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CHEN_E4201": {
+    "id": "CHEN_E4201",
+    "subject": "CHEN",
+    "number": "E4201",
+    "title": "Engineering Applications of Electrochemistry",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "(not being offered during 2026-2027 school during"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4231": {
+    "id": "CHEN_E4231",
+    "subject": "CHEN",
+    "number": "E4231",
+    "title": "Solar Fuels",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4235": {
+    "id": "CHEN_E4235",
+    "subject": "CHEN",
+    "number": "E4235",
+    "title": "SURFACE REACTIONS & KINETICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Graduate core class"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4320": {
+    "id": "CHEN_E4320",
+    "subject": "CHEN",
+    "number": "E4320",
+    "title": "Molecular Phenomena",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4325": {
+    "id": "CHEN_E4325",
+    "subject": "CHEN",
+    "number": "E4325",
+    "title": "Bioseparations",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Not currently offered."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4330": {
+    "id": "CHEN_E4330",
+    "subject": "CHEN",
+    "number": "E4330",
+    "title": "ADVANCED CHEMICAL KINETICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Graduate core class"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4331": {
+    "id": "CHEN_E4331",
+    "subject": "CHEN",
+    "number": "E4331",
+    "title": "Catalysis and Kinetics of Sustainable CO2 Conversion",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CHEN_E4380": {
+    "id": "CHEN_E4380",
+    "subject": "CHEN",
+    "number": "E4380",
+    "title": "Green Chemical Engineering & Innovation",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4400": {
+    "id": "CHEN_E4400",
+    "subject": "CHEN",
+    "number": "E4400",
+    "title": "Pharmaceutical Process Development",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Used to be named Chemical process development"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4500": {
+    "id": "CHEN_E4500",
+    "subject": "CHEN",
+    "number": "E4500",
+    "title": "PRINCIPLES OF PROCESS DESIGN",
+    "credits": 4.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4501": {
+    "id": "CHEN_E4501",
+    "subject": "CHEN",
+    "number": "E4501",
+    "title": "Process Safety",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4580": {
+    "id": "CHEN_E4580",
+    "subject": "CHEN",
+    "number": "E4580",
+    "title": "ARTIFICIAL INTELLIGENCE IN CHEMICAL ENGI",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4600": {
+    "id": "CHEN_E4600",
+    "subject": "CHEN",
+    "number": "E4600",
+    "title": "Atmospheric Aerosols",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4620": {
+    "id": "CHEN_E4620",
+    "subject": "CHEN",
+    "number": "E4620",
+    "title": "Intro to Polymers and Soft Materials",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4630": {
+    "id": "CHEN_E4630",
+    "subject": "CHEN",
+    "number": "E4630",
+    "title": "Topics in Soft Materials",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "transport_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4650": {
+    "id": "CHEN_E4650",
+    "subject": "CHEN",
+    "number": "E4650",
+    "title": "Polymer Physics",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Not currently offered."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4660": {
+    "id": "CHEN_E4660",
+    "subject": "CHEN",
+    "number": "E4660",
+    "title": "BIOCHEMICAL ENGINEERING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4665": {
+    "id": "CHEN_E4665",
+    "subject": "CHEN",
+    "number": "E4665",
+    "title": "Polymer Chemistry for Sustainable Solutions",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CHEN_E4670": {
+    "id": "CHEN_E4670",
+    "subject": "CHEN",
+    "number": "E4670",
+    "title": "CHEMICAL ENGINEERING DATA ANALYSIS",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4700": {
+    "id": "CHEN_E4700",
+    "subject": "CHEN",
+    "number": "E4700",
+    "title": "Principles of Genomic Technology",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4725": {
+    "id": "CHEN_E4725",
+    "subject": "CHEN",
+    "number": "E4725",
+    "title": "Therapeutic Systems Design",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CHEN_E4800": {
+    "id": "CHEN_E4800",
+    "subject": "CHEN",
+    "number": "E4800",
+    "title": "Protein Engineering",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4850": {
+    "id": "CHEN_E4850",
+    "subject": "CHEN",
+    "number": "E4850",
+    "title": "Contaminated Site Cleanup",
+    "credits": null,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E4860": {
+    "id": "CHEN_E4860",
+    "subject": "CHEN",
+    "number": "E4860",
+    "title": "NMR of Bio, Soft and Energy materials",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4870": {
+    "id": "CHEN_E4870",
+    "subject": "CHEN",
+    "number": "E4870",
+    "title": "Synthetic Organogenesis",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4880": {
+    "id": "CHEN_E4880",
+    "subject": "CHEN",
+    "number": "E4880",
+    "title": "Atomistic Simulations",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective",
+      "thermo_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4890": {
+    "id": "CHEN_E4890",
+    "subject": "CHEN",
+    "number": "E4890",
+    "title": "Biopharmaceuticals Product Development",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4910": {
+    "id": "CHEN_E4910",
+    "subject": "CHEN",
+    "number": "E4910",
+    "title": "Solid State Chemistry in Pharma",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E4920": {
+    "id": "CHEN_E4920",
+    "subject": "CHEN",
+    "number": "E4920",
+    "title": "Pharma Industry for Engineers",
+    "credits": 3.0,
+    "category_tags": [
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E8100": {
+    "id": "CHEN_E8100",
+    "subject": "CHEN",
+    "number": "E8100",
+    "title": "Topics in Biology",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHE_M2444": {
+    "id": "CHE_M2444",
+    "subject": "CHE",
+    "number": "M2444",
+    "title": "Organic Chemistry II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEE_3250": {
+    "id": "CIEE_3250",
+    "subject": "CIEE",
+    "number": "3250",
+    "title": "Hydrosystems Engineering",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEE_3255": {
+    "id": "CIEE_3255",
+    "subject": "CIEE",
+    "number": "3255",
+    "title": "Environmental control and pollution reduction systems",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEE_4116": {
+    "id": "CIEE_4116",
+    "subject": "CIEE",
+    "number": "4116",
+    "title": "Energy Harvesting",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEE_4163": {
+    "id": "CIEE_4163",
+    "subject": "CIEE",
+    "number": "4163",
+    "title": "Sustainable Water Treatment and Reuse",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEE_4252": {
+    "id": "CIEE_4252",
+    "subject": "CIEE",
+    "number": "4252",
+    "title": "Foundations of Environmental Engineering",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEN_E3000": {
+    "id": "CIEN_E3000",
+    "subject": "CIEN",
+    "number": "E3000",
+    "title": "Art of structural design",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CIEN_E3106": {
+    "id": "CIEN_E3106",
+    "subject": "CIEN",
+    "number": "E3106",
+    "title": "DYNAMICS AND VIBRATIONS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEN_E3111": {
+    "id": "CIEN_E3111",
+    "subject": "CIEN",
+    "number": "E3111",
+    "title": "UNCERTAIN/RISK-CIVIL INF SYST",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEN_E3121": {
+    "id": "CIEN_E3121",
+    "subject": "CIEN",
+    "number": "E3121",
+    "title": "STRUCTURAL ANALYSIS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CIEN_E3126": {
+    "id": "CIEN_E3126",
+    "subject": "CIEN",
+    "number": "E3126",
+    "title": "COMPUTER-AIDED STRUCTRL DESIGN",
+    "credits": 2.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CIEN_E3141": {
+    "id": "CIEN_E3141",
+    "subject": "CIEN",
+    "number": "E3141",
+    "title": "SOIL MECHANICS",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CIEN_E3260": {
+    "id": "CIEN_E3260",
+    "subject": "CIEN",
+    "number": "E3260",
+    "title": "ENGINEER FOR DEVP COMMUNITIES",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CIEN_E4011": {
+    "id": "CIEN_E4011",
+    "subject": "CIEN",
+    "number": "E4011",
+    "title": "BIG DATA IN TRANSPORTATION",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CIEN_E4100": {
+    "id": "CIEN_E4100",
+    "subject": "CIEN",
+    "number": "E4100",
+    "title": "EARTHQUAKE & WIND ENGINEERING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "COMS_3102": {
+    "id": "COMS_3102",
+    "subject": "COMS",
+    "number": "3102",
+    "title": "DEVELOPMENT TECHNOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_3134": {
+    "id": "COMS_3134",
+    "subject": "COMS",
+    "number": "3134",
+    "title": "DATA STRUCTURES IN JAVA",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_3136": {
+    "id": "COMS_3136",
+    "subject": "COMS",
+    "number": "3136",
+    "title": "ESSENTIAL DATA STRUCTURES",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_3137": {
+    "id": "COMS_3137",
+    "subject": "COMS",
+    "number": "3137",
+    "title": "HONORS DATA STRUCTURES & ALGOL",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_3261": {
+    "id": "COMS_3261",
+    "subject": "COMS",
+    "number": "3261",
+    "title": "COMPUTER SCIENCE THEORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_3827": {
+    "id": "COMS_3827",
+    "subject": "COMS",
+    "number": "3827",
+    "title": "FUNDAMENTALS OF COMPUTER SYSTS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4111": {
+    "id": "COMS_4111",
+    "subject": "COMS",
+    "number": "4111",
+    "title": "INTRODUCTION TO DATABASES",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4113": {
+    "id": "COMS_4113",
+    "subject": "COMS",
+    "number": "4113",
+    "title": "FUND-LARGE-SCALE DIST SYSTEMS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4118": {
+    "id": "COMS_4118",
+    "subject": "COMS",
+    "number": "4118",
+    "title": "OPERATING SYSTEMS I",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4119": {
+    "id": "COMS_4119",
+    "subject": "COMS",
+    "number": "4119",
+    "title": "COMPUTER NETWORKS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4140": {
+    "id": "COMS_4140",
+    "subject": "COMS",
+    "number": "4140",
+    "title": "NETWORKING LABORATORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4156": {
+    "id": "COMS_4156",
+    "subject": "COMS",
+    "number": "4156",
+    "title": "Advanced Software Engineering",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4160": {
+    "id": "COMS_4160",
+    "subject": "COMS",
+    "number": "4160",
+    "title": "COMPUTER GRAPHICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4167": {
+    "id": "COMS_4167",
+    "subject": "COMS",
+    "number": "4167",
+    "title": "COMPUTER ANIMATION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4170": {
+    "id": "COMS_4170",
+    "subject": "COMS",
+    "number": "4170",
+    "title": "USER INTERFACE DESIGN",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4172": {
+    "id": "COMS_4172",
+    "subject": "COMS",
+    "number": "4172",
+    "title": "3D UI AND AUGMENTED REALITY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4181": {
+    "id": "COMS_4181",
+    "subject": "COMS",
+    "number": "4181",
+    "title": "SECURITY I",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4182": {
+    "id": "COMS_4182",
+    "subject": "COMS",
+    "number": "4182",
+    "title": "SECURITY II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4186": {
+    "id": "COMS_4186",
+    "subject": "COMS",
+    "number": "4186",
+    "title": "MALWARE ANALYSIS&REVERSE ENGINEERING",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4236": {
+    "id": "COMS_4236",
+    "subject": "COMS",
+    "number": "4236",
+    "title": "INTRO-COMPUTATIONAL COMPLEXITY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4252": {
+    "id": "COMS_4252",
+    "subject": "COMS",
+    "number": "4252",
+    "title": "INTRO-COMPUTATIONAL LEARN THRY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4261": {
+    "id": "COMS_4261",
+    "subject": "COMS",
+    "number": "4261",
+    "title": "INTRO TO CRYPTOGRAPHY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4701": {
+    "id": "COMS_4701",
+    "subject": "COMS",
+    "number": "4701",
+    "title": "ARTIFICIAL INTELLIGENCE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4705": {
+    "id": "COMS_4705",
+    "subject": "COMS",
+    "number": "4705",
+    "title": "NATURAL LANGUAGE PROCESSING",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4721": {
+    "id": "COMS_4721",
+    "subject": "COMS",
+    "number": "4721",
+    "title": "MACHINE LEARNING FOR DATA SCI",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4731": {
+    "id": "COMS_4731",
+    "subject": "COMS",
+    "number": "4731",
+    "title": "COMPUTER VISION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4732": {
+    "id": "COMS_4732",
+    "subject": "COMS",
+    "number": "4732",
+    "title": "Computer Vision II: Learning",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4733": {
+    "id": "COMS_4733",
+    "subject": "COMS",
+    "number": "4733",
+    "title": "COMPUTATNL ASPECTS OF ROBOTICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4761": {
+    "id": "COMS_4761",
+    "subject": "COMS",
+    "number": "4761",
+    "title": "COMPUTATIONAL GENOMICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4762": {
+    "id": "COMS_4762",
+    "subject": "COMS",
+    "number": "4762",
+    "title": "Machine Learning for Functional Genomics",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4771": {
+    "id": "COMS_4771",
+    "subject": "COMS",
+    "number": "4771",
+    "title": "MACHINE LEARNING",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4775": {
+    "id": "COMS_4775",
+    "subject": "COMS",
+    "number": "4775",
+    "title": "Causal Inference",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4840": {
+    "id": "COMS_4840",
+    "subject": "COMS",
+    "number": "4840",
+    "title": "EMBEDDED SYSTEMS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4842_4824": {
+    "id": "COMS_4842_4824",
+    "subject": "COMS",
+    "number": "4842_4824",
+    "title": "COMPUTER ARCHITECTURE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_4868": {
+    "id": "COMS_4868",
+    "subject": "COMS",
+    "number": "4868",
+    "title": "SYSTEM-ON-CHIP PLATFORMS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CSEE_4823": {
+    "id": "CSEE_4823",
+    "subject": "CSEE",
+    "number": "4823",
+    "title": "ADVANCED LOGIC DESIGN",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CSEE_4824": {
+    "id": "CSEE_4824",
+    "subject": "CSEE",
+    "number": "4824",
+    "title": "COMPUTER ARCHITECTURE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EACEE_4163": {
+    "id": "EACEE_4163",
+    "subject": "EACEE",
+    "number": "4163",
+    "title": "Environmental Engineering: Sustainable Water Treatment and Reuse",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAEE_E3103": {
+    "id": "EAEE_E3103",
+    "subject": "EAEE",
+    "number": "E3103",
+    "title": "Energy, minerals and materials systems",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E3800": {
+    "id": "EAEE_E3800",
+    "subject": "EAEE",
+    "number": "E3800",
+    "title": "EARTH & ENVIR ENGIN LAB I",
+    "credits": 2.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E3900": {
+    "id": "EAEE_E3900",
+    "subject": "EAEE",
+    "number": "E3900",
+    "title": "UNDERGRAD RES-ENVIRONMTL ENGIN",
+    "credits": 0.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "see advisor",
+      "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E3901_4901": {
+    "id": "EAEE_E3901_4901",
+    "subject": "EAEE",
+    "number": "E3901_4901",
+    "title": "ENVIRONMENTAL MICROBIOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAEE_E4000": {
+    "id": "EAEE_E4000",
+    "subject": "EAEE",
+    "number": "E4000",
+    "title": "Machine learning for environmental engin",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAEE_E4002": {
+    "id": "EAEE_E4002",
+    "subject": "EAEE",
+    "number": "E4002",
+    "title": "ALTERNATIVE ENERGY RESOURCES",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4003": {
+    "id": "EAEE_E4003",
+    "subject": "EAEE",
+    "number": "E4003",
+    "title": "INTRO TO AQUATIC CHEMISTR",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4006": {
+    "id": "EAEE_E4006",
+    "subject": "EAEE",
+    "number": "E4006",
+    "title": "FLD METHODS FOR ENVIRON ENGIN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4009": {
+    "id": "EAEE_E4009",
+    "subject": "EAEE",
+    "number": "E4009",
+    "title": "GIS-RES,ENVIR,INFRASTRUCTR MGT",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4011": {
+    "id": "EAEE_E4011",
+    "subject": "EAEE",
+    "number": "E4011",
+    "title": "INDUS ECOLOGY OF MANUFACTURING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4100": {
+    "id": "EAEE_E4100",
+    "subject": "EAEE",
+    "number": "E4100",
+    "title": "MGMT & DEVPT OF WATER SYSTEMS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4150": {
+    "id": "EAEE_E4150",
+    "subject": "EAEE",
+    "number": "E4150",
+    "title": "AIR POLLUTION PREVENTION/CONTR",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Does not count as an advanced science tech elective."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4160": {
+    "id": "EAEE_E4160",
+    "subject": "EAEE",
+    "number": "E4160",
+    "title": "SOLID & HAZARDOUS WASTE MGMT",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4180": {
+    "id": "EAEE_E4180",
+    "subject": "EAEE",
+    "number": "E4180",
+    "title": "ELECTROCHEMICAL ENERGY STORAGE SYSTEMS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4190": {
+    "id": "EAEE_E4190",
+    "subject": "EAEE",
+    "number": "E4190",
+    "title": "PHOTOVOLTAIC SYSTEMS ENGIN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4200": {
+    "id": "EAEE_E4200",
+    "subject": "EAEE",
+    "number": "E4200",
+    "title": "Introduction to Sustainable Production o",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAEE_E4210": {
+    "id": "EAEE_E4210",
+    "subject": "EAEE",
+    "number": "E4210",
+    "title": "THERMAL TREATMNT-WASTE/BIO MAT",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4220": {
+    "id": "EAEE_E4220",
+    "subject": "EAEE",
+    "number": "E4220",
+    "title": "Energy System Economics and Optimization",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4222": {
+    "id": "EAEE_E4222",
+    "subject": "EAEE",
+    "number": "E4222",
+    "title": "Interfacial Engineering for Sustainable",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4228": {
+    "id": "EAEE_E4228",
+    "subject": "EAEE",
+    "number": "E4228",
+    "title": "Separation Science and Technology in Sus",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAEE_E4250": {
+    "id": "EAEE_E4250",
+    "subject": "EAEE",
+    "number": "E4250",
+    "title": "Hydrosystems",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAEE_E4257": {
+    "id": "EAEE_E4257",
+    "subject": "EAEE",
+    "number": "E4257",
+    "title": "ENVIR DATA ANALYSIS & MODELING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4300": {
+    "id": "EAEE_E4300",
+    "subject": "EAEE",
+    "number": "E4300",
+    "title": "INTRO TO CARBON MANAGEMEN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4302": {
+    "id": "EAEE_E4302",
+    "subject": "EAEE",
+    "number": "E4302",
+    "title": "CARBON CAPTURE",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4304": {
+    "id": "EAEE_E4304",
+    "subject": "EAEE",
+    "number": "E4304",
+    "title": "CLOSING THE CARBON CYCLE",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4305": {
+    "id": "EAEE_E4305",
+    "subject": "EAEE",
+    "number": "E4305",
+    "title": "CO2 UTILIZATION AND CONVERSION",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4350": {
+    "id": "EAEE_E4350",
+    "subject": "EAEE",
+    "number": "E4350",
+    "title": "PLANNG/MGT-URBAN HYDROL",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4550": {
+    "id": "EAEE_E4550",
+    "subject": "EAEE",
+    "number": "E4550",
+    "title": "CATALYSIS OF EMISSIONS CONTROL",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4901": {
+    "id": "EAEE_E4901",
+    "subject": "EAEE",
+    "number": "E4901",
+    "title": "ENVIRONMENTAL MICROBIOLOGY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E4950": {
+    "id": "EAEE_E4950",
+    "subject": "EAEE",
+    "number": "E4950",
+    "title": "ENVIRON BIOCHEMICAL PROC",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E6132": {
+    "id": "EAEE_E6132",
+    "subject": "EAEE",
+    "number": "E6132",
+    "title": "NUMERICAL MTHS IN GEOMECHANICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E6140": {
+    "id": "EAEE_E6140",
+    "subject": "EAEE",
+    "number": "E6140",
+    "title": "ENVIRONMENTAL PHYSICOCHEMICAL PROCESSES",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EAEE_E6150": {
+    "id": "EAEE_E6150",
+    "subject": "EAEE",
+    "number": "E6150",
+    "title": "INDUSTRIAL CATALYSIS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ECIA_4100": {
+    "id": "ECIA_4100",
+    "subject": "ECIA",
+    "number": "4100",
+    "title": "Management and development of water systems",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Entered by DVE. Taught by Lall and Gentine"
+    ]
+  },
+  "EECS_E4321": {
+    "id": "EECS_E4321",
+    "subject": "EECS",
+    "number": "E4321",
+    "title": "DIGITAL VLSI CIRCUITS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EECS_E4750": {
+    "id": "EECS_E4750",
+    "subject": "EECS",
+    "number": "E4750",
+    "title": "HETEROGENEOUS COMPUTING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EECS_E4764": {
+    "id": "EECS_E4764",
+    "subject": "EECS",
+    "number": "E4764",
+    "title": "IoT - INTELLIG & CONNECTED SYS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "EEEB_3005": {
+    "id": "EEEB_3005",
+    "subject": "EEEB",
+    "number": "3005",
+    "title": "INTRO-STAT-ECOLOGY & EVOL BIOL",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_3005_3015": {
+    "id": "EEEB_3005_3015",
+    "subject": "EEEB",
+    "number": "3005_3015",
+    "title": "INTRO-STAT-ECOLGY/EVOL BIO-LAB",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "natural_science_lab_option",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_3011": {
+    "id": "EEEB_3011",
+    "subject": "EEEB",
+    "number": "3011",
+    "title": "BEHAVIOR BIOL-LIVING PRIMATES",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_3087": {
+    "id": "EEEB_3087",
+    "subject": "EEEB",
+    "number": "3087",
+    "title": "CONSERVATION BIOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_3208": {
+    "id": "EEEB_3208",
+    "subject": "EEEB",
+    "number": "3208",
+    "title": "EXPLORATIONS IN PRIM ANATOMY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_3220": {
+    "id": "EEEB_3220",
+    "subject": "EEEB",
+    "number": "3220",
+    "title": "The evolution of human growth and development",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_4055": {
+    "id": "EEEB_4055",
+    "subject": "EEEB",
+    "number": "4055",
+    "title": "PRINCIPLES AND APPLICATIONS OF MODERN DNA SEQUENCING TECHNOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_4126": {
+    "id": "EEEB_4126",
+    "subject": "EEEB",
+    "number": "4126",
+    "title": "INTRO TO CONSERVATION GENETICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "info not readily available"
+    ]
+  },
+  "EEEB_4127": {
+    "id": "EEEB_4127",
+    "subject": "EEEB",
+    "number": "4127",
+    "title": "DISEASE ECOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_4150": {
+    "id": "EEEB_4150",
+    "subject": "EEEB",
+    "number": "4150",
+    "title": "Theoretical Ecology",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_4192": {
+    "id": "EEEB_4192",
+    "subject": "EEEB",
+    "number": "4192",
+    "title": "INTRO TO LANDSCAPE ANALYSIS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EEEB_4195": {
+    "id": "EEEB_4195",
+    "subject": "EEEB",
+    "number": "4195",
+    "title": "Marine Conservation Ecology",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_2100": {
+    "id": "EESC_2100",
+    "subject": "EESC",
+    "number": "2100",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_3027": {
+    "id": "EESC_3027",
+    "subject": "EESC",
+    "number": "3027",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_3101": {
+    "id": "EESC_3101",
+    "subject": "EESC",
+    "number": "3101",
+    "title": "GEOCHEM FOR A HABITABLE PLANET",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_3201": {
+    "id": "EESC_3201",
+    "subject": "EESC",
+    "number": "3201",
+    "title": "SOLID EARTH DYNAMICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_3400": {
+    "id": "EESC_3400",
+    "subject": "EESC",
+    "number": "3400",
+    "title": "COMPUTATIONAL EARTH SCIENCE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_3928": {
+    "id": "EESC_3928",
+    "subject": "EESC",
+    "number": "3928",
+    "title": "TERRESTRIAL PALEOECOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4008": {
+    "id": "EESC_4008",
+    "subject": "EESC",
+    "number": "4008",
+    "title": "Intro to Atmos Sci",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4020": {
+    "id": "EESC_4020",
+    "subject": "EESC",
+    "number": "4020",
+    "title": "Humans & the Carbon Cycle",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4050": {
+    "id": "EESC_4050",
+    "subject": "EESC",
+    "number": "4050",
+    "title": "GLOBAL ASSMT-REMOTE SENSING",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4090": {
+    "id": "EESC_4090",
+    "subject": "EESC",
+    "number": "4090",
+    "title": "INTRO TO GEOCHRONOLGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4113": {
+    "id": "EESC_4113",
+    "subject": "EESC",
+    "number": "4113",
+    "title": "INTRODUCTION TO MINERALOGY I",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4210": {
+    "id": "EESC_4210",
+    "subject": "EESC",
+    "number": "4210",
+    "title": "GEOPHYSICAL FLUID DYNAMICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4220": {
+    "id": "EESC_4220",
+    "subject": "EESC",
+    "number": "4220",
+    "title": "GLACIOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4235": {
+    "id": "EESC_4235",
+    "subject": "EESC",
+    "number": "4235",
+    "title": "SEA LEVEL CHANGE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4330": {
+    "id": "EESC_4330",
+    "subject": "EESC",
+    "number": "4330",
+    "title": "INTRO-TERRESTRIAL PALEOCLIMATE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4550": {
+    "id": "EESC_4550",
+    "subject": "EESC",
+    "number": "4550",
+    "title": "PLANT ECOPHYSIOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4630": {
+    "id": "EESC_4630",
+    "subject": "EESC",
+    "number": "4630",
+    "title": "AIR-SEA INTERACTION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4835": {
+    "id": "EESC_4835",
+    "subject": "EESC",
+    "number": "4835",
+    "title": "WETLANDS & CLIMATE CHANGE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4888": {
+    "id": "EESC_4888",
+    "subject": "EESC",
+    "number": "4888",
+    "title": "STABLE ISOTOPE GEOCHEMISTRY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4923": {
+    "id": "EESC_4923",
+    "subject": "EESC",
+    "number": "4923",
+    "title": "BIOLOGICAL OCEANOGRAPHY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4924": {
+    "id": "EESC_4924",
+    "subject": "EESC",
+    "number": "4924",
+    "title": "INTRO TO ATMOSPHERICCHEMISTRY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4925": {
+    "id": "EESC_4925",
+    "subject": "EESC",
+    "number": "4925",
+    "title": "INTRO TO PHYSICAL OCEANOGRAPHY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4926": {
+    "id": "EESC_4926",
+    "subject": "EESC",
+    "number": "4926",
+    "title": "INTRO TO CHEMICAL OCEANOGRAPHY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4930": {
+    "id": "EESC_4930",
+    "subject": "EESC",
+    "number": "4930",
+    "title": "EARTH'S OCEANS & ATMOSPHERE",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4937": {
+    "id": "EESC_4937",
+    "subject": "EESC",
+    "number": "4937",
+    "title": "CENOZOIC PALEOCEANOGRAPHY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4947": {
+    "id": "EESC_4947",
+    "subject": "EESC",
+    "number": "4947",
+    "title": "PLATE TECTONICS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EESC_4949": {
+    "id": "EESC_4949",
+    "subject": "EESC",
+    "number": "4949",
+    "title": "INTRODUCTION TO SEISMOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ELEN_E3043": {
+    "id": "ELEN_E3043",
+    "subject": "ELEN",
+    "number": "E3043",
+    "title": "SOLID ST,MICROWAVE,FBR OPT LAB",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3082": {
+    "id": "ELEN_E3082",
+    "subject": "ELEN",
+    "number": "E3082",
+    "title": "DIGITAL SYSTEMS LABORATORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ELEN_E3083": {
+    "id": "ELEN_E3083",
+    "subject": "ELEN",
+    "number": "E3083",
+    "title": "ELECTRONIC CIRCUITS LABORATORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ELEN_E3106": {
+    "id": "ELEN_E3106",
+    "subject": "ELEN",
+    "number": "E3106",
+    "title": "SOLID STATE DEVICES-MATERIALS",
+    "credits": 3.5,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3201": {
+    "id": "ELEN_E3201",
+    "subject": "ELEN",
+    "number": "E3201",
+    "title": "CIRCUIT ANALYSIS",
+    "credits": 3.5,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3331": {
+    "id": "ELEN_E3331",
+    "subject": "ELEN",
+    "number": "E3331",
+    "title": "ELECTRONIC CIRCUITS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3401": {
+    "id": "ELEN_E3401",
+    "subject": "ELEN",
+    "number": "E3401",
+    "title": "ELECTROMAGNETICS",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3701": {
+    "id": "ELEN_E3701",
+    "subject": "ELEN",
+    "number": "E3701",
+    "title": "INTRO TO COMMUNICATION SYSTEMS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3801": {
+    "id": "ELEN_E3801",
+    "subject": "ELEN",
+    "number": "E3801",
+    "title": "SIGNALS AND SYSTEMS",
+    "credits": 3.5,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E3998": {
+    "id": "ELEN_E3998",
+    "subject": "ELEN",
+    "number": "E3998",
+    "title": "PROJECTS IN ELEC ENGINEERING",
+    "credits": 0.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "see advisor",
+      "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4119": {
+    "id": "ELEN_E4119",
+    "subject": "ELEN",
+    "number": "E4119",
+    "title": "COMPUTER NETWORKS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ELEN_E4140": {
+    "id": "ELEN_E4140",
+    "subject": "ELEN",
+    "number": "E4140",
+    "title": "NETWORKING LABORATORY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ELEN_E4193": {
+    "id": "ELEN_E4193",
+    "subject": "ELEN",
+    "number": "E4193",
+    "title": "MOD DISPLAY SCI & TECHNOLOGY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4215": {
+    "id": "ELEN_E4215",
+    "subject": "ELEN",
+    "number": "E4215",
+    "title": "ANALOG FILTER SYNTHESIS/DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4312": {
+    "id": "ELEN_E4312",
+    "subject": "ELEN",
+    "number": "E4312",
+    "title": "ANALOG ELECTRONIC CIRCUIT",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4314": {
+    "id": "ELEN_E4314",
+    "subject": "ELEN",
+    "number": "E4314",
+    "title": "COMMUNICATION CIRCUITS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4361": {
+    "id": "ELEN_E4361",
+    "subject": "ELEN",
+    "number": "E4361",
+    "title": "POWER ELECTRONICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4411": {
+    "id": "ELEN_E4411",
+    "subject": "ELEN",
+    "number": "E4411",
+    "title": "FUNDAMENTALS OF PHOTONICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4488": {
+    "id": "ELEN_E4488",
+    "subject": "ELEN",
+    "number": "E4488",
+    "title": "OPTICAL SYSTEMS & NETWORKS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4511": {
+    "id": "ELEN_E4511",
+    "subject": "ELEN",
+    "number": "E4511",
+    "title": "POWER SYSTEMS ANALYSIS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4650": {
+    "id": "ELEN_E4650",
+    "subject": "ELEN",
+    "number": "E4650",
+    "title": "CONVEX OPTIMIZATION FOR ENG",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4702": {
+    "id": "ELEN_E4702",
+    "subject": "ELEN",
+    "number": "E4702",
+    "title": "DIGITAL COMMUNICATIONS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4810": {
+    "id": "ELEN_E4810",
+    "subject": "ELEN",
+    "number": "E4810",
+    "title": "DIGITAL SIGNAL PROCESSING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4815": {
+    "id": "ELEN_E4815",
+    "subject": "ELEN",
+    "number": "E4815",
+    "title": "RANDOM SIGNALS & NOISE",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4830": {
+    "id": "ELEN_E4830",
+    "subject": "ELEN",
+    "number": "E4830",
+    "title": "DIGITAL IMAGE PROCESSING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4944": {
+    "id": "ELEN_E4944",
+    "subject": "ELEN",
+    "number": "E4944",
+    "title": "PRNCPLS OF DEVICE MICROFABR",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ENME_3105": {
+    "id": "ENME_3105",
+    "subject": "ENME",
+    "number": "3105",
+    "title": "Mechanics",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENME_3113": {
+    "id": "ENME_3113",
+    "subject": "ENME",
+    "number": "3113",
+    "title": "MECHANICS OF SOLIDS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENME_3114": {
+    "id": "ENME_3114",
+    "subject": "ENME",
+    "number": "3114",
+    "title": "EXPERIMENTAL MECH OF MATERIALS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENME_3332": {
+    "id": "ENME_3332",
+    "subject": "ENME",
+    "number": "3332",
+    "title": "A FIRST CRSE/FINITE ELEMENTS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENME_4214": {
+    "id": "ENME_4214",
+    "subject": "ENME",
+    "number": "4214",
+    "title": "THEORY OF PLATES AND SHELLS",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENME_4363": {
+    "id": "ENME_4363",
+    "subject": "ENME",
+    "number": "4363",
+    "title": "MULTISCALE COMP SCI & ENGIN",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GEND_4027": {
+    "id": "GEND_4027",
+    "subject": "GEND",
+    "number": "4027",
+    "title": "PRINCIPLES OF DEVELOPMNTL BIOL",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GEND_6211": {
+    "id": "GEND_6211",
+    "subject": "GEND",
+    "number": "6211",
+    "title": "GENETIC APPROACHES TO BIOL PROBLEMS II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GRAP_4005": {
+    "id": "GRAP_4005",
+    "subject": "GRAP",
+    "number": "4005",
+    "title": "COMPUTER GRAPHICS IN ENGI",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "IEOR_E3106": {
+    "id": "IEOR_E3106",
+    "subject": "IEOR",
+    "number": "E3106",
+    "title": "STOCHASTIC SYSTEMS AND APPLICA",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "IEOR_E3402": {
+    "id": "IEOR_E3402",
+    "subject": "IEOR",
+    "number": "E3402",
+    "title": "Production Inventory Planning and Control",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "IEOR_E3404": {
+    "id": "IEOR_E3404",
+    "subject": "IEOR",
+    "number": "E3404",
+    "title": "SIMULATION MODELING AND ANALYSIS",
+    "credits": 4.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "IEOR_E3608": {
+    "id": "IEOR_E3608",
+    "subject": "IEOR",
+    "number": "E3608",
+    "title": "Foundations of Optimization",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MEBM_4439": {
+    "id": "MEBM_4439",
+    "subject": "MEBM",
+    "number": "4439",
+    "title": "MODELING & ID OF DYNAMIC SYST",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MECE_E3018": {
+    "id": "MECE_E3018",
+    "subject": "MECE",
+    "number": "E3018",
+    "title": "MECHANICAL ENGINEERING LAB I",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3408": {
+    "id": "MECE_E3408",
+    "subject": "MECE",
+    "number": "E3408",
+    "title": "COMPUTER GRAPHICS & DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3409": {
+    "id": "MECE_E3409",
+    "subject": "MECE",
+    "number": "E3409",
+    "title": "MACHINE DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3430": {
+    "id": "MECE_E3430",
+    "subject": "MECE",
+    "number": "E3430",
+    "title": "ENGINEERING DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3450": {
+    "id": "MECE_E3450",
+    "subject": "MECE",
+    "number": "E3450",
+    "title": "COMPUTER AIDED DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3610": {
+    "id": "MECE_E3610",
+    "subject": "MECE",
+    "number": "E3610",
+    "title": "MATERIALS/PROCESSES IN MANUFAC",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E3998": {
+    "id": "MECE_E3998",
+    "subject": "MECE",
+    "number": "E3998",
+    "title": "PROJECTS IN MECH ENGINEERING",
+    "credits": 1.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "see advisor",
+      "Variable credit course (1.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4058": {
+    "id": "MECE_E4058",
+    "subject": "MECE",
+    "number": "E4058",
+    "title": "MECHATRONICS & EMBEDDED MICRO",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4211": {
+    "id": "MECE_E4211",
+    "subject": "MECE",
+    "number": "E4211",
+    "title": "ENERGY SOURCES AND CONVERSION",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4212": {
+    "id": "MECE_E4212",
+    "subject": "MECE",
+    "number": "E4212",
+    "title": "MICROELECTROMECHANICAL SYSTEMS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4213": {
+    "id": "MECE_E4213",
+    "subject": "MECE",
+    "number": "E4213",
+    "title": "BIOMEMS: DESIGN FAB & ANALYSIS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4214": {
+    "id": "MECE_E4214",
+    "subject": "MECE",
+    "number": "E4214",
+    "title": "MEMS PRODUCTION & PACKAGING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4305": {
+    "id": "MECE_E4305",
+    "subject": "MECE",
+    "number": "E4305",
+    "title": "MECH & THERMODYNAMICS OF PROPULSION",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4306": {
+    "id": "MECE_E4306",
+    "subject": "MECE",
+    "number": "E4306",
+    "title": "INTRO TO AERODYNAMICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4312": {
+    "id": "MECE_E4312",
+    "subject": "MECE",
+    "number": "E4312",
+    "title": "SOLAR THERMAL ENGINEERING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "approved by UG committee"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4313": {
+    "id": "MECE_E4313",
+    "subject": "MECE",
+    "number": "E4313",
+    "title": "Decarbonizing BuildingsStudio",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MECE_E4330": {
+    "id": "MECE_E4330",
+    "subject": "MECE",
+    "number": "E4330",
+    "title": "THERMOFLUID SYSTEMS DESIGN",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4430": {
+    "id": "MECE_E4430",
+    "subject": "MECE",
+    "number": "E4430",
+    "title": "AUTOMOTIVE DYNAMICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4520": {
+    "id": "MECE_E4520",
+    "subject": "MECE",
+    "number": "E4520",
+    "title": "DATA SCIENCE FOR MECHANICAL SYSTEMS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4602": {
+    "id": "MECE_E4602",
+    "subject": "MECE",
+    "number": "E4602",
+    "title": "INTRODUCITON TO ROBOTICS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4604": {
+    "id": "MECE_E4604",
+    "subject": "MECE",
+    "number": "E4604",
+    "title": "PRODUCT DESIGN FOR MFG",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4606": {
+    "id": "MECE_E4606",
+    "subject": "MECE",
+    "number": "E4606",
+    "title": "DIGITAL MANUFACTURING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4609": {
+    "id": "MECE_E4609",
+    "subject": "MECE",
+    "number": "E4609",
+    "title": "COMPUTER AIDED MANUFACTURING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4610": {
+    "id": "MECE_E4610",
+    "subject": "MECE",
+    "number": "E4610",
+    "title": "ADV MANUFACTURING PROCESSES",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4611": {
+    "id": "MECE_E4611",
+    "subject": "MECE",
+    "number": "E4611",
+    "title": "ROBOTICS STUDIO",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECE_E4612": {
+    "id": "MECE_E4612",
+    "subject": "MECE",
+    "number": "E4612",
+    "title": "SUSTAINABLE MANUFACTURING",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MECH_4320": {
+    "id": "MECH_4320",
+    "subject": "MECH",
+    "number": "4320",
+    "title": "INTRO TO COMBUSTION",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MECS_4510": {
+    "id": "MECS_4510",
+    "subject": "MECS",
+    "number": "4510",
+    "title": "EVOLUTIONARY COMPUTATION&DESIG",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MICR_4020": {
+    "id": "MICR_4020",
+    "subject": "MICR",
+    "number": "4020",
+    "title": "GRADUATE IMMUNOLOGY",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MSAE_E3010": {
+    "id": "MSAE_E3010",
+    "subject": "MSAE",
+    "number": "E3010",
+    "title": "INTRO TO MATERIALS SCIENCE I (Foundations of Materials Science and Engineering)",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E3011": {
+    "id": "MSAE_E3011",
+    "subject": "MSAE",
+    "number": "E3011",
+    "title": "INTRO TO MATERIALS SCIENCE II",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MSAE_E3012": {
+    "id": "MSAE_E3012",
+    "subject": "MSAE",
+    "number": "E3012",
+    "title": "LABORATORY IN MATERIALS SCI I",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "natural_science_lab_option",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "DE- approved"
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E3013": {
+    "id": "MSAE_E3013",
+    "subject": "MSAE",
+    "number": "E3013",
+    "title": "LABORATORY IN MATERIALS SCI II",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E3900": {
+    "id": "MSAE_E3900",
+    "subject": "MSAE",
+    "number": "E3900",
+    "title": "UNDERGRAD RES IN MATERIALS SCI",
+    "credits": 0.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "see advisor",
+      "Variable credit course (0.00-4.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+    ],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4090": {
+    "id": "MSAE_E4090",
+    "subject": "MSAE",
+    "number": "E4090",
+    "title": "NANOTECHNOLOGY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4100": {
+    "id": "MSAE_E4100",
+    "subject": "MSAE",
+    "number": "E4100",
+    "title": "CRYSTALLOGRAPHY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4102": {
+    "id": "MSAE_E4102",
+    "subject": "MSAE",
+    "number": "E4102",
+    "title": "SYNTHESIS & PROCESSING OF MAT",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4105": {
+    "id": "MSAE_E4105",
+    "subject": "MSAE",
+    "number": "E4105",
+    "title": "CERAMIC NANOMATERIALS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4200": {
+    "id": "MSAE_E4200",
+    "subject": "MSAE",
+    "number": "E4200",
+    "title": "THEORY OF CRYSTALLINE MATERIAL",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4201": {
+    "id": "MSAE_E4201",
+    "subject": "MSAE",
+    "number": "E4201",
+    "title": "MATERIALS THERMODYN/PHASE DIAG",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4202": {
+    "id": "MSAE_E4202",
+    "subject": "MSAE",
+    "number": "E4202",
+    "title": "KINETICS OF TRANSFORMATIONS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4203": {
+    "id": "MSAE_E4203",
+    "subject": "MSAE",
+    "number": "E4203",
+    "title": "THEORY CRYSTALL MAT: ELECTRONS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4206": {
+    "id": "MSAE_E4206",
+    "subject": "MSAE",
+    "number": "E4206",
+    "title": "ELEC & MAGNETIC PROP OF SOLIDS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4215": {
+    "id": "MSAE_E4215",
+    "subject": "MSAE",
+    "number": "E4215",
+    "title": "MECH BEHAVIOR OF MATERIALS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4250": {
+    "id": "MSAE_E4250",
+    "subject": "MSAE",
+    "number": "E4250",
+    "title": "CERAMICS & COMPOSITES",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4260": {
+    "id": "MSAE_E4260",
+    "subject": "MSAE",
+    "number": "E4260",
+    "title": "ELECTROCHEM MATLS & DEVS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E4301": {
+    "id": "MSAE_E4301",
+    "subject": "MSAE",
+    "number": "E4301",
+    "title": "MATERIALS SCIENCE LABORATORY",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E6085": {
+    "id": "MSAE_E6085",
+    "subject": "MSAE",
+    "number": "E6085",
+    "title": "COMP ELEC STRUCT-COMPLX MTRS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MSAE_E6251": {
+    "id": "MSAE_E6251",
+    "subject": "MSAE",
+    "number": "E6251",
+    "title": "THIN FILMS AND LAYERS",
+    "credits": 3.0,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "engineering_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "PHYS_C1403": {
+    "id": "PHYS_C1403",
+    "subject": "PHYS",
+    "number": "C1403",
+    "title": "Intro to Classical and Quantum Waves",
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_C2601": {
+    "id": "PHYS_C2601",
+    "subject": "PHYS",
+    "number": "C2601",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "advanced_stem_tech_elective",
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  }
+}

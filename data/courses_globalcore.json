@@ -1,0 +1,5530 @@
+{
+  "AFAS_UN1001": {
+    "id": "AFAS_UN1001",
+    "subject": "AFAS",
+    "number": "UN1001",
+    "title": "INTRO TO AFRICAN-AMER STUDIES",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "African-American Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AFAS_UN1003": {
+    "id": "AFAS_UN1003",
+    "subject": "AFAS",
+    "number": "UN1003",
+    "title": "Blackness and Frenchness: A Radical",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "African-American Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AFRS_BC2005": {
+    "id": "AFRS_BC2005",
+    "subject": "AFRS",
+    "number": "BC2005",
+    "title": "CARIBBEAN CULTURE # SOCIETIES",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Africana Studies- Barnard",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN1008": {
+    "id": "ANTH_UN1008",
+    "subject": "ANTH",
+    "number": "UN1008",
+    "title": "THE RISE OF CIVILIZATION",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Anthropology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN1130": {
+    "id": "ANTH_UN1130",
+    "subject": "ANTH",
+    "number": "UN1130",
+    "title": "Africa and the Anthropologist",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Anthropology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN2007": {
+    "id": "ANTH_UN2007",
+    "subject": "ANTH",
+    "number": "UN2007",
+    "title": "Indian and Nigerian Film Cultures",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Anthropology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_V2013": {
+    "id": "ANTH_V2013",
+    "subject": "ANTH",
+    "number": "V2013",
+    "title": "Africa in the 21st Century: Aesthetics,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2017 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_V2014": {
+    "id": "ANTH_V2014",
+    "subject": "ANTH",
+    "number": "V2014",
+    "title": "Archaeology and Africa: Changing",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture, Politics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN2017": {
+    "id": "ANTH_UN2017",
+    "subject": "ANTH",
+    "number": "UN2017",
+    "title": "Maﬁas and Other Dangerous Afﬁliations",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Perceptions of the African Past",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ANTH_V2020": {
+    "id": "ANTH_V2020",
+    "subject": "ANTH",
+    "number": "V2020",
+    "title": "Chinese Strategies: Cultures in Practice",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_V2027": {
+    "id": "ANTH_V2027",
+    "subject": "ANTH",
+    "number": "V2027",
+    "title": "Changing East Asia Foodways",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN2031": {
+    "id": "ANTH_UN2031",
+    "subject": "ANTH",
+    "number": "UN2031",
+    "title": "CORPSE LIFE: ANTH HISTORY OF THE",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ANTH_V2035": {
+    "id": "ANTH_V2035",
+    "subject": "ANTH",
+    "number": "V2035",
+    "title": "Introduction to the Anthropology of",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "DEAD (Effective beginning Fall 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_V2100": {
+    "id": "ANTH_V2100",
+    "subject": "ANTH",
+    "number": "V2100",
+    "title": "Muslim Societies",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "South Asia",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN2141": {
+    "id": "ANTH_UN2141",
+    "subject": "ANTH",
+    "number": "UN2141",
+    "title": "Frontier Imaginaries (Effective begining",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "South Asia",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN3300": {
+    "id": "ANTH_UN3300",
+    "subject": "ANTH",
+    "number": "UN3300",
+    "title": "Pre-Columbian Histories of Native",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN3465": {
+    "id": "ANTH_UN3465",
+    "subject": "ANTH",
+    "number": "UN3465",
+    "title": "WOMEN, GENDER POL-MUSLIM WORLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "America",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_V3525": {
+    "id": "ANTH_V3525",
+    "subject": "ANTH",
+    "number": "V3525",
+    "title": "Introduction to South Asian History and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "America",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN3821": {
+    "id": "ANTH_UN3821",
+    "subject": "ANTH",
+    "number": "UN3821",
+    "title": "Native America",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ANTH_V3892": {
+    "id": "ANTH_V3892",
+    "subject": "ANTH",
+    "number": "V3892",
+    "title": "CONTEMP CENT ASIA:STATES # SOC",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN3933": {
+    "id": "ANTH_UN3933",
+    "subject": "ANTH",
+    "number": "UN3933",
+    "title": "ARABIA IMAGINED",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_UN3947": {
+    "id": "ANTH_UN3947",
+    "subject": "ANTH",
+    "number": "UN3947",
+    "title": "TEXT, MAGIC, PERFORMANCE",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANHS_GU4001": {
+    "id": "ANHS_GU4001",
+    "subject": "ANHS",
+    "number": "GU4001",
+    "title": "THE ANCIENT EMPIRES",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ANTH_G4065": {
+    "id": "ANTH_G4065",
+    "subject": "ANTH",
+    "number": "G4065",
+    "title": "Archaeology of Idols",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN2119": {
+    "id": "AHIS_UN2119",
+    "subject": "AHIS",
+    "number": "UN2119",
+    "title": "ROME BEYOND ROME (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Art History and Archaeology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN2600": {
+    "id": "AHIS_UN2600",
+    "subject": "AHIS",
+    "number": "UN2600",
+    "title": "THE ARTS OF CHINA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN2500": {
+    "id": "AHIS_UN2500",
+    "subject": "AHIS",
+    "number": "UN2500",
+    "title": "ARTS OF AFRICA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHUM_UN2604": {
+    "id": "AHUM_UN2604",
+    "subject": "AHUM",
+    "number": "UN2604",
+    "title": "ARTS OF CHINA, JAPAN AND KOREA",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AHIS_UN2614": {
+    "id": "AHIS_UN2614",
+    "subject": "AHIS",
+    "number": "UN2614",
+    "title": "Chinese Painting of the Song Dynasty",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN2622": {
+    "id": "AHIS_UN2622",
+    "subject": "AHIS",
+    "number": "UN2622",
+    "title": "Introduction to East Asian Art: China,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHUM_UN2800": {
+    "id": "AHUM_UN2800",
+    "subject": "AHUM",
+    "number": "UN2800",
+    "title": "Arts of Islam, 700-1000 CE (Effective",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AHUM_UN2802": {
+    "id": "AHUM_UN2802",
+    "subject": "AHUM",
+    "number": "UN2802",
+    "title": "Arts of Islam: Realignments of Empire",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHUM_S2815": {
+    "id": "AHUM_S2815",
+    "subject": "AHUM",
+    "number": "S2815",
+    "title": "Masterpieces of Islamic Art (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHUM_UN2901": {
+    "id": "AHUM_UN2901",
+    "subject": "AHUM",
+    "number": "UN2901",
+    "title": "MASTERPIECES-INDIAN ART # ARCH",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Summer 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_W3500": {
+    "id": "AHIS_W3500",
+    "subject": "AHIS",
+    "number": "W3500",
+    "title": "Yoruba and the Diaspora (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Summer 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN3501": {
+    "id": "AHIS_UN3501",
+    "subject": "AHIS",
+    "number": "UN3501",
+    "title": "African Art: The Next Generation. Focus:",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "AHIS W3898)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN3503": {
+    "id": "AHIS_UN3503",
+    "subject": "AHIS",
+    "number": "UN3503",
+    "title": "Contemporary Arts of Africa (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Congo (Effective Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_UN3613": {
+    "id": "AHIS_UN3613",
+    "subject": "AHIS",
+    "number": "UN3613",
+    "title": "Temples of Kyoto (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_W3832": {
+    "id": "AHIS_W3832",
+    "subject": "AHIS",
+    "number": "W3832",
+    "title": "Sacred Landscapes of the Ancient Andes",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_Q4570": {
+    "id": "AHIS_Q4570",
+    "subject": "AHIS",
+    "number": "Q4570",
+    "title": "Andean Art and Architecture (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2016)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHIS_GU4584": {
+    "id": "AHIS_GU4584",
+    "subject": "AHIS",
+    "number": "GU4584",
+    "title": "Critical Approaches to Persianate Painting (effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "AHIS G4085)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AFCV_UN1020": {
+    "id": "AFCV_UN1020",
+    "subject": "AFCV",
+    "number": "UN1020",
+    "title": "AFRICAN CIVILIZATION",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Center for the Core Curriculum",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "LACV_UN1020": {
+    "id": "LACV_UN1020",
+    "subject": "LACV",
+    "number": "UN1020",
+    "title": "PRIM TEXTS OF LATIN AMER CIV",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Center for the Core Curriculum",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CSER_UN1010": {
+    "id": "CSER_UN1010",
+    "subject": "CSER",
+    "number": "UN1010",
+    "title": "INTRO TO COMP ETHNIC STUDIES",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Center for the Study of Ethnicity and Race",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CSER_W3510": {
+    "id": "CSER_W3510",
+    "subject": "CSER",
+    "number": "W3510",
+    "title": "Novels of Immigration, Relocation, and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Center for the Study of Ethnicity and Race",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CSER_UN3922": {
+    "id": "CSER_UN3922",
+    "subject": "CSER",
+    "number": "UN3922",
+    "title": "RACE#REPRESENTATION IN ASIAN",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CSER_UN3926": {
+    "id": "CSER_UN3926",
+    "subject": "CSER",
+    "number": "UN3926",
+    "title": "LATIN MUSIC AND IDENTITY",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "AMER CINEMA",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CSER_UN3928": {
+    "id": "CSER_UN3928",
+    "subject": "CSER",
+    "number": "UN3928",
+    "title": "COLONIZATION/DECOLONIZATION",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "AMER CINEMA",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CSER_W3961": {
+    "id": "CSER_W3961",
+    "subject": "CSER",
+    "number": "W3961",
+    "title": "",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "AMER CINEMA",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Wealth and Poverty in America"
+    ]
+  },
+  "CLCV_UN2441": {
+    "id": "CLCV_UN2441",
+    "subject": "CLCV",
+    "number": "UN2441",
+    "title": "EGYPT IN CLASSICAL WORLD (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Classics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLCV_UN3059": {
+    "id": "CLCV_UN3059",
+    "subject": "CLCV",
+    "number": "UN3059",
+    "title": "WORLDS OF ALEXANDER THE GREAT",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLCV_UN3069": {
+    "id": "CLCV_UN3069",
+    "subject": "CLCV",
+    "number": "UN3069",
+    "title": "Society and Power in the Hellenistic Age",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLCV_W3111": {
+    "id": "CLCV_W3111",
+    "subject": "CLCV",
+    "number": "W3111",
+    "title": "Plato and Confucius: Comparative",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLCV_UN3244": {
+    "id": "CLCV_UN3244",
+    "subject": "CLCV",
+    "number": "UN3244",
+    "title": "Global Histories of the Book (Effective beginning Fall",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CLCV_UN3535": {
+    "id": "CLCV_UN3535",
+    "subject": "CLCV",
+    "number": "UN3535",
+    "title": "IDENTITY # SOCIETY ANC EGYPT",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CSGM_UN3567": {
+    "id": "CSGM_UN3567",
+    "subject": "CSGM",
+    "number": "UN3567",
+    "title": "THESSALONIKI DOWN THE AGES",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLGM_UN3920": {
+    "id": "CLGM_UN3920",
+    "subject": "CLGM",
+    "number": "UN3920",
+    "title": "WORLD RESPONDS TO THE GREEKS",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GRKM_UN3935": {
+    "id": "GRKM_UN3935",
+    "subject": "GRKM",
+    "number": "UN3935",
+    "title": "Hellenism and the Topographical",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Greeks: Greece Faces East\")",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CLCV_GU4411": {
+    "id": "CLCV_GU4411",
+    "subject": "CLCV",
+    "number": "GU4411",
+    "title": "EGYPT IN THE CLASSICAL WORLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "\"The World Responds to the Greeks\")",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLGM_GU4600": {
+    "id": "CLGM_GU4600",
+    "subject": "CLGM",
+    "number": "GU4600",
+    "title": "Multilingual America: Translation,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Core requirement.)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "INSM_UN3920": {
+    "id": "INSM_UN3920",
+    "subject": "INSM",
+    "number": "UN3920",
+    "title": "NOBILITY/CIVILITY: EAST/WEST I",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Colloquia and Interdepartmental Seminars",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "INSM_UN3921": {
+    "id": "INSM_UN3921",
+    "subject": "INSM",
+    "number": "UN3921",
+    "title": "Nobility and Civility II",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Colloquia and Interdepartmental Seminars",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "INSM_C3940": {
+    "id": "INSM_C3940",
+    "subject": "INSM",
+    "number": "C3940",
+    "title": "Science Across Cultures",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Colloquia and Interdepartmental Seminars",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "INSM_W3950": {
+    "id": "INSM_W3950",
+    "subject": "INSM",
+    "number": "W3950",
+    "title": "Friendship in Asian and Western",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Colloquia and Interdepartmental Seminars",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLGM_UN3110": {
+    "id": "CLGM_UN3110",
+    "subject": "CLGM",
+    "number": "UN3110",
+    "title": "THE OTTOMAN PAST IN THE GREEK",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Comparative Literature and Society",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_UN3333": {
+    "id": "CPLS_UN3333",
+    "subject": "CPLS",
+    "number": "UN3333",
+    "title": "EAST/WEST FRAMETALE NARRATIVES",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2018 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_UN3454": {
+    "id": "CPLS_UN3454",
+    "subject": "CPLS",
+    "number": "UN3454",
+    "title": "STAGING THE EARLY MOD MEDITERR",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2018 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_W3945": {
+    "id": "CPLS_W3945",
+    "subject": "CPLS",
+    "number": "W3945",
+    "title": "Transnational Memory Politics and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2018 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_W3955": {
+    "id": "CPLS_W3955",
+    "subject": "CPLS",
+    "number": "W3955",
+    "title": "The West in Global Thought",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2014)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_UN3956": {
+    "id": "CPLS_UN3956",
+    "subject": "CPLS",
+    "number": "UN3956",
+    "title": "Postcolonial Narrative and the Limits of",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2014)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_W4100": {
+    "id": "CPLS_W4100",
+    "subject": "CPLS",
+    "number": "W4100",
+    "title": "Andalusian Symbiosis: Islam and the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "the Human",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CPLS_GU4111": {
+    "id": "CPLS_GU4111",
+    "subject": "CPLS",
+    "number": "GU4111",
+    "title": "World Philology",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "West (Effective beginning Fall 2014)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective Spring 2017"
+    ]
+  },
+  "CGTH_UN3401": {
+    "id": "CGTH_UN3401",
+    "subject": "CGTH",
+    "number": "UN3401",
+    "title": "Seminar in Global Thought: Inquiries",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Committee on Global Thought",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CGTH_UN3402": {
+    "id": "CGTH_UN3402",
+    "subject": "CGTH",
+    "number": "UN3402",
+    "title": "YOUTH-INTERCONNECTED WRLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "DNCE_BC3550": {
+    "id": "DNCE_BC3550",
+    "subject": "DNCE",
+    "number": "BC3550",
+    "title": "Dance in Africa (Effective beginning Fall",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Dance- Barnard",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "DNCE_BC3567": {
+    "id": "DNCE_BC3567",
+    "subject": "DNCE",
+    "number": "BC3567",
+    "title": "DANCES OF INDIA (Effective beginning",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "DNCE_BC2565": {
+    "id": "DNCE_BC2565",
+    "subject": "DNCE",
+    "number": "BC2565",
+    "title": "WORLD DANCE HISTORY (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "DNCE_BC2665": {
+    "id": "DNCE_BC2665",
+    "subject": "DNCE",
+    "number": "BC2665",
+    "title": "World Dance History (Effective Summer",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCE_UN1002": {
+    "id": "ASCE_UN1002",
+    "subject": "ASCE",
+    "number": "UN1002",
+    "title": "INTRO MAJOR TPCS: EAST ASIAN",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East Asian Languages and Cultures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ASCE_UN1359": {
+    "id": "ASCE_UN1359",
+    "subject": "ASCE",
+    "number": "UN1359",
+    "title": "INTRO TO EAST ASIAN CIV: CHINA",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East Asian Languages and Cultures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ASCE_UN1361": {
+    "id": "ASCE_UN1361",
+    "subject": "ASCE",
+    "number": "UN1361",
+    "title": "INTRO EAST ASIAN CIV: JPN",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East Asian Languages and Cultures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ASCE_UN1363": {
+    "id": "ASCE_UN1363",
+    "subject": "ASCE",
+    "number": "UN1363",
+    "title": "INTRO TO EAST ASIAN CIV: KOREA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East Asian Languages and Cultures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCE_UN1365": {
+    "id": "ASCE_UN1365",
+    "subject": "ASCE",
+    "number": "UN1365",
+    "title": "INTRO EAST ASIAN CIV: TIBET",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "6 Global Core Requirement",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "ASCE_UN1367": {
+    "id": "ASCE_UN1367",
+    "subject": "ASCE",
+    "number": "UN1367",
+    "title": "INTRO EA CIV: VIETNAM (Effective",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "6 Global Core Requirement",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AHUM_UN1400": {
+    "id": "AHUM_UN1400",
+    "subject": "AHUM",
+    "number": "UN1400",
+    "title": "COLLOQUIUM ON MAJOR TEXTS",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_UN2342": {
+    "id": "EAAS_UN2342",
+    "subject": "EAAS",
+    "number": "UN2342",
+    "title": "Mythology of East Asia",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN2844": {
+    "id": "EAAS_UN2844",
+    "subject": "EAAS",
+    "number": "UN2844",
+    "title": "CULTURE, MENTAL HEALTH, AND",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3114": {
+    "id": "EAAS_UN3114",
+    "subject": "EAAS",
+    "number": "UN3114",
+    "title": "Chinese Theater and Drama Traditions",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3116": {
+    "id": "EAAS_UN3116",
+    "subject": "EAAS",
+    "number": "UN3116",
+    "title": "Supernatural in East Asia (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3121": {
+    "id": "EAAS_UN3121",
+    "subject": "EAAS",
+    "number": "UN3121",
+    "title": "Minority Literature in Modern China",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3122": {
+    "id": "EAAS_UN3122",
+    "subject": "EAAS",
+    "number": "UN3122",
+    "title": "Modern Chinese Poetry in a Global",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Offered Fall 2018 as a one-time course)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_UN3261": {
+    "id": "EARL_UN3261",
+    "subject": "EARL",
+    "number": "UN3261",
+    "title": "Religion and Revolution in Modern China",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "EAAS GU4111)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_UN3310": {
+    "id": "EARL_UN3310",
+    "subject": "EARL",
+    "number": "UN3310",
+    "title": "The Body and/in Performance: Dance",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_UN3320": {
+    "id": "HSEA_UN3320",
+    "subject": "HSEA",
+    "number": "UN3320",
+    "title": "Making in Premodern Japan (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3322": {
+    "id": "EAAS_UN3322",
+    "subject": "EAAS",
+    "number": "UN3322",
+    "title": "EAST ASIAN CINEMA (Effective Spring",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3263": {
+    "id": "EAAS_UN3263",
+    "subject": "EAAS",
+    "number": "UN3263",
+    "title": "IMAGE-MAKING AND VISUAL CULTURE IN TIBET AND",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_UN3338": {
+    "id": "EAAS_UN3338",
+    "subject": "EAAS",
+    "number": "UN3338",
+    "title": "CULTRL HIST-JAPANESE MONSTERS",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "BEYOND, 1900–PRESENT (Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_V3350": {
+    "id": "EAAS_V3350",
+    "subject": "EAAS",
+    "number": "V3350",
+    "title": "Japanese Fiction and Film (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective Fall 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3710": {
+    "id": "EAAS_UN3710",
+    "subject": "EAAS",
+    "number": "UN3710",
+    "title": "FICTION, FILM, AND MODERN VIETNAM",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2014)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3720": {
+    "id": "EAAS_UN3720",
+    "subject": "EAAS",
+    "number": "UN3720",
+    "title": "Women in Vietnamese society, history",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHUM_UN3830": {
+    "id": "AHUM_UN3830",
+    "subject": "AHUM",
+    "number": "UN3830",
+    "title": "COLL ON MODERN EAST ASIA TEXTS",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_BC3840": {
+    "id": "EAAS_BC3840",
+    "subject": "EAAS",
+    "number": "BC3840",
+    "title": "Beyond the Great Wall: Nomadic Empires",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Colloquium on Modern East Asian Texts)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3844": {
+    "id": "EAAS_UN3844",
+    "subject": "EAAS",
+    "number": "UN3844",
+    "title": "CULTURE, MENTAL HEALTH, AND",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "and China (Effective beginning Fall 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_UN3862": {
+    "id": "HSEA_UN3862",
+    "subject": "HSEA",
+    "number": "UN3862",
+    "title": "THE HISTORY OF KOREA TO 1900",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "semester.)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_Q3870": {
+    "id": "HSEA_Q3870",
+    "subject": "HSEA",
+    "number": "Q3870",
+    "title": "Japan Before 1600 (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_UN3913": {
+    "id": "EAAS_UN3913",
+    "subject": "EAAS",
+    "number": "UN3913",
+    "title": "LOVE, GHOSTS, AND CANNIBALISM:",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2015; formerly HSEA W4870)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_UN3927": {
+    "id": "EAAS_UN3927",
+    "subject": "EAAS",
+    "number": "UN3927",
+    "title": "CHINA IN THE MODERN WORLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4017": {
+    "id": "EAAS_GU4017",
+    "subject": "EAAS",
+    "number": "GU4017",
+    "title": "Ethnography and Representation in Tibet",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4111": {
+    "id": "EAAS_GU4111",
+    "subject": "EAAS",
+    "number": "GU4111",
+    "title": "Modern Chinese Poetry in a Global",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_W4127": {
+    "id": "EARL_W4127",
+    "subject": "EARL",
+    "number": "W4127",
+    "title": "Mediations, Perceptions, Words:",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Context (was formerly EAAS UN3122)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4134": {
+    "id": "EAAS_GU4134",
+    "subject": "EAAS",
+    "number": "GU4134",
+    "title": "Sex, Power, Performance: Gender in",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2016)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4160": {
+    "id": "EAAS_GU4160",
+    "subject": "EAAS",
+    "number": "GU4160",
+    "title": "CULTURES IN COLONIAL KOREA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4222": {
+    "id": "HSEA_GU4222",
+    "subject": "HSEA",
+    "number": "GU4222",
+    "title": "China's Global Histories: People, Space,",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "formerly EAAS G4160)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_GU4277": {
+    "id": "EAAS_GU4277",
+    "subject": "EAAS",
+    "number": "GU4277",
+    "title": "Japanese Anime and Beyond: Gender,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_GU4310": {
+    "id": "EARL_GU4310",
+    "subject": "EARL",
+    "number": "GU4310",
+    "title": "LIFE WRIT/TIBET BUDDHIST LIT",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Power and Transnational Media",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_GU4312": {
+    "id": "EARL_GU4312",
+    "subject": "EARL",
+    "number": "GU4312",
+    "title": "TIBETAN SACRED SPACE(IN",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Power and Transnational Media",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "EAAS_GU4233": {
+    "id": "EAAS_GU4233",
+    "subject": "EAAS",
+    "number": "GU4233",
+    "title": "Sonic Modernity in East Asia (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4412": {
+    "id": "EAAS_GU4412",
+    "subject": "EAAS",
+    "number": "GU4412",
+    "title": "History of Writing in a Cosmopolitan East",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4445": {
+    "id": "EAAS_GU4445",
+    "subject": "EAAS",
+    "number": "GU4445",
+    "title": "Proletarian Asia - working-class culture",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Asia (Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4542": {
+    "id": "HSEA_GU4542",
+    "subject": "HSEA",
+    "number": "GU4542",
+    "title": "The History of the Samurai (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4534": {
+    "id": "EAAS_GU4534",
+    "subject": "EAAS",
+    "number": "GU4534",
+    "title": "Medieval Travel Writing (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2023 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAAS_GU4565": {
+    "id": "EAAS_GU4565",
+    "subject": "EAAS",
+    "number": "GU4565",
+    "title": "TIBET IN THE WORLD: CULTURAL",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EARL_GU4575": {
+    "id": "EARL_GU4575",
+    "subject": "EARL",
+    "number": "GU4575",
+    "title": "Tibet in Eurasian Circulatory History",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4816": {
+    "id": "HSEA_GU4816",
+    "subject": "HSEA",
+    "number": "GU4816",
+    "title": "Comparing Indigeneities (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4822": {
+    "id": "HSEA_GU4822",
+    "subject": "HSEA",
+    "number": "GU4822",
+    "title": "Troubled Islands of the Indo Paciﬁc",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4847": {
+    "id": "HSEA_GU4847",
+    "subject": "HSEA",
+    "number": "GU4847",
+    "title": "MODERN JAPAN (Effective beginning Fall",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HSEA_W4866": {
+    "id": "HSEA_W4866",
+    "subject": "HSEA",
+    "number": "W4866",
+    "title": "Competing Nationalisms in East Asia:",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4870": {
+    "id": "HSEA_GU4870",
+    "subject": "HSEA",
+    "number": "GU4870",
+    "title": "JAPAN BEFORE 1600 (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_GU4880": {
+    "id": "HSEA_GU4880",
+    "subject": "HSEA",
+    "number": "GU4880",
+    "title": "HISTORY OF MODERN CHINA I",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HSEA_GU4968": {
+    "id": "HSEA_GU4968",
+    "subject": "HSEA",
+    "number": "GU4968",
+    "title": "Japan 1968: student protest movements",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ECON_GU4325": {
+    "id": "ECON_GU4325",
+    "subject": "ECON",
+    "number": "GU4325",
+    "title": "ECONOMIC DEVELOPMENT OF JAPAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Economics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_UN1100": {
+    "id": "ENGL_UN1100",
+    "subject": "ENGL",
+    "number": "UN1100",
+    "title": "Introduction to Latinx Literature and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "English and Comparative Literature",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_UN3125": {
+    "id": "CLEN_UN3125",
+    "subject": "CLEN",
+    "number": "UN3125",
+    "title": "Medieval Encounters (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Culture (Effective beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_UN3153": {
+    "id": "ENGL_UN3153",
+    "subject": "ENGL",
+    "number": "UN3153",
+    "title": "How the Ancients Argued: The Global",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_UN3360": {
+    "id": "CLEN_UN3360",
+    "subject": "CLEN",
+    "number": "UN3360",
+    "title": "Theaters of Gods and Heroes (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_UN3489": {
+    "id": "ENGL_UN3489",
+    "subject": "ENGL",
+    "number": "UN3489",
+    "title": "Black Lives in Pre-Modern Britain",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginnning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_S3682": {
+    "id": "CLEN_S3682",
+    "subject": "CLEN",
+    "number": "S3682",
+    "title": "Human Rights in World Literature and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginnning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_UN3794": {
+    "id": "ENGL_UN3794",
+    "subject": "ENGL",
+    "number": "UN3794",
+    "title": "Trees",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Visual Culture (formerly CLEN S3851)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective beginning Fall 2023"
+    ]
+  },
+  "CLEN_S3829": {
+    "id": "CLEN_S3829",
+    "subject": "CLEN",
+    "number": "S3829",
+    "title": "Fantastic Fictions: Postmodern Asian",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Visual Culture (formerly CLEN S3851)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_UN3851": {
+    "id": "ENGL_UN3851",
+    "subject": "ENGL",
+    "number": "UN3851",
+    "title": "INDIAN WRITING IN ENGLISH (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Summer 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_UN3933": {
+    "id": "CLEN_UN3933",
+    "subject": "CLEN",
+    "number": "UN3933",
+    "title": "POSTCOLONIAL LITERATURE (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENTA_UN3948": {
+    "id": "ENTA_UN3948",
+    "subject": "ENTA",
+    "number": "UN3948",
+    "title": "African Drama",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_GU4199": {
+    "id": "CLEN_GU4199",
+    "subject": "CLEN",
+    "number": "GU4199",
+    "title": "LITERATURE AND OIL (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_W4200": {
+    "id": "CLEN_W4200",
+    "subject": "CLEN",
+    "number": "W4200",
+    "title": "Caribbean Diaspora Literature",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_GU4650": {
+    "id": "ENGL_GU4650",
+    "subject": "ENGL",
+    "number": "GU4650",
+    "title": "Novels of Immigration, Relocation,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLEN_GU4644": {
+    "id": "CLEN_GU4644",
+    "subject": "CLEN",
+    "number": "GU4644",
+    "title": "REVOLUTION IN/ON THE CARIBBEAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Diaspora (formerly ENGL W3510)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENTA_GU4729": {
+    "id": "ENTA_GU4729",
+    "subject": "ENTA",
+    "number": "GU4729",
+    "title": "GLOBAL ANGLOPHONE DRAMA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_UN2230": {
+    "id": "FILM_UN2230",
+    "subject": "FILM",
+    "number": "UN2230",
+    "title": "World Cinema: Latin America- Women Filmmakers",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Film Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "FILM_UN2292": {
+    "id": "FILM_UN2292",
+    "subject": "FILM",
+    "number": "UN2292",
+    "title": "Topics in World Cinema: China (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_UN2294": {
+    "id": "FILM_UN2294",
+    "subject": "FILM",
+    "number": "UN2294",
+    "title": "WORLD CINEMA: LATIN AMERICA",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_S2295Q": {
+    "id": "FILM_S2295Q",
+    "subject": "FILM",
+    "number": "S2295Q",
+    "title": "World Cinema: Mexico (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_UN2296": {
+    "id": "FILM_UN2296",
+    "subject": "FILM",
+    "number": "UN2296",
+    "title": "ARAB # AFRICAN FILMMAKING",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Summer 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_GU4020": {
+    "id": "FILM_GU4020",
+    "subject": "FILM",
+    "number": "GU4020",
+    "title": "Brazilian Cinema: Cinema Novo and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective Fall 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_GU4212": {
+    "id": "FILM_GU4212",
+    "subject": "FILM",
+    "number": "GU4212",
+    "title": "Hollywood in China (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Beyond (Effective beginning Fall 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_S4215D": {
+    "id": "FILM_S4215D",
+    "subject": "FILM",
+    "number": "S4215D",
+    "title": "Contemporary Global Documentary",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Summer 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FILM_GU4294": {
+    "id": "FILM_GU4294",
+    "subject": "FILM",
+    "number": "GU4294",
+    "title": "World Cinema: Latin America (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Summer 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_UN3587": {
+    "id": "CLFR_UN3587",
+    "subject": "CLFR",
+    "number": "UN3587",
+    "title": "Global Francophone Cinema (Effective",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "French and Romance Philology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CLFR_UN3716": {
+    "id": "CLFR_UN3716",
+    "subject": "CLFR",
+    "number": "UN3716",
+    "title": "Francophone Romance : Love and Desire",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FREN_UN3822": {
+    "id": "FREN_UN3822",
+    "subject": "FREN",
+    "number": "UN3822",
+    "title": "Blackness in French: From Harlem to",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Literatures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4002": {
+    "id": "CLFR_GU4002",
+    "subject": "CLFR",
+    "number": "GU4002",
+    "title": "French Theory in a Global Context",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Summer 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4020": {
+    "id": "CLFR_GU4020",
+    "subject": "CLFR",
+    "number": "GU4020",
+    "title": "Contemporary Migrations in the French",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "FREN_GU4022": {
+    "id": "FREN_GU4022",
+    "subject": "FREN",
+    "number": "GU4022",
+    "title": "How to Love: Medieval French and Arabic",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginnning Summer 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4321": {
+    "id": "CLFR_GU4321",
+    "subject": "CLFR",
+    "number": "GU4321",
+    "title": "The Maghreb in Transition: Society",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4440": {
+    "id": "CLFR_GU4440",
+    "subject": "CLFR",
+    "number": "GU4440",
+    "title": "Remapping Algeria: Poetics and Politics",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Summer 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4421": {
+    "id": "CLFR_GU4421",
+    "subject": "CLFR",
+    "number": "GU4421",
+    "title": "The Caribbean Digital (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLFR_GU4716": {
+    "id": "CLFR_GU4716",
+    "subject": "CLFR",
+    "number": "GU4716",
+    "title": "FRANCOPHONE ROMANCE LOVE, SEX,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GERM_UN3780": {
+    "id": "GERM_UN3780",
+    "subject": "GERM",
+    "number": "UN3780",
+    "title": "BERL/ISTANBUL:MIGRATN,CLTR,VAL",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Germanic Languages",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN1004": {
+    "id": "HIST_UN1004",
+    "subject": "HIST",
+    "number": "UN1004",
+    "title": "ANCIENT HISTORY OF EGYPT",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "History",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_W1054": {
+    "id": "HIST_W1054",
+    "subject": "HIST",
+    "number": "W1054",
+    "title": "Introduction to Byzantine History",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "History",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_BC1760": {
+    "id": "HIST_BC1760",
+    "subject": "HIST",
+    "number": "BC1760",
+    "title": "INTRO AFRICAN HIST:1700-PRESNT",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2016)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN1786": {
+    "id": "HIST_UN1786",
+    "subject": "HIST",
+    "number": "UN1786",
+    "title": "History of the City in Latin America",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_UN1942": {
+    "id": "HIST_UN1942",
+    "subject": "HIST",
+    "number": "UN1942",
+    "title": "The Year 1000: A World History (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2003": {
+    "id": "HIST_UN2003",
+    "subject": "HIST",
+    "number": "UN2003",
+    "title": "Empire # Nation-Building East Central",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2176": {
+    "id": "HIST_UN2176",
+    "subject": "HIST",
+    "number": "UN2176",
+    "title": "REVOLUTION # EMPIRE: HAITI #",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Europe (Effective beginning Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2336": {
+    "id": "HIST_UN2336",
+    "subject": "HIST",
+    "number": "UN2336",
+    "title": "Everyday Communism (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Summer 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2377": {
+    "id": "HIST_UN2377",
+    "subject": "HIST",
+    "number": "UN2377",
+    "title": "WORLD HISTORY SINCE WW II (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2444": {
+    "id": "HIST_UN2444",
+    "subject": "HIST",
+    "number": "UN2444",
+    "title": "THE VIETNAM WAR (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2580": {
+    "id": "HIST_UN2580",
+    "subject": "HIST",
+    "number": "UN2580",
+    "title": "US - EAST ASIA RELATIONS (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2618": {
+    "id": "HIST_UN2618",
+    "subject": "HIST",
+    "number": "UN2618",
+    "title": "THE MODERN CARIBBEAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2657": {
+    "id": "HIST_UN2657",
+    "subject": "HIST",
+    "number": "UN2657",
+    "title": "Medieval Jewish Cultures (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2660": {
+    "id": "HIST_UN2660",
+    "subject": "HIST",
+    "number": "UN2660",
+    "title": "LATIN AMERICAN CIVILIZATION I",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3657)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_UN2661": {
+    "id": "HIST_UN2661",
+    "subject": "HIST",
+    "number": "UN2661",
+    "title": "LATIN AMERICAN CIVILIZATION II",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3657)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_BC2699": {
+    "id": "HIST_BC2699",
+    "subject": "HIST",
+    "number": "BC2699",
+    "title": "Latin American Civilization II (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3657)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2701": {
+    "id": "HIST_UN2701",
+    "subject": "HIST",
+    "number": "UN2701",
+    "title": "THE OTTOMAN EMPIRE (formerly",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST BC2699, but not both)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_UN2709": {
+    "id": "HIST_UN2709",
+    "subject": "HIST",
+    "number": "UN2709",
+    "title": "Medieval Middle East",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3701)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2719": {
+    "id": "HIST_UN2719",
+    "subject": "HIST",
+    "number": "UN2719",
+    "title": "HISTORY OF THE MOD MIDDLE EAST",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3701)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSWM_UN2761": {
+    "id": "HSWM_UN2761",
+    "subject": "HSWM",
+    "number": "UN2761",
+    "title": "GENDER # SEXUALITY IN AFRICA",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly HIST W3719)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_UN2764": {
+    "id": "HIST_UN2764",
+    "subject": "HIST",
+    "number": "UN2764",
+    "title": "EAST AFRICAN HISTORY",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2772": {
+    "id": "HIST_UN2772",
+    "subject": "HIST",
+    "number": "UN2772",
+    "title": "West African History",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_W2803": {
+    "id": "HIST_W2803",
+    "subject": "HIST",
+    "number": "W2803",
+    "title": "The Worlds of Mughal India (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSME_UN2810": {
+    "id": "HSME_UN2810",
+    "subject": "HSME",
+    "number": "UN2810",
+    "title": "HISTORY OF SOUTH ASIA I (formerly",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3803)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HSME_UN2811": {
+    "id": "HSME_UN2811",
+    "subject": "HSME",
+    "number": "UN2811",
+    "title": "South Asia: Empire and Its Aftermath",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HSME W3810)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN2820": {
+    "id": "HIST_UN2820",
+    "subject": "HIST",
+    "number": "UN2820",
+    "title": "A History of the Indian Ocean, 19th",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly HIST UN2811)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_W2880": {
+    "id": "HIST_W2880",
+    "subject": "HIST",
+    "number": "W2880",
+    "title": "Gandhi's India",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Century to the Present",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "formerly HIST W3800"
+    ]
+  },
+  "HIST_UN2881": {
+    "id": "HIST_UN2881",
+    "subject": "HIST",
+    "number": "UN2881",
+    "title": "VIETNAM IN THE WORLD (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Century to the Present",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_Q2900": {
+    "id": "HIST_Q2900",
+    "subject": "HIST",
+    "number": "Q2900",
+    "title": "History of the World to 1450 CE (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "8 Global Core Requirement",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_W2903": {
+    "id": "HIST_W2903",
+    "subject": "HIST",
+    "number": "W2903",
+    "title": "History of the World from 1450 CE to the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3902)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_W2943": {
+    "id": "HIST_W2943",
+    "subject": "HIST",
+    "number": "W2943",
+    "title": "Cultures of Empire (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "formerly HIST W2903)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3152": {
+    "id": "HIST_UN3152",
+    "subject": "HIST",
+    "number": "UN3152",
+    "title": "Byzantine Encounters in the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W3943)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3298": {
+    "id": "HIST_UN3298",
+    "subject": "HIST",
+    "number": "UN3298",
+    "title": "Popular Culture in Modern African",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_Q3400": {
+    "id": "HIST_Q3400",
+    "subject": "HIST",
+    "number": "Q3400",
+    "title": "Native American History (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "History (Effective beginning Fall 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_S3596": {
+    "id": "HIST_S3596",
+    "subject": "HIST",
+    "number": "S3596",
+    "title": "HIST OF LATINOS/AS IN THE U.S.",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST W4404)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_W3678": {
+    "id": "HIST_W3678",
+    "subject": "HIST",
+    "number": "W3678",
+    "title": "Indigenous Worlds in Early Latin America",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Summer 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3766": {
+    "id": "HIST_UN3766",
+    "subject": "HIST",
+    "number": "UN3766",
+    "title": "African Futures (Effective beginning Fall",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly HIST W4678)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3779": {
+    "id": "HIST_UN3779",
+    "subject": "HIST",
+    "number": "UN3779",
+    "title": "AFRICA AND FRANCE",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSEA_UN3898": {
+    "id": "HSEA_UN3898",
+    "subject": "HSEA",
+    "number": "UN3898",
+    "title": "THE MONGOLS IN HISTORY",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_Q3933": {
+    "id": "HIST_Q3933",
+    "subject": "HIST",
+    "number": "Q3933",
+    "title": "Empires and Cultures of the Early",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3601": {
+    "id": "HIST_UN3601",
+    "subject": "HIST",
+    "number": "UN3601",
+    "title": "Jews in the Later Roman Empire, 300-600",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2014; formerly HIST W4103)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_UN3608": {
+    "id": "HIST_UN3608",
+    "subject": "HIST",
+    "number": "UN3608",
+    "title": "Women and Gender in Latin America and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "HIST UN3601, effective Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_GU4301": {
+    "id": "HIST_GU4301",
+    "subject": "HIST",
+    "number": "GU4301",
+    "title": "Politics and Justice in Latin America",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_GU4660": {
+    "id": "HIST_GU4660",
+    "subject": "HIST",
+    "number": "GU4660",
+    "title": "Indigenous Worlds in Early Latin America",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "HIST_GU4681": {
+    "id": "HIST_GU4681",
+    "subject": "HIST",
+    "number": "GU4681",
+    "title": "The Nahuas Through Their Sources",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HIST_GU4811": {
+    "id": "HIST_GU4811",
+    "subject": "HIST",
+    "number": "GU4811",
+    "title": "Encounters with Nature: The History",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ITAL_GU4022": {
+    "id": "ITAL_GU4022",
+    "subject": "ITAL",
+    "number": "GU4022",
+    "title": "THE QUR'AN IN EUROPE (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Italian",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLIA_GU4499": {
+    "id": "CLIA_GU4499",
+    "subject": "CLIA",
+    "number": "GU4499",
+    "title": "Mediterranean Humanities I (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLIA_GU4500": {
+    "id": "CLIA_GU4500",
+    "subject": "CLIA",
+    "number": "GU4500",
+    "title": "Mediterranean Humanities II (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "receive Global Core credit for either",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLIA_GU4699": {
+    "id": "CLIA_GU4699",
+    "subject": "CLIA",
+    "number": "GU4699",
+    "title": "Mediterranean Humanities I (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "receive Global Core credit for either",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_UN3538": {
+    "id": "JWST_UN3538",
+    "subject": "JWST",
+    "number": "UN3538",
+    "title": "Jews in the City in the Islamic Middle",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Jewish Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4145": {
+    "id": "JWST_GU4145",
+    "subject": "JWST",
+    "number": "GU4145",
+    "title": "Introduction to Israeli Cinema (Effective beginning Spring",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East (Effective beginning Spring 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "JWST_GU4148": {
+    "id": "JWST_GU4148",
+    "subject": "JWST",
+    "number": "GU4148",
+    "title": "Jewish Histories of the Modern Middle",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4149": {
+    "id": "JWST_GU4149",
+    "subject": "JWST",
+    "number": "GU4149",
+    "title": "A History of Jewish-Muslim Encounters:",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "East (Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4158": {
+    "id": "JWST_GU4158",
+    "subject": "JWST",
+    "number": "GU4158",
+    "title": "Zionist Thought: Center and Periphery",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4159": {
+    "id": "JWST_GU4159",
+    "subject": "JWST",
+    "number": "GU4159",
+    "title": "Antisemitism and Resistance in Europe,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4160": {
+    "id": "JWST_GU4160",
+    "subject": "JWST",
+    "number": "GU4160",
+    "title": "Resilience and Resistance: North",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "JWST_GU4601": {
+    "id": "JWST_GU4601",
+    "subject": "JWST",
+    "number": "GU4601",
+    "title": "The History of Mizrahi Jews (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "JWST_GU4602": {
+    "id": "JWST_GU4602",
+    "subject": "JWST",
+    "number": "GU4602",
+    "title": "Zionism in History: Controversies Local",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "LCRS_UN3500": {
+    "id": "LCRS_UN3500",
+    "subject": "LCRS",
+    "number": "UN3500",
+    "title": "Latin American Cities (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Latin American and Caribbean Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPJS_UN3303": {
+    "id": "SPJS_UN3303",
+    "subject": "SPJS",
+    "number": "UN3303",
+    "title": "JEWISH CULTURE IN TRANSL IN MED",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Latin American and Iberian Cultures",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3349": {
+    "id": "SPAN_UN3349",
+    "subject": "SPAN",
+    "number": "UN3349",
+    "title": "HISPANIC CULTURES I",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "semester))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "SP"
+    ],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "PORT_UN3350": {
+    "id": "PORT_UN3350",
+    "subject": "PORT",
+    "number": "UN3350",
+    "title": "LUSOPHONE AFR/AFRO-BRAZ CULTRS",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "semester))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3350": {
+    "id": "SPAN_UN3350",
+    "subject": "SPAN",
+    "number": "UN3350",
+    "title": "HISPANIC CULTURES II",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "semester))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "SP"
+    ],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "SPAN_UN3361": {
+    "id": "SPAN_UN3361",
+    "subject": "SPAN",
+    "number": "UN3361",
+    "title": "ARTISTIC HUMANITY (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "semester))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3489": {
+    "id": "SPAN_UN3489",
+    "subject": "SPAN",
+    "number": "UN3489",
+    "title": "Staging Revolt: Masses, Multitudes #",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PORT_UN3490": {
+    "id": "PORT_UN3490",
+    "subject": "PORT",
+    "number": "UN3490",
+    "title": "BRAZILIAN SOCIETY # CIV",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "World (Effective beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "ENG"
+    ],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "SPAN_UN3490": {
+    "id": "SPAN_UN3490",
+    "subject": "SPAN",
+    "number": "UN3490",
+    "title": "Latin American Humanities I: From Pre-",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2017 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_W3491": {
+    "id": "SPAN_W3491",
+    "subject": "SPAN",
+    "number": "W3491",
+    "title": "Latin American Humanities II: From",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "New Nations",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PORT_UN3601": {
+    "id": "PORT_UN3601",
+    "subject": "PORT",
+    "number": "UN3601",
+    "title": "Race, Medicine and Literature in 19th-",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Modernity to the Present [In English]",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3894": {
+    "id": "SPAN_UN3894",
+    "subject": "SPAN",
+    "number": "UN3894",
+    "title": "Law, Literature, and Gender in the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3898": {
+    "id": "SPAN_UN3898",
+    "subject": "SPAN",
+    "number": "UN3898",
+    "title": "Arabs and the West: The Andalusian",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SPAN_UN3899": {
+    "id": "SPAN_UN3899",
+    "subject": "SPAN",
+    "number": "UN3899",
+    "title": "The Art of the Question in Latin America",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "LING_UN3102": {
+    "id": "LING_UN3102",
+    "subject": "LING",
+    "number": "UN3102",
+    "title": "",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Linguistics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective beginning Fall 2019"
+    ]
+  },
+  "LING_UN3104": {
+    "id": "LING_UN3104",
+    "subject": "LING",
+    "number": "UN3104",
+    "title": "The Indigenous Languages of North",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Linguistics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN1001": {
+    "id": "MDES_UN1001",
+    "subject": "MDES",
+    "number": "UN1001",
+    "title": "CRITICAL THEORY: A GLOBAL",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Middle Eastern, South Asian, and African Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN1030": {
+    "id": "MDES_UN1030",
+    "subject": "MDES",
+    "number": "UN1030",
+    "title": "“Game of Thrones”: On Epics and",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN1003": {
+    "id": "MDES_UN1003",
+    "subject": "MDES",
+    "number": "UN1003",
+    "title": "Premodern Islamic Worlds (Effective",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Empires (Effective beginning Fall 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AHUM_UN1399": {
+    "id": "AHUM_UN1399",
+    "subject": "AHUM",
+    "number": "UN1399",
+    "title": "COLLOQUIUM ON MAJOR TEXTS:",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN1630": {
+    "id": "MDES_UN1630",
+    "subject": "MDES",
+    "number": "UN1630",
+    "title": "Introduction to South Asia (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCM_V2001": {
+    "id": "ASCM_V2001",
+    "subject": "ASCM",
+    "number": "V2001",
+    "title": "Introduction to Major Topics in the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCM_UN2003": {
+    "id": "ASCM_UN2003",
+    "subject": "ASCM",
+    "number": "UN2003",
+    "title": "INTRO TO ISLAMIC CIVILIZATION",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Civilizations of the Middle East and India",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN2006": {
+    "id": "MDES_UN2006",
+    "subject": "MDES",
+    "number": "UN2006",
+    "title": "What is Islam?",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Civilizations of the Middle East and India",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective beginning Spring 2022"
+    ]
+  },
+  "ASCM_UN2008": {
+    "id": "ASCM_UN2008",
+    "subject": "ASCM",
+    "number": "UN2008",
+    "title": "CONTEMP ISLAMIC CIVILIZATION",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Civilizations of the Middle East and India",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN2042": {
+    "id": "MDES_UN2042",
+    "subject": "MDES",
+    "number": "UN2042",
+    "title": "South Asia at the Crossroads of Empires",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Civilizations of the Middle East and India",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN2012": {
+    "id": "MDES_UN2012",
+    "subject": "MDES",
+    "number": "UN2012",
+    "title": "Finding Happiness: Readings in Arab-",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN2030": {
+    "id": "MDES_UN2030",
+    "subject": "MDES",
+    "number": "UN2030",
+    "title": "Major Debates in the Study of Africa",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_W2041": {
+    "id": "MDES_W2041",
+    "subject": "MDES",
+    "number": "W2041",
+    "title": "Introduction to Indian Philosophy",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCM_UN2357": {
+    "id": "ASCM_UN2357",
+    "subject": "ASCM",
+    "number": "UN2357",
+    "title": "INTRO TO INDIAN CIVILIZATION",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN2399": {
+    "id": "MDES_UN2399",
+    "subject": "MDES",
+    "number": "UN2399",
+    "title": "ANCIENT NEAR EASTERN LITERATURE",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN2641": {
+    "id": "MDES_UN2641",
+    "subject": "MDES",
+    "number": "UN2641",
+    "title": "CINEMAS OF INDIA (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN2650": {
+    "id": "MDES_UN2650",
+    "subject": "MDES",
+    "number": "UN2650",
+    "title": "GANDHI # HIS INTERLOCUTORS (Gandhi",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3000": {
+    "id": "MDES_UN3000",
+    "subject": "MDES",
+    "number": "UN3000",
+    "title": "THEORY AND CULTURE",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_W3032": {
+    "id": "CLME_W3032",
+    "subject": "CLME",
+    "number": "W3032",
+    "title": "Colonialism: Film, Fiction, History &",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2015)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSME_UN3044": {
+    "id": "HSME_UN3044",
+    "subject": "HSME",
+    "number": "UN3044",
+    "title": "From Colonial to Global Health (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Theory",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3047": {
+    "id": "MDES_UN3047",
+    "subject": "MDES",
+    "number": "UN3047",
+    "title": "MESAAS # History: Court Cultures",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2017 semester)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3121": {
+    "id": "MDES_UN3121",
+    "subject": "MDES",
+    "number": "UN3121",
+    "title": "Literature and Cultures of Struggle in",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3130": {
+    "id": "MDES_UN3130",
+    "subject": "MDES",
+    "number": "UN3130",
+    "title": "E AFRICA # THE SWAHILI COAST",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_UN3221": {
+    "id": "CLME_UN3221",
+    "subject": "CLME",
+    "number": "UN3221",
+    "title": "ARABIC LITERATURE AS WORLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3260": {
+    "id": "MDES_UN3260",
+    "subject": "MDES",
+    "number": "UN3260",
+    "title": "RETHINKING MIDDLE EAST POLITCS",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "to CLME GU4272 beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_UN3266": {
+    "id": "CLME_UN3266",
+    "subject": "CLME",
+    "number": "UN3266",
+    "title": "Decolonizing the Arabian Nights (Was",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3335": {
+    "id": "MDES_UN3335",
+    "subject": "MDES",
+    "number": "UN3335",
+    "title": "Introduction to Armenian Studies",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective beginning Spring 2022.)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN3421": {
+    "id": "MDES_UN3421",
+    "subject": "MDES",
+    "number": "UN3421",
+    "title": "Islamic Central Asia (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_UN3445": {
+    "id": "MDES_UN3445",
+    "subject": "MDES",
+    "number": "UN3445",
+    "title": "SOCIETIES/CULTRS: INDIAN OCEAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_UN3928": {
+    "id": "CLME_UN3928",
+    "subject": "CLME",
+    "number": "UN3928",
+    "title": "ARABIC PRISON WRITING",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2013)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MDES_UN3930": {
+    "id": "MDES_UN3930",
+    "subject": "MDES",
+    "number": "UN3930",
+    "title": "Iraq: War, Love, and Exile (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2013)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4031": {
+    "id": "CLME_GU4031",
+    "subject": "CLME",
+    "number": "GU4031",
+    "title": "Cinema and Society In Asia and Africa",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HSME_GU4052": {
+    "id": "HSME_GU4052",
+    "subject": "HSME",
+    "number": "GU4052",
+    "title": "Locating Africa in the 20th Century World (was formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_G4052": {
+    "id": "MDES_G4052",
+    "subject": "MDES",
+    "number": "G4052",
+    "title": "Locating Africa in the Early 20th Century",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "MDES G4052)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4150": {
+    "id": "MDES_GU4150",
+    "subject": "MDES",
+    "number": "GU4150",
+    "title": "Introduction to African Philosophy",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "GU4052 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4220": {
+    "id": "MDES_GU4220",
+    "subject": "MDES",
+    "number": "GU4220",
+    "title": "The Arabic Linguistic Tradition (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4225": {
+    "id": "CLME_GU4225",
+    "subject": "CLME",
+    "number": "GU4225",
+    "title": "New Millenium Challenges in Arabic",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4226": {
+    "id": "CLME_GU4226",
+    "subject": "CLME",
+    "number": "GU4226",
+    "title": "ARABIC AUTOBIOGRAPHY GLOBAL",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Production\"; New title effective Fall 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4229": {
+    "id": "CLME_GU4229",
+    "subject": "CLME",
+    "number": "GU4229",
+    "title": "Afro-Mediterranean Cultural",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4231": {
+    "id": "CLME_GU4231",
+    "subject": "CLME",
+    "number": "GU4231",
+    "title": "COLD WAR ARAB CULTURE",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "CLME_GU4241": {
+    "id": "CLME_GU4241",
+    "subject": "CLME",
+    "number": "GU4241",
+    "title": "SUFISM: PRIMARY TEXTS/CONTEXTS",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_G4261": {
+    "id": "CLME_G4261",
+    "subject": "CLME",
+    "number": "G4261",
+    "title": "Popular Islam: Asia and Africa",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4259": {
+    "id": "MDES_GU4259",
+    "subject": "MDES",
+    "number": "GU4259",
+    "title": "War Narrative: The Arab World (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2018))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4262": {
+    "id": "CLME_GU4262",
+    "subject": "CLME",
+    "number": "GU4262",
+    "title": "THEMES IN THE ARABIC NOVEL",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4266": {
+    "id": "MDES_GU4266",
+    "subject": "MDES",
+    "number": "GU4266",
+    "title": "Decolonizing the Arabian Nights",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLME_GU4272": {
+    "id": "CLME_GU4272",
+    "subject": "CLME",
+    "number": "GU4272",
+    "title": "ARABIC LITERATURE AS WORLD",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "CLME UN3266)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_G4326": {
+    "id": "MDES_G4326",
+    "subject": "MDES",
+    "number": "G4326",
+    "title": "The Armenian Genocide and the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4360": {
+    "id": "MDES_GU4360",
+    "subject": "MDES",
+    "number": "GU4360",
+    "title": "Armenians and the Modern World",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Holocaust: Memory and Representation",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4634": {
+    "id": "MDES_GU4634",
+    "subject": "MDES",
+    "number": "GU4634",
+    "title": "Sound and Listening Cultures of the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4637": {
+    "id": "MDES_GU4637",
+    "subject": "MDES",
+    "number": "GU4637",
+    "title": "Cinema and Colonialism in South Asia",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "requirement after Spring 2026.)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MDES_GU4945": {
+    "id": "MDES_GU4945",
+    "subject": "MDES",
+    "number": "GU4945",
+    "title": "Contested Histories: A Medieval Jewish",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MUSI_UN2020": {
+    "id": "MUSI_UN2020",
+    "subject": "MUSI",
+    "number": "UN2020",
+    "title": "SALSA, SOCA # REGGAE",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Music",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MUSI_UN2030": {
+    "id": "MUSI_UN2030",
+    "subject": "MUSI",
+    "number": "UN2030",
+    "title": "JEWISH MUSIC IN NEW YORK (Effective",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Music",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MUSI_V2430": {
+    "id": "MUSI_V2430",
+    "subject": "MUSI",
+    "number": "V2430",
+    "title": "Listening and Sound in Cross-Cultural",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "AHMM_UN3320": {
+    "id": "AHMM_UN3320",
+    "subject": "AHMM",
+    "number": "UN3320",
+    "title": "MUSIC IN EAST ASIA",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2014; formerly MUSI W4430)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "AHMM_UN3321": {
+    "id": "AHMM_UN3321",
+    "subject": "AHMM",
+    "number": "UN3321",
+    "title": "MUSICS OF INDIA # WEST ASIA",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2014; formerly MUSI W4430)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MUSI_GU4113": {
+    "id": "MUSI_GU4113",
+    "subject": "MUSI",
+    "number": "GU4113",
+    "title": "Medieval Mediterranean Love Songs",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2014; formerly MUSI W4430)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MUSI_GU4438": {
+    "id": "MUSI_GU4438",
+    "subject": "MUSI",
+    "number": "GU4438",
+    "title": "Music and Global Africa (Effective",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "MUSI_GU4466": {
+    "id": "MUSI_GU4466",
+    "subject": "MUSI",
+    "number": "GU4466",
+    "title": "Sound and Image in Modern East Asian",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "10 Global Core Requirement",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SCNC_UN3001": {
+    "id": "SCNC_UN3001",
+    "subject": "SCNC",
+    "number": "UN3001",
+    "title": "Nuclear Weapons and Nuclear Testing: Marshall Islands",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Physics",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHIL_UN3000": {
+    "id": "PHIL_UN3000",
+    "subject": "PHIL",
+    "number": "UN3000",
+    "title": "BUDDHIST PHILOSOPHY (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Philosophy",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHIL_UN3912": {
+    "id": "PHIL_UN3912",
+    "subject": "PHIL",
+    "number": "UN3912",
+    "title": "SEMINAR (Buddhist Philosophy. Only",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "PHIL_GU4947": {
+    "id": "PHIL_GU4947",
+    "subject": "PHIL",
+    "number": "GU4947",
+    "title": "Classical Indian Philosophy (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2026)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN1612": {
+    "id": "RELI_UN1612",
+    "subject": "RELI",
+    "number": "UN1612",
+    "title": "Religion and the History of Hip Hop",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Religion",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN2205": {
+    "id": "RELI_UN2205",
+    "subject": "RELI",
+    "number": "UN2205",
+    "title": "BUDDHISM: INDO-TIBETAN (effective Fall",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN2305": {
+    "id": "RELI_UN2305",
+    "subject": "RELI",
+    "number": "UN2305",
+    "title": "ISLAM",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2016)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "RELI_UN2306": {
+    "id": "RELI_UN2306",
+    "subject": "RELI",
+    "number": "UN2306",
+    "title": "INTRO TO JUDAISM (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2016)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN2405": {
+    "id": "RELI_UN2405",
+    "subject": "RELI",
+    "number": "UN2405",
+    "title": "CHINESE RELIGIOUS TRADITIONS",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "RELI_UN2308": {
+    "id": "RELI_UN2308",
+    "subject": "RELI",
+    "number": "UN2308",
+    "title": "BUDDHISM: EAST ASIAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly RELI UN2307)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN2309": {
+    "id": "RELI_UN2309",
+    "subject": "RELI",
+    "number": "UN2309",
+    "title": "HINDUISM",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly RELI UN2307)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN2335": {
+    "id": "RELI_UN2335",
+    "subject": "RELI",
+    "number": "UN2335",
+    "title": "RELI IN BLACK AMERICA:AN INTRO",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly RELI UN2307)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN3303": {
+    "id": "RELI_UN3303",
+    "subject": "RELI",
+    "number": "UN3303",
+    "title": "Judaism and Translation in the Medieval",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(formerly RELI V2645)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN3407": {
+    "id": "RELI_UN3407",
+    "subject": "RELI",
+    "number": "UN3407",
+    "title": "Muslims in Diaspora (Effective beginning",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(effective Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN3314": {
+    "id": "RELI_UN3314",
+    "subject": "RELI",
+    "number": "UN3314",
+    "title": "QURAN",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2016; formerly RELI V3307)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective beginning Fall 2023"
+    ]
+  },
+  "RELI_UN3425": {
+    "id": "RELI_UN3425",
+    "subject": "RELI",
+    "number": "UN3425",
+    "title": "Judaism and Courtly Literature in",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2016; formerly RELI V3307)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_Q3511": {
+    "id": "RELI_Q3511",
+    "subject": "RELI",
+    "number": "Q3511",
+    "title": "Tantra in South Asia, East Asia & the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Italy (Effective beginning Fall 2016 )",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN3521": {
+    "id": "RELI_UN3521",
+    "subject": "RELI",
+    "number": "UN3521",
+    "title": "Muslim Masculinities (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "formerly RELI V3411)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_UN3771": {
+    "id": "RELI_UN3771",
+    "subject": "RELI",
+    "number": "UN3771",
+    "title": "Indigenous Enlightenments",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective Summer 2025"
+    ]
+  },
+  "RELI_GU4214": {
+    "id": "RELI_GU4214",
+    "subject": "RELI",
+    "number": "GU4214",
+    "title": "African and North African Philosophy:",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_GU4215": {
+    "id": "RELI_GU4215",
+    "subject": "RELI",
+    "number": "GU4215",
+    "title": "Hinduism Here (Effecrtive beginning Fall",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Summer 2021)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_GU4204": {
+    "id": "RELI_GU4204",
+    "subject": "RELI",
+    "number": "GU4204",
+    "title": "Religions of the Iranian World (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_GU4304": {
+    "id": "RELI_GU4304",
+    "subject": "RELI",
+    "number": "GU4304",
+    "title": "Krishna",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Effective beginning Fall 2017"
+    ]
+  },
+  "RELI_GU4314": {
+    "id": "RELI_GU4314",
+    "subject": "RELI",
+    "number": "GU4314",
+    "title": "Bhakti Poets (Effective beginning Spring",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2020)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_GU4322": {
+    "id": "RELI_GU4322",
+    "subject": "RELI",
+    "number": "GU4322",
+    "title": "EXPLORING THE SHARIA: ISLAMIC LAW",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "RELI_GU4418": {
+    "id": "RELI_GU4418",
+    "subject": "RELI",
+    "number": "GU4418",
+    "title": "On African Theory: Religion, Philosophy,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "(Effective beginning Fall 2018)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RELI_GU4999": {
+    "id": "RELI_GU4999",
+    "subject": "RELI",
+    "number": "GU4999",
+    "title": "GLOBAL INDIGENOUS RELIGIOUS",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2019)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "SLCL_UN3001": {
+    "id": "SLCL_UN3001",
+    "subject": "SLCL",
+    "number": "UN3001",
+    "title": "SLAVIC CULTURES",
+    "credits": 3.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Slavic Languages",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "SLCL_UN3100": {
+    "id": "SLCL_UN3100",
+    "subject": "SLCL",
+    "number": "UN3100",
+    "title": "FOLKLORE PAST # PRESENT (Effective",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Slavic Languages",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "RUSS_UN3230": {
+    "id": "RUSS_UN3230",
+    "subject": "RUSS",
+    "number": "UN3230",
+    "title": "Tricksters in World Culture: Mockery,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Spring 2025)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SLCL_GU4002": {
+    "id": "SLCL_GU4002",
+    "subject": "SLCL",
+    "number": "GU4002",
+    "title": "Folklore Past and Present (formerly",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "beginning Fall 2022)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLSL_GU4012": {
+    "id": "CLSL_GU4012",
+    "subject": "CLSL",
+    "number": "GU4012",
+    "title": "Holocaust Literature: Critical Thinking",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "effective beginning Spring 2025))",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLSL_GU4013": {
+    "id": "CLSL_GU4013",
+    "subject": "CLSL",
+    "number": "GU4013",
+    "title": "Jewish Worlds in Eastern Europe: A",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2023)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLRS_GU4022": {
+    "id": "CLRS_GU4022",
+    "subject": "CLRS",
+    "number": "GU4022",
+    "title": "Russia and Asia: Orientalism,",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "2024)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "GEOR_GU4042": {
+    "id": "GEOR_GU4042",
+    "subject": "GEOR",
+    "number": "GU4042",
+    "title": "Expressive Culture of Soviet and",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Eurasianism, Internationalism",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CLRS_W4190": {
+    "id": "CLRS_W4190",
+    "subject": "CLRS",
+    "number": "W4190",
+    "title": "Race, Ethnicity, and Narrative, in the",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Spring 2017)",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "SOCI_UN3324": {
+    "id": "SOCI_UN3324",
+    "subject": "SOCI",
+    "number": "UN3324",
+    "title": "Global Urbanism",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Sociology",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "THTR_UN3154": {
+    "id": "THTR_UN3154",
+    "subject": "THTR",
+    "number": "UN3154",
+    "title": "THEATRE TRAD GLOBAL CONTEXT",
+    "credits": 4.0,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Theatre",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [],
+    "credits_source": "columbia_directory_of_classes_2026_2027"
+  },
+  "URBS_UN3351": {
+    "id": "URBS_UN3351",
+    "subject": "URBS",
+    "number": "UN3351",
+    "title": "URBAN ELSEWHERES: EXPLORING A",
+    "credits": null,
+    "category_tags": [
+      "global_core",
+      "nontechnical"
+    ],
+    "department_header": "Urban Studies",
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  }
+}

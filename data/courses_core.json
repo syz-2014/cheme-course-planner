@@ -1,0 +1,885 @@
+{
+  "MATH_UN1101": {
+    "id": "MATH_UN1101",
+    "subject": "MATH",
+    "number": "UN1101",
+    "title": "Calculus I",
+    "credits": 3,
+    "category_tags": [
+      "math_foundation"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MATH_UN1102": {
+    "id": "MATH_UN1102",
+    "subject": "MATH",
+    "number": "UN1102",
+    "title": "Calculus II",
+    "credits": 3,
+    "category_tags": [
+      "math_foundation"
+    ],
+    "prerequisites": [
+      "MATH_UN1101"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E2000": {
+    "id": "APMA_E2000",
+    "subject": "APMA",
+    "number": "E2000",
+    "title": "Multivariable Calculus for Engineers and Applied Scientists",
+    "credits": 4,
+    "category_tags": [
+      "math_foundation"
+    ],
+    "prerequisites": [
+      "MATH_UN1102"
+    ],
+    "corequisites": [
+      "APMA_E2001"
+    ],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E2001": {
+    "id": "APMA_E2001",
+    "subject": "APMA",
+    "number": "E2001",
+    "title": "Introduction to Higher Mathematics for Engineers and Applied Scientists",
+    "credits": 0,
+    "category_tags": [
+      "math_foundation"
+    ],
+    "prerequisites": [],
+    "corequisites": [
+      "APMA_E2000"
+    ],
+    "aliases": [],
+    "notes": []
+  },
+  "MATH_UN2030": {
+    "id": "MATH_UN2030",
+    "subject": "MATH",
+    "number": "UN2030",
+    "title": "Ordinary Differential Equations",
+    "credits": 3,
+    "category_tags": [
+      "math_foundation_option"
+    ],
+    "prerequisites": [
+      "APMA_E2000"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E2101": {
+    "id": "APMA_E2101",
+    "subject": "APMA",
+    "number": "E2101",
+    "title": "Introduction to Applied Mathematics",
+    "credits": 3,
+    "category_tags": [
+      "math_foundation_option"
+    ],
+    "prerequisites": [
+      "APMA_E2000"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E3101": {
+    "id": "APMA_E3101",
+    "subject": "APMA",
+    "number": "E3101",
+    "title": "Applied Math I: Linear Algebra",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "MATH_UN2010": {
+    "id": "MATH_UN2010",
+    "subject": "MATH",
+    "number": "UN2010",
+    "title": "Linear Algebra",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E3102": {
+    "id": "APMA_E3102",
+    "subject": "APMA",
+    "number": "E3102",
+    "title": "Applied Mathematics II: PDE's",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E4150": {
+    "id": "APMA_E4150",
+    "subject": "APMA",
+    "number": "E4150",
+    "title": "Applied Functional Analysis",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "APMA_E4300": {
+    "id": "APMA_E4300",
+    "subject": "APMA",
+    "number": "E4300",
+    "title": "Computational Mathematics: Introduction to Numerical Methods",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "STAT_GU4001": {
+    "id": "STAT_GU4001",
+    "subject": "STAT",
+    "number": "GU4001",
+    "title": "Introduction to Probability and Statistics",
+    "credits": 3,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN1401": {
+    "id": "PHYS_UN1401",
+    "subject": "PHYS",
+    "number": "UN1401",
+    "title": "Physics I",
+    "credits": 3,
+    "category_tags": [
+      "physics_sequence_a"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN1402": {
+    "id": "PHYS_UN1402",
+    "subject": "PHYS",
+    "number": "UN1402",
+    "title": "Physics II",
+    "credits": 3,
+    "category_tags": [
+      "physics_sequence_a"
+    ],
+    "prerequisites": [
+      "PHYS_UN1401"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN1494": {
+    "id": "PHYS_UN1494",
+    "subject": "PHYS",
+    "number": "UN1494",
+    "title": "Physics Laboratory",
+    "credits": 3,
+    "category_tags": [
+      "physics_lab"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN1601": {
+    "id": "PHYS_UN1601",
+    "subject": "PHYS",
+    "number": "UN1601",
+    "title": "Physics I",
+    "credits": 3.5,
+    "category_tags": [
+      "physics_sequence_b"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN1602": {
+    "id": "PHYS_UN1602",
+    "subject": "PHYS",
+    "number": "UN1602",
+    "title": "Physics II",
+    "credits": 3.5,
+    "category_tags": [
+      "physics_sequence_b"
+    ],
+    "prerequisites": [
+      "PHYS_UN1601"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN2801": {
+    "id": "PHYS_UN2801",
+    "subject": "PHYS",
+    "number": "UN2801",
+    "title": "Honors Physics I",
+    "credits": 4.5,
+    "category_tags": [
+      "physics_sequence_c"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN2802": {
+    "id": "PHYS_UN2802",
+    "subject": "PHYS",
+    "number": "UN2802",
+    "title": "Honors Physics II",
+    "credits": 4.5,
+    "category_tags": [
+      "physics_sequence_c"
+    ],
+    "prerequisites": [
+      "PHYS_UN2801"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHYS_UN3081": {
+    "id": "PHYS_UN3081",
+    "subject": "PHYS",
+    "number": "UN3081",
+    "title": "Physics Laboratory",
+    "credits": 2,
+    "category_tags": [
+      "physics_lab"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN1403": {
+    "id": "CHEM_UN1403",
+    "subject": "CHEM",
+    "number": "UN1403",
+    "title": "General Chemistry I",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_a"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN1500": {
+    "id": "CHEM_UN1500",
+    "subject": "CHEM",
+    "number": "UN1500",
+    "title": "General Chemistry Laboratory",
+    "credits": 3,
+    "category_tags": [
+      "chemistry_lab"
+    ],
+    "prerequisites": [],
+    "corequisites": [
+      "CHEM_UN1403"
+    ],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN1404": {
+    "id": "CHEM_UN1404",
+    "subject": "CHEM",
+    "number": "UN1404",
+    "title": "General Chemistry II",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_a"
+    ],
+    "prerequisites": [
+      "CHEM_UN1403"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN1507": {
+    "id": "CHEM_UN1507",
+    "subject": "CHEM",
+    "number": "UN1507",
+    "title": "Introductory Chemistry Laboratory",
+    "credits": 3,
+    "category_tags": [
+      "chemistry_lab"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN1604": {
+    "id": "CHEM_UN1604",
+    "subject": "CHEM",
+    "number": "UN1604",
+    "title": "Intensive General Chemistry",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_b"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2045": {
+    "id": "CHEM_UN2045",
+    "subject": "CHEM",
+    "number": "UN2045",
+    "title": "Organic Chemistry I",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_c"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2046": {
+    "id": "CHEM_UN2046",
+    "subject": "CHEM",
+    "number": "UN2046",
+    "title": "Organic Chemistry II",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_c"
+    ],
+    "prerequisites": [
+      "CHEM_UN2045"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2443": {
+    "id": "CHEM_UN2443",
+    "subject": "CHEM",
+    "number": "UN2443",
+    "title": "Physical Chemistry",
+    "credits": 4,
+    "category_tags": [
+      "chemistry_sequence_c"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E1000": {
+    "id": "CHEN_E1000",
+    "subject": "CHEN",
+    "number": "E1000",
+    "title": "Chemical Engineering for Humanity",
+    "credits": 1,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E2100": {
+    "id": "CHEN_E2100",
+    "subject": "CHEN",
+    "number": "E2100",
+    "title": "Material and Energy Balances",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E3020": {
+    "id": "CHEN_E3020",
+    "subject": "CHEN",
+    "number": "E3020",
+    "title": "Analysis of Chemical Engineering Problems",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [
+      "CHEN_E2100"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E3110": {
+    "id": "CHEN_E3110",
+    "subject": "CHEN",
+    "number": "E3110",
+    "title": "Transport Phenomena I",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEE_E3010": {
+    "id": "CHEE_E3010",
+    "subject": "CHEE",
+    "number": "E3010",
+    "title": "Principles of Chemical Engineering Thermodynamics I",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E3230": {
+    "id": "CHEN_E3230",
+    "subject": "CHEN",
+    "number": "E3230",
+    "title": "Reaction Kinetics and Reactor Design",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E4140": {
+    "id": "CHEN_E4140",
+    "subject": "CHEN",
+    "number": "E4140",
+    "title": "Engineering Separations Processes",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E4300": {
+    "id": "CHEN_E4300",
+    "subject": "CHEN",
+    "number": "E4300",
+    "title": "Chemical Engineering Process Control and Safety",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E3810": {
+    "id": "CHEN_E3810",
+    "subject": "CHEN",
+    "number": "E3810",
+    "title": "Chemical Engineering Lab",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEN_E4500": {
+    "id": "CHEN_E4500",
+    "subject": "CHEN",
+    "number": "E4500",
+    "title": "Process and Product Design I",
+    "credits": 4,
+    "category_tags": [
+      "major_required",
+      "chen_core"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGI_E1006": {
+    "id": "ENGI_E1006",
+    "subject": "ENGI",
+    "number": "E1006",
+    "title": "Introduction to Computing for Engineering and Applied Science",
+    "credits": 3,
+    "category_tags": [
+      "major_required",
+      "computing_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGI_E1102": {
+    "id": "ENGI_E1102",
+    "subject": "ENGI",
+    "number": "E1102",
+    "title": "The Art of Engineering",
+    "credits": 4,
+    "category_tags": [
+      "major_required",
+      "engineering_foundation"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ENGL_CC1010": {
+    "id": "ENGL_CC1010",
+    "subject": "ENGL",
+    "number": "CC1010",
+    "title": "University Writing",
+    "credits": 3,
+    "category_tags": [
+      "nontechnical_core_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ECON_UN1105": {
+    "id": "ECON_UN1105",
+    "subject": "ECON",
+    "number": "UN1105",
+    "title": "Principles of Economics",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [
+      "ECON_UN1155"
+    ],
+    "aliases": [],
+    "notes": []
+  },
+  "ECON_UN1155": {
+    "id": "ECON_UN1155",
+    "subject": "ECON",
+    "number": "UN1155",
+    "title": "Principles of Economics Recitation",
+    "credits": 0,
+    "category_tags": [
+      "nontechnical_core_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [
+      "ECON_UN1105"
+    ],
+    "aliases": [],
+    "notes": []
+  },
+  "HUMA_CC1001": {
+    "id": "HUMA_CC1001",
+    "subject": "HUMA",
+    "number": "CC1001",
+    "title": "Literature Humanities I",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required",
+      "core_humanities"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HUMA_CC1002": {
+    "id": "HUMA_CC1002",
+    "subject": "HUMA",
+    "number": "CC1002",
+    "title": "Literature Humanities II",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required",
+      "core_humanities"
+    ],
+    "prerequisites": [
+      "HUMA_CC1001"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COCI_CC1101": {
+    "id": "COCI_CC1101",
+    "subject": "COCI",
+    "number": "CC1101",
+    "title": "Contemporary Western Civilization I",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required",
+      "core_humanities"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COCI_CC1102": {
+    "id": "COCI_CC1102",
+    "subject": "COCI",
+    "number": "CC1102",
+    "title": "Contemporary Western Civilization II",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required",
+      "core_humanities"
+    ],
+    "prerequisites": [
+      "COCI_CC1101"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HUMA_UN1121": {
+    "id": "HUMA_UN1121",
+    "subject": "HUMA",
+    "number": "UN1121",
+    "title": "Art Humanities",
+    "credits": 3,
+    "category_tags": [
+      "nontechnical_core_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "HUMA_UN1123": {
+    "id": "HUMA_UN1123",
+    "subject": "HUMA",
+    "number": "UN1123",
+    "title": "Music Humanities",
+    "credits": 3,
+    "category_tags": [
+      "nontechnical_core_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "ASCM_UN2002": {
+    "id": "ASCM_UN2002",
+    "subject": "ASCM",
+    "number": "UN2002",
+    "title": "Masterpieces of East Asian Literature and Philosophy",
+    "credits": 4,
+    "category_tags": [
+      "nontechnical_core_required",
+      "core_humanities"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2493": {
+    "id": "CHEM_UN2493",
+    "subject": "CHEM",
+    "number": "UN2493",
+    "title": "Organic Chemistry Lab I Techniques",
+    "credits": 1.5,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2496": {
+    "id": "CHEM_UN2496",
+    "subject": "CHEM",
+    "number": "UN2496",
+    "title": "Organic Chemistry Laboratory II",
+    "credits": 1.5,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2543": {
+    "id": "CHEM_UN2543",
+    "subject": "CHEM",
+    "number": "UN2543",
+    "title": "Organic Chemistry Laboratory",
+    "credits": 3,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN2545": {
+    "id": "CHEM_UN2545",
+    "subject": "CHEM",
+    "number": "UN2545",
+    "title": "Intensive Organic Chemistry Lab",
+    "credits": 3,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "CHEM_UN3085": {
+    "id": "CHEM_UN3085",
+    "subject": "CHEM",
+    "number": "UN3085",
+    "title": "Physical-Analytical Laboratory I",
+    "credits": 3,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [
+      "CHEM_3085"
+    ],
+    "notes": []
+  },
+  "BIOL_UN2501": {
+    "id": "BIOL_UN2501",
+    "subject": "BIOL",
+    "number": "UN2501",
+    "title": "Contemporary Biology Lab",
+    "credits": 3,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [
+      "BIOL_W2501"
+    ],
+    "notes": []
+  },
+  "EEEB_UN3015": {
+    "id": "EEEB_UN3015",
+    "subject": "EEEB",
+    "number": "UN3015",
+    "title": "Intro-Stat-Ecology/Evolution Biology Lab",
+    "credits": 3,
+    "category_tags": [
+      "natural_science_lab_option"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [
+      "EEEB_UN3005_3015"
+    ],
+    "notes": []
+  },
+  "PHED_UN1001": {
+    "id": "PHED_UN1001",
+    "subject": "PHED",
+    "number": "UN1001",
+    "title": "Physical Education Activities I",
+    "credits": 1,
+    "category_tags": [
+      "physical_education_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "PHED_UN1002": {
+    "id": "PHED_UN1002",
+    "subject": "PHED",
+    "number": "UN1002",
+    "title": "Physical Education Activities II",
+    "credits": 1,
+    "category_tags": [
+      "physical_education_required"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  }
+}

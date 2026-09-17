@@ -1,0 +1,195 @@
+{
+  "program_id": "CHEMICAL_ENGINEERING_BS",
+  "program_name": "Chemical Engineering B.S.",
+  "catalog_year": "2025-2026",
+
+  "data_sources": {
+    "core_courses": "data/courses_core.json",
+    "technical_electives": "data/courses_technical_electives.json",
+    "global_core": "data/course_globalcore.json",
+    "nontechnical_rules": "data/nontech_rules.json"
+  },
+
+  "total_degree_credits": 128,
+
+  "requirements": {
+    "math_foundation": {
+      "type": "mixed",
+      "required_courses": [
+        "MATH_UN1101",
+        "MATH_UN1102",
+        "APMA_E2000",
+        "APMA_E2001"
+      ],
+      "choose_one_of": [
+        "MATH_UN2030",
+        "APMA_E2101"
+      ]
+    },
+
+    "physics_requirement": {
+      "type": "choose_one_sequence",
+      "sequences": [
+        ["PHYS_UN1401", "PHYS_UN1402", "PHYS_UN1494"],
+        ["PHYS_UN1601", "PHYS_UN1602", "PHYS_UN1494"],
+        ["PHYS_UN2801", "PHYS_UN2802", "PHYS_UN3081"]
+      ]
+    },
+
+    "chemistry_requirement": {
+      "type": "choose_one_sequence",
+      "sequences": [
+        ["CHEM_UN1403", "CHEM_UN1500", "CHEM_UN1404", "CHEM_UN1507"],
+        ["CHEM_UN1604", "CHEM_UN1507"],
+        ["CHEM_UN2045", "CHEM_UN2046", "CHEM_UN1507", "CHEM_UN2443"]
+      ]
+    },
+
+    "major_required_courses": {
+      "type": "all_of",
+      "courses": [
+        "CHEN_E1000",
+        "CHEN_E2100",
+        "CHEN_E3020",
+        "CHEN_E3110",
+        "CHEE_E3010",
+        "CHEN_E3230",
+        "CHEN_E4140",
+        "CHEN_E4300",
+        "CHEN_E3810",
+        "CHEN_E4500",
+        "ENGI_E1006",
+        "ENGI_E1102"
+      ]
+    },
+
+    "math_elective": {
+      "type": "tag_count",
+      "required_tag": "math_elective",
+      "courses_required": 1,
+      "credits_min": 3
+    },
+
+    "natural_science_lab": {
+      "type": "tag_credit_minimum",
+      "required_tag": "natural_science_lab_option",
+      "credits_min": 3,
+      "notes": [
+        "CHEM_UN2493 and CHEM_UN2496 may combine to satisfy the 3-credit lab requirement."
+      ]
+    },
+
+    "technical_electives": {
+      "type": "nested_tag_rules",
+      "required_tag": "technical_elective",
+      "courses_required": 7,
+      "credits_min": 21,
+
+      "subrequirements": {
+        "thermodynamics_elective": {
+          "required_tag": "thermo_elective",
+          "courses_required": 1
+        },
+        "transport_elective": {
+          "required_tag": "transport_elective",
+          "courses_required": 1
+        },
+        "engineering_technical_electives": {
+          "required_tag": "engineering_tech_elective",
+          "courses_required": 3
+        },
+        "advanced_stem_technical_electives": {
+          "required_tag": "advanced_stem_tech_elective",
+          "courses_required": 2
+        }
+      },
+
+      "overlap_policy": {
+        "single_course_can_satisfy_multiple_subrequirements": true,
+        "single_course_counts_once_toward_total_technical_electives": true
+      }
+    },
+
+    "nontechnical_requirement": {
+      "type": "credit_minimum_with_required_components",
+      "credits_min": 27,
+      "required_component_credits_expected": "16-18",
+
+      "required_courses": [
+        "ENGL_CC1010",
+        "ECON_UN1105"
+      ],
+
+      "required_groups": [
+        {
+          "group_id": "core_sequence_requirement",
+          "type": "choose_one_path",
+          "paths": [
+            {
+              "path_id": "literature_humanities",
+              "description": "Complete Literature Humanities I and II.",
+              "courses": [
+                "HUMA_CC1001",
+                "HUMA_CC1002"
+              ]
+            },
+            {
+              "path_id": "contemporary_civilization",
+              "description": "Complete Contemporary Civilization I and II.",
+              "courses": [
+                "COCI_CC1101",
+                "COCI_CC1102"
+              ]
+            },
+            {
+              "path_id": "global_core",
+              "description": "Complete any two approved Global Core courses.",
+              "source": "data/course_globalcore.json",
+              "required_tag": "global_core",
+              "courses_required": 2,
+              "letter_grade_required": true
+            }
+          ]
+        },
+        {
+          "group_id": "art_or_music_humanities",
+          "type": "choose_one_of",
+          "courses": [
+            "HUMA_UN1121",
+            "HUMA_UN1123"
+          ]
+        }
+      ],
+
+      "elective_nontechnical": {
+        "credits_min": 9,
+        "credits_max": 11,
+        "rules_source": "data/nontech_rules.json"
+      },
+
+      "notes": [
+        "The nontechnical requirement requires 27 total credits.",
+        "Students satisfy the core sequence requirement through Literature Humanities, Contemporary Civilization, or two approved Global Core courses.",
+        "Global Core courses are loaded from data/course_globalcore.json.",
+        "Additional elective nontechnical courses should be validated using subject-code rules from data/nontech_rules.json."
+      ]
+    },
+
+    "physical_education": {
+      "type": "all_of",
+      "courses": [
+        "PHED_UN1001",
+        "PHED_UN1002"
+      ]
+    }
+  },
+
+  "validation_rules": {
+    "disallow_duplicate_course_ids": true,
+    "prerequisites_must_be_completed_before_course": true,
+    "corequisites_may_be_taken_same_semester": true,
+    "use_aliases_when_matching_courses": true,
+    "ignore_courses_with_unknown_ids": false,
+    "warn_if_course_has_null_credits": true
+  }
+}

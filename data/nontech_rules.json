@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "source": "Columbia Engineering Bulletin",
+    "requirement_name": "27-Point Nontechnical Requirement",
+    "notes": [
+      "Rules are keyed by course subject code to make validation easier.",
+      "The validator should first check explicit allowed_courses and excluded_courses, then apply the policy rule."
+    ]
+  },
+  "policies": {
+    "all": "All courses with this subject code may count as nontechnical electives.",
+    "none": "No courses with this subject code may count as nontechnical electives.",
+    "only": "Only the listed course IDs may count.",
+    "all_except": "All courses may count except the listed excluded course IDs.",
+    "custom": "Requires special handling based on notes."
+  },
+  "subject_rules": {
+    "AFAM": {
+      "display_name": "African-American Studies",
+      "policy": "all"
+    },
+    "AMST": {
+      "display_name": "American Studies",
+      "policy": "all"
+    },
+    "ANTH": {
+      "display_name": "Anthropology",
+      "policy": "custom",
+      "allowed_notes": [
+        "All courses in sociocultural anthropology.",
+        "All courses in archaeology except fieldwork."
+      ],
+      "excluded_notes": [
+        "No biological or physical anthropology courses."
+      ]
+    },
+    "ARCH": {
+      "display_name": "Architecture",
+      "policy": "only",
+      "allowed_courses": [
+        "ARCH_BC2500",
+        "ARCH_UN2505",
+        "ARCH_UN2530",
+        "ARCH_UN3117",
+        "ARCH_UN3120",
+        "ARCH_UN3123",
+        "ARCH_UN3501",
+        "ARCH_UN3502"
+      ]
+    },
+    "AHIS": {
+      "display_name": "Art History and Archaeology",
+      "policy": "all"
+    },
+    "ARTH": {
+      "display_name": "Art History and Archaeology",
+      "policy": "all"
+    },
+    "AHUM": {
+      "display_name": "Art Humanities / Core Humanities",
+      "policy": "all"
+    },
+    "ASAM": {
+      "display_name": "Asian American Studies",
+      "policy": "all"
+    },
+    "ASTR": {
+      "display_name": "Astronomy",
+      "policy": "none"
+    },
+    "BIOL": {
+      "display_name": "Biological Sciences",
+      "policy": "none"
+    },
+    "BUSI": {
+      "display_name": "Business",
+      "policy": "none"
+    },
+    "CHEM": {
+      "display_name": "Chemistry",
+      "policy": "none"
+    },
+    "CLCV": {
+      "display_name": "Classics",
+      "policy": "all"
+    },
+    "CLGM": {
+      "display_name": "Classics / Greek and Latin",
+      "policy": "all"
+    },
+    "GRKM": {
+      "display_name": "Greek",
+      "policy": "all"
+    },
+    "LATN": {
+      "display_name": "Latin",
+      "policy": "all"
+    },
+    "INSM": {
+      "display_name": "Colloquia and Interdepartmental Seminars",
+      "policy": "all"
+    },
+    "CSER": {
+      "display_name": "Comparative Ethnic Studies",
+      "policy": "all"
+    },
+    "CPLS": {
+      "display_name": "Comparative Literature and Society",
+      "policy": "all"
+    },
+    "COMS": {
+      "display_name": "Computer Science",
+      "policy": "none"
+    },
+    "CRWT": {
+      "display_name": "Creative Writing",
+      "policy": "all",
+      "notes": [
+        "Creative writing is treated as an exception to the general workshop exclusion."
+      ]
+    },
+    "DNCE": {
+      "display_name": "Dance",
+      "policy": "custom",
+      "excluded_notes": [
+        "Performance courses do not count."
+      ]
+    },
+    "THTR": {
+      "display_name": "Drama and Theatre Arts",
+      "policy": "custom",
+      "excluded_notes": [
+        "Workshops, rehearsal courses, and performance courses do not count."
+      ]
+    },
+    "EESC": {
+      "display_name": "Earth and Environmental Sciences",
+      "policy": "none"
+    },
+    "EAAS": {
+      "display_name": "East Asian Languages and Cultures",
+      "policy": "all"
+    },
+    "ASCE": {
+      "display_name": "East Asian Languages and Cultures",
+      "policy": "all"
+    },
+    "EARL": {
+      "display_name": "East Asian Languages and Cultures",
+      "policy": "all"
+    },
+    "HSEA": {
+      "display_name": "East Asian History",
+      "policy": "all"
+    },
+    "EEEB": {
+      "display_name": "Ecology, Evolution, and Environmental Biology",
+      "policy": "only",
+      "allowed_courses": [
+        "EEEB_GU4321",
+        "EEEB_GU4700"
+      ]
+    },
+    "ECON": {
+      "display_name": "Economics",
+      "policy": "all_except",
+      "excluded_courses": [
+        "ECON_UN3025",
+        "ECON_UN3211",
+        "ECON_UN3213",
+        "ECON_UN3412",
+        "ECON_UN3981",
+        "ECON_GU4020",
+        "ECON_GU4211",
+        "ECON_GU4213",
+        "ECON_GU4251",
+        "ECON_GU4260",
+        "ECON_GU4280",
+        "ECON_GU4301",
+        "ECON_GU4412",
+        "ECON_GU4413",
+        "ECON_GU4415",
+        "ECON_GU4505",
+        "ECON_GU4526",
+        "ECON_GU4911",
+        "ECON_GU4913",
+        "ECON_GU4918",
+        "ECON_BC1003",
+        "ECON_BC1007",
+        "ECON_BC2411",
+        "ECON_BC3014",
+        "ECON_BC3018",
+        "ECON_BC3033",
+        "ECON_BC3035",
+        "ECON_BC3038"
+      ]
+    },
+    "EDUC": {
+      "display_name": "Education",
+      "policy": "all"
+    },
+    "BMEN": {
+      "display_name": "Engineering",
+      "policy": "only",
+      "allowed_courses": [
+        "BMEN_E4010"
+      ]
+    },
+    "CHEN": {
+      "display_name": "Engineering",
+      "policy": "only",
+      "allowed_courses": [
+        "CHEN_E4020"
+      ]
+    },
+    "EEHS": {
+      "display_name": "Engineering",
+      "policy": "only",
+      "allowed_courses": [
+        "EEHS_E3900"
+      ]
+    },
+    "ENGL": {
+      "display_name": "English and Comparative Literature",
+      "policy": "all"
+    },
+    "CLEN": {
+      "display_name": "English and Comparative Literature",
+      "policy": "all"
+    },
+    "FILM": {
+      "display_name": "Film Studies",
+      "policy": "all_except",
+      "excluded_courses": [
+        "FILM_UN3920",
+        "FILM_UN2400"
+      ],
+      "excluded_notes": [
+        "Lab courses do not count."
+      ]
+    },
+    "FREN": {
+      "display_name": "French and Romance Philology",
+      "policy": "all"
+    },
+    "CLFR": {
+      "display_name": "French and Romance Philology",
+      "policy": "all"
+    },
+    "GERM": {
+      "display_name": "Germanic Languages",
+      "policy": "all"
+    },
+    "HIST": {
+      "display_name": "History",
+      "policy": "all"
+    },
+    "HSME": {
+      "display_name": "History",
+      "policy": "all"
+    },
+    "HSWM": {
+      "display_name": "History",
+      "policy": "all"
+    },
+    "HPSC": {
+      "display_name": "History and Philosophy of Science",
+      "policy": "all"
+    },
+    "HRTS": {
+      "display_name": "Human Rights",
+      "policy": "all"
+    },
+    "ITAL": {
+      "display_name": "Italian",
+      "policy": "all"
+    },
+    "CLIA": {
+      "display_name": "Italian",
+      "policy": "all"
+    },
+    "JWST": {
+      "display_name": "Jewish Studies",
+      "policy": "all"
+    },
+    "LCRS": {
+      "display_name": "Latino / Latin American Studies",
+      "policy": "all"
+    },
+    "SPAN": {
+      "display_name": "Spanish and Portuguese",
+      "policy": "all"
+    },
+    "PORT": {
+      "display_name": "Spanish and Portuguese",
+      "policy": "all"
+    },
+    "LING": {
+      "display_name": "Linguistics",
+      "policy": "all_except",
+      "excluded_courses": [
+        "CLLN_GU4202"
+      ]
+    },
+    "MATH": {
+      "display_name": "Mathematics",
+      "policy": "none"
+    },
+    "MDES": {
+      "display_name": "Middle Eastern, South Asian, and African Studies",
+      "policy": "all"
+    },
+    "ASCM": {
+      "display_name": "Middle Eastern, South Asian, and African Studies",
+      "policy": "all"
+    },
+    "CLME": {
+      "display_name": "Middle Eastern, South Asian, and African Studies",
+      "policy": "all"
+    },
+    "MUSI": {
+      "display_name": "Music",
+      "policy": "custom",
+      "allowed_notes": [
+        "Music history and culture courses generally count."
+      ],
+      "excluded_notes": [
+        "Performance courses, instrument instruction, and workshops do not count."
+      ]
+    },
+    "AHMM": {
+      "display_name": "Music Humanities / Music",
+      "policy": "all"
+    },
+    "PHIL": {
+      "display_name": "Philosophy",
+      "policy": "all_except",
+      "excluded_courses": [
+        "PHIL_UN1401",
+        "PHIL_UN3411",
+        "PHIL_GU4137",
+        "PHIL_GU4431",
+        "PHIL_GU4424",
+        "PHIL_GU4810",
+        "CSPH_GU4801",
+        "CSPH_GU4802"
+      ],
+      "excluded_notes": [
+        "Logic courses do not count."
+      ]
+    },
+    "PHED": {
+      "display_name": "Physical Education",
+      "policy": "none"
+    },
+    "PHYS": {
+      "display_name": "Physics",
+      "policy": "none"
+    },
+    "POLS": {
+      "display_name": "Political Science",
+      "policy": "all_except",
+      "excluded_courses": [
+        "POLS_UN3220",
+        "POLS_UN3704",
+        "POLS_UN3720",
+        "POLS_GU4730",
+        "POLS_GU4732",
+        "POLS_GU4791",
+        "POLS_GU4792",
+        "POLS_GU4700",
+        "POLS_GU4765",
+        "POLS_GU4768",
+        "POLS_GU4710",
+        "POLS_GU4711",
+        "POLS_GU4712",
+        "PSAM_UN3707"
+      ]
+    },
+    "PSYC": {
+      "display_name": "Psychology",
+      "policy": "custom",
+      "allowed_courses": [
+        "PSYC_UN1001",
+        "PSYC_UN2280"
+      ],
+      "allowed_notes": [
+        "Perception, attention, and cognition courses numbered in the 2200s, 3200s, and 4200s count, except PSYC_UN2235 and PSYC_UN4289.",
+        "Social, personality, and abnormal psychology courses numbered in the 2600s, 3600s, and 4600s count."
+      ],
+      "excluded_courses": [
+        "PSYC_UN2235",
+        "PSYC_UN4289"
+      ]
+    },
+    "RELI": {
+      "display_name": "Religion",
+      "policy": "all"
+    },
+    "SLCL": {
+      "display_name": "Slavic Languages",
+      "policy": "all"
+    },
+    "CLSL": {
+      "display_name": "Slavic Languages",
+      "policy": "all"
+    },
+    "RUSS": {
+      "display_name": "Slavic Languages",
+      "policy": "all"
+    },
+    "SOCI": {
+      "display_name": "Sociology",
+      "policy": "all_except",
+      "excluded_courses": [
+        "SOCI_UN3020"
+      ]
+    },
+    "SPCH": {
+      "display_name": "Speech",
+      "policy": "none"
+    },
+    "STAT": {
+      "display_name": "Statistics",
+      "policy": "none"
+    },
+    "SDEV": {
+      "display_name": "Sustainable Development",
+      "policy": "only",
+      "allowed_courses": [
+        "SDEV_UN2050",
+        "SDEV_UN2100",
+        "SDEV_UN2300",
+        "SDEV_UN2410",
+        "SDEV_UN3310",
+        "SDEV_UN3400",
+        "SDEV_GU4050",
+        "SDEV_GU4501"
+      ]
+    },
+    "URBS": {
+      "display_name": "Urban Studies",
+      "policy": "all"
+    },
+    "VISC": {
+      "display_name": "Visual Arts",
+      "policy": "custom",
+      "allowed_notes": [
+        "No more than one visual arts course may count.",
+        "The course must be 3000-level or higher.",
+        "Visual Arts is an exception to the general workshop exclusion."
+      ]
+    },
+    "WMST": {
+      "display_name": "Women and Gender Studies",
+      "policy": "all"
+    }
+  }
+}

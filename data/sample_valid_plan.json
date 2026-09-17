@@ -1,0 +1,61 @@
+{
+  "semesters": {
+    "semester_1": [
+      "MATH_UN1101",
+      "PHYS_UN1401",
+      "CHEM_UN1403",
+      "CHEN_E1000",
+      "ENGL_CC1010"
+    ],
+    "semester_2": [
+      "MATH_UN1102",
+      "PHYS_UN1402",
+      "CHEM_UN1500",
+      "ENGI_E1006",
+      "ENGI_E1102"
+    ],
+    "semester_3": [
+      "APMA_E2000",
+      "PHYS_UN1494",
+      "CHEM_UN1404",
+      "CHEN_E2100",
+      "HUMA_CC1001"
+    ],
+    "semester_4": [
+      "MATH_UN2030",
+      "CHEN_E3020",
+      "HUMA_CC1002",
+      "ECON_UN1105",
+      "HUMA_UN1121"
+    ],
+    "semester_5": [
+      "CHEN_E3110",
+      "CHEE_E3010",
+      "CHEM_UN2493",
+      "HIST_UN2660",
+      "CHEN_E4130"
+    ],
+    "semester_6": [
+      "APMA_E3101",
+      "CHEN_E3230",
+      "CHEN_E4140",
+      "PHIL_UN1101",
+      "CHEN_E4150",
+      "PHED_UN1001"
+    ],
+    "semester_7": [
+      "CHEN_E4500",
+      "CHEN_E4300",
+      "SOCI_UN1000",
+      "CHEN_E4110",
+      "CHEN_E4120"
+    ],
+    "semester_8": [
+      "CHEN_E3810",
+      "CHEN_E4160",
+      "CHEN_E4170",
+      "CHEN_E4180",
+      "PHED_UN1002"
+    ]
+  }
+}

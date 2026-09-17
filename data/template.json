@@ -1,0 +1,63 @@
+{
+  "template_id": "CHEMICAL_ENGINEERING_DEFAULT_PLAN_2025_2026",
+  "program_id": "CHEMICAL_ENGINEERING_BS",
+  "semesters": {
+    "semester_1": [
+      "MATH_UN1101",
+      "PHYS_UN1401",
+      "CHEM_UN1403",
+      "CHEN_E1000",
+      "ENGL_CC1010"
+    ],
+    "semester_2": [
+      "MATH_UN1102",
+      "PHYS_UN1402",
+      "CHEM_UN1500",
+      "ENGI_E1006",
+      "ENGI_E1102"
+    ],
+    "semester_3": [
+      "APMA_E2000",
+      "PHYSICS_SEQUENCE_LAB_OR_THIRD_COURSE",
+      "CHEMISTRY_SEQUENCE_COURSE_3_IF_APPLICABLE",
+      "CHEN_E2100",
+      "CORE_SEQUENCE_COURSE_1"
+    ],
+    "semester_4": [
+      "MATH_UN2030_OR_APMA_E2101",
+      "CHEN_E3020",
+      "CORE_SEQUENCE_COURSE_2",
+      "ECON_UN1105",
+      "HUMA_UN1121_OR_HUMA_UN1123"
+    ],
+    "semester_5": [
+      "CHEN_E3110",
+      "CHEE_E3010",
+      "NATURAL_SCIENCE_LAB_OPTION",
+      "NONTECH_ELECTIVE",
+      "TECHNICAL_ELECTIVE"
+    ],
+    "semester_6": [
+      "MATH_ELECTIVE",
+      "CHEN_E3230",
+      "CHEN_E4140",
+      "NONTECH_ELECTIVE",
+      "TECHNICAL_ELECTIVE",
+      "PHED_UN1001"
+    ],
+    "semester_7": [
+      "CHEN_E4500",
+      "CHEN_E4300",
+      "NONTECH_ELECTIVE",
+      "TECHNICAL_ELECTIVE",
+      "TECHNICAL_ELECTIVE"
+    ],
+    "semester_8": [
+      "CHEN_E3810",
+      "TECHNICAL_ELECTIVE",
+      "TECHNICAL_ELECTIVE",
+      "TECHNICAL_ELECTIVE",
+      "PHED_UN1002"
+    ]
+  }
+}
