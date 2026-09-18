@@ -44,7 +44,7 @@ TAG_LABELS = {
 
 st.set_page_config(page_title="ChemE Course Planner", layout="wide")
 
-courses, requirements, template, nontech_rules, concentrations = load_all_data()
+courses, requirements, template, nontech_rules, concentrations, minors, minor_global_rules = load_all_data()
 
 st.title("Columbia Chemical Engineering Course Planner")
 
@@ -220,6 +220,22 @@ interests = [
     if item.strip()
 ]
 
+st.sidebar.subheader("Minors to Track")
+
+minor_options = {mid: m["name"] for mid, m in sorted(minors.items(), key=lambda kv: kv[1]["name"])}
+selected_minor_ids = st.sidebar.multiselect(
+    "Show progress toward these minors",
+    options=list(minor_options.keys()),
+    format_func=lambda mid: minor_options[mid],
+    default=[],
+    help=(
+        "Purely informational -- minors aren't part of this app's degree "
+        "validation. Every minor also requires 15+ points, a 2.0 GPA, no "
+        "pass/fail courses, at most one non-Columbia/AP/IB course, and no "
+        "course double-counted across two minors; none of that is checked here."
+    )
+)
+
 
 # -----------------------------
 # Main view
@@ -371,7 +387,8 @@ if st.button("Validate Plan"):
         nontech_rules,
         prerequisite_overrides=set(override_courses),
         credit_overrides=credit_overrides,
-        concentrations=concentrations
+        concentrations=concentrations,
+        minors=minors
     )
 
     progress = results["progress"]
@@ -515,6 +532,61 @@ if st.button("Validate Plan"):
                 f"So far: {', '.join(conc_status['courses_found'])} "
                 f"-- {required - completed} more course(s) needed."
             )
+
+    if selected_minor_ids:
+        st.subheader("Minors (Optional)")
+        st.caption(
+            "Not part of this app's degree validation -- purely informational. "
+            "Every minor needs 15+ points, a 2.0 GPA, no pass/fail courses, at "
+            "most one non-Columbia/AP/IB course, and no course double-counted "
+            "across two minors; none of that is checked here."
+        )
+
+        minors_progress = progress.get("minors", {})
+
+        for minor_id in selected_minor_ids:
+            status = minors_progress.get(minor_id)
+            if not status:
+                continue
+
+            st.markdown(f"**{status['name']}**")
+
+            if status["unstructured"]:
+                st.info(status["description"])
+                continue
+
+            for group in status["groups"]:
+                label = group.get("label", group["type"])
+
+                if not group["verifiable"]:
+                    st.write(f"{label}: needs manual review")
+                    st.caption(group.get("description", ""))
+                    continue
+
+                found = group["courses_found"]
+                if group["type"] == "all_of":
+                    target = f"{len(found)} / {len(group['options'])}"
+                elif group["type"] in ("choose_one_of",):
+                    target = f"{len(found)} / 1+"
+                elif group["type"] == "choose_n_of":
+                    target = f"{len(found)} / {group.get('count', 1)}"
+                elif group["type"] == "subject_level_count":
+                    target = f"{len(found)} / {group.get('count', group.get('credits_required'))}"
+                else:
+                    target = str(len(found))
+
+                if group["satisfied"]:
+                    st.success(f"{label}: {target} -- satisfied")
+                else:
+                    st.warning(f"{label}: {target}")
+
+                if found:
+                    st.caption(", ".join(found))
+
+            if minor_global_rules.get("notes"):
+                with st.expander("General minor rules (apply to all minors, not checked here)"):
+                    for note in minor_global_rules["notes"]:
+                        st.caption(f"- {note}")
 
     st.subheader("Nontechnical Requirement")
 

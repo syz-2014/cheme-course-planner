@@ -6933,5 +6933,4401 @@
     "terms_offered": [
       "Spring2027"
     ]
+  },
+  "AEME_E4304": {
+    "id": "AEME_E4304",
+    "subject": "AEME",
+    "number": "E4304",
+    "title": "Turbomachinery",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "AEME_E4305": {
+    "id": "AEME_E4305",
+    "subject": "AEME",
+    "number": "E4305",
+    "title": "Propulsion",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "AEME_E4306": {
+    "id": "AEME_E4306",
+    "subject": "AEME",
+    "number": "E4306",
+    "title": "Intro to Aerodynamics",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "AMST_UN1010": {
+    "id": "AMST_UN1010",
+    "subject": "AMST",
+    "number": "UN1010",
+    "title": "INTRO TO AMERICAN STUDIES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "AMST_UN3931": {
+    "id": "AMST_UN3931",
+    "subject": "AMST",
+    "number": "UN3931",
+    "title": "Topics in American Studies",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ANTH_UN1002": {
+    "id": "ANTH_UN1002",
+    "subject": "ANTH",
+    "number": "UN1002",
+    "title": "THE INTERPRETATION OF CULTURE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ANTH_UN1009": {
+    "id": "ANTH_UN1009",
+    "subject": "ANTH",
+    "number": "UN1009",
+    "title": "INTRO TO LANGUAGE & CULTURE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4018": {
+    "id": "APPH_E4018",
+    "subject": "APPH",
+    "number": "E4018",
+    "title": "APPLIED PHYSICS LABORATORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4130": {
+    "id": "APPH_E4130",
+    "subject": "APPH",
+    "number": "E4130",
+    "title": "SOLAR ENERGY & STORAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4200": {
+    "id": "APPH_E4200",
+    "subject": "APPH",
+    "number": "E4200",
+    "title": "PHYSICS OF FLUIDS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E6101": {
+    "id": "APPH_E6101",
+    "subject": "APPH",
+    "number": "E6101",
+    "title": "PLASMA PHYSICS I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E6102": {
+    "id": "APPH_E6102",
+    "subject": "APPH",
+    "number": "E6102",
+    "title": "PLASMA PHYSICS II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CATL_UN1120": {
+    "id": "CATL_UN1120",
+    "subject": "CATL",
+    "number": "UN1120",
+    "title": "COMPREHENSIVE BEG CATALAN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CATL_UN2101": {
+    "id": "CATL_UN2101",
+    "subject": "CATL",
+    "number": "UN2101",
+    "title": "INTERMEDIATE CATALAN I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CATL_UN2102": {
+    "id": "CATL_UN2102",
+    "subject": "CATL",
+    "number": "UN2102",
+    "title": "INTERMEDIATE CATALAN II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CATL_UN3300": {
+    "id": "CATL_UN3300",
+    "subject": "CATL",
+    "number": "UN3300",
+    "title": "ADVANCED CATALAN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CATL_UN3500": {
+    "id": "CATL_UN3500",
+    "subject": "CATL",
+    "number": "UN3500",
+    "title": "Literature in Catalan Cinema",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CBMF_W4761": {
+    "id": "CBMF_W4761",
+    "subject": "CBMF",
+    "number": "W4761",
+    "title": "COMPUTATIONAL GENOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CHNS_GU4019": {
+    "id": "CHNS_GU4019",
+    "subject": "CHNS",
+    "number": "GU4019",
+    "title": "HISTORY OF CHINESE LANGUAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEE_E3260": {
+    "id": "CIEE_E3260",
+    "subject": "CIEE",
+    "number": "E3260",
+    "title": "ENGINEERING FOR COMMUNITY DEVELOPMENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEE_E4257": {
+    "id": "CIEE_E4257",
+    "subject": "CIEE",
+    "number": "E4257",
+    "title": "GROUND CONT TRANSP & REMED",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E3125": {
+    "id": "CIEN_E3125",
+    "subject": "CIEN",
+    "number": "E3125",
+    "title": "STRUCTURAL DESIGN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E3129": {
+    "id": "CIEN_E3129",
+    "subject": "CIEN",
+    "number": "E3129",
+    "title": "PROJECT MGMT FOR CONSTRUCTION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E4131": {
+    "id": "CIEN_E4131",
+    "subject": "CIEN",
+    "number": "E4131",
+    "title": "PRIN OF CONSTRUCTN TECHNIQUES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E4136": {
+    "id": "CIEN_E4136",
+    "subject": "CIEN",
+    "number": "E4136",
+    "title": "Entrepreneurship in Engineering and Construction",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E4241": {
+    "id": "CIEN_E4241",
+    "subject": "CIEN",
+    "number": "E4241",
+    "title": "GEOTECHNCL ENGNEERNG FUNDMNTLS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E4253": {
+    "id": "CIEN_E4253",
+    "subject": "CIEN",
+    "number": "E4253",
+    "title": "COMP SOLID MECHANICS WITH AI",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CIEN_E4256": {
+    "id": "CIEN_E4256",
+    "subject": "CIEN",
+    "number": "E4256",
+    "title": "Applied Machine Learning in Civil Engineering",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CLYD_UN3500": {
+    "id": "CLYD_UN3500",
+    "subject": "CLYD",
+    "number": "UN3500",
+    "title": "READINGS IN JEWISH LITERATURE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CLYD_GU4250": {
+    "id": "CLYD_GU4250",
+    "subject": "CLYD",
+    "number": "GU4250",
+    "title": "Memory and Trauma in Yiddish Literature (in English)",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W1002": {
+    "id": "COMS_W1002",
+    "subject": "COMS",
+    "number": "W1002",
+    "title": "COMPUTING IN CONTEXT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W1004": {
+    "id": "COMS_W1004",
+    "subject": "COMS",
+    "number": "W1004",
+    "title": "PROGRAMMING IN JAVA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W1007": {
+    "id": "COMS_W1007",
+    "subject": "COMS",
+    "number": "W1007",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W2132": {
+    "id": "COMS_W2132",
+    "subject": "COMS",
+    "number": "W2132",
+    "title": "Intermediate Computing in Python",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W2702": {
+    "id": "COMS_W2702",
+    "subject": "COMS",
+    "number": "W2702",
+    "title": "AI in Context",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3134": {
+    "id": "COMS_W3134",
+    "subject": "COMS",
+    "number": "W3134",
+    "title": "Data Structures in Java",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3137": {
+    "id": "COMS_W3137",
+    "subject": "COMS",
+    "number": "W3137",
+    "title": "HONORS DATA STRUCTURES & ALGOL",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3157": {
+    "id": "COMS_W3157",
+    "subject": "COMS",
+    "number": "W3157",
+    "title": "ADVANCED PROGRAMMING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3203": {
+    "id": "COMS_W3203",
+    "subject": "COMS",
+    "number": "W3203",
+    "title": "DISCRETE MATHEMATICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3251": {
+    "id": "COMS_W3251",
+    "subject": "COMS",
+    "number": "W3251",
+    "title": "COMPUTATIONAL LINEAR ALGEBRA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W3261": {
+    "id": "COMS_W3261",
+    "subject": "COMS",
+    "number": "W3261",
+    "title": "COMPUTER SCIENCE THEORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4170": {
+    "id": "COMS_W4170",
+    "subject": "COMS",
+    "number": "W4170",
+    "title": "USER INTERFACE DESIGN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4444": {
+    "id": "COMS_W4444",
+    "subject": "COMS",
+    "number": "W4444",
+    "title": "PROGRAMMING & PROBLEM SOLVING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4460": {
+    "id": "COMS_W4460",
+    "subject": "COMS",
+    "number": "W4460",
+    "title": "PRIN-INNOVATN/ENTREPRENEURSHIP",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4701": {
+    "id": "COMS_W4701",
+    "subject": "COMS",
+    "number": "W4701",
+    "title": "ARTIFICIAL INTELLIGENCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4705": {
+    "id": "COMS_W4705",
+    "subject": "COMS",
+    "number": "W4705",
+    "title": "NATURAL LANGUAGE PROCESSING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_W4710": {
+    "id": "COMS_W4710",
+    "subject": "COMS",
+    "number": "W4710",
+    "title": "Ethical and Responsible AI",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_BC3420": {
+    "id": "COMS_BC3420",
+    "subject": "COMS",
+    "number": "BC3420",
+    "title": "PRIVACY IN A NETWORKED WORLD",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "COMS_BC3707": {
+    "id": "COMS_BC3707",
+    "subject": "COMS",
+    "number": "BC3707",
+    "title": "LARGE LANGUAGE MODELS: FOUNDATIONS AND ETHICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CSEE_W3827": {
+    "id": "CSEE_W3827",
+    "subject": "CSEE",
+    "number": "W3827",
+    "title": "FUNDAMENTALS OF COMPUTER SYSTS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CSER_UN3940": {
+    "id": "CSER_UN3940",
+    "subject": "CSER",
+    "number": "UN3940",
+    "title": "COMP STUDY OF CONSTITUTNL CHAL",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CSER_UN3942": {
+    "id": "CSER_UN3942",
+    "subject": "CSER",
+    "number": "UN3942",
+    "title": "RACE AND RACISMS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EACE_E3250": {
+    "id": "EACE_E3250",
+    "subject": "EACE",
+    "number": "E3250",
+    "title": "Hydrosystems Engineering",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EACE_E3255": {
+    "id": "EACE_E3255",
+    "subject": "EACE",
+    "number": "E3255",
+    "title": "ENVIRONMENTAL CONTROL AND POLLUTION REDUCTION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EACE_E4163": {
+    "id": "EACE_E4163",
+    "subject": "EACE",
+    "number": "E4163",
+    "title": "Sustainable Water Treatment and Reuse",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EACE_E4252": {
+    "id": "EACE_E4252",
+    "subject": "EACE",
+    "number": "E4252",
+    "title": "Foundations of Environmental Engineering",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EACH_E4560": {
+    "id": "EACH_E4560",
+    "subject": "EACH",
+    "number": "E4560",
+    "title": "Particle technology and multiphase reactor design",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EAEE_E2002": {
+    "id": "EAEE_E2002",
+    "subject": "EAEE",
+    "number": "E2002",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EAEE_E3901": {
+    "id": "EAEE_E3901",
+    "subject": "EAEE",
+    "number": "E3901",
+    "title": "ENVIRONMENTAL MICROBIOLOGY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EAEE_E4001": {
+    "id": "EAEE_E4001",
+    "subject": "EAEE",
+    "number": "E4001",
+    "title": "INDUST ECOLOGY-EARTH RESOURCES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECBM_E4040": {
+    "id": "ECBM_E4040",
+    "subject": "ECBM",
+    "number": "E4040",
+    "title": "NEURAL NETWRKS & DEEP LEARNING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECIA_W4100": {
+    "id": "ECIA_W4100",
+    "subject": "ECIA",
+    "number": "W4100",
+    "title": "MGMT & DEVPT OF WATER SYSTEMS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN2105": {
+    "id": "ECON_UN2105",
+    "subject": "ECON",
+    "number": "UN2105",
+    "title": "THE AMERICAN ECONOMY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN2257": {
+    "id": "ECON_UN2257",
+    "subject": "ECON",
+    "number": "UN2257",
+    "title": "THE GLOBAL ECONOMY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3025": {
+    "id": "ECON_UN3025",
+    "subject": "ECON",
+    "number": "UN3025",
+    "title": "FINANCIAL ECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3211": {
+    "id": "ECON_UN3211",
+    "subject": "ECON",
+    "number": "UN3211",
+    "title": "INTERMEDIATE MICROECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3213": {
+    "id": "ECON_UN3213",
+    "subject": "ECON",
+    "number": "UN3213",
+    "title": "INTERMEDIATE MACROECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3265": {
+    "id": "ECON_UN3265",
+    "subject": "ECON",
+    "number": "UN3265",
+    "title": "MONEY AND BANKING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3412": {
+    "id": "ECON_UN3412",
+    "subject": "ECON",
+    "number": "UN3412",
+    "title": "INTRODUCTION TO ECONOMETRICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3901": {
+    "id": "ECON_UN3901",
+    "subject": "ECON",
+    "number": "UN3901",
+    "title": "ECONOMICS OF EDUCATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_UN3952": {
+    "id": "ECON_UN3952",
+    "subject": "ECON",
+    "number": "UN3952",
+    "title": "MACROECONOMICS & FORMATION OF EXPECTATIONS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4020": {
+    "id": "ECON_GU4020",
+    "subject": "ECON",
+    "number": "GU4020",
+    "title": "ECON OF UNCERTAINTY & INFORMTN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4211": {
+    "id": "ECON_GU4211",
+    "subject": "ECON",
+    "number": "GU4211",
+    "title": "ADVANCED MICROECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4213": {
+    "id": "ECON_GU4213",
+    "subject": "ECON",
+    "number": "GU4213",
+    "title": "ADVANCED MACROECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4230": {
+    "id": "ECON_GU4230",
+    "subject": "ECON",
+    "number": "GU4230",
+    "title": "ECONOMICS OF NEW YORK CITY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4251": {
+    "id": "ECON_GU4251",
+    "subject": "ECON",
+    "number": "GU4251",
+    "title": "INDUSTRIAL ORGANIZATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4260": {
+    "id": "ECON_GU4260",
+    "subject": "ECON",
+    "number": "GU4260",
+    "title": "MARKET DESIGN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4301": {
+    "id": "ECON_GU4301",
+    "subject": "ECON",
+    "number": "GU4301",
+    "title": "ECONOMIC GROWTH & DEVELOPMNT I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4321": {
+    "id": "ECON_GU4321",
+    "subject": "ECON",
+    "number": "GU4321",
+    "title": "ECONOMIC DEVELOPMENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4370": {
+    "id": "ECON_GU4370",
+    "subject": "ECON",
+    "number": "GU4370",
+    "title": "POLITICAL ECONOMY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4400": {
+    "id": "ECON_GU4400",
+    "subject": "ECON",
+    "number": "GU4400",
+    "title": "LABOR ECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4412": {
+    "id": "ECON_GU4412",
+    "subject": "ECON",
+    "number": "GU4412",
+    "title": "ADVANCED ECONOMETRICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4413": {
+    "id": "ECON_GU4413",
+    "subject": "ECON",
+    "number": "GU4413",
+    "title": "Econometrics of Time Series and Forecasting",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4415": {
+    "id": "ECON_GU4415",
+    "subject": "ECON",
+    "number": "GU4415",
+    "title": "GAME THEORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4438": {
+    "id": "ECON_GU4438",
+    "subject": "ECON",
+    "number": "GU4438",
+    "title": "ECONOMICS OF RACE IN THE U.S.",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4465": {
+    "id": "ECON_GU4465",
+    "subject": "ECON",
+    "number": "GU4465",
+    "title": "PUBLIC ECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4480": {
+    "id": "ECON_GU4480",
+    "subject": "ECON",
+    "number": "GU4480",
+    "title": "GENDER & APPLIED ECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4500": {
+    "id": "ECON_GU4500",
+    "subject": "ECON",
+    "number": "GU4500",
+    "title": "INTERNATIONAL TRADE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4505": {
+    "id": "ECON_GU4505",
+    "subject": "ECON",
+    "number": "GU4505",
+    "title": "INTERNATIONAL MACROECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4527": {
+    "id": "ECON_GU4527",
+    "subject": "ECON",
+    "number": "GU4527",
+    "title": "ECON ORG & DEVELOPMNT OF CHINA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4625": {
+    "id": "ECON_GU4625",
+    "subject": "ECON",
+    "number": "GU4625",
+    "title": "ECONOMICS OF THE ENVIRONMENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4700": {
+    "id": "ECON_GU4700",
+    "subject": "ECON",
+    "number": "GU4700",
+    "title": "FINANCIAL CRISES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4710": {
+    "id": "ECON_GU4710",
+    "subject": "ECON",
+    "number": "GU4710",
+    "title": "FINANCE AND THE REAL ECONOMY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4750": {
+    "id": "ECON_GU4750",
+    "subject": "ECON",
+    "number": "GU4750",
+    "title": "GLOBALIZATION & ITS RISKS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4840": {
+    "id": "ECON_GU4840",
+    "subject": "ECON",
+    "number": "GU4840",
+    "title": "BEHAVIORAL ECONOMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4850": {
+    "id": "ECON_GU4850",
+    "subject": "ECON",
+    "number": "GU4850",
+    "title": "COGNITIVE MECH & ECON BEHAVIOR",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4860": {
+    "id": "ECON_GU4860",
+    "subject": "ECON",
+    "number": "GU4860",
+    "title": "BEHAVIORAL FINANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EEME_E3601": {
+    "id": "EEME_E3601",
+    "subject": "EEME",
+    "number": "E3601",
+    "title": "Introduction to Continuous Control Systems",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EEME_E4601": {
+    "id": "EEME_E4601",
+    "subject": "EEME",
+    "number": "E4601",
+    "title": "DISCRETE CONTROL SYSTEMS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ELEN_E1201": {
+    "id": "ELEN_E1201",
+    "subject": "ELEN",
+    "number": "E1201",
+    "title": "INTRO-ELECTRICAL ENGINEERING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ELEN_E3081": {
+    "id": "ELEN_E3081",
+    "subject": "ELEN",
+    "number": "E3081",
+    "title": "CIRCUIT ANALYSIS LABORATORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ELEN_E4720": {
+    "id": "ELEN_E4720",
+    "subject": "ELEN",
+    "number": "E4720",
+    "title": "Machine Learning for Signals, Information and Data",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ELEN_E4730": {
+    "id": "ELEN_E4730",
+    "subject": "ELEN",
+    "number": "E4730",
+    "title": "Quantum Optimization and Machine Learning",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGI_E4502": {
+    "id": "ENGI_E4502",
+    "subject": "ENGI",
+    "number": "E4502",
+    "title": "Design of UI/UX for Connected Systems",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_UN2826": {
+    "id": "ENGL_UN2826",
+    "subject": "ENGL",
+    "number": "UN2826",
+    "title": "American Modernism",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_BC3180": {
+    "id": "ENGL_BC3180",
+    "subject": "ENGL",
+    "number": "BC3180",
+    "title": "AMERICAN LITERATURE 1800-1870",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_BC3183": {
+    "id": "ENGL_BC3183",
+    "subject": "ENGL",
+    "number": "BC3183",
+    "title": "AMERICAN LITERATURE SINCE 1945",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_UN3241": {
+    "id": "ENGL_UN3241",
+    "subject": "ENGL",
+    "number": "UN3241",
+    "title": "African American Literature: The Essay",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_UN3351": {
+    "id": "ENGL_UN3351",
+    "subject": "ENGL",
+    "number": "UN3351",
+    "title": "FAMILY FICTIONS: MEMOIR, FILM AND THE NOVEL",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_UN3832": {
+    "id": "ENGL_UN3832",
+    "subject": "ENGL",
+    "number": "UN3832",
+    "title": "New York Intellectuals: Mary McCarthy, Hannah Arendt, Susan Sontag",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_GU4901": {
+    "id": "ENGL_GU4901",
+    "subject": "ENGL",
+    "number": "GU4901",
+    "title": "HISTORY OF THE ENGLISH LANGUAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENGL_GU4938": {
+    "id": "ENGL_GU4938",
+    "subject": "ENGL",
+    "number": "GU4938",
+    "title": "HISTORY OF HORROR CINEMA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3105": {
+    "id": "ENME_E3105",
+    "subject": "ENME",
+    "number": "E3105",
+    "title": "MECHANICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3106": {
+    "id": "ENME_E3106",
+    "subject": "ENME",
+    "number": "E3106",
+    "title": "DYNAMICS AND VIBRATIONS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3113": {
+    "id": "ENME_E3113",
+    "subject": "ENME",
+    "number": "E3113",
+    "title": "MECHANICS OF SOLIDS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3114": {
+    "id": "ENME_E3114",
+    "subject": "ENME",
+    "number": "E3114",
+    "title": "EXPERIMENTAL MECH OF MATERIALS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3161": {
+    "id": "ENME_E3161",
+    "subject": "ENME",
+    "number": "E3161",
+    "title": "FLUID MECHANICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E3332": {
+    "id": "ENME_E3332",
+    "subject": "ENME",
+    "number": "E3332",
+    "title": "A FIRST CRSE/FINITE ELEMENTS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4113": {
+    "id": "ENME_E4113",
+    "subject": "ENME",
+    "number": "E4113",
+    "title": "ADVANCED MECHANICS OF SOLIDS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4114": {
+    "id": "ENME_E4114",
+    "subject": "ENME",
+    "number": "E4114",
+    "title": "MECHANCS OF FRACTURE & FATIGUE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4117": {
+    "id": "ENME_E4117",
+    "subject": "ENME",
+    "number": "E4117",
+    "title": "Mechanics of Fiber-Reinforced Composites",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4202": {
+    "id": "ENME_E4202",
+    "subject": "ENME",
+    "number": "E4202",
+    "title": "ADVANCED MECHANICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4214": {
+    "id": "ENME_E4214",
+    "subject": "ENME",
+    "number": "E4214",
+    "title": "THEORY OF PLATES AND SHELLS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ENME_E4215": {
+    "id": "ENME_E4215",
+    "subject": "ENME",
+    "number": "E4215",
+    "title": "THEORY OF VIBRATIONS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN1000": {
+    "id": "FILM_UN1000",
+    "subject": "FILM",
+    "number": "UN1000",
+    "title": "INTRO TO FILM & MEDIA STUDIES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2010": {
+    "id": "FILM_UN2010",
+    "subject": "FILM",
+    "number": "UN2010",
+    "title": "CINEMA HIST I: BEGIN-1930",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2020": {
+    "id": "FILM_UN2020",
+    "subject": "FILM",
+    "number": "UN2020",
+    "title": "CINEMA HIST II: 1930-1960",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2030": {
+    "id": "FILM_UN2030",
+    "subject": "FILM",
+    "number": "UN2030",
+    "title": "CINEMA HIST III:1960-1990",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2040": {
+    "id": "FILM_UN2040",
+    "subject": "FILM",
+    "number": "UN2040",
+    "title": "CINEMA HISTORY IV: AFTER 1990",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2410": {
+    "id": "FILM_UN2410",
+    "subject": "FILM",
+    "number": "UN2410",
+    "title": "LAB IN WRITING FILM CRITICISM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2420": {
+    "id": "FILM_UN2420",
+    "subject": "FILM",
+    "number": "UN2420",
+    "title": "LABORATORY IN SCREENWRITING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2510": {
+    "id": "FILM_UN2510",
+    "subject": "FILM",
+    "number": "UN2510",
+    "title": "LAB IN FICTION FILMMAKING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FILM_UN2520": {
+    "id": "FILM_UN2520",
+    "subject": "FILM",
+    "number": "UN2520",
+    "title": "LAB IN NONFICTION FILMMAKING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FREN_UN3405": {
+    "id": "FREN_UN3405",
+    "subject": "FREN",
+    "number": "UN3405",
+    "title": "Read, Think, Write in French",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FREN_UN3409": {
+    "id": "FREN_UN3409",
+    "subject": "FREN",
+    "number": "UN3409",
+    "title": "INTRO TO FRENCH & FRANCOPHONE HISTORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "FREN_UN3410": {
+    "id": "FREN_UN3410",
+    "subject": "FREN",
+    "number": "UN3410",
+    "title": "Intro French & Francophone Literature",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "GERM_UN3333": {
+    "id": "GERM_UN3333",
+    "subject": "GERM",
+    "number": "UN3333",
+    "title": "INTRO TO GERMAN LIT (GERMAN)",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN1488": {
+    "id": "HIST_UN1488",
+    "subject": "HIST",
+    "number": "UN1488",
+    "title": "Indigenous History of North America",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN1512": {
+    "id": "HIST_UN1512",
+    "subject": "HIST",
+    "number": "UN1512",
+    "title": "The Battle for North America",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2432": {
+    "id": "HIST_UN2432",
+    "subject": "HIST",
+    "number": "UN2432",
+    "title": "US ERA OF CIVIL WAR & RECON",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2523": {
+    "id": "HIST_UN2523",
+    "subject": "HIST",
+    "number": "UN2523",
+    "title": "HEALTH INEQUALITY: MODERN US",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2533": {
+    "id": "HIST_UN2533",
+    "subject": "HIST",
+    "number": "UN2533",
+    "title": "US LESBIAN & GAY HISTORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2535": {
+    "id": "HIST_UN2535",
+    "subject": "HIST",
+    "number": "UN2535",
+    "title": "HIST OF THE CITY OF NEW YORK",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2540": {
+    "id": "HIST_UN2540",
+    "subject": "HIST",
+    "number": "UN2540",
+    "title": "HISTORY OF THE SOUTH",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2565": {
+    "id": "HIST_UN2565",
+    "subject": "HIST",
+    "number": "UN2565",
+    "title": "American History at the Movies",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2587": {
+    "id": "HIST_UN2587",
+    "subject": "HIST",
+    "number": "UN2587",
+    "title": "SPORT & SOCIETY IN THE AMERICAS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2611": {
+    "id": "HIST_UN2611",
+    "subject": "HIST",
+    "number": "UN2611",
+    "title": "JEWS & JUDAISM IN ANTIQUITY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN2679": {
+    "id": "HIST_UN2679",
+    "subject": "HIST",
+    "number": "UN2679",
+    "title": "Atlantic Slave Trade",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN3501": {
+    "id": "HIST_UN3501",
+    "subject": "HIST",
+    "number": "UN3501",
+    "title": "Indians and Empires in North America",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_UN3604": {
+    "id": "HIST_UN3604",
+    "subject": "HIST",
+    "number": "UN3604",
+    "title": "Jews and the City",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_GU4518": {
+    "id": "HIST_GU4518",
+    "subject": "HIST",
+    "number": "GU4518",
+    "title": "Research Seminar: Columbia and Slavery",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_GU4525": {
+    "id": "HIST_GU4525",
+    "subject": "HIST",
+    "number": "GU4525",
+    "title": "Immigrant New York",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HIST_GU4933": {
+    "id": "HIST_GU4933",
+    "subject": "HIST",
+    "number": "GU4933",
+    "title": "American Radicalism in the Archives",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "HNGR_UN3343": {
+    "id": "HNGR_UN3343",
+    "subject": "HNGR",
+    "number": "UN3343",
+    "title": "DESCRIPTIVE GRAMMAR-HUNGARIAN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEME_E4200": {
+    "id": "IEME_E4200",
+    "subject": "IEME",
+    "number": "E4200",
+    "title": "HUMAN-CENTERED DESIGN AND INNOVATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEME_E4505": {
+    "id": "IEME_E4505",
+    "subject": "IEME",
+    "number": "E4505",
+    "title": "Frontiers of Tough Tech",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E2000": {
+    "id": "IEOR_E2000",
+    "subject": "IEOR",
+    "number": "E2000",
+    "title": "Data Engineering with Python",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E2261": {
+    "id": "IEOR_E2261",
+    "subject": "IEOR",
+    "number": "E2261",
+    "title": "ACCOUNTING AND FINANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4003": {
+    "id": "IEOR_E4003",
+    "subject": "IEOR",
+    "number": "E4003",
+    "title": "CORPORATE FINANCE FOR ENGINEERS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4207": {
+    "id": "IEOR_E4207",
+    "subject": "IEOR",
+    "number": "E4207",
+    "title": "HUMAN FACTORS: PERFORMANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4212": {
+    "id": "IEOR_E4212",
+    "subject": "IEOR",
+    "number": "E4212",
+    "title": "Data Analytics & Machine Learning for OR",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4510": {
+    "id": "IEOR_E4510",
+    "subject": "IEOR",
+    "number": "E4510",
+    "title": "PROJECT MANAGEMENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4540": {
+    "id": "IEOR_E4540",
+    "subject": "IEOR",
+    "number": "E4540",
+    "title": "DATA MINING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E4998": {
+    "id": "IEOR_E4998",
+    "subject": "IEOR",
+    "number": "E4998",
+    "title": "MANAG TECH INNOV & ENTREPRENEURSHIP",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3232": {
+    "id": "ITAL_UN3232",
+    "subject": "ITAL",
+    "number": "UN3232",
+    "title": "ITALY:EMIGRATION-IMMIGRATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3333": {
+    "id": "ITAL_UN3333",
+    "subject": "ITAL",
+    "number": "UN3333",
+    "title": "INTRO TO ITALIAN LITERATURE I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3334": {
+    "id": "ITAL_UN3334",
+    "subject": "ITAL",
+    "number": "UN3334",
+    "title": "INTRO TO ITALIAN LITERATURE II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3335": {
+    "id": "ITAL_UN3335",
+    "subject": "ITAL",
+    "number": "UN3335",
+    "title": "ADVANCED ITALIAN I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3337": {
+    "id": "ITAL_UN3337",
+    "subject": "ITAL",
+    "number": "UN3337",
+    "title": "ITALIAN THROUGH CINEMA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3338": {
+    "id": "ITAL_UN3338",
+    "subject": "ITAL",
+    "number": "UN3338",
+    "title": "Italiana: Introduction to Italian Culture",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3339": {
+    "id": "ITAL_UN3339",
+    "subject": "ITAL",
+    "number": "UN3339",
+    "title": "Learning Italian in Class and Online",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3341": {
+    "id": "ITAL_UN3341",
+    "subject": "ITAL",
+    "number": "UN3341",
+    "title": "Art Itineraries: Italian through Art",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3342": {
+    "id": "ITAL_UN3342",
+    "subject": "ITAL",
+    "number": "UN3342",
+    "title": "Business Italian and the Made in Italy Excellence",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3343": {
+    "id": "ITAL_UN3343",
+    "subject": "ITAL",
+    "number": "UN3343",
+    "title": "ADVANCED ITALIAN: COMPARATIVE STYLISTICS AND TRANSLATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_UN3645": {
+    "id": "ITAL_UN3645",
+    "subject": "ITAL",
+    "number": "UN3645",
+    "title": "Grand Tour in Italy",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_GU4502": {
+    "id": "ITAL_GU4502",
+    "subject": "ITAL",
+    "number": "GU4502",
+    "title": "ITALIAN CULTURAL STUDIES I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ITAL_GU4503": {
+    "id": "ITAL_GU4503",
+    "subject": "ITAL",
+    "number": "GU4503",
+    "title": "ITL CULTRL ST II:WWI-PRESENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_UN2155": {
+    "id": "JWST_UN2155",
+    "subject": "JWST",
+    "number": "UN2155",
+    "title": "Music, Sound, and Antisemitism",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4147": {
+    "id": "JWST_GU4147",
+    "subject": "JWST",
+    "number": "GU4147",
+    "title": "Between Tradition & Innovation",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4153": {
+    "id": "JWST_GU4153",
+    "subject": "JWST",
+    "number": "GU4153",
+    "title": "U.S. Civil and Human Rights Lawyers",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4154": {
+    "id": "JWST_GU4154",
+    "subject": "JWST",
+    "number": "GU4154",
+    "title": "Magic in Jewish History and Culture",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4156": {
+    "id": "JWST_GU4156",
+    "subject": "JWST",
+    "number": "GU4156",
+    "title": "An Introduction to World Zionist Thought",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4157": {
+    "id": "JWST_GU4157",
+    "subject": "JWST",
+    "number": "GU4157",
+    "title": "Israeli Politics in Times of Turmoil",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "JWST_GU4990": {
+    "id": "JWST_GU4990",
+    "subject": "JWST",
+    "number": "GU4990",
+    "title": "Topics in Jewish Studies",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_UN3101": {
+    "id": "LING_UN3101",
+    "subject": "LING",
+    "number": "UN3101",
+    "title": "INTRODUCTION TO LINGUISTICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_UN3103": {
+    "id": "LING_UN3103",
+    "subject": "LING",
+    "number": "UN3103",
+    "title": "Language, Brain and Mind",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4108": {
+    "id": "LING_GU4108",
+    "subject": "LING",
+    "number": "GU4108",
+    "title": "LANGUAGE HISTORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4120": {
+    "id": "LING_GU4120",
+    "subject": "LING",
+    "number": "GU4120",
+    "title": "LANG DOCUMENTATION/FIELD MTHDS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4171": {
+    "id": "LING_GU4171",
+    "subject": "LING",
+    "number": "GU4171",
+    "title": "LANGUAGES OF AFRICA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4190": {
+    "id": "LING_GU4190",
+    "subject": "LING",
+    "number": "GU4190",
+    "title": "DISCOURSE ANALYSIS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4376": {
+    "id": "LING_GU4376",
+    "subject": "LING",
+    "number": "GU4376",
+    "title": "PHONETICS & PHONOLOGY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4800": {
+    "id": "LING_GU4800",
+    "subject": "LING",
+    "number": "GU4800",
+    "title": "LANGUAGE & SOCIETY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "LING_GU4903": {
+    "id": "LING_GU4903",
+    "subject": "LING",
+    "number": "GU4903",
+    "title": "SYNTAX",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MACH_E4320": {
+    "id": "MACH_E4320",
+    "subject": "MACH",
+    "number": "E4320",
+    "title": "Intro to Combustion",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E3100": {
+    "id": "MECE_E3100",
+    "subject": "MECE",
+    "number": "E3100",
+    "title": "INTRO TO MECHANCIS OF FLUIDS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E3301": {
+    "id": "MECE_E3301",
+    "subject": "MECE",
+    "number": "E3301",
+    "title": "THERMODYNAMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E3311": {
+    "id": "MECE_E3311",
+    "subject": "MECE",
+    "number": "E3311",
+    "title": "HEAT TRANSFER",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E3401": {
+    "id": "MECE_E3401",
+    "subject": "MECE",
+    "number": "E3401",
+    "title": "MECHANICS OF MACHINES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E3414": {
+    "id": "MECE_E3414",
+    "subject": "MECE",
+    "number": "E3414",
+    "title": "Mechanics of Solids for Mechanical Engineers",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E4302": {
+    "id": "MECE_E4302",
+    "subject": "MECE",
+    "number": "E4302",
+    "title": "ADVANCED THERMODYNAMICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E4350": {
+    "id": "MECE_E4350",
+    "subject": "MECE",
+    "number": "E4350",
+    "title": "Building Energy Modeling and Simulation",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E4461": {
+    "id": "MECE_E4461",
+    "subject": "MECE",
+    "number": "E4461",
+    "title": "Materials Selection for Mechanical Design",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E6102": {
+    "id": "MECE_E6102",
+    "subject": "MECE",
+    "number": "E6102",
+    "title": "COMPUTATNL HEAT TRANSF-FL FLOW",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECE_E6106": {
+    "id": "MECE_E6106",
+    "subject": "MECE",
+    "number": "E6106",
+    "title": "Finite Element Method for Fluid Flow and Fluid-Structure Interactions",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MECS_E4603": {
+    "id": "MECS_E4603",
+    "subject": "MECS",
+    "number": "E4603",
+    "title": "APPLIED ROBOTICS: ALGORITHMS & SOFTWARE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MSAE_E3111": {
+    "id": "MSAE_E3111",
+    "subject": "MSAE",
+    "number": "E3111",
+    "title": "THERMO/KINETIC THRY/STAT MECH",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MUSI_UN2318": {
+    "id": "MUSI_UN2318",
+    "subject": "MUSI",
+    "number": "UN2318",
+    "title": "MUSIC THEORY I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MUSI_UN2319": {
+    "id": "MUSI_UN2319",
+    "subject": "MUSI",
+    "number": "UN2319",
+    "title": "MUSIC THEORY II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MUSI_UN3128": {
+    "id": "MUSI_UN3128",
+    "subject": "MUSI",
+    "number": "UN3128",
+    "title": "History of Western Music: Middle Ages to Baroque",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MUSI_UN3129": {
+    "id": "MUSI_UN3129",
+    "subject": "MUSI",
+    "number": "UN3129",
+    "title": "History of Western Music: Classical Era to 20th Century",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MUSI_UN3400": {
+    "id": "MUSI_UN3400",
+    "subject": "MUSI",
+    "number": "UN3400",
+    "title": "TOPICS IN MUSIC & SOCIETY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ORCS_E4200": {
+    "id": "ORCS_E4200",
+    "subject": "ORCS",
+    "number": "E4200",
+    "title": "Data-driven Decision Modeling",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ORCS_E4201": {
+    "id": "ORCS_E4201",
+    "subject": "ORCS",
+    "number": "E4201",
+    "title": "Policy for Privacy Technologies",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ORCS_E4529": {
+    "id": "ORCS_E4529",
+    "subject": "ORCS",
+    "number": "E4529",
+    "title": "Reinforcement Learning",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PHIL_UN2685": {
+    "id": "PHIL_UN2685",
+    "subject": "PHIL",
+    "number": "UN2685",
+    "title": "INTRO TO PHIL OF LANGUAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PHIL_UN3411": {
+    "id": "PHIL_UN3411",
+    "subject": "PHIL",
+    "number": "UN3411",
+    "title": "SYMBOLIC LOGIC",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PHIL_UN3685": {
+    "id": "PHIL_UN3685",
+    "subject": "PHIL",
+    "number": "UN3685",
+    "title": "PHILOSOPHY OF LANGUAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PHIL_GU4490": {
+    "id": "PHIL_GU4490",
+    "subject": "PHIL",
+    "number": "GU4490",
+    "title": "LANGUAGE AND MIND",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PLAN_A4151": {
+    "id": "PLAN_A4151",
+    "subject": "PLAN",
+    "number": "A4151",
+    "title": "ECONOMICS FOR PLANNERS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PLAN_A4304": {
+    "id": "PLAN_A4304",
+    "subject": "PLAN",
+    "number": "A4304",
+    "title": "INTRODUCTION TO HOUSING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PLAN_A4579": {
+    "id": "PLAN_A4579",
+    "subject": "PLAN",
+    "number": "A4579",
+    "title": "Introduction to Environmental Planning",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN1101": {
+    "id": "POLS_UN1101",
+    "subject": "POLS",
+    "number": "UN1101",
+    "title": "POLITICAL THEORY I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN1201": {
+    "id": "POLS_UN1201",
+    "subject": "POLS",
+    "number": "UN1201",
+    "title": "INTRO TO AMERICAN POLITICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN1501": {
+    "id": "POLS_UN1501",
+    "subject": "POLS",
+    "number": "UN1501",
+    "title": "INTRO TO COMPARATIVE POLITICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN1601": {
+    "id": "POLS_UN1601",
+    "subject": "POLS",
+    "number": "UN1601",
+    "title": "INTERNATIONAL POLITICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3100": {
+    "id": "POLS_UN3100",
+    "subject": "POLS",
+    "number": "UN3100",
+    "title": "JUSTICE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3212": {
+    "id": "POLS_UN3212",
+    "subject": "POLS",
+    "number": "UN3212",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3213": {
+    "id": "POLS_UN3213",
+    "subject": "POLS",
+    "number": "UN3213",
+    "title": "AMERICAN URBAN POLITICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3222": {
+    "id": "POLS_UN3222",
+    "subject": "POLS",
+    "number": "UN3222",
+    "title": "THE AMERICAN CONGRESS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3255": {
+    "id": "POLS_UN3255",
+    "subject": "POLS",
+    "number": "UN3255",
+    "title": "RACE AND THE US CARCERAL SYSTEM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_UN3290": {
+    "id": "POLS_UN3290",
+    "subject": "POLS",
+    "number": "UN3290",
+    "title": "VOTING AND AMERICAN POLITICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "POLS_GU4728": {
+    "id": "POLS_GU4728",
+    "subject": "POLS",
+    "number": "GU4728",
+    "title": "Machine Learning & AI for the Social Sciences",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN1101": {
+    "id": "PORT_UN1101",
+    "subject": "PORT",
+    "number": "UN1101",
+    "title": "ELEMENTARY PORTUGUESE I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN1102": {
+    "id": "PORT_UN1102",
+    "subject": "PORT",
+    "number": "UN1102",
+    "title": "ELEMENTARY PORTUGUESE II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN1320": {
+    "id": "PORT_UN1320",
+    "subject": "PORT",
+    "number": "UN1320",
+    "title": "COMP ELEM PORT I/II-SPAN SPKRS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN2101": {
+    "id": "PORT_UN2101",
+    "subject": "PORT",
+    "number": "UN2101",
+    "title": "INTERMEDIATE PORTUGUESE I",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN2102": {
+    "id": "PORT_UN2102",
+    "subject": "PORT",
+    "number": "UN2102",
+    "title": "Intermed. Portuguese II",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN2120": {
+    "id": "PORT_UN2120",
+    "subject": "PORT",
+    "number": "UN2120",
+    "title": "COMPREHENSIVE INTERMED PORT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN3101": {
+    "id": "PORT_UN3101",
+    "subject": "PORT",
+    "number": "UN3101",
+    "title": "CONVERS ABOUT LUSOPHONE WORLD",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN3300": {
+    "id": "PORT_UN3300",
+    "subject": "PORT",
+    "number": "UN3300",
+    "title": "ADV LANGUAGE THROUGH CONTENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN3301": {
+    "id": "PORT_UN3301",
+    "subject": "PORT",
+    "number": "UN3301",
+    "title": "Advanced Writing and Composition in Portuguese",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_UN3330": {
+    "id": "PORT_UN3330",
+    "subject": "PORT",
+    "number": "UN3330",
+    "title": "INTRO TO PORTUGUESE STUDIES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PORT_GU4033": {
+    "id": "PORT_GU4033",
+    "subject": "PORT",
+    "number": "GU4033",
+    "title": "Language & Queer Brazil (ENG)",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_UN1001": {
+    "id": "PSYC_UN1001",
+    "subject": "PSYC",
+    "number": "UN1001",
+    "title": "THE SCIENCE OF PSYCHOLOGY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_UN2215": {
+    "id": "PSYC_UN2215",
+    "subject": "PSYC",
+    "number": "UN2215",
+    "title": "Cognition and the Brain",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_UN2430": {
+    "id": "PSYC_UN2430",
+    "subject": "PSYC",
+    "number": "UN2430",
+    "title": "COGNITIVE NEUROSCIENCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_UN2440": {
+    "id": "PSYC_UN2440",
+    "subject": "PSYC",
+    "number": "UN2440",
+    "title": "Language and the Brain",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_UN2450": {
+    "id": "PSYC_UN2450",
+    "subject": "PSYC",
+    "number": "UN2450",
+    "title": "BEHAVIORAL NEUROSCIENCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_BC3164": {
+    "id": "PSYC_BC3164",
+    "subject": "PSYC",
+    "number": "BC3164",
+    "title": "PERCEPTION AND LANGUAGE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_BC3369": {
+    "id": "PSYC_BC3369",
+    "subject": "PSYC",
+    "number": "BC3369",
+    "title": "LANGUAGE DEVELOPMENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_GU4232": {
+    "id": "PSYC_GU4232",
+    "subject": "PSYC",
+    "number": "GU4232",
+    "title": "Production and Perception of Language",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "PSYC_GU4836": {
+    "id": "PSYC_GU4836",
+    "subject": "PSYC",
+    "number": "GU4836",
+    "title": "Machine Intelligence",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "RELI_V3301": {
+    "id": "RELI_V3301",
+    "subject": "RELI",
+    "number": "V3301",
+    "title": "Hebrew Bible",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "RELI_GU4217": {
+    "id": "RELI_GU4217",
+    "subject": "RELI",
+    "number": "GU4217",
+    "title": "American Religions in extremis",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "RELI_GU4509": {
+    "id": "RELI_GU4509",
+    "subject": "RELI",
+    "number": "GU4509",
+    "title": "CRIME/PUNISHMENT-JEWISH CULTRE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_UN1000": {
+    "id": "SOCI_UN1000",
+    "subject": "SOCI",
+    "number": "UN1000",
+    "title": "THE SOCIAL WORLD",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_UN3000": {
+    "id": "SOCI_UN3000",
+    "subject": "SOCI",
+    "number": "UN3000",
+    "title": "SOCIAL THEORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_UN3235": {
+    "id": "SOCI_UN3235",
+    "subject": "SOCI",
+    "number": "UN3235",
+    "title": "Social Movements",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_UN3265": {
+    "id": "SOCI_UN3265",
+    "subject": "SOCI",
+    "number": "UN3265",
+    "title": "SOCIOLOGY OF WORK & GENDER",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_UN3285": {
+    "id": "SOCI_UN3285",
+    "subject": "SOCI",
+    "number": "UN3285",
+    "title": "ISRAELI SOC & ISR-PLS CONFLICT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SOCI_GU4801": {
+    "id": "SOCI_GU4801",
+    "subject": "SOCI",
+    "number": "GU4801",
+    "title": "Israel and the Palestinians",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SPAN_UN3300": {
+    "id": "SPAN_UN3300",
+    "subject": "SPAN",
+    "number": "UN3300",
+    "title": "ADV LANGUAGE THROUGH CONTENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SPAN_BC3382": {
+    "id": "SPAN_BC3382",
+    "subject": "SPAN",
+    "number": "BC3382",
+    "title": "SOCIOLING ASPECTS U.S.SPANISH",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SPAN_GU4010": {
+    "id": "SPAN_GU4010",
+    "subject": "SPAN",
+    "number": "GU4010",
+    "title": "LANGUAGE CROSSING IN LATINX CARIBBEAN CULTURAL PRODUCTION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "WMST_UN1001": {
+    "id": "WMST_UN1001",
+    "subject": "WMST",
+    "number": "UN1001",
+    "title": "INTRO-WOMEN & GENDER STUDIES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "WMST_UN3125": {
+    "id": "WMST_UN3125",
+    "subject": "WMST",
+    "number": "UN3125",
+    "title": "INTRO TO SEXUALITY STUDIES",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "WMST_GU4336": {
+    "id": "WMST_GU4336",
+    "subject": "WMST",
+    "number": "GU4336",
+    "title": "GENDER AND SEXUALITY IN YIDDISH LITERATURE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "YIDD_UN3500": {
+    "id": "YIDD_UN3500",
+    "subject": "YIDD",
+    "number": "UN3500",
+    "title": "SURVEY OF YIDDISH LIT (ENG)",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN1101": {
+    "id": "STAT_UN1101",
+    "subject": "STAT",
+    "number": "UN1101",
+    "title": "INTRODUCTION TO STATISTICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN1201": {
+    "id": "STAT_UN1201",
+    "subject": "STAT",
+    "number": "UN1201",
+    "title": "CALC-BASED INTRO TO STATISTICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN2102": {
+    "id": "STAT_UN2102",
+    "subject": "STAT",
+    "number": "UN2102",
+    "title": "Applied Statistical Computing",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN2103": {
+    "id": "STAT_UN2103",
+    "subject": "STAT",
+    "number": "UN2103",
+    "title": "APPLIED LINEAR REG ANALYSIS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN2104": {
+    "id": "STAT_UN2104",
+    "subject": "STAT",
+    "number": "UN2104",
+    "title": "APPL CATEGORICAL DATA ANALYSIS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN3104": {
+    "id": "STAT_UN3104",
+    "subject": "STAT",
+    "number": "UN3104",
+    "title": "Applied Bayesian Analysis",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN3105": {
+    "id": "STAT_UN3105",
+    "subject": "STAT",
+    "number": "UN3105",
+    "title": "APPLIED STATISTICAL METHODS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN3106": {
+    "id": "STAT_UN3106",
+    "subject": "STAT",
+    "number": "UN3106",
+    "title": "APPLIED MACHINE LEARNING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_UN3702": {
+    "id": "STAT_UN3702",
+    "subject": "STAT",
+    "number": "UN3702",
+    "title": "Exploratory Data Analysis & Visualization",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4203": {
+    "id": "STAT_GU4203",
+    "subject": "STAT",
+    "number": "GU4203",
+    "title": "PROBABILITY THEORY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4204": {
+    "id": "STAT_GU4204",
+    "subject": "STAT",
+    "number": "GU4204",
+    "title": "STATISTICAL INFERENCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4205": {
+    "id": "STAT_GU4205",
+    "subject": "STAT",
+    "number": "GU4205",
+    "title": "LINEAR REGRESSION MODELS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4207": {
+    "id": "STAT_GU4207",
+    "subject": "STAT",
+    "number": "GU4207",
+    "title": "ELEMENTARY STOCHASTIC PROCESS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4241": {
+    "id": "STAT_GU4241",
+    "subject": "STAT",
+    "number": "GU4241",
+    "title": "STATISTICAL MACHINE LEARNING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4242": {
+    "id": "STAT_GU4242",
+    "subject": "STAT",
+    "number": "GU4242",
+    "title": "ADVANCED MACHINE LEARNING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "STAT_GU4244": {
+    "id": "STAT_GU4244",
+    "subject": "STAT",
+    "number": "GU4244",
+    "title": "Unsupervised Learning",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MATH_UN2015": {
+    "id": "MATH_UN2015",
+    "subject": "MATH",
+    "number": "UN2015",
+    "title": "Linear Algebra and Probability",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MATH_UN2020": {
+    "id": "MATH_UN2020",
+    "subject": "MATH",
+    "number": "UN2020",
+    "title": "Honors Linear Algebra",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "BMEN_E4480": {
+    "id": "BMEN_E4480",
+    "subject": "BMEN",
+    "number": "E4480",
+    "title": "Statistical machine learning for genomics",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "IEOR_E3658": {
+    "id": "IEOR_E3658",
+    "subject": "IEOR",
+    "number": "E3658",
+    "title": "PROBABILITY FOR ENGINEERS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E3300": {
+    "id": "APPH_E3300",
+    "subject": "APPH",
+    "number": "E3300",
+    "title": "APPLIED ELECTROMAGNETISM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4010": {
+    "id": "APPH_E4010",
+    "subject": "APPH",
+    "number": "E4010",
+    "title": "INTRODUCTN TO NUCLEAR SCIENCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4301": {
+    "id": "APPH_E4301",
+    "subject": "APPH",
+    "number": "E4301",
+    "title": "INTRO TO PLASMA PHYSICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EAEE_E2100": {
+    "id": "EAEE_E2100",
+    "subject": "EAEE",
+    "number": "E2100",
+    "title": "A BETTER PLANET BY DESIGN",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EAEE_E3200": {
+    "id": "EAEE_E3200",
+    "subject": "EAEE",
+    "number": "E3200",
+    "title": "TRANSPORT/CHEM RATE PHENOMENA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "CHEN_E4020": {
+    "id": "CHEN_E4020",
+    "subject": "CHEN",
+    "number": "E4020",
+    "title": "PROTECTN OF INDUST/INTELL PROP",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "ECON_GU4280": {
+    "id": "ECON_GU4280",
+    "subject": "ECON",
+    "number": "GU4280",
+    "title": "CORPORATE FINANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "EESC_GU4404": {
+    "id": "EESC_GU4404",
+    "subject": "EESC",
+    "number": "GU4404",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC2563": {
+    "id": "DNCE_BC2563",
+    "subject": "DNCE",
+    "number": "BC2563",
+    "title": "DANCE COMPOSITION: FORM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC2564": {
+    "id": "DNCE_BC2564",
+    "subject": "DNCE",
+    "number": "BC2564",
+    "title": "DANCE COMPOSITION: CONTENT",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC2567": {
+    "id": "DNCE_BC2567",
+    "subject": "DNCE",
+    "number": "BC2567",
+    "title": "MUSIC FOR DANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC2570": {
+    "id": "DNCE_BC2570",
+    "subject": "DNCE",
+    "number": "BC2570",
+    "title": "DANCE IN NEW YORK CITY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3000": {
+    "id": "DNCE_BC3000",
+    "subject": "DNCE",
+    "number": "BC3000",
+    "title": "FROM PAGE TO STAGE: DANCE & LITERATURE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3001": {
+    "id": "DNCE_BC3001",
+    "subject": "DNCE",
+    "number": "BC3001",
+    "title": "HISTORY OF THEATRICAL DANCING",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3002": {
+    "id": "DNCE_BC3002",
+    "subject": "DNCE",
+    "number": "BC3002",
+    "title": "Choreographing Race in America",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3200": {
+    "id": "DNCE_BC3200",
+    "subject": "DNCE",
+    "number": "BC3200",
+    "title": "DANCE IN FILM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3240": {
+    "id": "DNCE_BC3240",
+    "subject": "DNCE",
+    "number": "BC3240",
+    "title": "SEEING THE BODY",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3576": {
+    "id": "DNCE_BC3576",
+    "subject": "DNCE",
+    "number": "BC3576",
+    "title": "DANCE CRITICISM",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3577": {
+    "id": "DNCE_BC3577",
+    "subject": "DNCE",
+    "number": "BC3577",
+    "title": "Performing the Political",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3601": {
+    "id": "DNCE_BC3601",
+    "subject": "DNCE",
+    "number": "BC3601",
+    "title": "REHEARSAL & PERFRMNCE IN DANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3602": {
+    "id": "DNCE_BC3602",
+    "subject": "DNCE",
+    "number": "BC3602",
+    "title": "Rehearsal and Performance in Dance",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3603": {
+    "id": "DNCE_BC3603",
+    "subject": "DNCE",
+    "number": "BC3603",
+    "title": "Rehearsal and Performance in Dance",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3604": {
+    "id": "DNCE_BC3604",
+    "subject": "DNCE",
+    "number": "BC3604",
+    "title": "REHEARSAL & PERFRMNCE IN DANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3605": {
+    "id": "DNCE_BC3605",
+    "subject": "DNCE",
+    "number": "BC3605",
+    "title": "REHEARSAL & PERFRMNCE IN DANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3606": {
+    "id": "DNCE_BC3606",
+    "subject": "DNCE",
+    "number": "BC3606",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "DNCE_BC3607": {
+    "id": "DNCE_BC3607",
+    "subject": "DNCE",
+    "number": "BC3607",
+    "title": "REHEARSAL & PERFRMNCE IN DANCE",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
   }
 }

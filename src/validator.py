@@ -453,6 +453,108 @@ def check_all_concentrations(selected_courses, concentrations):
     }
 
 
+def parse_course_level(number):
+    """'E3010' -> 3010, 'UN2010' -> 2010, 'GU4001' -> 4001. None if unparseable."""
+    match = re.search(r"(\d{3,4})", number or "")
+    return int(match.group(1)) if match else None
+
+
+def check_subject_level_count_group(selected_courses, catalog, group):
+    subjects = set(group.get("subjects", []))
+    min_level = group.get("min_level")
+    max_level = group.get("max_level")
+    exclude = set(group.get("exclude", []))
+
+    matches = []
+    for course_id in selected_courses:
+        course = catalog.get(course_id)
+        if not course or course.get("subject") not in subjects or course_id in exclude:
+            continue
+
+        level = parse_course_level(course.get("number"))
+        if min_level is not None and (level is None or level < min_level):
+            continue
+        if max_level is not None and (level is None or level > max_level):
+            continue
+
+        matches.append(course_id)
+
+    credits_required = group.get("credits_required")
+    if credits_required is not None:
+        total_credits = sum(
+            catalog[c]["credits"] for c in matches
+            if catalog.get(c, {}).get("credits") is not None
+        )
+        satisfied = total_credits >= credits_required
+    else:
+        satisfied = len(matches) >= group.get("count", 1)
+
+    return matches, satisfied
+
+
+def check_minor_group(selected_courses, catalog, group):
+    gtype = group["type"]
+
+    if gtype == "free_form":
+        return {**group, "courses_found": [], "satisfied": None, "verifiable": False}
+
+    if gtype == "subject_level_count":
+        matches, satisfied = check_subject_level_count_group(selected_courses, catalog, group)
+        return {**group, "courses_found": matches, "satisfied": satisfied, "verifiable": True}
+
+    options = group.get("options", [])
+    selected = set(selected_courses)
+    found = [c for c in options if c in selected]
+
+    if gtype == "all_of":
+        satisfied = len(found) == len(options)
+    elif gtype == "choose_one_of":
+        satisfied = len(found) >= 1
+    elif gtype == "choose_n_of":
+        satisfied = len(found) >= group.get("count", 1)
+    else:
+        satisfied = False
+
+    return {**group, "courses_found": found, "satisfied": satisfied, "verifiable": True}
+
+
+def check_minor_progress(selected_courses, catalog, minor):
+    """Minors are optional and entirely outside this app's actual degree
+    validation -- nothing here gates graduation. `free_form` groups (a
+    prose rule this app has no way to check) are always reported as
+    unverified rather than guessed at; `completed_verifiable` only
+    reflects the groups that could actually be checked."""
+    if minor.get("unstructured"):
+        return {
+            "id": minor["id"], "name": minor["name"], "unstructured": True,
+            "description": minor.get("description"), "groups": [],
+            "completed_verifiable": None, "has_unverifiable_groups": True
+        }
+
+    group_results = [
+        check_minor_group(selected_courses, catalog, group)
+        for group in minor.get("groups", [])
+    ]
+
+    verifiable_groups = [g for g in group_results if g["verifiable"]]
+    has_unverifiable = len(verifiable_groups) < len(group_results)
+    completed_verifiable = all(g["satisfied"] for g in verifiable_groups) if verifiable_groups else False
+
+    return {
+        "id": minor["id"], "name": minor["name"], "unstructured": False,
+        "groups": group_results,
+        "completed_verifiable": completed_verifiable,
+        "has_unverifiable_groups": has_unverifiable
+    }
+
+
+def check_all_minors(selected_courses, catalog, minors):
+    return {
+        minor_id: check_minor_progress(selected_courses, catalog, minor)
+        for minor_id, minor in minors.items()
+    }
+
+
 def compute_elective_nontech_credits(
     nontech_courses, nontech_credits, required_courses,
     core_sequence_status, art_music_status, catalog, credit_overrides=None
@@ -567,10 +669,12 @@ def validate_plan(
     nontech_rules,
     prerequisite_overrides=None,
     credit_overrides=None,
-    concentrations=None
+    concentrations=None,
+    minors=None
 ):
     credit_overrides = credit_overrides or {}
     concentrations = concentrations or {}
+    minors = minors or {}
     plan = normalize_plan_aliases(plan, catalog)
 
     alias_index = build_alias_index(catalog)
@@ -713,6 +817,10 @@ def validate_plan(
 
     results["progress"]["concentrations"] = check_all_concentrations(
         requirement_courses, concentrations
+    )
+
+    results["progress"]["minors"] = check_all_minors(
+        requirement_courses, catalog, minors
     )
 
     nontech_courses = [
