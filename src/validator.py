@@ -553,11 +553,22 @@ def validate_plan(
 
     selected_courses = dedupe_preserve_order(flatten_plan(plan), catalog)
 
+    # AP/placement/transfer/waiver credit should satisfy the specific
+    # requirement it stands in for (a required course, a sequence, a tag
+    # count) exactly like actually taking the course would. It should NOT
+    # inflate point-total metrics (total_credits, nontech_credits) since
+    # we don't track how many real Columbia points, if any, a given
+    # waiver confers -- so those stay strictly selected_courses-based.
+    requirement_courses = selected_courses + [
+        c for c in prerequisite_overrides if c not in selected_courses
+    ]
+
     results = {
         "errors": [],
         "warnings": [],
         "progress": {}
     }
+    results["progress"]["prerequisite_overrides_applied"] = sorted(prerequisite_overrides)
 
     duplicate_courses = find_duplicate_courses(plan, catalog)
     if duplicate_courses:
@@ -573,15 +584,15 @@ def validate_plan(
     )
     results["errors"].extend(prereq_errors)
 
-    art_music_status = check_art_or_music(selected_courses)
+    art_music_status = check_art_or_music(requirement_courses)
     results["progress"]["art_or_music_humanities"] = art_music_status
 
-    core_sequence_status = check_core_sequence_path(selected_courses, catalog)
+    core_sequence_status = check_core_sequence_path(requirement_courses, catalog)
     results["progress"]["core_sequence_requirement"] = core_sequence_status
 
     tech_breakdown = {}
     for key, config in TECH_REQUIREMENTS.items():
-        matches = count_tag(selected_courses, catalog, config["tag"])
+        matches = count_tag(requirement_courses, catalog, config["tag"])
         tech_breakdown[key] = len(matches)
 
     results["progress"]["tech_breakdown"] = tech_breakdown
@@ -625,7 +636,7 @@ def validate_plan(
             )
 
     major_req = requirements["requirements"]["major_required_courses"]["courses"]
-    missing_major = check_all_of(selected_courses, major_req)
+    missing_major = check_all_of(requirement_courses, major_req)
 
     results["progress"]["major_required_completed"] = len(major_req) - len(missing_major)
     results["progress"]["major_required_total"] = len(major_req)
@@ -633,37 +644,37 @@ def validate_plan(
 
     math_foundation_req = requirements["requirements"]["math_foundation"]
     results["progress"]["math_foundation_requirement"] = check_math_foundation(
-        selected_courses, math_foundation_req
+        requirement_courses, math_foundation_req
     )
 
     physics_req = requirements["requirements"]["physics_requirement"]
     results["progress"]["physics_requirement"] = check_choose_one_sequence(
-        selected_courses, physics_req["sequences"]
+        requirement_courses, physics_req["sequences"]
     )
 
     chemistry_req = requirements["requirements"]["chemistry_requirement"]
     results["progress"]["chemistry_requirement"] = check_choose_one_sequence(
-        selected_courses, chemistry_req["sequences"]
+        requirement_courses, chemistry_req["sequences"]
     )
 
     nat_sci_lab_req = requirements["requirements"]["natural_science_lab"]
     results["progress"]["natural_science_lab_requirement"] = check_tag_credit_minimum(
-        selected_courses, catalog,
+        requirement_courses, catalog,
         nat_sci_lab_req["required_tag"], nat_sci_lab_req["credits_min"],
         credit_overrides
     )
 
     pe_courses = requirements["requirements"]["physical_education"]["courses"]
-    missing_pe = check_all_of(selected_courses, pe_courses)
+    missing_pe = check_all_of(requirement_courses, pe_courses)
     results["progress"]["physical_education_completed"] = len(pe_courses) - len(missing_pe)
     results["progress"]["physical_education_total"] = len(pe_courses)
     results["progress"]["missing_physical_education"] = missing_pe
 
-    math_electives = check_tag_count(selected_courses, catalog, "math_elective")
+    math_electives = check_tag_count(requirement_courses, catalog, "math_elective")
     results["progress"]["math_elective_completed"] = len(math_electives) >= 1
     results["progress"]["math_electives_found"] = math_electives
 
-    tech_electives_raw = check_tag_count(selected_courses, catalog, "technical_elective")
+    tech_electives_raw = check_tag_count(requirement_courses, catalog, "technical_elective")
     tech_electives, repeat_warnings = apply_technical_elective_repeat_caps(
         tech_electives_raw, catalog
     )
@@ -702,7 +713,7 @@ def validate_plan(
     results["progress"]["nontech_completed"] = nontech_credits >= required_nontech
 
     nontech_required_courses = nontech_req.get("required_courses", [])
-    missing_nontech_required = check_all_of(selected_courses, nontech_required_courses)
+    missing_nontech_required = check_all_of(requirement_courses, nontech_required_courses)
     results["progress"]["missing_nontech_required_courses"] = missing_nontech_required
 
     elective_nontech_req = nontech_req.get("elective_nontechnical", {})

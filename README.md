@@ -1,48 +1,162 @@
-# COMS W2132 Intermediate Computing in Python, Final Project 
-## <Chemical Engineering Course Table>
+# Columbia ChemE Course Planner
 
-### Author:
-- [Sophie Zhu](https://github.com/syz-2014) <syz2014@columbia.edu>
- 
-Replace the author name/email with your information.
+A Streamlit app for planning a Columbia Chemical Engineering B.S. degree
+semester by semester, and checking that plan against the major's actual
+requirements: required courses, math/physics/chemistry foundations,
+technical electives (thermo/transport/engineering/advanced STEM buckets),
+the nontechnical requirement (Core sequence, art/music, electives), natural
+science lab, physical education, prerequisites, and per-semester credit
+load.
 
-## Project Category
+Originally started as a final project for COMS W2132 (Intermediate
+Computing in Python); this document describes what's actually built today
+rather than the original project pitch.
 
-Please select up to two items from the following list of categories that best describe your project:
+## Quick start
 
-* Web Application (full stack)
-* Education, Tutoring or Learning Tool
+```bash
+pip install -r requirements.txt
+streamlit run App.py
+```
 
+## What it does
 
-Please select which type of application best describes your project:
-* User-facing Web-app 
+- Build a semester-by-semester plan by picking courses into 8 semester
+  slots (defaults to a standard 4-year template).
+- Validate the plan and see: total credits, major-required course
+  progress, technical elective breakdown, nontechnical credit tracking,
+  Core sequence / art-or-music status, foundational requirements
+  (math/physics/chemistry/lab/PE), and course recommendations based on
+  what's still missing and stated interests.
+- Mark courses as satisfied by AP/placement/transfer credit or a waiver --
+  these count toward every requirement they'd satisfy, but (since we don't
+  track how many real Columbia points, if any, they carry) they don't
+  inflate credit totals.
+- Get warnings for: duplicate courses across semesters, prerequisite
+  violations, semesters under/over the SEAS full-time credit range
+  (12-21 credits), and courses scheduled in a semester their published
+  offering pattern doesn't match.
+- Save/load a plan as a JSON file (there's no backend, so this is how a
+  plan survives between sessions).
 
+## Architecture
 
-## Project Abstract 
-I want to develop a web application that helps students in the Chemical Engineering major plan their coursework. The target users are undergraduate students who need to navigate complex degree requirements, including core courses, electives, prerequisites, and concentration tracks. Existing tools (such as static degree maps or PDFs) do not allow for flexible, personalized planning or real-time feedback. This application seeks to provide an interactive platform where students can build semester-by-semester schedules and immediately see how their choices affect progress toward graduation.
+- **Data layer** (`data/`) -- JSON course catalogs and requirement
+  definitions. See [Data model](#data-model) below.
+- **Validation engine** (`src/validator.py`) -- pure functions that take a
+  plan + the catalogs and return errors, warnings, and a `progress` dict
+  covering every requirement category.
+- **UI** (`App.py`) -- Streamlit app that renders the plan editor and the
+  validation results.
+- **Data pipeline** (`scripts/`) -- one-off/rerunnable scripts that build
+  the JSON catalogs from raw sources (see below). These aren't run by the
+  app itself; they're how `data/*.json` got built and how you'd refresh
+  them.
 
-The system will be divided into three main components: a data layer, a validation engine, and a user interface. The data layer will store structured information about courses, prerequisites, credits, and requirement categories using JSON or CSV files. The validation engine will take a user’s planned schedule as input and output validation results, including prerequisite satisfaction, requirement completion status, and remaining requirements. Internally, prerequisite relationships will be modeled as a directed graph, and requirement tracking will use sets and dictionaries to efficiently compute progress. The user interface, built with Streamlit, will allow users to assign courses to semesters and visualize their plan and progress in real time.
+## Data model
 
-The interaction between components is as follows: the user inputs a course plan through the interface → the plan is passed to the validation engine → the engine processes prerequisite constraints and requirement rules → results are returned to the interface and displayed as progress indicators and warnings. This modular design allows each component to be developed and tested independently.
+Three course catalogs, merged at load time by `src/load_data.py`:
 
-To evaluate correctness, I will test the system using known valid and invalid course plans. For example, I will construct sample schedules that intentionally violate prerequisites or omit required courses and verify that the system correctly identifies these issues. I will also compare computed requirement progress against manually verified cases to ensure accuracy. AI tools may be used during development for code suggestions, debugging, and test case generation, but all core logic and system behavior will be implemented and understood by m
+| File | Built by | Source |
+|---|---|---|
+| `data/courses_core.json` | hand-curated | Columbia Engineering Bulletin |
+| `data/courses_tech_electives.json` | `scripts/loading_tech.py` | `data/raw/Electives Course List-New Study Plan.xlsx` |
+| `data/courses_globalcore.json` | `scripts/load_global_core.py` | `data/raw/global_core_requirement.pdf` |
 
-## Scope / Challenges
+`data/requirements.json` encodes the actual degree requirements (major
+required courses, math foundation, physics/chemistry sequences, technical
+elective sub-buckets, nontechnical requirement incl. Core sequence and
+art/music, natural science lab, physical education). `data/nontech_rules.json`
+encodes which subjects count toward the nontechnical elective requirement,
+by department policy (`all` / `none` / `only` / `all_except` / `custom`).
 
-The initial scope of this project includes building a functional user-facing web application that allows students to build and modify semester-by-semester course plans, view progress toward the ChemE major and concentration requirements, and receive basic validation feedback such as unmet requirements. Core deliverables will include an interactive interface, a structured backend dataset of courses and requirements, and a rules engine that updates requirement counters as users adjust their schedules. 
-Out of scope for the initial version are advanced features such as user authentication, cloud-based saving/loading of plans, integration with official university databases, and highly polished UI elements like drag-and-drop scheduling. 
-The relatively straightforward components of the project are expected to be building the interface and structuring the course data, while the more challenging and uncertain aspects involve accurately encoding prerequisite logic, handling edge cases in degree requirements, and designing a flexible validation system that reflects actual school rules. 
-Success for this project will be defined as delivering a working prototype that allows a user to construct a valid multi-semester plan and correctly tracks major requirement progress, even if some advanced features or edge cases are not fully implemented.
+Each course entry may carry:
+- `credits`, `prerequisites`, `corequisites`, `category_tags` -- the core
+  fields the validator checks against.
+- `aliases` -- alternate/legacy ids for the same course (e.g. a pre-"UN"
+  numbering). The loader merges an aliased duplicate into its canonical
+  entry instead of treating it as a second course; the validator resolves
+  a plan's course ids through this before checking anything.
+- `terms_checked` / `terms_offered` -- which term(s) (`Fall2026`,
+  `Spring2027`) a course was found scheduled in, and which term pages were
+  actually checked for its subject, per `scripts/fetch_offering_terms.py`.
+- `repeat_rules` -- for repeatable courses (currently just
+  `CHEN_E3900`, Undergraduate Research), how many instances count toward
+  the technical elective requirement and when the department's thesis
+  requirement kicks in.
+- `credits_source` -- which backfill pass supplied a missing credit value.
 
-## Requirements / Dependencies 
-On the software side, I plan to use Python along with common packages for building an interactive web app and organizing data, such as Streamlit for the user interface, pandas for handling course and requirement data, and possibly networkx or custom Python logic for representing prerequisite relationships. (Any advice or reccomendations would be appreciated!)
-I may also use JSON or CSV files as the primary data source for course catalogs, degree requirements, and concentration rules. 
+### Known data coverage limits
 
-At this stage, I do not expect to need any specialized hardware beyond a standard laptop for development and testing. I also do not currently plan to rely on external online services or APIs, since the initial version can function using manually curated academic requirement data, although that could change later if I explore integration with official course information. 
-In terms of AI usage, I expect to use AI mainly as a development aid for code generation, debugging, and testing support, such as helping draft functions, suggest interface ideas, and identify edge cases in the validation logic. I do not currently plan to make an LLM a core feature of the application itself, unless there is time (unlikely) to implement a course reccomendation feature, which will utilize AI. 
+Both the credit and offering-term backfills are sourced from *schedule*
+data (the Engineering Bulletin's current course listings, and Columbia's
+live Directory of Classes) -- they only know about courses actually being
+taught this academic year, not the full historical set of approved
+courses. As of the last data pipeline run:
 
-## Milestones 
+- **Credits: ~40% of the catalog** has a real value; the rest rely on the
+  in-app credit override (enter it once, it's remembered for the session
+  and exported with the plan). This is treated as the intended long-term
+  answer for the remainder, not a gap to keep chasing.
+- **Prerequisites: ~2% of the catalog** has prerequisite data -- only the
+  major-required courses that were hand-curated. Prerequisite checking is
+  real but only meaningfully exercised for those; electives largely won't
+  flag a prerequisite violation even if one exists. There's no
+  comprehensive source for this short of manual entry.
+- **True cross-department cross-listing** (a course offered under two
+  departments' subject codes) isn't available from any source reachable
+  without a Columbia login (Vergil is UNI-gated); the `aliases` mechanism
+  only covers legacy/alternate id spellings for the *same* course, not
+  cross-listings.
 
-During the first week, I will finalize the course dataset and requirement definitions, including prerequisite relationships and concentration requirements, and implement data loading functionality. During the second week, I will develop the validation engine, including prerequisite checking and requirement tracking, and test it using sample course plans. By April 26, I will complete a minimally viable product that includes a working interface for entering a course plan, basic prerequisite validation, and requirement progress tracking. During the third week, I will expand the Streamlit interface to improve usability and visualization, allowing users to interact more easily with their course plans. During the final week, I will focus on debugging, handling edge cases, and refining the presentation and overall user experience.
+### Not implemented
 
-By April 26, the project will include a functional prototype that allows users to input a semester-by-semester course plan, view their progress toward major requirements, and receive feedback about missing prerequisites or unmet requirements. The system will correctly track completed and remaining requirements and provide clear output to the user.
+- **Concentrations/minors.** ChemE's own elective specializations (Climate/
+  Environment/Energy, Biotech/Biopharma, Data & Computational Science,
+  Advanced Materials) and any minor tracks aren't modeled at all -- no
+  schema, no requirement rules, no UI.
+- **Grades / pass-fail.** The plan doesn't record grades, so GPA and
+  pass/fail eligibility rules (e.g. only two nontechnical electives and PE
+  may be taken P/F) aren't checked.
+- Automated tests. `data/sample_valid_plan.json` is a hand-built fixture,
+  not yet backed by a test suite.
+
+## Data pipeline scripts
+
+Run from the project root. Each is idempotent -- rerunning just refreshes
+whatever it covers.
+
+- `scripts/loading_tech.py` -- builds `courses_tech_electives.json` from
+  the electives spreadsheet.
+- `scripts/load_global_core.py` -- builds `courses_globalcore.json` from
+  the Global Core PDF.
+- `scripts/backfill_credits.py` -- fills missing `credits` from the
+  Engineering Bulletin PDF, then from `data/raw/doc_of_classes_credits.json`
+  (built by `scripts/fetch_doc_credits.py`, which hits Columbia's live
+  Directory of Classes for a given set of subjects).
+- `scripts/fetch_offering_terms.py` + `scripts/backfill_terms.py` -- same
+  idea for `terms_offered`/`terms_checked`, also via the Directory of
+  Classes.
+
+## Project structure
+
+```
+App.py                   Streamlit UI
+src/
+  load_data.py            Loads + merges the three course catalogs
+  validator.py             Validation engine
+data/
+  courses_core.json
+  courses_tech_electives.json
+  courses_globalcore.json
+  requirements.json        Degree requirement definitions
+  nontech_rules.json       Nontechnical-elective subject policy
+  template.json            Default 8-semester plan skeleton
+  sample_valid_plan.json   Fixture plan
+  raw/                     Source documents + pipeline caches
+scripts/                  Data pipeline (see above)
+```
+
+## Author
+
+- [Sophie Zhu](https://github.com/syz-2014)

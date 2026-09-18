@@ -341,16 +341,22 @@ credit_overrides = st.session_state.saved_credit_overrides
 
 
 # -----------------------------
-# Prerequisite overrides
+# AP / placement / transfer / waiver credit
 # -----------------------------
-st.sidebar.subheader("Prerequisite Overrides")
+st.sidebar.subheader("AP, Placement, Transfer, or Waived Credit")
 
 override_courses = st.sidebar.multiselect(
     "Courses already satisfied by AP, placement, transfer credit, or waiver",
     options=course_options,
     default=[],
     key="prerequisite_overrides",
-    help="These courses will be treated as completed before semester 1."
+    help=(
+        "These count as completed before semester 1 for prerequisites and "
+        "for every major/elective/foundational requirement they satisfy. "
+        "They do NOT add to your total or nontechnical credit counts, "
+        "since we don't track how many actual Columbia points (if any) "
+        "each one carries."
+    )
 )
 
 
@@ -370,6 +376,13 @@ if st.button("Validate Plan"):
     progress = results["progress"]
 
     st.header("Validation Results")
+
+    overrides_applied = progress.get("prerequisite_overrides_applied", [])
+    if overrides_applied:
+        st.info(
+            "Counted as completed via AP/placement/transfer/waiver "
+            f"(not included in credit totals): {', '.join(overrides_applied)}"
+        )
 
     col1, col2, col3 = st.columns(3)
 
