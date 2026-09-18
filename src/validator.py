@@ -427,6 +427,32 @@ def check_tag_credit_minimum(selected_courses, catalog, tag, credits_min, credit
     }
 
 
+def check_concentration_progress(selected_courses, concentration):
+    """Elective specializations are optional -- completing one just means
+    4 of your technical electives happen to be drawn from its approved
+    list (12 points), not an extra requirement layered on top. Grades
+    aren't tracked, so the bulletin's "no P/F courses" rule for
+    specializations isn't enforced here."""
+    selected = set(selected_courses)
+    courses_found = [c for c in concentration["courses"] if c in selected]
+
+    return {
+        "id": concentration["id"],
+        "name": concentration["name"],
+        "completed": len(courses_found) >= concentration["courses_required"],
+        "courses_required": concentration["courses_required"],
+        "courses_found": courses_found,
+        "courses_completed": len(courses_found)
+    }
+
+
+def check_all_concentrations(selected_courses, concentrations):
+    return {
+        conc_id: check_concentration_progress(selected_courses, concentration)
+        for conc_id, concentration in concentrations.items()
+    }
+
+
 def compute_elective_nontech_credits(
     nontech_courses, nontech_credits, required_courses,
     core_sequence_status, art_music_status, catalog, credit_overrides=None
@@ -540,9 +566,11 @@ def validate_plan(
     requirements,
     nontech_rules,
     prerequisite_overrides=None,
-    credit_overrides=None
+    credit_overrides=None,
+    concentrations=None
 ):
     credit_overrides = credit_overrides or {}
+    concentrations = concentrations or {}
     plan = normalize_plan_aliases(plan, catalog)
 
     alias_index = build_alias_index(catalog)
@@ -682,6 +710,10 @@ def validate_plan(
     results["progress"]["technical_electives_completed"] = len(tech_electives)
     results["progress"]["technical_electives_required"] = 7
     results["progress"]["technical_electives_found"] = tech_electives
+
+    results["progress"]["concentrations"] = check_all_concentrations(
+        requirement_courses, concentrations
+    )
 
     nontech_courses = [
         c for c in selected_courses

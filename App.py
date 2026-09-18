@@ -44,7 +44,7 @@ TAG_LABELS = {
 
 st.set_page_config(page_title="ChemE Course Planner", layout="wide")
 
-courses, requirements, template, nontech_rules = load_all_data()
+courses, requirements, template, nontech_rules, concentrations = load_all_data()
 
 st.title("Columbia Chemical Engineering Course Planner")
 
@@ -370,7 +370,8 @@ if st.button("Validate Plan"):
         requirements,
         nontech_rules,
         prerequisite_overrides=set(override_courses),
-        credit_overrides=credit_overrides
+        credit_overrides=credit_overrides,
+        concentrations=concentrations
     )
 
     progress = results["progress"]
@@ -488,6 +489,32 @@ if st.button("Validate Plan"):
             st.success(f"{label} requirement satisfied.")
         else:
             st.warning(f"Need {required - completed} more {label} elective(s).")
+
+    st.subheader("Elective Specializations (Optional)")
+    st.caption(
+        "Completing one isn't required for the degree -- it just means 4 "
+        "of your technical electives (12 points) happen to be drawn from "
+        "that area's approved list. Grades aren't tracked here, so the "
+        "department's \"no P/F courses\" rule for specializations isn't "
+        "checked."
+    )
+
+    concentration_progress = progress.get("concentrations", {})
+    for conc_id, conc_status in concentration_progress.items():
+        completed = conc_status["courses_completed"]
+        required = conc_status["courses_required"]
+        name = conc_status["name"]
+
+        st.write(f"{name}: {completed} / {required} courses")
+
+        if conc_status["completed"]:
+            st.success(f"{name} specialization satisfied.")
+            st.caption(", ".join(conc_status["courses_found"]))
+        elif completed > 0:
+            st.caption(
+                f"So far: {', '.join(conc_status['courses_found'])} "
+                f"-- {required - completed} more course(s) needed."
+            )
 
     st.subheader("Nontechnical Requirement")
 

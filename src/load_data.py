@@ -73,5 +73,6 @@ def load_all_data():
     requirements = load_json("requirements.json")
     template = load_json("template.json")
     nontech_rules = load_json("nontech_rules.json")
+    concentrations = load_json("concentrations.json")["concentrations"]
 
-    return courses, requirements, template, nontech_rules
+    return courses, requirements, template, nontech_rules, concentrations

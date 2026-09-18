@@ -1,0 +1,128 @@
+{
+  "concentrations": {
+    "advanced_materials": {
+      "id": "advanced_materials",
+      "name": "Advanced Materials",
+      "type": "choose_n_courses",
+      "courses_required": 4,
+      "credits_required": 12,
+      "description": "Understanding of the fundamentals and technological challenges associated with the design of new materials, including soft materials, materials for electrochemical energy storage, and biomaterials.",
+      "courses": [
+        "CHEN_E3900",
+        "APCH_E4080",
+        "CHEN_E4620",
+        "CHEN_E4630",
+        "CHEN_E4650",
+        "CHEN_E4860",
+        "CHEN_E4665",
+        "CHEN_E4870",
+        "CHEN_E4880",
+        "CHEN_E4910",
+        "MSAE_E3010",
+        "MSAE_E4090",
+        "MSAE_E4206",
+        "MSAE_E4260"
+      ],
+      "notes": [
+        "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
+      ]
+    },
+    "biotech_biopharma": {
+      "id": "biotech_biopharma",
+      "name": "Biotechnology and Biopharmaceuticals",
+      "type": "choose_n_courses",
+      "courses_required": 4,
+      "credits_required": 12,
+      "description": "Recent developments within biotechnology and biopharmaceuticals, focusing on engineering applications and approaches.",
+      "courses": [
+        "CHEN_E3900",
+        "CHEN_E4180",
+        "CHEN_E4325",
+        "CHEN_E4400",
+        "CHEN_E4660",
+        "CHEN_E4700",
+        "CHEN_E4725",
+        "CHEN_E4800",
+        "CHEN_E4870",
+        "CHEN_E4890",
+        "CHEN_E4910",
+        "CHEN_E4920",
+        "CHEN_E4930",
+        "CHEN_E8100",
+        "BMEN_E4110",
+        "BMEN_E6500",
+        "BIOL_UN2005",
+        "BIOL_UN2006",
+        "BIOL_UN2501",
+        "BIOC_UN3300"
+      ],
+      "notes": [
+        "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
+      ]
+    },
+    "climate_environment_energy": {
+      "id": "climate_environment_energy",
+      "name": "Climate, Environment, and Energy Solutions",
+      "type": "choose_n_courses",
+      "courses_required": 4,
+      "credits_required": 12,
+      "description": "Fundamentals and technological challenges associated with solutions to climate change and environmental pollution, including clean energy and storage, geoengineering, pollution control, and electrochemical processes for sustainable production of chemicals, fuels, and materials.",
+      "courses": [
+        "CHEN_E3900",
+        "CHEN_E4201",
+        "CHEN_E4231",
+        "CHEN_E4331",
+        "CHEN_E4600",
+        "CHEN_E4410",
+        "EAEE_E3103",
+        "EAEE_E4002",
+        "EAEE_E4003",
+        "EAEE_E4011",
+        "EAEE_E4163",
+        "EAEE_E4180",
+        "EAEE_E4300",
+        "EAEE_E4301",
+        "EAEE_E4305",
+        "CIEE_E3255",
+        "CIEE_E3250",
+        "CIEE_E4252",
+        "MECE_E4211",
+        "MSAE_E4260",
+        "EESC_UN2100",
+        "EESC_UN3101",
+        "EESC_GU4008",
+        "EESC_W4020",
+        "EESC_GU4924"
+      ],
+      "notes": [
+        "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
+      ]
+    },
+    "data_computational_science": {
+      "id": "data_computational_science",
+      "name": "Data and Computational Science",
+      "type": "choose_n_courses",
+      "courses_required": 4,
+      "credits_required": 12,
+      "description": "Data science tools and computational modeling methods relevant to modern chemical engineering practice: data curation, statistical data analysis, predictive modeling, and experimental design integrating machine learning and AI into the chemical engineering domain.",
+      "courses": [
+        "CHEN_E3900",
+        "CHEN_E4010",
+        "CHEN_E4180",
+        "CHEN_E4670",
+        "CHEN_E4580",
+        "CHAP_E4120",
+        "CHEN_E4150",
+        "CHEN_E4880",
+        "ORCA_E2500",
+        "STAT_GU4001",
+        "COMS_W4721",
+        "COMS_W4771"
+      ],
+      "notes": [
+        "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked).",
+        "Per the bulletin: ORCA_E2500, STAT_GU4001, COMS_W4721, and COMS_W4771 cannot be counted as technical electives, but may be used for the math elective requirement instead."
+      ]
+    }
+  }
+}

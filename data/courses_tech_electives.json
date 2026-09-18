@@ -6855,5 +6855,303 @@
       "Fall2026",
       "Spring2027"
     ]
+  },
+  "BIOL_UN2005": {
+    "id": "BIOL_UN2005",
+    "subject": "BIOL",
+    "number": "UN2005",
+    "title": "INTRO BIO I: BIOCHEM,GEN,MOLEC",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "BIOL_UN2006": {
+    "id": "BIOL_UN2006",
+    "subject": "BIOL",
+    "number": "UN2006",
+    "title": "INTRO BIO II:CELL BIO,DEV/PHYS",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "BMEN_E6500": {
+    "id": "BMEN_E6500",
+    "subject": "BMEN",
+    "number": "E6500",
+    "title": "TISSUE/MOLECULAR ENGI LAB",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CHEN_E4010": {
+    "id": "CHEN_E4010",
+    "subject": "CHEN",
+    "number": "E4010",
+    "title": "MATH METHODS IN CHEMICAL ENGIN",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CHEN_E4410": {
+    "id": "CHEN_E4410",
+    "subject": "CHEN",
+    "number": "E4410",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CHEN_E4930": {
+    "id": "CHEN_E4930",
+    "subject": "CHEN",
+    "number": "E4930",
+    "title": "Biopharmaceutical Process Laboratory",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CIEE_E3250": {
+    "id": "CIEE_E3250",
+    "subject": "CIEE",
+    "number": "E3250",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CIEE_E3255": {
+    "id": "CIEE_E3255",
+    "subject": "CIEE",
+    "number": "E3255",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "CIEE_E4252": {
+    "id": "CIEE_E4252",
+    "subject": "CIEE",
+    "number": "E4252",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "COMS_W4721": {
+    "id": "COMS_W4721",
+    "subject": "COMS",
+    "number": "W4721",
+    "title": "MACHINE LEARNING FOR DATA SCI",
+    "credits": null,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "COMS_W4771": {
+    "id": "COMS_W4771",
+    "subject": "COMS",
+    "number": "W4771",
+    "title": "MACHINE LEARNING",
+    "credits": null,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
+  },
+  "EAEE_E4163": {
+    "id": "EAEE_E4163",
+    "subject": "EAEE",
+    "number": "E4163",
+    "title": null,
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EAEE_E4301": {
+    "id": "EAEE_E4301",
+    "subject": "EAEE",
+    "number": "E4301",
+    "title": "CARBON STORAGE",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EESC_GU4008": {
+    "id": "EESC_GU4008",
+    "subject": "EESC",
+    "number": "GU4008",
+    "title": "Introduction to Atmospheric Science",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EESC_GU4924": {
+    "id": "EESC_GU4924",
+    "subject": "EESC",
+    "number": "GU4924",
+    "title": "INTRO TO ATMOSPHERIC CHEMISTRY",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EESC_UN2100": {
+    "id": "EESC_UN2100",
+    "subject": "EESC",
+    "number": "UN2100",
+    "title": "EARTH'S ENVIRO SYST: CLIM SYST",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EESC_UN3101": {
+    "id": "EESC_UN3101",
+    "subject": "EESC",
+    "number": "UN3101",
+    "title": "Geochemistry for a Habitable Planet",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "EESC_W4020": {
+    "id": "EESC_W4020",
+    "subject": "EESC",
+    "number": "W4020",
+    "title": "Humans and the Carbon Cycle",
+    "credits": null,
+    "category_tags": [
+      "technical_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+    ]
+  },
+  "ORCA_E2500": {
+    "id": "ORCA_E2500",
+    "subject": "ORCA",
+    "number": "E2500",
+    "title": "FOUNDATIONS OF DATA SCIENCE 1",
+    "credits": null,
+    "category_tags": [
+      "math_elective"
+    ],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": []
   }
 }
