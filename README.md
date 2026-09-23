@@ -19,6 +19,21 @@ pip install -r requirements.txt
 streamlit run App.py
 ```
 
+## Running the tests
+
+```bash
+pip install -r requirements-dev.txt
+pytest
+```
+
+`tests/` covers the validation engine and the data-loading/alias-merge logic:
+small synthetic-catalog unit tests for individual checks (duplicate/
+repeatable-course handling, alias resolution, the nontech "custom" policy
+fix, offering-term mismatch detection, minor/concentration group types),
+plus a handful of integration tests against the real catalog and
+`data/sample_valid_plan.json`. Runs automatically on every push via GitHub
+Actions (`.github/workflows/tests.yml`).
+
 ## What it does
 
 - Build a semester-by-semester plan by picking courses into 8 semester
@@ -38,6 +53,10 @@ streamlit run App.py
   offering pattern doesn't match.
 - Save/load a plan as a JSON file (there's no backend, so this is how a
   plan survives between sessions).
+- Track progress toward ChemE's 4 elective specializations (shown
+  automatically) and toward any of Columbia Engineering's 44 minors
+  (pick which ones to track from a sidebar list) -- both purely
+  informational, neither gates graduation in this app.
 
 ## Architecture
 
@@ -111,15 +130,27 @@ courses. As of the last data pipeline run:
 
 ### Not implemented
 
-- **Concentrations/minors.** ChemE's own elective specializations (Climate/
-  Environment/Energy, Biotech/Biopharma, Data & Computational Science,
-  Advanced Materials) and any minor tracks aren't modeled at all -- no
-  schema, no requirement rules, no UI.
 - **Grades / pass-fail.** The plan doesn't record grades, so GPA and
   pass/fail eligibility rules (e.g. only two nontechnical electives and PE
-  may be taken P/F) aren't checked.
-- Automated tests. `data/sample_valid_plan.json` is a hand-built fixture,
-  not yet backed by a test suite.
+  may be taken P/F, minors require a 2.0 GPA and no P/F courses) aren't
+  checked anywhere, including within `data/minors.json`'s own rules.
+
+### Concentrations and minors: what to trust
+
+`data/concentrations.json` (ChemE's 4 elective specializations) is high
+confidence -- sourced from a single clean bulletin table each, fully
+structured, every referenced course resolves.
+
+`data/minors.json` (all 44 non-ChemE Engineering minors) is a first pass,
+not verified against advisors. 38 of 44 have a real group-based structure
+(required courses, choose-one/choose-N, subject/level-range rules); 6
+(Aerospace, Architecture, Art History, Catalan, Greek/Latin, MESAAS) have
+requirements that don't reduce to a checkable rule at all and are marked
+`"unstructured": true` with the bulletin's description preserved instead
+of a guessed structure. Several structured minors also have individual
+`free_form` groups for a specific clause that couldn't be resolved to a
+course list. None of this is enforced as a real requirement -- minors are
+purely informational in the UI, selected per-viewing from a sidebar picker.
 
 ## Data pipeline scripts
 
@@ -137,13 +168,19 @@ whatever it covers.
 - `scripts/fetch_offering_terms.py` + `scripts/backfill_terms.py` -- same
   idea for `terms_offered`/`terms_checked`, also via the Directory of
   Classes.
+- `scripts/add_specialization_data.py` -- writes `data/concentrations.json`
+  (ChemE's 4 elective specializations) from the ChemE bulletin page, and
+  adds any course catalog entries they reference that were missing.
+- `scripts/add_minors_data.py` -- writes `data/minors.json` (all 44
+  non-ChemE Engineering minors) from each minor's own bulletin page, same
+  missing-course backfill as above.
 
 ## Project structure
 
 ```
 App.py                   Streamlit UI
 src/
-  load_data.py            Loads + merges the three course catalogs
+  load_data.py            Loads + merges the course catalogs
   validator.py             Validation engine
 data/
   courses_core.json
@@ -151,10 +188,14 @@ data/
   courses_globalcore.json
   requirements.json        Degree requirement definitions
   nontech_rules.json       Nontechnical-elective subject policy
+  concentrations.json      ChemE's 4 elective specializations
+  minors.json              All 44 non-ChemE Engineering minors
   template.json            Default 8-semester plan skeleton
   sample_valid_plan.json   Fixture plan
   raw/                     Source documents + pipeline caches
 scripts/                  Data pipeline (see above)
+tests/                    pytest suite (see "Running the tests")
+.github/workflows/        CI: runs the test suite on every push
 ```
 
 ## Author
