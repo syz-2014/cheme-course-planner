@@ -6955,12 +6955,15 @@
     "title": "Propulsion",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3301"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "AEME_E4306": {
     "id": "AEME_E4306",
@@ -7039,12 +7042,16 @@
     "title": "APPLIED PHYSICS LABORATORY",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APPH_E3300",
+      "ELEN_E3401"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "APPH_E4130": {
     "id": "APPH_E4130",
@@ -7057,7 +7064,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): General physics PHYS C1401x, C1402y, C1403x, C1601x,."
     ]
   },
   "APPH_E4200": {
@@ -7081,12 +7089,15 @@
     "title": "PLASMA PHYSICS I",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APPH_E4300"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "APPH_E6102": {
     "id": "APPH_E6102",
@@ -7095,12 +7106,15 @@
     "title": "PLASMA PHYSICS II",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APPH_E6101"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CATL_UN1120": {
     "id": "CATL_UN1120",
@@ -7183,7 +7197,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Working knowledge of at least one programming language,."
     ]
   },
   "CHNS_GU4019": {
@@ -7235,12 +7250,15 @@
     "title": "STRUCTURAL DESIGN",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3113"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CIEN_E3129": {
     "id": "CIEN_E3129",
@@ -7253,7 +7271,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Senior standing in Civil Engineering or instructor's."
     ]
   },
   "CIEN_E4131": {
@@ -7267,7 +7286,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (CIEN E4129) or CIEN E4129."
     ]
   },
   "CIEN_E4136": {
@@ -7295,7 +7315,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (CIEN E3141) or CIEN E3141; or instructor's permission."
     ]
   },
   "CIEN_E4253": {
@@ -7309,7 +7330,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3332) or ENGI E1006 Knowledge of Python."
     ]
   },
   "CIEN_E4256": {
@@ -7323,7 +7345,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Basic linear algebra."
     ]
   },
   "CLYD_UN3500": {
@@ -7407,7 +7430,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENGI E1006) or (COMS W1002) or equivalent prior."
     ]
   },
   "COMS_W2702": {
@@ -7417,12 +7441,15 @@
     "title": "AI in Context",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "STAT_UN1201"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "COMS_W3134": {
     "id": "COMS_W3134",
@@ -7435,7 +7462,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W1004) or COMS W1004; Knowledge of Java."
     ]
   },
   "COMS_W3137": {
@@ -7449,7 +7477,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W1004) or (COMS W1007) COMS W1004 OR COMS."
     ]
   },
   "COMS_W3157": {
@@ -7463,7 +7492,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134) or (COMS W3137) COMS W3134 OR COMS."
     ]
   },
   "COMS_W3203": {
@@ -7477,7 +7507,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Any introductory course in computer programming."
     ]
   },
   "COMS_W3251": {
@@ -7501,12 +7532,15 @@
     "title": "COMPUTER SCIENCE THEORY",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "COMS_W3203"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "COMS_W4170": {
     "id": "COMS_W4170",
@@ -7519,7 +7553,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134 or COMS W3136 or COMS W3137) COMS."
     ]
   },
   "COMS_W4444": {
@@ -7533,7 +7568,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134 and COMS W3136) or (COMS W3137 and."
     ]
   },
   "COMS_W4460": {
@@ -7547,7 +7583,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134 or COMS W3136 or COMS W3137) Or."
     ]
   },
   "COMS_W4701": {
@@ -7561,7 +7598,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134 or COMS W3136 or COMS W3137) and."
     ]
   },
   "COMS_W4705": {
@@ -7575,7 +7613,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W3134 or COMS W3136 or COMS W3137) or."
     ]
   },
   "COMS_W4710": {
@@ -7589,7 +7628,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (COMS W2132) or (COMS W3134) or (COMS W3136) or."
     ]
   },
   "COMS_BC3420": {
@@ -7631,7 +7671,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): An introductory programming course."
     ]
   },
   "CSER_UN3940": {
@@ -7673,7 +7714,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): CHEN E3110 OR ENME E3161; or equiv, or instructors."
     ]
   },
   "EACE_E3255": {
@@ -7715,7 +7757,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): CHEM W1403 AND ENME E3161; or equiv, or instructors."
     ]
   },
   "EACH_E4560": {
@@ -7757,7 +7800,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (CHEM UN1404) or CHEM C1404; or equivalent."
     ]
   },
   "EAEE_E4001": {
@@ -7785,7 +7829,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (BMEB W4020) or (BMEE E4030) or (ECBM E4090) or."
     ]
   },
   "ECIA_W4100": {
@@ -8299,12 +8344,16 @@
     "title": "Introduction to Continuous Control Systems",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E3101",
+      "MATH_UN2030"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "EEME_E4601": {
     "id": "EEME_E4601",
@@ -8317,7 +8366,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (EEME E3601) or (EEME E6601)."
     ]
   },
   "ELEN_E1201": {
@@ -8327,12 +8377,15 @@
     "title": "INTRO-ELECTRICAL ENGINEERING",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MATH_UN1101"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E3081": {
     "id": "ELEN_E3081",
@@ -8373,7 +8426,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): probability theory, linear algebra."
     ]
   },
   "ENGI_E4502": {
@@ -8527,7 +8581,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (MATH UN1201) MATH V1201; ENME E3105."
     ]
   },
   "ENME_E3113": {
@@ -8541,7 +8596,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) or ENME E3105; or equivalent."
     ]
   },
   "ENME_E3114": {
@@ -8551,12 +8607,15 @@
     "title": "EXPERIMENTAL MECH OF MATERIALS",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3113"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ENME_E3161": {
     "id": "ENME_E3161",
@@ -8569,7 +8628,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) and ENME E3105; and ordinary differential."
     ]
   },
   "ENME_E3332": {
@@ -8583,7 +8643,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Senior standing or instructor's permission."
     ]
   },
   "ENME_E4113": {
@@ -8611,7 +8672,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate mechanics of solids course."
     ]
   },
   "ENME_E4117": {
@@ -8625,7 +8687,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Linear and tensor algebra."
     ]
   },
   "ENME_E4202": {
@@ -8639,7 +8702,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) or ENME E3105."
     ]
   },
   "ENME_E4214": {
@@ -8649,12 +8713,15 @@
     "title": "THEORY OF PLATES AND SHELLS",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3113"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ENME_E4215": {
     "id": "ENME_E4215",
@@ -9101,7 +9168,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Instructor's permission."
     ]
   },
   "IEME_E4505": {
@@ -9125,12 +9193,15 @@
     "title": "Data Engineering with Python",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENGI_E1006"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "IEOR_E2261": {
     "id": "IEOR_E2261",
@@ -9139,12 +9210,15 @@
     "title": "ACCOUNTING AND FINANCE",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ECON_UN1105"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "IEOR_E4003": {
     "id": "IEOR_E4003",
@@ -9157,7 +9231,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Probability theory and linear programming."
     ]
   },
   "IEOR_E4207": {
@@ -9199,7 +9274,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (IEOR E4004) or (IEOR E3608) IEOR E4004 OR IEOR E3608."
     ]
   },
   "IEOR_E4540": {
@@ -9213,7 +9289,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Linear Algebra, Calculus, Probability, and some basic."
     ]
   },
   "IEOR_E4998": {
@@ -9643,12 +9720,15 @@
     "title": "Intro to Combustion",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3301"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E3100": {
     "id": "MECE_E3100",
@@ -9657,12 +9737,15 @@
     "title": "INTRO TO MECHANCIS OF FLUIDS",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3105"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E3301": {
     "id": "MECE_E3301",
@@ -9703,7 +9786,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) and (MECE E3408) ENME E3105 AND MECE."
     ]
   },
   "MECE_E3414": {
@@ -9717,7 +9801,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Mechanics, linear algebra, ordinary differential equations."
     ]
   },
   "MECE_E4302": {
@@ -9727,12 +9812,15 @@
     "title": "ADVANCED THERMODYNAMICS",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3301"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4350": {
     "id": "MECE_E4350",
@@ -9755,12 +9843,15 @@
     "title": "Materials Selection for Mechanical Design",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3414"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E6102": {
     "id": "MECE_E6102",
@@ -9769,12 +9860,16 @@
     "title": "COMPUTATNL HEAT TRANSF-FL FLOW",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3100",
+      "MECE_E3311"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E6106": {
     "id": "MECE_E6106",
@@ -9927,7 +10022,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Probability and statistics, basic optimization e."
     ]
   },
   "PHIL_UN2685": {
@@ -10945,12 +11041,17 @@
     "title": "Statistical machine learning for genomics",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E2101",
+      "MATH_UN1202",
+      "MATH_UN2010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "IEOR_E3658": {
     "id": "IEOR_E3658",
@@ -10963,7 +11064,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): Calculus."
     ]
   },
   "APPH_E3300": {
@@ -10973,12 +11075,15 @@
     "title": "APPLIED ELECTROMAGNETISM",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E3102"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "APPH_E4010": {
     "id": "APPH_E4010",
@@ -10991,7 +11096,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective.",
+      "Prerequisite per bulletin (not auto-encoded): APMA E2000 AND MATH V1202 AND MATH V2030 AND."
     ]
   },
   "APPH_E4301": {
@@ -11029,12 +11135,15 @@
     "title": "TRANSPORT/CHEM RATE PHENOMENA",
     "credits": null,
     "category_tags": [],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E2101"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4020": {
     "id": "CHEN_E4020",
@@ -11328,6 +11437,485 @@
     "aliases": [],
     "notes": [
       "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MATH_UN1202": {
+    "id": "MATH_UN1202",
+    "subject": "MATH",
+    "number": "UN1202",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "APPH_E3100": {
+    "id": "APPH_E3100",
+    "subject": "APPH",
+    "number": "E3100",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): (PHYS UN1403) or PHYS W1403; APMA E3101; or."
+    ]
+  },
+  "IEOR_E4101": {
+    "id": "IEOR_E4101",
+    "subject": "IEOR",
+    "number": "E4101",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): Understanding of single- and multivariable calculus."
+    ]
+  },
+  "BMEN_E4501": {
+    "id": "BMEN_E4501",
+    "subject": "BMEN",
+    "number": "E4501",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "CIEN_E4145": {
+    "id": "CIEN_E4145",
+    "subject": "CIEN",
+    "number": "E4145",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "MECE_E1008": {
+    "id": "MECE_E1008",
+    "subject": "MECE",
+    "number": "E1008",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "IEOR_E4307": {
+    "id": "IEOR_E4307",
+    "subject": "IEOR",
+    "number": "E4307",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): probability, linear algebra."
+    ]
+  },
+  "PHYS_UN1011": {
+    "id": "PHYS_UN1011",
+    "subject": "PHYS",
+    "number": "UN1011",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "MECE_E6422": {
+    "id": "MECE_E6422",
+    "subject": "MECE",
+    "number": "E6422",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "APMA_E4200"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "ELEN_E4301": {
+    "id": "ELEN_E4301",
+    "subject": "ELEN",
+    "number": "E4301",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "APMA_E4200": {
+    "id": "APMA_E4200",
+    "subject": "APMA",
+    "number": "E4200",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): Course in ordinary differential equations."
+    ]
+  },
+  "IEOR_E4501": {
+    "id": "IEOR_E4501",
+    "subject": "IEOR",
+    "number": "E4501",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "IEOR_E4701": {
+    "id": "IEOR_E4701",
+    "subject": "IEOR",
+    "number": "E4701",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "STAT_GU4001"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "APPH_E4600": {
+    "id": "APPH_E4600",
+    "subject": "APPH",
+    "number": "E4600",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): (APPH E4010) or APPH E4010 OR APPH E4500; or."
+    ]
+  },
+  "APPH_E6335": {
+    "id": "APPH_E6335",
+    "subject": "APPH",
+    "number": "E6335",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "APPH_E4330",
+      "APPH_E4600"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "MATH_UN1201": {
+    "id": "MATH_UN1201",
+    "subject": "MATH",
+    "number": "UN1201",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "IEOR_E4523": {
+    "id": "IEOR_E4523",
+    "subject": "IEOR",
+    "number": "E4523",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): (IEOR E4501) Prior exposure to some programming."
+    ]
+  },
+  "CHEM_S2444": {
+    "id": "CHEM_S2444",
+    "subject": "CHEM",
+    "number": "S2444",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "MECE_E3420": {
+    "id": "MECE_E3420",
+    "subject": "MECE",
+    "number": "E3420",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): Senior standing."
+    ]
+  },
+  "APPH_E4300": {
+    "id": "APPH_E4300",
+    "subject": "APPH",
+    "number": "E4300",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "APPH_E3300"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "IEOR_E4700": {
+    "id": "IEOR_E4700",
+    "subject": "IEOR",
+    "number": "E4700",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): (IEOR E3106) or (IEOR E4106)."
+    ]
+  },
+  "MECE_E6100": {
+    "id": "MECE_E6100",
+    "subject": "MECE",
+    "number": "E6100",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "MATH_UN2030",
+      "MECE_E3100"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "SC_GU5401": {
+    "id": "SC_GU5401",
+    "subject": "SC",
+    "number": "GU5401",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "EESC_GU5400EE": {
+    "id": "EESC_GU5400EE",
+    "subject": "EESC",
+    "number": "GU5400EE",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "ELEN_E4321": {
+    "id": "ELEN_E4321",
+    "subject": "ELEN",
+    "number": "E4321",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "ENME_E4332": {
+    "id": "ENME_E4332",
+    "subject": "ENME",
+    "number": "E4332",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): Mechanics of solids, structural analysis, elementary."
+    ]
+  },
+  "CIEN_E4129": {
+    "id": "CIEN_E4129",
+    "subject": "CIEN",
+    "number": "E4129",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): Graduate standing in Civil Engineering, or instructor's."
+    ]
+  },
+  "IEOR_E6711": {
+    "id": "IEOR_E6711",
+    "subject": "IEOR",
+    "number": "E6711",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course.",
+      "Prerequisite per bulletin (not auto-encoded): (STAT GU4001) or STAT W4001; STAT GU4001 or."
+    ]
+  },
+  "ELEN_E3000": {
+    "id": "ELEN_E3000",
+    "subject": "ELEN",
+    "number": "E3000",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "APPH_E4330": {
+    "id": "APPH_E4330",
+    "subject": "APPH",
+    "number": "E4330",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [
+      "APPH_E4010"
+    ],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
+  },
+  "CHEN_E3220": {
+    "id": "CHEN_E3220",
+    "subject": "CHEN",
+    "number": "E3220",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
+    ]
+  },
+  "MATH_E1210": {
+    "id": "MATH_E1210",
+    "subject": "MATH",
+    "number": "E1210",
+    "title": null,
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
     ]
   }
 }

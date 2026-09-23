@@ -218,13 +218,17 @@
       "technical_elective",
       "thermo_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEE_E3010",
+      "MSAE_E3111"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Not currently offered"
     ],
-    "credits_source": "columbia_engineering_bulletin_2026_2027"
+    "credits_source": "columbia_engineering_bulletin_2026_2027",
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "APPH_3200": {
     "id": "APPH_3200",
@@ -755,7 +759,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) or BIOL C2005 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -778,7 +784,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) or BIOL C2005 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -884,7 +892,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) BIOL C2005 AND BIOL."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -907,7 +917,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) BIOL C2005 AND BIOL."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -946,7 +958,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -963,7 +977,11 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E2000",
+      "APMA_E2101",
+      "MATH_UN1202"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -973,7 +991,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "BMEN_E4150": {
     "id": "BMEN_E4150",
@@ -1008,7 +1027,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEM UN1404) and (MATH UN1202) BIOL C2005; or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1028,7 +1049,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) and (ENME E3113) and ENME E3105 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1070,7 +1093,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate-level course in mechanics e."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1087,14 +1112,18 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E2000",
+      "MATH_UN1202"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "BMEN_E4430": {
     "id": "BMEN_E4430",
@@ -1110,7 +1139,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (PHYS UN1403) and (APMA E2101) or APMA E2101 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1146,14 +1177,19 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "APMA_E2000",
+      "APMA_E2101",
+      "MATH_UN1202"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "BMEN_E4470": {
     "id": "BMEN_E4470",
@@ -1169,7 +1205,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Recommended: background in Python programming."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1212,7 +1250,11 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "BIOL_UN2005",
+      "BIOL_UN2006",
+      "BMEN_E4001"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -1222,7 +1264,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "BMEN_E4520": {
     "id": "BMEN_E4520",
@@ -1238,7 +1281,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Biology and Physiology."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1255,7 +1300,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "BMEN_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -1265,7 +1312,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "BMEN_E4535": {
     "id": "BMEN_E4535",
@@ -1303,7 +1351,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) or BIOL C2005 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1323,7 +1373,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (BIOL UN2005) and (BIOL UN2006) and (BMEN E4001) and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1343,7 +1395,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1480,7 +1534,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Elementary statistics, thermodynamics, some familiarity."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEE_E4252": {
@@ -1498,7 +1554,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "approved in July 2024"
+      "approved in July 2024",
+      "Prerequisite per bulletin (not auto-encoded): Elemental physical chemistry."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1627,7 +1684,9 @@
       "technical_elective",
       "transport_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEN_E3110"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
@@ -1639,7 +1698,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4112": {
     "id": "CHEN_E4112",
@@ -1653,14 +1713,18 @@
       "technical_elective",
       "transport_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEE_E3010",
+      "CHEN_E3110"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4120": {
     "id": "CHEN_E4120",
@@ -1700,7 +1764,8 @@
     "aliases": [],
     "notes": [
       "(graduate thermo class)",
-      "Graduate core class"
+      "Graduate core class",
+      "Prerequisite per bulletin (not auto-encoded): Successful completion of an undergraduate chemical."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1724,7 +1789,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Some knowledge of Python, elementary statistics,."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1768,7 +1835,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "(not being offered during 2026-2027 school during"
+      "(not being offered during 2026-2027 school during",
+      "Prerequisite per bulletin (not auto-encoded): Physical chemistry and a course in transport phenomena."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1789,7 +1857,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E3230) or Or Graduate Standing or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1835,7 +1905,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E3120) or CHEE E3010; or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -1859,7 +1931,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Not currently offered."
+      "Not currently offered.",
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E2100 and CHEE E3010 and CHEN E3110 and CHEN."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1881,7 +1954,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Graduate core class"
+      "Graduate core class",
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E3230) or Or instructor's permission."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1925,14 +1999,19 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEM_S2444",
+      "CHEM_UN1404",
+      "CHEN_E2100"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4400": {
     "id": "CHEN_E4400",
@@ -1948,7 +2027,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Used to be named Chemical process development"
+      "Used to be named Chemical process development",
+      "Prerequisite per bulletin (not auto-encoded): CHEN E2100 or Or equivalent or instructor's permission."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -1971,7 +2051,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E2100) and (CHEN E4140) CHEN E2100 AND CHEN."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2036,7 +2118,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E3110) or Instructor's Permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2081,7 +2165,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Physical chemistry or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2098,7 +2184,10 @@
       "technical_elective",
       "thermo_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEN_E3110",
+      "CHEN_E4620"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
@@ -2107,7 +2196,8 @@
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4660": {
     "id": "CHEN_E4660",
@@ -2123,7 +2213,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E3230) or Or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2165,7 +2257,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): CHEN E3230; CHEN E3230 or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2185,7 +2279,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate-level biology, organic chemistry and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2228,14 +2324,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEN_E3230"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4850": {
     "id": "CHEN_E4850",
@@ -2269,7 +2368,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): PHYS W1401 OR CHEE E3010; Or instructors approval."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2289,7 +2390,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Any quantitative undergraduate course with elements."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2310,7 +2413,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): A course in statistical mechanics or thermodynamics or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2349,7 +2454,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Thermodynamics any, or General Chemistry Students."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2388,7 +2495,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Instructors permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -2613,7 +2722,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3113"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -2623,7 +2734,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CIEN_E3260": {
     "id": "CIEN_E3260",
@@ -2678,7 +2790,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3106) or ENME E3106."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3452,7 +3566,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3580,14 +3696,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEE_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "EAEE_E4006": {
     "id": "EAEE_E4006",
@@ -3603,7 +3722,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3161) or ENME E3161; or equivalent or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3623,7 +3744,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3643,7 +3766,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (EAEE E4001) or EAEE E4001; or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3728,14 +3853,19 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEM_UN1403",
+      "CHEM_UN1404",
+      "MECE_E3301"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "EAEE_E4190": {
     "id": "EAEE_E4190",
@@ -3751,7 +3881,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Senior standing or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3794,7 +3926,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEE E3010) or CHEE E3010; or equivalent or instructors."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3814,7 +3948,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Basic linear algebra, basic probability and statistics, and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3831,14 +3967,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "EAEE_E3103"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "EAEE_E4228": {
     "id": "EAEE_E4228",
@@ -3892,7 +4031,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (STAT W4001 and ENGI E1006) or (IEOR E3658 and ENGI."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3912,7 +4053,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate level mathematics and science, or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3935,7 +4078,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate level math and science or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3955,7 +4100,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Calculus, basic inorganic chemistry and basic physics."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3975,7 +4122,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate level thermodynamics or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -3995,7 +4144,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3161) or ENME E3161; or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4018,7 +4169,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): One year of general college chemistry."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4064,7 +4217,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (EAEE E4901) and (EAEE E4003) and (CIEE E4252) or CIEE."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4084,7 +4239,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (EAEE E3112) and (CIEN E4241) or CIEN E4241; and EAEE."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4104,7 +4261,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): CIEE E4163 AND CIEE E4252; or the equivalent, or the."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4124,7 +4283,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (EAEE E4550) or EAEE E4550; or equivalent, or instructors."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4162,7 +4323,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Recommended preparation: ELEN E3106, ELEN E3331, and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4185,7 +4348,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3801) and (COMS W3134) or ELEN E3801 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4208,7 +4373,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Knowledge of programming or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -4960,7 +5127,10 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3106",
+      "ELEN_E3401"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -4970,7 +5140,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E3082": {
     "id": "ELEN_E3082",
@@ -5024,7 +5195,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MATH UN1201) or (APMA E2000)."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5044,7 +5217,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E1201"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5054,7 +5229,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E3331": {
     "id": "ELEN_E3331",
@@ -5067,14 +5243,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3201"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E3401": {
     "id": "ELEN_E3401",
@@ -5090,7 +5269,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MATH UN1201 or APMA E2000) and PHYS UN1402 or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5107,14 +5288,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3801"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E3801": {
     "id": "ELEN_E3801",
@@ -5155,7 +5339,8 @@
     "aliases": [],
     "notes": [
       "see advisor",
-      "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+      "Variable credit course (0.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more.",
+      "Prerequisite per bulletin (not auto-encoded): Requires approval by a faculty member who agrees to."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -5217,7 +5402,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Linear algebra, differential equations, and basic."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5237,7 +5424,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3201) and (ELEN E3801) or ELEN E3201 AND ELEN."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5257,7 +5446,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3331) and (ELEN E3801) ELEN E3331 AND ELEN."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5277,14 +5468,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E4312"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E4361": {
     "id": "ELEN_E4361",
@@ -5300,7 +5494,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3331) and (ELEN E3801) ELEN E3331 AND ELEN."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5323,7 +5519,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3401) or ELEN E3401; or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5343,7 +5541,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3401"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5353,7 +5553,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E4511": {
     "id": "ELEN_E4511",
@@ -5369,7 +5570,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3201) and (ELEN E3401) or ELEN E3201 AND ELEN."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5389,14 +5592,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3801"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E4702": {
     "id": "ELEN_E4702",
@@ -5412,7 +5618,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ELEN E3701) or ELEN E3701; or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5429,7 +5637,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E3801"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5439,7 +5649,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E4815": {
     "id": "ELEN_E4815",
@@ -5452,14 +5663,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "IEOR_E3658"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "ELEN_E4830": {
     "id": "ELEN_E4830",
@@ -5681,7 +5895,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "IEOR_E3658"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5692,7 +5908,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "IEOR_E3402": {
     "id": "IEOR_E3402",
@@ -5708,7 +5925,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (IEOR E3608) and (IEOR E3658) and IEOR E3608 AND IEOR."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026",
@@ -5729,7 +5948,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Knowledge of a programming language such as Python, C,."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026",
@@ -5747,7 +5968,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MATH_UN2010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5758,7 +5981,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MEBM_4439": {
     "id": "MEBM_4439",
@@ -5833,7 +6057,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3408"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5843,7 +6069,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E3430": {
     "id": "MECE_E3430",
@@ -5856,14 +6083,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3420"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E3450": {
     "id": "MECE_E3450",
@@ -5879,7 +6109,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (ENME E3105) and (ENME E3113) and (MECE E3408) and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -5896,14 +6128,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3113"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E3998": {
     "id": "MECE_E3998",
@@ -5921,7 +6156,8 @@
     "aliases": [],
     "notes": [
       "see advisor",
-      "Variable credit course (1.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+      "Variable credit course (1.00-3.00 points per bulletin); minimum applied by default, adjust via credit override if you take more.",
+      "Prerequisite per bulletin (not auto-encoded): Approval by faculty member who agrees to supervise the."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -5942,7 +6178,10 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ELEN_E1201",
+      "ELEN_E3000"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5952,7 +6191,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4211": {
     "id": "MECE_E4211",
@@ -5965,7 +6205,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3301"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -5975,7 +6217,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4212": {
     "id": "MECE_E4212",
@@ -6014,7 +6257,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MECE E3100) and (MECE E3311) MECE E3100 AND MECE."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6034,14 +6279,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E4212"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4305": {
     "id": "MECE_E4305",
@@ -6057,7 +6305,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MECE E3301) and (MECE E4306) or instructor approval."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6094,7 +6344,9 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MECE_E3311"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
@@ -6103,7 +6355,8 @@
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4313": {
     "id": "MECE_E4313",
@@ -6138,7 +6391,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MECE E3100) and (MECE E3301) and (MECE E3311) MECE."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6155,14 +6410,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "ENME_E3105"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MECE_E4520": {
     "id": "MECE_E4520",
@@ -6178,7 +6436,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Knowledge of basic computer programming e."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6224,7 +6484,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Manufacturing process, computer graphics, engineering."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6244,7 +6506,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Basic programming in any language."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6264,7 +6528,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Introductory course on manufacturing processes and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6284,7 +6550,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Introductory course on manufacturing processes, and heat."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6307,7 +6575,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Knowledge of basic computer programming e."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6330,7 +6600,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Introductory course in engineering materials and."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6397,7 +6669,10 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEM_UN1404",
+      "PHYS_UN1011"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
@@ -6407,7 +6682,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E3011": {
     "id": "MSAE_E3011",
@@ -6440,7 +6716,9 @@
       "natural_science_lab_option",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MSAE_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
@@ -6452,7 +6730,8 @@
     ],
     "terms_offered": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E3013": {
     "id": "MSAE_E3013",
@@ -6465,14 +6744,18 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MSAE_E3011",
+      "MSAE_E3012"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E3900": {
     "id": "MSAE_E3900",
@@ -6490,7 +6773,8 @@
     "aliases": [],
     "notes": [
       "see advisor",
-      "Variable credit course (0.00-4.00 points per bulletin); minimum applied by default, adjust via credit override if you take more."
+      "Variable credit course (0.00-4.00 points per bulletin); minimum applied by default, adjust via credit override if you take more.",
+      "Prerequisite per bulletin (not auto-encoded): Written permission from instructor and approval from."
     ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
@@ -6514,7 +6798,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (APPH E3100) and (MSAE E3010) or their equivalents with."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6534,7 +6820,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEM UN1403) and (PHYS UN1403) and (APMA E2101) or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6554,14 +6842,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MSAE_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E4105": {
     "id": "MSAE_E4105",
@@ -6577,7 +6868,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEM UN1404) or or equivalent undergraduate."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6597,7 +6890,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MSAE E4100) or MSAE E4100; or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6617,14 +6912,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MSAE_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E4202": {
     "id": "MSAE_E4202",
@@ -6637,14 +6935,17 @@
       "engineering_tech_elective",
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MSAE_E4201"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "MSAE_E4203": {
     "id": "MSAE_E4203",
@@ -6660,7 +6961,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): MSAE E4200 Or instructor's permission."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6680,7 +6983,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): PHYS W1401 AND PHYS C1402 AND PHYS W1403; or."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6700,7 +7005,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MSAE E3010) Recommended preparation: a course in."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6723,7 +7030,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MSAE E3010) and (MSAE E3013) Or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6746,7 +7055,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEM UN1403) and (MSAE E3010) or CHEM W1403 AND."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6769,7 +7080,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Introductory materials course or equivalent or instructor's."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6792,7 +7105,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (APPH E3100) or APPH E3100; or equivalent."
+    ],
     "credits_source": "columbia_engineering_bulletin_2026_2027",
     "terms_checked": [
       "Fall2026"
@@ -6913,12 +7228,15 @@
     "category_tags": [
       "technical_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEN_E3230"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [
       "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4410": {
     "id": "CHEN_E4410",
@@ -6949,7 +7267,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification.",
+      "Prerequisite per bulletin (not auto-encoded): Organic Chemistry Lab I, Undergraduate Organic Chemistry."
     ]
   },
   "CIEE_E3250": {
@@ -7026,7 +7345,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (MATH UN1201 or MATH UN1205 or APMA E2000) and."
+    ]
   },
   "EAEE_E4163": {
     "id": "EAEE_E4163",
@@ -7057,7 +7378,8 @@
     "corequisites": [],
     "aliases": [],
     "notes": [
-      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification."
+      "Added from the ChemE elective specialization course lists (bulletin, fetched 2026-09-18). Tech-elective sub-category (engineering vs. advanced STEM) not yet classified -- needs advisor verification.",
+      "Prerequisite per bulletin (not auto-encoded): Undergraduate level mathematics and science, or."
     ]
   },
   "EESC_GU4008": {
@@ -7152,6 +7474,8 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": []
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): MATH UN1101 and MATH UN1102 MATH V1101 AND."
+    ]
   }
 }

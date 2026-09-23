@@ -188,13 +188,16 @@
     "category_tags": [
       "math_elective"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "MATH_UN2030"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "APMA_E4150": {
     "id": "APMA_E4150",
@@ -208,7 +211,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Advanced calculus and course in basic analysis, or."
+    ],
     "terms_checked": [
       "Fall2026"
     ]
@@ -225,7 +230,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): or their equivalents."
+    ],
     "terms_checked": [
       "Fall2026"
     ],
@@ -623,7 +630,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): First-year chemistry and physics or equivalent."
+    ],
     "terms_checked": [
       "Fall2026"
     ],
@@ -664,7 +673,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Mechanics, Vector Calculus, Ordinary Differential Equations."
+    ],
     "terms_checked": [
       "Fall2026"
     ],
@@ -703,13 +714,16 @@
       "major_required",
       "chen_core"
     ],
-    "prerequisites": [],
+    "prerequisites": [
+      "CHEE_E3010"
+    ],
     "corequisites": [],
     "aliases": [],
     "notes": [],
     "terms_checked": [
       "Fall2026"
-    ]
+    ],
+    "prerequisites_source": "columbia_engineering_bulletin_2026_2027"
   },
   "CHEN_E4140": {
     "id": "CHEN_E4140",
@@ -724,7 +738,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEE E3010 and CHEN E2100 and CHEN E3110) and or."
+    ],
     "terms_checked": [
       "Fall2026"
     ]
@@ -742,7 +758,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): Material and energy balances."
+    ],
     "terms_checked": [
       "Fall2026"
     ],
@@ -763,7 +781,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E2100 and CHEN E3230 and CHEN E4300) or."
+    ],
     "terms_checked": [
       "Fall2026"
     ]
@@ -781,7 +801,9 @@
     "prerequisites": [],
     "corequisites": [],
     "aliases": [],
-    "notes": [],
+    "notes": [
+      "Prerequisite per bulletin (not auto-encoded): (CHEN E2100) and (CHEN E4140) CHEN E2100 AND CHEN."
+    ],
     "terms_checked": [
       "Fall2026"
     ],

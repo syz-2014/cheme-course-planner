@@ -117,11 +117,17 @@ courses. As of the last data pipeline run:
   in-app credit override (enter it once, it's remembered for the session
   and exported with the plan). This is treated as the intended long-term
   answer for the remainder, not a gap to keep chasing.
-- **Prerequisites: ~2% of the catalog** has prerequisite data -- only the
-  major-required courses that were hand-curated. Prerequisite checking is
-  real but only meaningfully exercised for those; electives largely won't
-  flag a prerequisite violation even if one exists. There's no
-  comprehensive source for this short of manual entry.
+- **Prerequisites: ~7% of the catalog** has prerequisite data -- the
+  hand-curated major-required courses, plus a bulletin-sourced backfill
+  (`scripts/backfill_prerequisites.py`) for courses whose "Prerequisites:
+  ..." clause named other courses unambiguously (AND-only, no "or"
+  between two real courses, no PDF line-wrap truncation). Deliberately
+  conservative: a course description with no clean course-code match
+  (prose like "Instructor's permission", an "or"-alternative between two
+  courses) is left with empty `prerequisites` and the raw clause
+  preserved as a note instead of guessed at -- a wrong prerequisite is
+  worse than a missing one. Same schedule-based ceiling as credits, so
+  most electives still won't flag a real violation.
 - **True cross-department cross-listing** (a course offered under two
   departments' subject codes) isn't available from any source reachable
   without a Columbia login (Vergil is UNI-gated); the `aliases` mechanism
@@ -168,6 +174,13 @@ whatever it covers.
 - `scripts/fetch_offering_terms.py` + `scripts/backfill_terms.py` -- same
   idea for `terms_offered`/`terms_checked`, also via the Directory of
   Classes.
+- `scripts/backfill_prerequisites.py` -- fills missing `prerequisites`
+  from the Engineering Bulletin PDF's "Prerequisites: ..." clauses. Adds
+  any referenced course that's a real, current Columbia course simply
+  missing from our scoped catalog; retired pre-2015 course codes (single-
+  letter V/C/W prefixes) are remapped to their modern UN/GU equivalent
+  when one exists in the catalog, and left unresolved (note only) when it
+  doesn't, rather than inventing an unsatisfiable phantom prerequisite.
 - `scripts/add_specialization_data.py` -- writes `data/concentrations.json`
   (ChemE's 4 elective specializations) from the ChemE bulletin page, and
   adds any course catalog entries they reference that were missing.
