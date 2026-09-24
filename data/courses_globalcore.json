@@ -11917,5 +11917,159 @@
     "notes": [
       "Added as a prerequisite referenced by another course (Engineering Bulletin, fetched 2026-09-18); not itself confirmed as a ChemE-relevant course."
     ]
+  },
+  "APMA_E4007": {
+    "id": "APMA_E4007",
+    "subject": "APMA",
+    "number": "E4007",
+    "title": "APPLIED LINEAR ALGEBRA",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MATH_UN3028": {
+    "id": "MATH_UN3028",
+    "subject": "MATH",
+    "number": "UN3028",
+    "title": "PARTIAL DIFFERENTIAL EQUATIONS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APMA_E4101": {
+    "id": "APMA_E4101",
+    "subject": "APMA",
+    "number": "E4101",
+    "title": "APPL MATH III:DYNAMICAL SYSTMS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APMA_E4301": {
+    "id": "APMA_E4301",
+    "subject": "APMA",
+    "number": "E4301",
+    "title": "NUMERICAL METHODS/PDE'S",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "MATH_UN2500": {
+    "id": "MATH_UN2500",
+    "subject": "MATH",
+    "number": "UN2500",
+    "title": "ANALYSIS AND OPTIMIZATION",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4901": {
+    "id": "APPH_E4901",
+    "subject": "APPH",
+    "number": "E4901",
+    "title": "SEM-PROBLMS IN APPLIED PHYSICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E3200": {
+    "id": "APPH_E3200",
+    "subject": "APPH",
+    "number": "E3200",
+    "title": "MECHANICS:FUND & APPLICATIONS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4100": {
+    "id": "APPH_E4100",
+    "subject": "APPH",
+    "number": "E4100",
+    "title": "QUANTUM PHYSICS OF MATTER",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4110": {
+    "id": "APPH_E4110",
+    "subject": "APPH",
+    "number": "E4110",
+    "title": "MODERN OPTICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "APPH_E4112": {
+    "id": "APPH_E4112",
+    "subject": "APPH",
+    "number": "E4112",
+    "title": "LASER PHYSICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
+  },
+  "SIEO_W3600": {
+    "id": "SIEO_W3600",
+    "subject": "SIEO",
+    "number": "W3600",
+    "title": "INTRO PROBABILITY/STATISTICS",
+    "credits": null,
+    "category_tags": [],
+    "prerequisites": [],
+    "corequisites": [],
+    "aliases": [],
+    "notes": [
+      "Added from a Columbia Engineering undergraduate minor's course list (bulletin, fetched 2026-09-18). Not a ChemE technical elective."
+    ]
   }
 }

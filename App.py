@@ -9,6 +9,11 @@ from src.validator import (
     SEMESTER_CREDIT_MIN, SEMESTER_CREDIT_MAX,
     build_alias_index, resolve_course_id
 )
+from src.plan_io import (
+    plan_to_json_bytes, plan_from_json_bytes,
+    plan_to_csv_bytes, plan_from_csv_bytes,
+    plan_to_xlsx_bytes, plan_from_xlsx_bytes,
+)
 
 TECH_REQUIREMENTS = {
     "thermo": {
@@ -44,7 +49,15 @@ TAG_LABELS = {
 
 st.set_page_config(page_title="ChemE Course Planner", layout="wide")
 
-courses, requirements, template, nontech_rules, concentrations, minors, minor_global_rules = load_all_data()
+_data = load_all_data()
+courses = _data["courses"]
+requirements = _data["requirements"]
+template = _data["template"]
+nontech_rules = _data["nontech_rules"]
+concentrations = _data["concentrations"]
+minors = _data["minors"]
+minor_global_rules = _data["minor_global_rules"]
+ap_credit_chart = _data["ap_credit_chart"]
 
 st.title("Columbia Chemical Engineering Course Planner")
 
@@ -125,6 +138,77 @@ def course_box(course_id):
 
 course_options = sorted(courses.keys())
 
+
+def format_course_list(course_ids):
+    return ", ".join(format_course_option(c) for c in course_ids)
+
+
+with st.expander("Requirements Reference: Math, Physics, Chemistry, Advanced STEM, AP Credit"):
+    st.caption(
+        "What actually satisfies each requirement, straight from the source -- "
+        "useful while planning, independent of validating a specific plan."
+    )
+
+    math_req = requirements["requirements"]["math_foundation"]
+    st.markdown("**Math Foundation**")
+    st.write("Required: " + format_course_list(math_req["required_courses"]))
+    st.write("Choose one of: " + format_course_list(math_req["choose_one_of"]))
+    if math_req.get("source_url"):
+        st.markdown(f"[View official requirement]({math_req['source_url']})")
+
+    st.divider()
+
+    physics_req = requirements["requirements"]["physics_requirement"]
+    st.markdown("**Physics Requirement** (choose one full sequence)")
+    for i, sequence in enumerate(physics_req["sequences"], start=1):
+        st.write(f"Sequence {i}: " + format_course_list(sequence))
+    if physics_req.get("source_url"):
+        st.markdown(f"[View official requirement]({physics_req['source_url']})")
+
+    st.divider()
+
+    chem_req = requirements["requirements"]["chemistry_requirement"]
+    st.markdown("**Chemistry Requirement** (choose one full sequence)")
+    for i, sequence in enumerate(chem_req["sequences"], start=1):
+        st.write(f"Sequence {i}: " + format_course_list(sequence))
+    if chem_req.get("source_url"):
+        st.markdown(f"[View official requirement]({chem_req['source_url']})")
+
+    st.divider()
+
+    st.markdown("**Advanced STEM Technical Electives** (2 required)")
+    advanced_stem_courses = sorted(
+        cid for cid, c in courses.items()
+        if "advanced_stem_tech_elective" in c.get("category_tags", [])
+    )
+    if st.checkbox(f"Show all {len(advanced_stem_courses)} courses currently tagged in the catalog"):
+        st.write(format_course_list(advanced_stem_courses))
+    tech_elective_req = requirements["requirements"]["technical_electives"]
+    if tech_elective_req.get("source_url"):
+        st.markdown(f"[View official requirement]({tech_elective_req['source_url']})")
+
+    st.divider()
+
+    st.markdown("**AP / IB / A-Level Credit Chart**")
+    st.caption(
+        "Reference only -- several rows are contingent on the grade earned in a "
+        "specific follow-on course, which this app can't verify, so nothing here "
+        "is applied automatically. Use the AP/Placement/Transfer/Waiver field "
+        "below to mark a course as satisfied once you know your own credit applies."
+    )
+    for note in ap_credit_chart.get("notes", []):
+        st.caption(f"- {note}")
+    st.table([
+        {
+            "Subject": row["subject"], "Score": row["score"],
+            "Points": row["credit_points"], "Notes": row["note"]
+        }
+        for row in ap_credit_chart["chart"]
+    ])
+    if ap_credit_chart.get("source_url"):
+        st.markdown(f"[View official AP Credit Chart]({ap_credit_chart['source_url']})")
+
+
 st.sidebar.header("Planner Settings")
 
 show_sequence_graph = st.sidebar.checkbox(
@@ -144,22 +228,39 @@ if "saved_credit_overrides" not in st.session_state:
 # -----------------------------
 st.sidebar.subheader("Save / Load Plan")
 
-export_payload = {
-    "plan": st.session_state.plan,
-    "credit_overrides": st.session_state.saved_credit_overrides,
-    "prerequisite_overrides": st.session_state.get("prerequisite_overrides", [])
-}
-
-st.sidebar.download_button(
-    "Download plan as JSON",
-    data=json.dumps(export_payload, indent=2),
-    file_name="cheme_course_plan.json",
-    mime="application/json"
+export_format = st.sidebar.radio(
+    "Export format", ["JSON", "CSV", "Excel"], horizontal=True
 )
 
+_export_plan = st.session_state.plan
+_export_credit_overrides = st.session_state.saved_credit_overrides
+_export_prereq_overrides = st.session_state.get("prerequisite_overrides", [])
+
+if export_format == "JSON":
+    st.sidebar.download_button(
+        "Download plan",
+        data=plan_to_json_bytes(_export_plan, _export_credit_overrides, _export_prereq_overrides),
+        file_name="cheme_course_plan.json",
+        mime="application/json"
+    )
+elif export_format == "CSV":
+    st.sidebar.download_button(
+        "Download plan",
+        data=plan_to_csv_bytes(_export_plan, _export_credit_overrides, _export_prereq_overrides, courses),
+        file_name="cheme_course_plan.csv",
+        mime="text/csv"
+    )
+else:
+    st.sidebar.download_button(
+        "Download plan",
+        data=plan_to_xlsx_bytes(_export_plan, _export_credit_overrides, _export_prereq_overrides, courses),
+        file_name="cheme_course_plan.xlsx",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    )
+
 uploaded_plan = st.sidebar.file_uploader(
-    "Upload a saved plan (JSON)",
-    type="json"
+    "Upload a saved plan (JSON, CSV, or Excel)",
+    type=["json", "csv", "xlsx"]
 )
 
 if uploaded_plan is not None:
@@ -167,18 +268,28 @@ if uploaded_plan is not None:
     file_hash = hashlib.sha256(file_bytes).hexdigest()
 
     if st.session_state.get("_last_imported_plan_hash") != file_hash:
-        try:
-            imported = json.loads(file_bytes)
-        except json.JSONDecodeError:
-            imported = None
-            st.sidebar.error("That file isn't valid JSON.")
+        suffix = uploaded_plan.name.rsplit(".", 1)[-1].lower()
+        semesters = list(st.session_state.plan.keys())
 
-        if imported is not None:
-            imported_plan = imported.get("plan", {})
+        try:
+            if suffix == "json":
+                imported_plan, imported_credit_overrides, imported_prereq_overrides = \
+                    plan_from_json_bytes(file_bytes)
+            elif suffix == "csv":
+                imported_plan, imported_credit_overrides, imported_prereq_overrides = \
+                    plan_from_csv_bytes(file_bytes, semesters)
+            else:
+                imported_plan, imported_credit_overrides, imported_prereq_overrides = \
+                    plan_from_xlsx_bytes(file_bytes, semesters)
+        except (json.JSONDecodeError, ValueError, KeyError) as e:
+            imported_plan = None
+            st.sidebar.error(f"Couldn't read that file: {e}")
+
+        if imported_plan is not None:
             dropped_courses = []
             alias_index = build_alias_index(courses)
 
-            for semester in st.session_state.plan.keys():
+            for semester in semesters:
                 raw_courses = imported_plan.get(semester, [])
                 resolved_courses = [
                     resolve_course_id(c, courses, alias_index) for c in raw_courses
@@ -191,10 +302,9 @@ if uploaded_plan is not None:
                 st.session_state.plan[semester] = valid_courses
                 st.session_state[semester] = valid_courses
 
-            st.session_state.saved_credit_overrides = imported.get("credit_overrides", {})
+            st.session_state.saved_credit_overrides = imported_credit_overrides
             st.session_state["prerequisite_overrides"] = [
-                c for c in imported.get("prerequisite_overrides", [])
-                if c in course_options
+                c for c in imported_prereq_overrides if c in course_options
             ]
             st.session_state["_last_imported_plan_hash"] = file_hash
 
@@ -450,6 +560,9 @@ if st.button("Validate Plan"):
         st.success("No major validation errors found.")
 
     st.subheader("Foundational Requirements")
+    _foundation_source = requirements["requirements"]["math_foundation"].get("source_url")
+    if _foundation_source:
+        st.caption(f"[Official requirement source]({_foundation_source})")
 
     math_foundation = progress.get("math_foundation_requirement", {})
     if math_foundation.get("completed"):
@@ -492,6 +605,9 @@ if st.button("Validate Plan"):
         st.success("Physical education requirement satisfied.")
 
     st.subheader("Technical Elective Breakdown")
+    _tech_source = requirements["requirements"]["technical_electives"].get("source_url")
+    if _tech_source:
+        st.caption(f"[Official requirement source]({_tech_source})")
 
     tech = progress.get("tech_breakdown", {})
 
@@ -533,6 +649,10 @@ if st.button("Validate Plan"):
                 f"-- {required - completed} more course(s) needed."
             )
 
+        _conc_source = concentrations.get(conc_id, {}).get("source_url")
+        if _conc_source:
+            st.caption(f"[Official requirement source]({_conc_source})")
+
     if selected_minor_ids:
         st.subheader("Minors (Optional)")
         st.caption(
@@ -550,6 +670,9 @@ if st.button("Validate Plan"):
                 continue
 
             st.markdown(f"**{status['name']}**")
+            _minor_source = minors.get(minor_id, {}).get("source_url")
+            if _minor_source:
+                st.caption(f"[Official requirement source]({_minor_source})")
 
             if status["unstructured"]:
                 st.info(status["description"])
@@ -589,6 +712,9 @@ if st.button("Validate Plan"):
                         st.caption(f"- {note}")
 
     st.subheader("Nontechnical Requirement")
+    _nontech_source = requirements["requirements"]["nontechnical_requirement"].get("source_url")
+    if _nontech_source:
+        st.caption(f"[Official requirement source]({_nontech_source})")
 
     nontech_credits = progress.get("nontech_credits", 0)
 

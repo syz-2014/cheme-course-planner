@@ -66,14 +66,15 @@ def test_merge_courses_fills_missing_credits_from_duplicate():
 
 
 def test_load_all_data_returns_nonempty_real_catalogs():
-    courses, requirements, template, nontech_rules, concentrations, minors, minor_global_rules = load_all_data()
+    data = load_all_data()
 
-    assert len(courses) > 0
-    assert "requirements" in requirements
-    assert "semesters" in template
-    assert len(concentrations) == 4
-    assert len(minors) > 0
-    assert "credits_min" in minor_global_rules
+    assert len(data["courses"]) > 0
+    assert "requirements" in data["requirements"]
+    assert "semesters" in data["template"]
+    assert len(data["concentrations"]) == 4
+    assert len(data["minors"]) > 0
+    assert "credits_min" in data["minor_global_rules"]
+    assert "chart" in data["ap_credit_chart"]
 
 
 def test_known_alias_resolves_to_canonical_course_in_real_data(real_data):

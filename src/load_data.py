@@ -63,6 +63,12 @@ def merge_courses(base, new):
     return base
 
 def load_all_data():
+    """Returns a dict (not a positional tuple -- this keeps growing as new
+    reference data gets added, and a positional unpack is an easy way to
+    silently mismatch fields):
+      courses, requirements, template, nontech_rules, concentrations,
+      minors, minor_global_rules, ap_credit_chart
+    """
     courses = {}
 
     # Load core first and protect it
@@ -70,12 +76,15 @@ def load_all_data():
     courses = merge_courses(courses, load_json("courses_tech_electives.json"))
     courses = merge_courses(courses, load_json("courses_globalcore.json"))
 
-    requirements = load_json("requirements.json")
-    template = load_json("template.json")
-    nontech_rules = load_json("nontech_rules.json")
-    concentrations = load_json("concentrations.json")["concentrations"]
     minors_data = load_json("minors.json")
-    minors = minors_data["minors"]
-    minor_global_rules = minors_data["global_rules"]
 
-    return courses, requirements, template, nontech_rules, concentrations, minors, minor_global_rules
+    return {
+        "courses": courses,
+        "requirements": load_json("requirements.json"),
+        "template": load_json("template.json"),
+        "nontech_rules": load_json("nontech_rules.json"),
+        "concentrations": load_json("concentrations.json")["concentrations"],
+        "minors": minors_data["minors"],
+        "minor_global_rules": minors_data["global_rules"],
+        "ap_credit_chart": load_json("ap_credit_chart.json"),
+    }

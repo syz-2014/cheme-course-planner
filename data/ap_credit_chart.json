@@ -1,0 +1,162 @@
+{
+  "source_url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/first-year-sophomore-program/",
+  "max_total_points": 16,
+  "notes": [
+    "A maximum of 16 points of AP/IB/A-level credit total may be applied toward the degree.",
+    "AP credit in appropriate subject areas can be applied toward the 9-point elective nontechnical requirement and for Principles of Economics.",
+    "AP credits may be applied toward minor requirements depending on the specific rules of the minor; when allowed, only one course per minor may be replaced by AP credit.",
+    "Students majoring in Chemical Engineering or Materials Science must complete both the Chemistry and Physics labs regardless of AP credit earned."
+  ],
+  "chart": [
+    {
+      "subject": "Art History",
+      "score": "5",
+      "credit_points": 3,
+      "note": "No exemption from HUMA UN1121"
+    },
+    {
+      "subject": "Biology",
+      "score": "5",
+      "credit_points": 3,
+      "note": "No exemption"
+    },
+    {
+      "subject": "Chemistry",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Requires completion of CHEM UN1604 with grade of C or better"
+    },
+    {
+      "subject": "Chemistry",
+      "score": "4 or 5",
+      "credit_points": 6,
+      "note": "Requires completion of CHEM UN2045-CHEM UN2046 with grade of C or better"
+    },
+    {
+      "subject": "Computer Science A",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Exemption from COMS W1004"
+    },
+    {
+      "subject": "Computer Principles",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Exemption from COMS W1001"
+    },
+    {
+      "subject": "Economics Micro & Macro",
+      "score": "5 and 4",
+      "credit_points": 4,
+      "note": "Exemption from ECON UN1105. Exams must be taken in both micro and macro, with a score of 5 in one and at least a 4 in the other."
+    },
+    {
+      "subject": "English Language and Composition",
+      "score": "5",
+      "credit_points": 3,
+      "note": "No exemption"
+    },
+    {
+      "subject": "English Literature and Composition",
+      "score": "5",
+      "credit_points": 3,
+      "note": "No exemption"
+    },
+    {
+      "subject": "French",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "German Language",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "Government and Politics United States",
+      "score": "5",
+      "credit_points": 4,
+      "note": "Exemption from POLS UN2201"
+    },
+    {
+      "subject": "Government and Politics Comparative",
+      "score": "5",
+      "credit_points": 4,
+      "note": "Exemption from POLS UN2501"
+    },
+    {
+      "subject": "History European",
+      "score": "5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "History United States",
+      "score": "5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "Italian Language",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "Latin Literature",
+      "score": "5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "Mathematics Calculus AB",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Requires completion of MATH UN1102 with a grade of C or better. Credit is reduced to 0 if MATH UN1101 is taken."
+    },
+    {
+      "subject": "Mathematics Calculus BC",
+      "score": "4",
+      "credit_points": 3,
+      "note": "Requires completion of MATH UN1102 with a grade of C or better. Credit is reduced to 0 if MATH UN1101 is taken."
+    },
+    {
+      "subject": "Mathematics Calculus BC",
+      "score": "5",
+      "credit_points": 6,
+      "note": "Requires completion of APMA E2000 with a grade of C or better. Credit is reduced to 0 if MATH UN1101 is taken, or to 3 if MATH UN1102 is taken."
+    },
+    {
+      "subject": "Physics C-E&M",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Maximum of six credits combined with Physics C-Mech. Credit is reduced to 0 if PHYS UN1401 or 1601 is taken, or if PHYS UN2801 is taken with a final grade of C- or lower."
+    },
+    {
+      "subject": "Physics C-Mech",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "Credit is reduced to 0 if PHYS UN1401 or 1601 is taken, or if PHYS UN2801 is taken with a final grade of C- or lower."
+    },
+    {
+      "subject": "Physics 1 and 2",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": "No exemption. Both AP Physics 1 and 2 must be taken to receive credit."
+    },
+    {
+      "subject": "Spanish Language",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": ""
+    },
+    {
+      "subject": "Spanish Literature",
+      "score": "4 or 5",
+      "credit_points": 3,
+      "note": ""
+    }
+  ]
+}

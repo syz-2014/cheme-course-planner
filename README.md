@@ -51,12 +51,18 @@ Actions (`.github/workflows/tests.yml`).
   violations, semesters under/over the SEAS full-time credit range
   (12-21 credits), and courses scheduled in a semester their published
   offering pattern doesn't match.
-- Save/load a plan as a JSON file (there's no backend, so this is how a
-  plan survives between sessions).
+- Save/load a plan as JSON, CSV, or Excel (there's no backend, so this is
+  how a plan survives between sessions) -- pick the format from a radio
+  button; import auto-detects it from the uploaded file's extension.
 - Track progress toward ChemE's 4 elective specializations (shown
-  automatically) and toward any of Columbia Engineering's 44 minors
+  automatically) and toward any of Columbia Engineering's 49 minors
   (pick which ones to track from a sidebar list) -- both purely
   informational, neither gates graduation in this app.
+- A "Requirements Reference" panel lists the actual courses behind math
+  foundation, physics, chemistry, and Advanced STEM technical electives,
+  plus Columbia's official AP/IB/A-level credit chart -- each with a link
+  to the bulletin page it's sourced from. Every requirement, concentration,
+  and minor result in the Validation Results also links to its own source.
 
 ## Architecture
 
@@ -105,6 +111,13 @@ Each course entry may carry:
   requirement kicks in.
 - `credits_source` -- which backfill pass supplied a missing credit value.
 
+Requirements, concentrations, and minors also carry a `source_url` field
+pointing at the bulletin page they were transcribed from, added by
+`scripts/add_source_links.py`. `data/ap_credit_chart.json` (same script)
+is Columbia Engineering's official AP/IB/A-level credit chart -- reference
+data only, since several rows are contingent on a grade in a specific
+follow-on course, which this app has no way to verify.
+
 ### Known data coverage limits
 
 Both the credit and offering-term backfills are sourced from *schedule*
@@ -147,8 +160,8 @@ courses. As of the last data pipeline run:
 confidence -- sourced from a single clean bulletin table each, fully
 structured, every referenced course resolves.
 
-`data/minors.json` (all 44 non-ChemE Engineering minors) is a first pass,
-not verified against advisors. 38 of 44 have a real group-based structure
+`data/minors.json` (all 49 non-ChemE Engineering minors) is a first pass,
+not verified against advisors. 43 of 49 have a real group-based structure
 (required courses, choose-one/choose-N, subject/level-range rules); 6
 (Aerospace, Architecture, Art History, Catalan, Greek/Latin, MESAAS) have
 requirements that don't reduce to a checkable rule at all and are marked
@@ -184,9 +197,11 @@ whatever it covers.
 - `scripts/add_specialization_data.py` -- writes `data/concentrations.json`
   (ChemE's 4 elective specializations) from the ChemE bulletin page, and
   adds any course catalog entries they reference that were missing.
-- `scripts/add_minors_data.py` -- writes `data/minors.json` (all 44
+- `scripts/add_minors_data.py` -- writes `data/minors.json` (all 49
   non-ChemE Engineering minors) from each minor's own bulletin page, same
   missing-course backfill as above.
+- `scripts/add_source_links.py` -- adds `source_url` to every requirement,
+  concentration, and minor, and writes `data/ap_credit_chart.json`.
 
 ## Project structure
 
@@ -195,6 +210,7 @@ App.py                   Streamlit UI
 src/
   load_data.py            Loads + merges the course catalogs
   validator.py             Validation engine
+  plan_io.py               Plan <-> JSON/CSV/Excel bytes (save/load)
 data/
   courses_core.json
   courses_tech_electives.json
@@ -202,7 +218,8 @@ data/
   requirements.json        Degree requirement definitions
   nontech_rules.json       Nontechnical-elective subject policy
   concentrations.json      ChemE's 4 elective specializations
-  minors.json              All 44 non-ChemE Engineering minors
+  minors.json              All 49 non-ChemE Engineering minors
+  ap_credit_chart.json     Official AP/IB/A-level credit chart (reference only)
   template.json            Default 8-semester plan skeleton
   sample_valid_plan.json   Fixture plan
   raw/                     Source documents + pipeline caches

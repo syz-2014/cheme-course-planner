@@ -295,7 +295,7 @@ def main():
           f"bulletin ({len(ok_results)} auto-encodable, "
           f"{len(bulletin_prereqs) - len(ok_results)} left as notes only).\n")
 
-    courses, *_ = load_all_data()
+    courses = load_all_data()["courses"]
     alias_index = build_alias_index(courses)
     all_codes = {code for ids, _ in ok_results.values() for code in ids}
 

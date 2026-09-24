@@ -25,7 +25,8 @@
       ],
       "notes": [
         "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
-      ]
+      ],
+      "source_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/chemical-engineering-bs/#curriculumtext"
     },
     "biotech_biopharma": {
       "id": "biotech_biopharma",
@@ -58,7 +59,8 @@
       ],
       "notes": [
         "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
-      ]
+      ],
+      "source_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/chemical-engineering-bs/#curriculumtext"
     },
     "climate_environment_energy": {
       "id": "climate_environment_energy",
@@ -96,7 +98,8 @@
       ],
       "notes": [
         "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked)."
-      ]
+      ],
+      "source_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/chemical-engineering-bs/#curriculumtext"
     },
     "data_computational_science": {
       "id": "data_computational_science",
@@ -122,7 +125,8 @@
       "notes": [
         "Courses taken P/F do not count towards specializations (not enforced here -- grades aren't tracked).",
         "Per the bulletin: ORCA_E2500, STAT_GU4001, COMS_W4721, and COMS_W4771 cannot be counted as technical electives, but may be used for the math elective requirement instead."
-      ]
+      ],
+      "source_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/chemical-engineering-bs/#curriculumtext"
     }
   }
 }

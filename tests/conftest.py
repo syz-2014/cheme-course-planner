@@ -18,14 +18,8 @@ def real_data():
     Anything testing validator *logic* in general should build its own
     small synthetic catalog instead, so it can't be broken by an
     unrelated future data change."""
-    courses, requirements, template, nontech_rules, concentrations, minors, minor_global_rules = load_all_data()
-    return {
-        "sample_plan": json.loads((PROJECT_ROOT / "data" / "sample_valid_plan.json").read_text())["semesters"],
-        "courses": courses,
-        "requirements": requirements,
-        "template": template,
-        "nontech_rules": nontech_rules,
-        "concentrations": concentrations,
-        "minors": minors,
-        "minor_global_rules": minor_global_rules,
-    }
+    data = load_all_data()
+    data["sample_plan"] = json.loads(
+        (PROJECT_ROOT / "data" / "sample_valid_plan.json").read_text()
+    )["semesters"]
+    return data

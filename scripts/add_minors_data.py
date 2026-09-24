@@ -660,6 +660,91 @@ MINORS = {
              "notes": ["Also allows courses cross-listed at ISSG, not enumerated here."]}
         ],
         "notes": ["Five courses, 15-20 points total.", "No prerequisites; the required course may be taken concurrently with electives."]
+    },
+    "applied_mathematics": {
+        "id": "applied_mathematics", "name": "Applied Mathematics Minor",
+        "groups": [
+            {"label": "Linear Algebra", "type": "choose_one_of",
+             "options": ["APMA_E3101", "MATH_UN2010", "COMS_W3251", "APMA_E4007"]},
+            {"label": "PDE or Dynamical Systems", "type": "choose_one_of",
+             "options": ["APMA_E3102", "MATH_UN3028", "APMA_E4101"]},
+            {"label": "Scientific Computing", "type": "choose_one_of",
+             "options": ["APMA_E4300", "APMA_E4301"]},
+            {"label": "An Additional APMA Course", "type": "free_form",
+             "description": "Any non-seminar APMA 3000+ course not counted above."},
+            {"label": "An Additional Applied Math Major Course", "type": "choose_one_of",
+             "options": ["MATH_UN2500", "IEOR_E3658"],
+             "notes": ["May be replaced with any non-seminar APMA 3000+, MATH 3000+, or STAT 4000+ course not counted above."]}
+        ],
+        "notes": ["Five courses total."]
+    },
+    "applied_physics": {
+        "id": "applied_physics", "name": "Applied Physics Minor",
+        "groups": [
+            {"label": "Required courses", "type": "all_of",
+             "options": ["APPH_E4901", "APPH_E3200", "APPH_E3100", "APPH_E3300", "MSAE_E3111"]},
+            {"label": "Choose two", "type": "choose_n_of", "count": 2, "options": [
+                "APPH_E4010", "APPH_E4100", "APPH_E4110", "APPH_E4112", "APPH_E4300", "APPH_E4301"
+            ]}
+        ],
+        "notes": [
+            "Coursework counting toward this minor may not include AP credit.",
+            "Prospective students should consult the first- and second-year requirements for "
+            "Applied Physics majors to ensure prerequisites are satisfied in the first two years."
+        ]
+    },
+    "economics": {
+        "id": "economics", "name": "Economics Minor",
+        "groups": [
+            {"label": "Required courses", "type": "all_of",
+             "options": ["ECON_UN1105", "ECON_UN3211", "ECON_UN3213", "ECON_UN3412"]},
+            {"label": "Electives (choose 2)", "type": "choose_n_of", "count": 2, "options": [
+                "ECON_UN2105", "ECON_UN2257", "ECON_UN3025", "ECON_UN3265", "ECON_UN3901",
+                "ECON_UN3952", "ECON_GU4020", "ECON_GU4211", "ECON_GU4213", "ECON_GU4230",
+                "ECON_GU4251", "ECON_GU4260", "ECON_GU4280", "ECON_GU4301", "ECON_GU4321",
+                "ECON_GU4370", "ECON_GU4400", "ECON_GU4412", "ECON_GU4413", "ECON_GU4415",
+                "ECON_GU4438", "ECON_GU4465", "ECON_GU4480", "ECON_GU4500", "ECON_GU4505",
+                "ECON_GU4700", "ECON_GU4710", "ECON_GU4750", "ECON_GU4840", "ECON_GU4850", "ECON_GU4860"
+            ]},
+            {"label": "Probability and Statistics (choose one course or sequence)", "type": "choose_one_of",
+             "options": ["SIEO_W3600", "STAT_GU4001"],
+             "notes": ["Sequences also accepted: IEOR_E3658 & IEOR_E4307; STAT_GU4203 & STAT_GU4204; "
+                       "STAT_GR5203 & STAT_GR5204 -- sequence pairs not individually modeled here."]}
+        ],
+        "notes": [
+            "ECON_UN1105 is a prerequisite for ECON_UN3211, ECON_UN3213, and ECON_UN3412.",
+            "Electives may only be taken after completing ECON_UN3211 and ECON_UN3213, except "
+            "ECON_UN2257/ECON_UN2105.",
+            "Some economics minor courses may count toward the nontechnical requirement; "
+            "ECON_UN3412 may not.",
+            "AP credit with an ECON_UN1105 exemption may count toward the minor. Transfer/study "
+            "abroad credit may not."
+        ]
+    },
+    "electrical_engineering": {
+        "id": "electrical_engineering", "name": "Electrical Engineering Minor",
+        "groups": [
+            {"label": "Required courses", "type": "all_of", "options": [
+                "ELEN_E1201", "ELEN_E3201", "CSEE_W3827", "ELEN_E3081", "ELEN_E3082", "ELEN_E3801"
+            ]},
+            {"label": "Choose one", "type": "choose_one_of", "options": ["ELEN_E3106", "ELEN_E3401"]}
+        ],
+        "notes": [
+            "Not available to computer engineering majors.",
+            "ELEN_E1201 may be replaced by a similar course or roughly equivalent experience."
+        ]
+    },
+    "engineering_mechanics": {
+        "id": "engineering_mechanics", "name": "Engineering Mechanics Minor",
+        "groups": [
+            {"label": "Required courses", "type": "all_of", "options": ["ENME_E3105", "ENME_E3113"]},
+            {"label": "Choose one", "type": "choose_one_of", "options": ["ENME_E3161", "MECE_E3100"]},
+            {"label": "Choose three", "type": "choose_n_of", "count": 3, "options": [
+                "ENME_E3106", "ENME_E3114", "MECE_E3414", "CIEN_E3121", "ENME_E4202",
+                "ENME_E4113", "ENME_E4114", "ENME_E4214", "ENME_E4215", "MECE_E3301"
+            ]}
+        ],
+        "notes": ["Six courses total."]
     }
 }
 
@@ -1035,6 +1120,17 @@ NEW_COURSES = [
     ("DNCE", "BC3605", "REHEARSAL & PERFRMNCE IN DANCE"),
     ("DNCE", "BC3606", None),
     ("DNCE", "BC3607", "REHEARSAL & PERFRMNCE IN DANCE"),
+    ("APMA", "E4007", "APPLIED LINEAR ALGEBRA"),
+    ("MATH", "UN3028", "PARTIAL DIFFERENTIAL EQUATIONS"),
+    ("APMA", "E4101", "APPL MATH III:DYNAMICAL SYSTMS"),
+    ("APMA", "E4301", "NUMERICAL METHODS/PDE'S"),
+    ("MATH", "UN2500", "ANALYSIS AND OPTIMIZATION"),
+    ("APPH", "E4901", "SEM-PROBLMS IN APPLIED PHYSICS"),
+    ("APPH", "E3200", "MECHANICS:FUND & APPLICATIONS"),
+    ("APPH", "E4100", "QUANTUM PHYSICS OF MATTER"),
+    ("APPH", "E4110", "MODERN OPTICS"),
+    ("APPH", "E4112", "LASER PHYSICS"),
+    ("SIEO", "W3600", "INTRO PROBABILITY/STATISTICS"),
 ]
 
 
