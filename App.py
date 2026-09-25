@@ -66,53 +66,122 @@ st.markdown("""
     --cu-blue: #1779BA;
     --cu-card-blue: #B9D8EB;
     --cu-card-blue-light: #EAF2FA;
+    --cu-gold: #B9975B;
 }
 
-/* Reduce Streamlit's default top padding so the banner sits flush */
+/* Reduce Streamlit's default top padding so the banner sits flush,
+   and give the page body itself more side breathing room */
 .block-container {
-    padding-top: 1.5rem;
+    padding-top: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    max-width: 1200px;
 }
 
+/* ---------- Hero banner ---------- */
 .cu-banner {
     background-color: var(--cu-navy);
-    margin: 0 -1rem 1.5rem -1rem;
-    padding: 1.75rem 2rem;
-    border-bottom: 5px solid var(--cu-card-blue);
+    margin: 0 -3rem 2rem -3rem;
+    padding: 3rem 3.5rem 2.5rem 3.5rem;
+    border-bottom: 6px solid var(--cu-gold);
 }
 .cu-banner .cu-wordmark {
     color: #FFFFFF;
     font-family: Georgia, 'Times New Roman', serif;
-    letter-spacing: 0.12em;
-    font-size: 0.8rem;
+    letter-spacing: 0.18em;
+    font-size: 0.95rem;
     text-transform: uppercase;
-    opacity: 0.85;
-    margin-bottom: 0.15rem;
+    opacity: 0.9;
+    margin-bottom: 0.5rem;
 }
 .cu-banner .cu-title {
     color: #FFFFFF;
-    font-size: 2.1rem;
-    font-weight: 700;
-    line-height: 1.15;
+    font-size: 3.25rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin: 0 0 0.6rem 0;
+    letter-spacing: -0.01em;
+}
+.cu-banner .cu-tagline {
+    color: var(--cu-card-blue);
+    font-size: 1.05rem;
+    font-weight: 400;
+    max-width: 640px;
     margin: 0;
 }
 
-/* Card-style framing for bordered containers, evoking the department
-   site's light-blue info cards */
-div[data-testid="stVerticalBlockBorderWrapper"] {
-    border-color: var(--cu-card-blue) !important;
-    border-radius: 8px !important;
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+    color: var(--cu-navy) !important;
 }
-
-h2, h3 {
-    color: var(--cu-navy);
+[data-testid="stHeading"] h2 {
+    border-bottom: 3px solid var(--cu-card-blue);
+    padding-bottom: 0.5rem;
+    margin-top: 1rem;
 }
 
 a { color: var(--cu-blue); }
+
+/* ---------- Bordered containers (used for card-style panels) ---------- */
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    border-color: var(--cu-card-blue) !important;
+    border-radius: 10px !important;
+}
+
+/* ---------- Expanders as branded cards (Semester N panels, Requirements
+   Reference, etc.) -- mirrors the department site's light-blue info tiles ---------- */
+div[data-testid="stExpander"] {
+    border: 1px solid var(--cu-card-blue) !important;
+    border-radius: 10px !important;
+    box-shadow: 0 2px 6px rgba(0, 45, 114, 0.08);
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+div[data-testid="stExpander"] summary {
+    background-color: var(--cu-card-blue-light);
+    font-weight: 600;
+    color: var(--cu-navy);
+}
+div[data-testid="stExpander"] summary:hover {
+    background-color: var(--cu-card-blue);
+}
+
+/* ---------- Buttons ---------- */
+[data-testid="stBaseButton-secondary"] {
+    background-color: var(--cu-navy) !important;
+    color: #FFFFFF !important;
+    border: 1px solid var(--cu-navy) !important;
+    border-radius: 6px !important;
+    font-weight: 600 !important;
+}
+[data-testid="stBaseButton-secondary"]:hover {
+    background-color: var(--cu-blue) !important;
+    border-color: var(--cu-blue) !important;
+    color: #FFFFFF !important;
+}
+
+/* ---------- Tables (AP Credit Chart) ---------- */
+[data-testid="stTable"] thead tr th {
+    background-color: var(--cu-navy) !important;
+    color: #FFFFFF !important;
+}
+
+/* ---------- Metrics ---------- */
+[data-testid="stMetricValue"] {
+    color: var(--cu-navy);
+}
+
+/* ---------- Sidebar ---------- */
+[data-testid="stSidebar"] {
+    border-right: 1px solid var(--cu-card-blue);
+}
 </style>
 
 <div class="cu-banner">
     <div class="cu-wordmark">Columbia Engineering &middot; Chemical Engineering</div>
     <p class="cu-title">Course Planner</p>
+    <p class="cu-tagline">Build a semester-by-semester plan and track it against the
+    department's actual degree requirements.</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -178,15 +247,17 @@ def course_box(course_id):
     <div style="
         border: 2px solid #002D72;
         border-radius: 8px;
-        padding: 10px;
-        margin-bottom: 10px;
+        padding: 14px 12px;
+        margin-bottom: 12px;
         background-color: {color};
+        box-shadow: 0 2px 4px rgba(0, 45, 114, 0.15);
         text-align: center;
-        min-height: 105px;
+        min-height: 120px;
+        color: #1A1A1A;
     ">
-        <b style="color: #002D72;">{course_id}</b><br>
-        <span style="font-size: 0.85em;">{title}</span><br>
-        <span style="font-size: 0.8em;">{credits} credits</span>
+        <div style="color: #002D72; font-weight: 700; font-size: 1.05em;">{course_id}</div>
+        <div style="font-size: 0.95em; color: #1A1A1A; margin-top: 6px;">{title}</div>
+        <div style="font-size: 0.85em; color: #414141; margin-top: 6px;">{credits} credits</div>
     </div>
     """
 
@@ -452,22 +523,26 @@ else:
     st.header("Semester Sequence Visualization")
 
     semesters = list(st.session_state.plan.keys())
-    cols = st.columns(len(semesters))
+    row_size = 4
 
-    for i, semester in enumerate(semesters):
-        with cols[i]:
-            st.subheader(semester.replace("_", " ").title())
+    for row_start in range(0, len(semesters), row_size):
+        row_semesters = semesters[row_start:row_start + row_size]
+        cols = st.columns(row_size)
 
-            course_list = st.session_state.plan[semester]
+        for col, semester in zip(cols, row_semesters):
+            with col:
+                st.subheader(semester.replace("_", " ").title())
 
-            if course_list:
-                for course_id in course_list:
-                    st.markdown(
-                        course_box(course_id),
-                        unsafe_allow_html=True
-                    )
-            else:
-                st.info("No courses selected.")
+                course_list = st.session_state.plan[semester]
+
+                if course_list:
+                    for course_id in course_list:
+                        st.markdown(
+                            course_box(course_id),
+                            unsafe_allow_html=True
+                        )
+                else:
+                    st.info("No courses selected.")
 
 
 # -----------------------------
