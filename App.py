@@ -5,7 +5,7 @@ import streamlit as st
 
 from src.load_data import load_all_data
 from src.validator import (
-    validate_plan, recommend_courses, count_credits,
+    validate_plan, count_credits,
     SEMESTER_CREDIT_MIN, SEMESTER_CREDIT_MAX,
     build_alias_index, resolve_course_id
 )
@@ -64,63 +64,80 @@ st.markdown("""
 :root {
     --cu-navy: #002D72;
     --cu-blue: #1779BA;
+    --cu-green: #3F8361;
     --cu-card-blue: #B9D8EB;
     --cu-card-blue-light: #EAF2FA;
     --cu-gold: #B9975B;
+    --cu-ink: #24292E;
+}
+
+* {
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body, .stApp {
+    background-color: #FAFBFC;
 }
 
 /* Reduce Streamlit's default top padding so the banner sits flush,
    and give the page body itself more side breathing room */
 .block-container {
-    padding-top: 1rem;
+    padding-top: 0;
     padding-left: 3rem;
     padding-right: 3rem;
-    max-width: 1200px;
+    max-width: 1180px;
 }
 
-/* ---------- Hero banner ---------- */
+/* ---------- Hero banner (mirrors cheme.columbia.edu's navy header) ---------- */
 .cu-banner {
     background-color: var(--cu-navy);
-    margin: 0 -3rem 2rem -3rem;
-    padding: 3rem 3.5rem 2.5rem 3.5rem;
-    border-bottom: 6px solid var(--cu-gold);
+    margin: 0 -3rem 2.5rem -3rem;
+    padding: 2.25rem 3.5rem 2rem 3.5rem;
+    border-bottom: 5px solid var(--cu-gold);
 }
 .cu-banner .cu-wordmark {
     color: #FFFFFF;
-    font-family: Georgia, 'Times New Roman', serif;
-    letter-spacing: 0.18em;
-    font-size: 0.95rem;
+    letter-spacing: 0.14em;
+    font-size: 0.78rem;
+    font-weight: 600;
     text-transform: uppercase;
-    opacity: 0.9;
-    margin-bottom: 0.5rem;
+    opacity: 0.85;
+    margin-bottom: 0.75rem;
 }
 .cu-banner .cu-title {
     color: #FFFFFF;
-    font-size: 3.25rem;
-    font-weight: 800;
-    line-height: 1.1;
-    margin: 0 0 0.6rem 0;
+    font-size: 2.75rem;
+    font-weight: 700;
+    line-height: 1.15;
+    margin: 0 0 0.65rem 0;
     letter-spacing: -0.01em;
 }
 .cu-banner .cu-tagline {
     color: var(--cu-card-blue);
-    font-size: 1.05rem;
+    font-size: 1.02rem;
     font-weight: 400;
-    max-width: 640px;
+    max-width: 620px;
     margin: 0;
 }
 
-/* ---------- Headings ---------- */
+/* ---------- Headings: short gold rule + tight tracking, matching the
+   department site's "| SECTION TITLE" treatment ---------- */
 h1, h2, h3 {
     color: var(--cu-navy) !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.01em;
 }
 [data-testid="stHeading"] h2 {
-    border-bottom: 3px solid var(--cu-card-blue);
-    padding-bottom: 0.5rem;
-    margin-top: 1rem;
+    border-left: 4px solid var(--cu-gold);
+    padding-left: 0.85rem;
+    margin-top: 1.75rem;
+}
+[data-testid="stHeading"] h3 {
+    margin-top: 0.5rem;
 }
 
-a { color: var(--cu-blue); }
+a { color: var(--cu-blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
 
 /* ---------- Bordered containers (used for card-style panels) ---------- */
 div[data-testid="stVerticalBlockBorderWrapper"] {
@@ -129,30 +146,36 @@ div[data-testid="stVerticalBlockBorderWrapper"] {
 }
 
 /* ---------- Expanders as branded cards (Semester N panels, Requirements
-   Reference, etc.) -- mirrors the department site's light-blue info tiles ---------- */
+   Reference, etc.) -- mirrors the department site's light info tiles ---------- */
 div[data-testid="stExpander"] {
-    border: 1px solid var(--cu-card-blue) !important;
+    border: 1px solid #E3E9F0 !important;
     border-radius: 10px !important;
-    box-shadow: 0 2px 6px rgba(0, 45, 114, 0.08);
+    box-shadow: 0 1px 4px rgba(0, 45, 114, 0.06);
     overflow: hidden;
     background-color: #FFFFFF;
+    margin-bottom: 0.9rem;
 }
 div[data-testid="stExpander"] summary {
     background-color: var(--cu-card-blue-light);
     font-weight: 600;
     color: var(--cu-navy);
+    letter-spacing: 0.01em;
+    transition: background-color 0.15s ease;
 }
 div[data-testid="stExpander"] summary:hover {
     background-color: var(--cu-card-blue);
 }
 
-/* ---------- Buttons ---------- */
+/* ---------- Buttons: pill-shaped, matching the site's CTA style ---------- */
 [data-testid="stBaseButton-secondary"] {
     background-color: var(--cu-navy) !important;
     color: #FFFFFF !important;
     border: 1px solid var(--cu-navy) !important;
-    border-radius: 6px !important;
+    border-radius: 999px !important;
     font-weight: 600 !important;
+    letter-spacing: 0.02em;
+    padding: 0.4rem 1.1rem !important;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
 }
 [data-testid="stBaseButton-secondary"]:hover {
     background-color: var(--cu-blue) !important;
@@ -165,15 +188,30 @@ div[data-testid="stExpander"] summary:hover {
     background-color: var(--cu-navy) !important;
     color: #FFFFFF !important;
 }
+[data-testid="stTable"] {
+    border-radius: 8px;
+    overflow: hidden;
+}
 
 /* ---------- Metrics ---------- */
+[data-testid="stMetric"] {
+    background-color: #FFFFFF;
+    border: 1px solid #E3E9F0;
+    border-radius: 10px;
+    padding: 0.75rem 1rem;
+}
 [data-testid="stMetricValue"] {
     color: var(--cu-navy);
 }
 
-/* ---------- Sidebar ---------- */
+/* ---------- Sidebar: light navy-tinted panel, like the site's blue cards ---------- */
 [data-testid="stSidebar"] {
+    background-color: var(--cu-card-blue-light);
     border-right: 1px solid var(--cu-card-blue);
+}
+[data-testid="stSidebar"] h2, [data-testid="stSidebar"] h3 {
+    border-left: none !important;
+    padding-left: 0 !important;
 }
 </style>
 
@@ -226,38 +264,56 @@ def format_course_option(course_id):
     return f"{course_id} — {title}"
 
 
-def course_box(course_id):
+CATEGORY_STYLE = {
+    "technical_elective": ("Technical Elective", "#B9975B"),
+    "global_core": ("Nontechnical / Core", "#3F8361"),
+    "nontechnical": ("Nontechnical / Core", "#3F8361"),
+    "nontechnical_core_required": ("Nontechnical / Core", "#3F8361"),
+    "math_elective": ("Math", "#1779BA"),
+    "math_foundation": ("Math", "#1779BA"),
+    "major_required": ("Major Required", "#002D72"),
+    "chen_core": ("Major Required", "#002D72"),
+}
+
+
+def format_credits_text(course_id, course, credit_overrides=None):
+    credits = course.get("credits")
+    if credits is None and credit_overrides:
+        credits = credit_overrides.get(course_id)
+    if credits is None:
+        return "Credits unknown — see sidebar"
+    return f"{credits:g} credits"
+
+
+def course_box(course_id, credit_overrides=None):
     course = courses.get(course_id, {})
     title = course.get("title", "Untitled")
-    credits = course.get("credits", "credits unknown")
+    credits_text = format_credits_text(course_id, course, credit_overrides)
     tags = course.get("category_tags", [])
 
-    color = "#F5F5F5"
-
-    if "technical_elective" in tags:
-        color = "#F5E6C8"
-    elif "global_core" in tags or "nontechnical" in tags or "nontechnical_core_required" in tags:
-        color = "#D9E8DC"
-    elif "math_elective" in tags or "math_foundation" in tags:
-        color = "#D6E4F0"
-    elif "major_required" in tags or "chen_core" in tags:
-        color = "#F0DCDC"
+    label, accent = "Course", "#8A8A8A"
+    for tag in tags:
+        if tag in CATEGORY_STYLE:
+            label, accent = CATEGORY_STYLE[tag]
+            break
 
     return f"""
     <div style="
-        border: 2px solid #002D72;
-        border-radius: 8px;
-        padding: 14px 12px;
+        border: 1px solid #E3E9F0;
+        border-top: 4px solid {accent};
+        border-radius: 10px;
+        padding: 14px 14px 12px 14px;
         margin-bottom: 12px;
-        background-color: {color};
-        box-shadow: 0 2px 4px rgba(0, 45, 114, 0.15);
-        text-align: center;
-        min-height: 120px;
+        background-color: #FFFFFF;
+        box-shadow: 0 2px 8px rgba(0, 45, 114, 0.10);
+        min-height: 122px;
         color: #1A1A1A;
     ">
-        <div style="color: #002D72; font-weight: 700; font-size: 1.05em;">{course_id}</div>
-        <div style="font-size: 0.95em; color: #1A1A1A; margin-top: 6px;">{title}</div>
-        <div style="font-size: 0.85em; color: #414141; margin-top: 6px;">{credits} credits</div>
+        <div style="font-size: 0.68em; font-weight: 700; letter-spacing: 0.06em;
+                    text-transform: uppercase; color: {accent};">{label}</div>
+        <div style="color: #002D72; font-weight: 700; font-size: 1.02em; margin-top: 4px;">{course_id}</div>
+        <div style="font-size: 0.92em; color: #333333; margin-top: 4px;">{title}</div>
+        <div style="font-size: 0.8em; color: #5A5A5A; margin-top: 8px;">{credits_text}</div>
     </div>
     """
 
@@ -444,18 +500,6 @@ if uploaded_plan is not None:
             st.rerun()
 
 
-st.sidebar.subheader("Recommendation Preferences")
-
-interest_text = st.sidebar.text_input(
-    "What topics are you interested in?",
-    placeholder="e.g., energy, biotech, polymers, data, environment"
-)
-interests = [
-    item.strip()
-    for item in interest_text.split(",")
-    if item.strip()
-]
-
 st.sidebar.subheader("Minors to Track")
 
 minor_options = {mid: m["name"] for mid, m in sorted(minors.items(), key=lambda kv: kv[1]["name"])}
@@ -479,12 +523,24 @@ selected_minor_ids = st.sidebar.multiselect(
 if not show_sequence_graph:
     st.header("Semester Plan")
 
-    for semester, course_list in st.session_state.plan.items():
+    for semester in st.session_state.plan:
         with st.expander(semester.replace("_", " ").title(), expanded=True):
+            # Seed the widget's own state from the plan the first time it's
+            # rendered, then let the widget's key be the single source of
+            # truth. Passing `default=` alongside an already-populated `key`
+            # is a known Streamlit footgun: Streamlit silently ignores
+            # `default` once the key has a value, so if `plan[semester]` and
+            # the widget's session state ever drifted apart (e.g. right
+            # after a rerun triggered by an unrelated widget), a course
+            # picked from the dropdown could appear to not "stick".
+            if semester not in st.session_state:
+                st.session_state[semester] = [
+                    c for c in st.session_state.plan[semester] if c in course_options
+                ]
+
             selected = st.multiselect(
                 "Courses",
                 options=course_options,
-                default=[c for c in course_list if c in course_options],
                 key=semester
             )
 
@@ -514,9 +570,12 @@ if not show_sequence_graph:
                 if show_details:
                     for course_id in selected:
                         course = courses.get(course_id, {})
+                        credits_text = format_credits_text(
+                            course_id, course, st.session_state.saved_credit_overrides
+                        )
                         st.text(
                             f"{course_id} — {course.get('title', 'Untitled')} "
-                            f"({course.get('credits', 'credits unknown')} credits)"
+                            f"({credits_text})"
                         )
 
 else:
@@ -538,7 +597,7 @@ else:
                 if course_list:
                     for course_id in course_list:
                         st.markdown(
-                            course_box(course_id),
+                            course_box(course_id, st.session_state.saved_credit_overrides),
                             unsafe_allow_html=True
                         )
                 else:
@@ -913,39 +972,3 @@ if st.button("Validate Plan"):
     else:
         st.warning("Need either Art Humanities or Music Humanities.")
 
-    st.subheader("Recommended Courses")
-
-    recommendations = recommend_courses(
-        courses,
-        progress,
-        interests=interests
-    )
-
-    def explain_recommendation(rec):
-        reasons = []
-
-        # Requirement reason
-        for tag in rec["matched_requirements"]:
-            readable = tag.replace("_", " ").title()
-            reasons.append(f"Helps fulfill {readable}")
-
-        # Interest reason
-        if rec["matched_interests"]:
-            interest_str = ", ".join(rec["matched_interests"])
-            reasons.append(f"aligns with your interest in {interest_str}")
-
-        return " and ".join(reasons)
-
-
-    if recommendations:
-        for rec in recommendations:
-            explanation = explain_recommendation(rec)
-
-            st.write(
-                f"**{rec['course_id']}** — {rec['title']} "
-                f"({rec['credits'] if rec['credits'] else 'credits unknown'} credits)"
-            )
-
-            st.caption(explanation)
-    else:
-        st.success("No recommendations needed.")    

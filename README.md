@@ -40,9 +40,8 @@ Actions (`.github/workflows/tests.yml`).
   slots (defaults to a standard 4-year template).
 - Validate the plan and see: total credits, major-required course
   progress, technical elective breakdown, nontechnical credit tracking,
-  Core sequence / art-or-music status, foundational requirements
-  (math/physics/chemistry/lab/PE), and course recommendations based on
-  what's still missing and stated interests.
+  Core sequence / art-or-music status, and foundational requirements
+  (math/physics/chemistry/lab/PE).
 - Mark courses as satisfied by AP/placement/transfer credit or a waiver --
   these count toward every requirement they'd satisfy, but (since we don't
   track how many real Columbia points, if any, they carry) they don't
