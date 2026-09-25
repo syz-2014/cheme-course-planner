@@ -59,7 +59,62 @@ minors = _data["minors"]
 minor_global_rules = _data["minor_global_rules"]
 ap_credit_chart = _data["ap_credit_chart"]
 
-st.title("Columbia Chemical Engineering Course Planner")
+st.markdown("""
+<style>
+:root {
+    --cu-navy: #002D72;
+    --cu-blue: #1779BA;
+    --cu-card-blue: #B9D8EB;
+    --cu-card-blue-light: #EAF2FA;
+}
+
+/* Reduce Streamlit's default top padding so the banner sits flush */
+.block-container {
+    padding-top: 1.5rem;
+}
+
+.cu-banner {
+    background-color: var(--cu-navy);
+    margin: 0 -1rem 1.5rem -1rem;
+    padding: 1.75rem 2rem;
+    border-bottom: 5px solid var(--cu-card-blue);
+}
+.cu-banner .cu-wordmark {
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', serif;
+    letter-spacing: 0.12em;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 0.15rem;
+}
+.cu-banner .cu-title {
+    color: #FFFFFF;
+    font-size: 2.1rem;
+    font-weight: 700;
+    line-height: 1.15;
+    margin: 0;
+}
+
+/* Card-style framing for bordered containers, evoking the department
+   site's light-blue info cards */
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    border-color: var(--cu-card-blue) !important;
+    border-radius: 8px !important;
+}
+
+h2, h3 {
+    color: var(--cu-navy);
+}
+
+a { color: var(--cu-blue); }
+</style>
+
+<div class="cu-banner">
+    <div class="cu-wordmark">Columbia Engineering &middot; Chemical Engineering</div>
+    <p class="cu-title">Course Planner</p>
+</div>
+""", unsafe_allow_html=True)
 
 st.expander(
     "Program Accreditation, Educational Objectives, and Student Outcomes",
@@ -108,28 +163,28 @@ def course_box(course_id):
     credits = course.get("credits", "credits unknown")
     tags = course.get("category_tags", [])
 
-    color = "#f5f5f5"
+    color = "#F5F5F5"
 
     if "technical_elective" in tags:
-        color = "#fff3cd"
+        color = "#F5E6C8"
     elif "global_core" in tags or "nontechnical" in tags or "nontechnical_core_required" in tags:
-        color = "#d4edda"
+        color = "#D9E8DC"
     elif "math_elective" in tags or "math_foundation" in tags:
-        color = "#dbeafe"
+        color = "#D6E4F0"
     elif "major_required" in tags or "chen_core" in tags:
-        color = "#f8d7da"
+        color = "#F0DCDC"
 
     return f"""
     <div style="
-        border: 2px solid #444;
-        border-radius: 10px;
+        border: 2px solid #002D72;
+        border-radius: 8px;
         padding: 10px;
         margin-bottom: 10px;
         background-color: {color};
         text-align: center;
         min-height: 105px;
     ">
-        <b>{course_id}</b><br>
+        <b style="color: #002D72;">{course_id}</b><br>
         <span style="font-size: 0.85em;">{title}</span><br>
         <span style="font-size: 0.8em;">{credits} credits</span>
     </div>
